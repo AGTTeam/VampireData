@@ -1069,11 +1069,11 @@
 いつも通り問題ナシです！=There were no problems, as usual!
 何が問題ナシだ？|ありまくりだ。="No problems"? There are plenty.
 何で俺達が芸能人の|出待ちの警備みたいなことを|しなきゃならないんです！=Why are we acting like we're security personnel guarding celebrities as they leave!?
-いや～毎夕毎夕ご苦労様。|だけどね、ガーディアンの任務|は君達にしか任せられない。=Now, now~ Thank you for all your hard work. You're the only people I can entrust with this job as guardians. 
+いや～毎夕毎夕ご苦労様。|だけどね、ガーディアンの任務|は君達にしか任せられない。=Now, now~ Thank you for all your hard work. You're the only people I can entrust with this job as guardians.
 （ヴァンパイアとの平和的|共存を目指しーー）=(In order to keep this peaceful coexistence with vampires...)
 （学園の夜間部に|ヴァンパイアを|受け入れた事実）=(The fact that the academy admits vampires at night...)
 （その秘密を知るのは、|理事長と、私|そして、零の３人だけだ）=(is a secret that only I, the headmaster and Zero know.)
-デイ･クラスと|ナイト･クラスを|共存させるため。そして……=It's all for the sake the coexistence between the Day Class and Night Class. Plus... 
+デイ･クラスと|ナイト･クラスを|共存させるため。そして……=It's all for the sake the coexistence between the Day Class and Night Class. Plus...
 大昔から密かに続いてきた|人間対ヴァンパイアの争いに|終止符を打つためにも……=I want to put an end to the war between humans and vampires that has secretly been waged since ancient times...
 わかってます。|それに私は協力できて|嬉しいです！=I know. And, I'm happy to help out!
 さすが！ボクの愛する義娘！=That's my darling adopted daughter for you!
@@ -1132,9 +1132,9 @@
 僕は迷子の子猫ちゃん達を|助けてあげてただけだよ。=I was just helping out the lost kittens.
 きゃ～子猫ちゃんだって～。=Squee~ He called us kittens~
 こんなに間近で見られるなんて|忍び込んだ甲斐があったわ。=It was so worth sneaking in to be able to get close to them like this.
-二人とも下がって！|近付いちゃダメ！=	Both of you, stay back! Don't come any closer!
+二人とも下がって！|近付いちゃダメ！=Both of you, stay back! Don't come any closer!
 おいおい、過剰反応するな。|俺達はただ|立ち話をしていただけだ。=Hey now, there's no need to overreact. We're just having a chat.
-夜間の外出は校則違反です！|夜は危険なの！|速やかに寮に帰ってください！=Going out at night is against the rules! It's dangerous! Go back to your dorms this instant! 
+夜間の外出は校則違反です！|夜は危険なの！|速やかに寮に帰ってください！=Going out at night is against the rules! It's dangerous! Go back to your dorms this instant!
 ジャマしないでよ、|風紀委員！=Don't get in our way, Disciplinary Committee Member!
 そうよ！|いつもあなたばっかり|ずるいわ！=Right! You're always so unfair!
 （私の警告を振り切って|彼女達は藍堂センパイ達に|近付いて行く）=(Ignoring my warning, the girls shuffled closer.)
@@ -1164,7 +1164,7 @@
 くっ……！=Drat--!
 （藍堂センパイが私の右手を|ぎゅっと掴んだ）=(Aido-senpai grasped my right hand tightly.)
 離して下さい！|お仕置きくらいじゃ|済まなくなりますよ！=Please let me go! If you do, you might get off with an apology instead of being punished!
-君のせいだよ。|君の血が僕をイケナイ気分に|させるから……=It's your fault. 
+君のせいだよ。|君の血が僕をイケナイ気分に|させるから……=It's your fault.
 It's because your blood makes me feel like behaving badly...
 ！！=!!
 （藍堂センパイの整った口が|ゆっくりと開き……|鋭く尖った牙が見えた！）=(Aido-senpai slowly opened his mouth in anticipation... I could see his fangs sharpening.)
@@ -1416,7 +1416,7 @@ I'll be down in a second!
 何だと？うぉ……！|貴様、何しやがる！=What did you say?|Ugh--! Bastard, what are you doing?!
 （近付いて来た架院センパイを|零はあろうことか……一気に|背負い投げをしたのだ！）=(As Kain-senpai tried to get closer... Zero threw him over his shoulder in one fell swoop!)
 架院センパイ！|大丈夫ですか？=Kain-senpai! Are you alright?
-錐生零……貴様……|せっかく平和に丸く治めようと|したって言うのに…=Zero Kiryu... You bastard... Even though I went out of my way to try and resolve this peacefully... 
+錐生零……貴様……|せっかく平和に丸く治めようと|したって言うのに…=Zero Kiryu... You bastard... Even though I went out of my way to try and resolve this peacefully...
 下がるのは<last>の方だ。|だいたい俺たちは守護係の|存在を認めたわけじゃない。=It's you who should back off, <last>. In fact, I don't seem to recall us ever acknowledging you as our guardians.
 そうそう。本来、君は僕達に|美味しい食事を提供するだけの|存在なんだから。=Right. You were originally nothing but tasty meals on wheels for us.
 どけ、<name>。|こいつらの減らず口を|黙らせてやる。=Outta' the way, <name>. I'll put an end to this trash talk.
@@ -1457,14 +1457,14 @@ I'll be down in a second!
 （枢センパイはいつの間にか|失神してしまった女子生徒に|そっと近付いた）=(Kaname-senpai quietly approached the girls who had fainted at some point earlier...)
 （そして、細い指先を|彼女達の頭上にかかげる）=(and placed his slender fingertips above their heads.)
 これで、彼女達から|今夜の記憶は消えた。|もう安心していいよ<name>。=With this, their memories of tonight have been erased. You can rest assured now, <name>.
-ありがとうございます！|枢センパイ……=	Thank you! Kaname-senpai...
+ありがとうございます！|枢センパイ……=Thank you! Kaname-senpai...
 礼などいらないよ<name>、|僕はきみのためだったら|どんなことでもする。=There's no need to thank me, <name>. I would do anything for you.
 今夜は恐い思いをさせて|すまなかったね、<name>。=I'm sorry we scared you.
 い、いいえ！|ちょこっとかじられただけで|何ともないですから！=N-No! It was just a little scratch, it's nothing!
 きみは強い子だ……|おやすみ、<name>。=You're a tough girl...|
 Goodnight, <name>.
 おやすみさない！=Goodnight!
-（月の寮へと去って行く|枢センパイ達）=	(He headed back to the Moon Dorm as the others followed.)
+（月の寮へと去って行く|枢センパイ達）=(He headed back to the Moon Dorm as the others followed.)
 （その背中が夜の闇に|消えて見えなくなるまで|私は見つめ続けた……）=(I watched their backs fade into the dark sky.)
 （枢センパイはやっぱり違う…|余裕があってカッコ良くて…|それに優しい……）=(Kaname-senpai really is different... He never loses his composure... And he's so gentle...)
 何、ニヤニヤしてるんだ？=What's that huge grin for?
@@ -1554,7 +1554,7 @@ Goodnight, <name>.
 支葵センパイ！|一条センパイ！=Shiki-senpai! Ichijo-senpai!
 大声で叫ばないで|耳が痛い。=Don't yell so much. My ears are sore.
 どうしちゃったの？|<name>ちゃん？|彼女達、大丈夫？=What happened, <name>-chan? Are those girls alright?
-呑気に言ってる場合ですか！|警告に従わないのなら|私も容赦しませんよ！=Is this any time to be acting so carefree!? If you don't obey my warning, I won't go easy on you! 
+呑気に言ってる場合ですか！|警告に従わないのなら|私も容赦しませんよ！=Is this any time to be acting so carefree!? If you don't obey my warning, I won't go easy on you!
 離してください！|支葵センパイ。=Please let go of me, Shiki-senpai!
 （だって支葵センパイ|いつもと違う……）=(Shiki-senpai was acting so different from normal...)
 （鋭く冷たい|支葵センパイの視線ーー）=(He had sharp and cold look in his eyes.)
@@ -1567,7 +1567,7 @@ Goodnight, <name>.
 いい匂い……。=It smells good...
 俺、食事まだなんだよね……=I haven't anything thing to eat yet...
 （私を見つめる支葵センパイの|瞳がギラリと光った）=(Shiki-senpai's eyes glistened as he looked at me.)
-ダメだよ、支葵。|でも、こんなにいい香りを前に|我慢するのは酷だね。=You can't Shiki. Though, it is hard to hold back when there's such a lovely aroma right in front of us. 
+ダメだよ、支葵。|でも、こんなにいい香りを前に|我慢するのは酷だね。=You can't Shiki. Though, it is hard to hold back when there's such a lovely aroma right in front of us.
 （私の手を掴んだまま|支葵センパイが真っすぐ|私を見つめる）=(Shiki-senpai was staring straight at me whilst still gripping my hand.)
 ケガの手当……した方が良い。=Your injury... should be seen to.
 俺が治してあげる。|その傷口をなめて……=I'll heal you. I'll lick the wound...

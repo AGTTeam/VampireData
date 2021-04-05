@@ -961,7 +961,6 @@
 あ、夜刈先生だ……|話しかけようかな？|どうしようかな？=
 
 # AF2CC
-邪魔よ！|風紀委員！=
 （宵の刻ーー|深い夜の闇がゆっくりと|日の光を浸食し始める頃……）=(The twilight hours: When the darkness of the night begins to slowly erode the light of day...)
 （私立黒主学園、|特に女子生徒達にとって|待望の瞬間がやってくるーー）=(The long awaited moment, especially for the female students at the Cross Academy, is finally here--)
 はいはい|下がって下がって～！=Alright, alright! Step back!

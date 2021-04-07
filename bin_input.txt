@@ -1366,7 +1366,7 @@ I'll be down in a second!
 偶然通りかかっただけだ。|偶然ね……=I just happened to be passing by. Just a stroke of fate...
 （きっと血の匂いに誘われて|やって来たに違いない）=(He must have been lured here by the smell of blood.)
 （青白く、そして|冷たく光る架院センパイの瞳が|そう語っていた）=(The keen look in his cold eyes told me as much.)
-そんなに恐い顔で|睨まないでよ、<last><name>。=There's no need make such a scary face, <last><name>.
+そんなに恐い顔で|睨まないでよ、<last><name>。=There's no need make such a scary face, <name><last>.
 藍堂センパイ！！=Aido-senpai!!
 （くすり…と口元に笑みを|浮かべた藍堂センパイがーー）=(With a smile on his lips...)
 （架院センパイの背後から|出てきた）=(Aido-senpai emerged from behind Kain-senpai...)
@@ -1866,182 +1866,182 @@ Should we get going?
 （せめて……買って来た|美味しいチョコはあげたい|いい加減心を決めなきゃ！）=(At the very least... I want to give the delicious chocolate that I bought to someone!)
 
 # A6FC8
-（やっぱり憧れの枢センパイ|にチョコを渡したい|でも、緊張する……！）=
-（そうこう悩んでる内に|枢センパイが行ってしまう！）=
-（このままじゃ|渡しそびれちゃうよっ）=
-（ポケットに越しに|買って来たチョコを指先で|持て余しているとーー）=
-待ってください、枢先輩！=
-（突き飛ばされた瞬間に|ポケットからチョコが地面へと|落ちていく）=
-（後から走って来た|女の子達に踏みつぶされる！|そう思った瞬間ーー）=
-（零がチョコを拾ってくれた）=
-お前見てると|じれったくて仕方ないんだよ。=
-（小さくため息をつくと|零は枢センパイに向かって|ーー）=
-玖蘭先輩！落とし物です！=
-（私のチョコを投げた！）=
-ありがとう、<name>。|あとで頂くよ。=
-（枢センパイは|受け取ったチョコを掲げて、|私に微笑んだ）=
-どうして……=
-（私のチョコだって|分かってくれたのかな……？）=
-（以心伝心……？|……なわけないけど）=
-（少しだけ枢センパイとの|距離が近くなったような気が|した夜だった……）=
+（やっぱり憧れの枢センパイ|にチョコを渡したい|でも、緊張する……！）=(I want to give chocolate to the person I've always admired, Kaname-senpai, but, I'm nervous...!)
+（そうこう悩んでる内に|枢センパイが行ってしまう！）=(What if he ends up leaving whilst I'm still here fretting?!)
+（このままじゃ|渡しそびれちゃうよっ）=(At this rate, I'm going to miss my chance to give it him...)
+（ポケットに越しに|買って来たチョコを指先で|持て余しているとーー）=(I run my fingers over the chocolate that I bought in my pocket, unsure of what to do with it.)
+待ってください、枢先輩！=Please wait, Kaname-senpai!
+（突き飛ばされた瞬間に|ポケットからチョコが地面へと|落ちていく）=(As I was pushed out of the way, the chocolate went flying out of my pocket and tumbled to the ground.)#dupe
+（後から走って来た|女の子達に踏みつぶされる！|そう思った瞬間ーー）=(It's going to be trampled on by those girls! Just as that thought crossed my mind--)#dupe
+（零がチョコを拾ってくれた）=(Zero picked up my chocolate.)
+お前見てると|じれったくて仕方ないんだよ。=I'm getting irritated just looking at you.
+（小さくため息をつくと|零は枢センパイに向かって|ーー）=(With a small sigh, Zero turned to Kaname-senpai.)
+玖蘭先輩！落とし物です！=Kuran-senpai! You forgot this!
+（私のチョコを投げた！）=(He threw my chocolate!)
+ありがとう、<name>。|あとで頂くよ。=Thank you, <name>. I'll have it later.
+（枢センパイは|受け取ったチョコを掲げて、|私に微笑んだ）=(Holding the chocolate he caught, Kaname-senpai had smiled at me.)
+どうして……=Why...
+（私のチョコだって|分かってくれたのかな……？）=(How did he realize it was my chocolate...?)
+（以心伝心……？|……なわけないけど）=(Telepathy...? ...Probably not.)
+（少しだけ枢センパイとの|距離が近くなったような気が|した夜だった……）=(That night, I felt like I'd gotten a little closer to Kaname-senpai.)
 
 # A9714
-（どうしてだろう……？|誰に渡すか考えてたら|零の顔が浮かんで来て……）=
-（で、でも零とは小さい頃から|いつも一緒でいまさらチョコを|あげるなんて……変に緊張っ）=
-（このまま渡しそびれるのも|嫌だし……）=
-あ、あのね、零！=
-何だよ？どうかしたか？=
-えっと、私……|その、チョコをね……=
-（勇気を出して零に|チョコを差し出そうとした|次の瞬間ーー）=
-（突き飛ばされた瞬間に|ポケットからチョコが|地面へと落ちていく）=
-（後から走って来た女の子達に|踏みつぶされる！|そう思った瞬間ーー）=
-ありがとう……|そ、そのチョコだけど……=
-お前見てると|じれったくて仕方ないんだよ。|玖蘭枢に渡すんだろ？=
-あぁっ！あのチョコは……|零のバカ！|何で勝手に渡すのよ！=
-逆ギレかよ？|俺は親切心でな……=
-バカバカ！変な気起こすな！|あのチョコはね|零にあげるチョコだったの！=
-（よっぽど意外だったのか|零は目を見開いてしばらく|私をじっと見つめた）=
-せっかく零にチョコ|あげようと思ったのに……=
-だ、だったらそう言えよ！|俺はてっきり……|あぁ、もうメンドくさい！=
-俺は別に|チョコなんていらない。|仕事も終わったし、帰るぞ！=
-（少しだけ赤く染まった頬を|隠すように背を向けると|零は去っていった）=
-何よ……逆ギレしてるのは|そっちの方じゃない……=
-（零にチョコを渡すことは|できなかったけど|気持ちは……伝わったかな？）=
-（心の中で自問自答を|繰り返しながら、何も語らない|零の背中を追った……）=
+（どうしてだろう……？|誰に渡すか考えてたら|零の顔が浮かんで来て……）=(I wonder why...? As I was thinking about who to give it to, Zero's face popped into my mind.)
+（で、でも零とは小さい頃から|いつも一緒でいまさらチョコを|あげるなんて……変に緊張っ）=(I've known Zero since I was little, but the thought of giving him some chocolate makes me feel... oddly nervous.)
+（このまま渡しそびれるのも|嫌だし……）=(But, missing my chance to give it to him would be equally as bad...)
+あ、あのね、零！=U-Um, Zero!
+何だよ？どうかしたか？=What? Is something wrong?
+えっと、私……|その、チョコをね……=Well, I... This chocolate...
+（勇気を出して零に|チョコを差し出そうとした|次の瞬間ーー）=(I'd nearly worked up the courage to hold out the chocolate, when--)
+（突き飛ばされた瞬間に|ポケットからチョコが|地面へと落ちていく）=(As I was pushed out of the way, the chocolate went flying out of my pocket and tumbled to the ground.)#dupe
+（後から走って来た女の子達に|踏みつぶされる！|そう思った瞬間ーー）=(It's going to be trampled on by those girls! Just as that thought crossed my mind--)#dupe
+ありがとう……|そ、そのチョコだけど……=Thanks... I-It's only chocolate, but...
+お前見てると|じれったくて仕方ないんだよ。|玖蘭枢に渡すんだろ？=I'm getting irritated just looking at you. You're giving it to Kaname Kuran, right?
+あぁっ！あのチョコは……|零のバカ！|何で勝手に渡すのよ！=Aaah! That chocolate was... Zero, you idiot! Why did you just do that?!
+逆ギレかよ？|俺は親切心でな……=What are you getting mad at me for? I was just being nice...
+バカバカ！変な気起こすな！|あのチョコはね|零にあげるチョコだったの！=You big dumb-dumb! You got the wrong idea! I was going to give that chocolate to you!
+（よっぽど意外だったのか|零は目を見開いてしばらく|私をじっと見つめた）=(Zero stared at me dumbfounded for a moment.)
+せっかく零にチョコ|あげようと思ったのに……=Even though I was planning to give it to you...
+だ、だったらそう言えよ！|俺はてっきり……|あぁ、もうメンドくさい！=I-If that was the case then you should have said so! I was sure... Agh, what a pain!
+俺は別に|チョコなんていらない。|仕事も終わったし、帰るぞ！=It's not like I really wanted the chocolate anyway. I'm finished here, so I'm going!
+（少しだけ赤く染まった頬を|隠すように背を向けると|零は去っていった）=(Zero turned to leave, hiding the faint redness that was tinting his cheeks.) 
+何よ……逆ギレしてるのは|そっちの方じゃない……=What... Why's he getting mad when it's me who should be angry...
+（零にチョコを渡すことは|できなかったけど|気持ちは……伝わったかな？）=(I wasn't able to give Zero the chocolate but, maybe my feelings... were passed on?)
+（心の中で自問自答を|繰り返しながら、何も語らない|零の背中を追った……）=(Unable to say anything as I chased behind Zero, the question kept repeating itself in my head.)
 
 # A7020
-（藍堂センパイにあげよう）=
-（食べきれないほど|もらってるだろうけど……）=
-（少しでも仲良くなれる|きっかけになればいいな）=
-（決意を固めると|私は藍堂センパイの元へ）=
-あ、あの……藍堂センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=
-えっ……？|……<last><name>……？=
-いつもの仕返しだな。|何かの罠だろう？|……その手に乗るか。=
-ちょ、ちょっと待って|ください！|からかってなんかないです！=
-藍堂センパイに|受け取ってほしくて|それで……その……=
-……本気で言ってるのか？|本気で僕にチョコレートを|渡そうって言うのか？=
-はい……本気です……=
-（よっぽど意外だったのか|藍堂センパイは目を白黒させて|しばらく私をじっと見つめた）=
-あの……|やっぱり迷惑……ですよね？|すいませんでしたっ！=
-ちょっと待て！いいさ、|受け取ってやる。ふぅん、|お前が僕にチョコをね…。=
-ほ、本当ですか？=
-僕に本気でチョコを|受け取ってほしいんだろ？=
-僕の気が変わらないうちに|渡した方がいいんじゃない|のか？=
-えぇっ！？そんな……！=
-まぁ、しょうがないから|もらってやるよ。|じゃあ、またね～！=
-よかった……|とにかく貰ってくれた……=
-（重大任務を終えた私は|ホッとした気持ちとドキドキと|高鳴る心臓を抱えーー）=
-（藍堂センパイの後ろ姿を|見送ったその背中が見えなく|なるまでずっとずっと……）=
+（藍堂センパイにあげよう）=(I'll give it to Aido-senpai.)
+（食べきれないほど|もらってるだろうけど……）=(He's probably already had his fill, but...)
+（少しでも仲良くなれる|きっかけになればいいな）=(This might be a good chance to bring us a little bit closer together.)
+（決意を固めると|私は藍堂センパイの元へ）=(With renewed determination, I made my way to Aido-senpai.)
+あ、あの……藍堂センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=U-Um... Aido-senpai. T-This chocolate. Please take it, if you'd like!
+えっ……？|……<last><name>……？=Eh...? ...<name><last>...?
+いつもの仕返しだな。|何かの罠だろう？|……その手に乗るか。=This must be revenge for always, huh? What's the catch? ...Got something up your sleeve?
+ちょ、ちょっと待って|ください！|からかってなんかないです！=N-No! I'm not trying to tease you or anything!
+藍堂センパイに|受け取ってほしくて|それで……その……=I wanted you to have this chocolate because... um...
+……本気で言ってるのか？|本気で僕にチョコレートを|渡そうって言うのか？=...Are you serious? Did you really just say that you wanted to give me chocolate? 
+はい……本気です……=Yes... I'm serious...
+（よっぽど意外だったのか|藍堂センパイは目を白黒させて|しばらく私をじっと見つめた）=(It must have come as quite a shock, because Aido-senpai stared at me wide-eyed for a moment.)
+あの……|やっぱり迷惑……ですよね？|すいませんでしたっ！=Um... I guess... I must just be bothering you after all? Please excuse me--!
+ちょっと待て！いいさ、|受け取ってやる。ふぅん、|お前が僕にチョコをね…。=Wait! Alright, hand it over. Hmm, so your chocolate was for me...
+ほ、本当ですか？=Y-You'll take it?
+僕に本気でチョコを|受け取ってほしいんだろ？=You want me to have that chocolate, right?
+僕の気が変わらないうちに|渡した方がいいんじゃない|のか？=Shouldn't you give it to me before I change my mind?
+えぇっ！？そんな……！=Huh!? You can't...!
+まぁ、しょうがないから|もらってやるよ。|じゃあ、またね～！=Well, I guess I don't have a choice, so I'll take it. See you around~!
+よかった……|とにかく貰ってくれた……=I'm so glad... At any rate, he accepted it...
+（重大任務を終えた私は|ホッとした気持ちとドキドキと|高鳴る心臓を抱えーー）=(My important mission over, I gave a sigh of relief and felt my heart pounding in my chest--)
+（藍堂センパイの後ろ姿を|見送ったその背中が見えなく|なるまでずっとずっと……）=(I watched Aido-senpai's back until it was no longer in view...) 
 
 # A8034
-（架院センパイにあげよう）=
-（ちょっと取っ付きにくくて|あんまりちゃんと話したこと|ないけど……）=
-（このチョコをきっかけに|少しでも仲良くなりたいし）=
-（決意を固めると|私は架院センパイの元へ）=
-あ、あの……架院センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=
-えっ……？何のつもりだ？|誰かと間違えてるのか？=
-ボケるには早すぎると思うが|……=
-ちょ、ちょっと|待ってください！|間違えてなんかないです！=
-架院センパイに|受け取ってほしくて|それで……その……=
-……本気か？|悪いが俺はチョコとか|興味がないんでね。=
-ま、待って下さい！=
-（思わず架院センパイの|制服の袖を掴んでいた）=
-（よっぽど意外だったのか|架院センパイは目を白黒させて|しばらく私をじっと見つめた）=
-……待てよ。=
-別に迷惑だとは言ってない。|チョコくらいもらってやるよ。=
-２度も言わせるな。|貸してみろ。=
-ありがとうございますっ！=
-………サンキュ。=
-お、お気をつけて！=
-ふぅ……|なんとかもらってもらえた…|緊張したよ～……=
-（架院センパイの後ろ姿を|見送った。その背中が見えなく|なるまでずっとずっと……）=
+（架院センパイにあげよう）=(I'll give it to Kain-senpai.)
+（ちょっと取っ付きにくくて|あんまりちゃんと話したこと|ないけど……）=(He's a bit hard to approach because we've never spoken properly before, but...)
+（このチョコをきっかけに|少しでも仲良くなりたいし）=(This chocolate might be a good excuse to get to know him a little better.)
+（決意を固めると|私は架院センパイの元へ）=(With renewed determination, I made my way to Kain-senpai.)
+あ、あの……架院センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=U-Um... Kain-senpai. T-This chocolate. Please take it, if you'd like!
+えっ……？何のつもりだ？|誰かと間違えてるのか？=Huh...? What are you up to? Did you get me confused for someone else?
+ボケるには早すぎると思うが|……=I think your mouth might have started moving before your brain did...
+ちょ、ちょっと|待ってください！|間違えてなんかないです！=H-Hold on! It wasn't a mistake!
+架院センパイに|受け取ってほしくて|それで……その……=I wanted you to have this chocolate because... um...
+……本気か？|悪いが俺はチョコとか|興味がないんでね。=...Seriously? Sorry, but I'm not really all that interested in chocolate.
+ま、待って下さい！=P-Please wait!
+（思わず架院センパイの|制服の袖を掴んでいた）=(I'd inadvertently taken hold of his sleeve.)
+（よっぽど意外だったのか|架院センパイは目を白黒させて|しばらく私をじっと見つめた）=(It must have come as a bit of a shock, because Kain-senpai just stared back at me wide-eyed for a while.)
+……待てよ。=...Wait.
+別に迷惑だとは言ってない。|チョコくらいもらってやるよ。=It's not that you were being annoying... I'll take the chocolate.
+２度も言わせるな。|貸してみろ。=Don't make me repeat myself. Give it here.
+ありがとうございますっ！=Thank you!
+………サンキュ。=...Thanks.
+お、お気をつけて！=T-Take care!
+ふぅ……|なんとかもらってもらえた…|緊張したよ～……=Phew... He accepted it, somehow... I was so nervous~
+（架院センパイの後ろ姿を|見送った。その背中が見えなく|なるまでずっとずっと……）=(I watched Kain-senpai's back until it was no longer in view...)
 
 # A5410
-（一条センパイにあげよう）=
-（一条センパイならきっと|喜んでくれると思うし！）=
-（決意を固めると|私は一条センパイの元へ）=
-あ、あの……一条センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=
-えっ？僕にくれるの？|いやぁ～感激だな～|<name>ちゃん、ありがとう！=
-い、一条センパイっ|そんなに抱きしめられると|……！=
-キャー！！|ずるい！風紀委員ばっかり！|職権乱用よーー！！=
-あははは！ごめんごめん|嬉しくって、つい。=
-女の子達の視線が……痛い。=
-（でも、良かった……|こんなに喜んでもらえて……）=
-<name>ちゃんのおかげで|記録更新！えっへん！|副寮長の面目躍如！=
-えっ……それじゃあ|嬉しかったのは記録が|更新できたからで……=
-（別に私のチョコじゃなくても|良かったってこと！？）=
-枢に自慢しちゃお～っと！|ありがとね、<name>ちゃん！=
-どういたしまして……|ははっ……はぁ……|一気に脱力……=
-（あの人なつっこい笑顔で|さらっと言われちゃうと|落ち込む気にもなれないな）=
-（ま、お役に立てたみたいだし|本当に嬉しそうな笑顔を見れた|からよしとしますか！）=
+（一条センパイにあげよう）=(I'll give it to Ichijo-senpai.)
+（一条センパイならきっと|喜んでくれると思うし！）=(I think it'd make him really happy!)
+（決意を固めると|私は一条センパイの元へ）=(With renewed determination, I made my way to Ichijo-senpai.)
+あ、あの……一条センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=U-Um... Ichijo-senpai. T-This chocolate. Please take it, if you'd like!
+えっ？僕にくれるの？|いやぁ～感激だな～|<name>ちゃん、ありがとう！=Huh? You're giving it to me? Wow~ I'm honored~ Thank you,  <name>-chan!
+い、一条センパイっ|そんなに抱きしめられると|……！=I-Ichijo-senpai, if you hug me like that--!
+キャー！！|ずるい！風紀委員ばっかり！|職権乱用よーー！！=Whaa--!! That's so unfair! Why only the Disciplinary Committee?! That's an abuse of power!!
+あははは！ごめんごめん|嬉しくって、つい。=Ahahaha! Sorry, sorry. I was just so happy.
+女の子達の視線が……痛い。=Those girls... if looks could kill...
+（でも、良かった……|こんなに喜んでもらえて……）=(But, I'm glad he liked it so much...)
+<name>ちゃんのおかげで|記録更新！えっへん！|副寮長の面目躍如！=Thanks to you, <name>-chan, I've set a new record! Ehe! I've lived up to my name as vice-president!
+えっ……それじゃあ|嬉しかったのは記録が|更新できたからで……=Oh... You're happy because you've set a new record...
+（別に私のチョコじゃなくても|良かったってこと！？）=(Does that mean my chocolate had nothing to do with it!?)
+枢に自慢しちゃお～っと！|ありがとね、<name>ちゃん！=I've got to brag about this to Kaname! Thanks, <name>-chan!
+どういたしまして……|ははっ……はぁ……|一気に脱力……=Don't mention it... Haha... ha...|All my strength has been drained at once...
+（あの人なつっこい笑顔で|さらっと言われちゃうと|落ち込む気にもなれないな）=(I can't really feel down when he's wearing such a bright smile.)
+（ま、お役に立てたみたいだし|本当に嬉しそうな笑顔を見れた|からよしとしますか！）=(Oh well, it looks like I was of use, and I got to see him smile in pure delight, so all's well!)
 
 # A9794
-（支葵センパイにあげよう）=
-（一番ハードル高そうだけど|だからこそ燃えるっていうか|登り甲斐のある山？）=
-（モデルをしてる|支葵センパイはーー）=
-（女の子達の間で|すごい人気だからライバルは|たくさんいる）=
-ファイトだ、<name>！=
-（決意を固めると|女の子達の波をかき分けて|私は支葵センパイの元へ）=
-あ、あの……支葵センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=
-…………なんで？=
-いや、何でと言われても……|ただ渡したいだけなんで……=
-そういうの、俺興味ない。|だいたい君からもらう|いわれもない。=
-そう言われちゃうと|ミもフタもないっていうか……=
-……もう行っていい？=
-えっ？えっと、その……=
-（私が口ごもっている内に|支葵センパイは|行ってしまった）=
-なんか……悔しいかも。=
-（自分でも驚く行動力で|私はとっさに支葵センパイを|追いかけた！）=
-ま、待って下さい！|きゃっ！！=
-（勢いあまって|私は転んでしまった）=
-いったぁ……=
-（顔を上げると、可哀想に|私のチョコはころころと|地面を転がっていく……）=
-（このままじゃ誰かに|踏みつぶされちゃう！|そう思った瞬間ーー）=
-何か転がってきた……=
-（運がいいのか悪いのか|私のチョコは|支葵センパイの足元へ！）=
-あっ……！=
-（ドキドキしながら|自分のチョコの運命を|見守っているとーー）=
-（眉間にシワを寄せつつも|支葵センパイは私のチョコを|拾い上げてくれた）=
-これ、君の作戦？=
-ぐ、偶然ですっ！=
-１度手にした物だし|受け取っておく。=
-あ、ありがとうございます！=
-ふぅ……良かった。|とりあえずは|受け取ってもらえたし。=
-（今夜ほど自分のドジっぷりに|感謝しない夜はなかった……）=
+（支葵センパイにあげよう）=(I'll give it to Shiki-senpai.)
+（一番ハードル高そうだけど|だからこそ燃えるっていうか|登り甲斐のある山？）=(It feels like he's the hardest to talk to, but maybe that all the more reason to try?)
+（モデルをしてる|支葵センパイはーー）=(Shiki-senpai works as a model...)
+（女の子達の間で|すごい人気だからライバルは|たくさんいる）=(There'll be a lot of rivals, since he's so popular with girls.)
+ファイトだ、<name>！=Hang in there, me!
+（決意を固めると|女の子達の波をかき分けて|私は支葵センパイの元へ）=(With renewed determination, I fought through the crowds of girls and made my way to Shiki-senpai.)
+あ、あの……支葵センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=U-Um... Shiki-senpai. T-This chocolate. Please take it, if you'd like!
+…………なんで？=...What for?
+いや、何でと言われても……|ただ渡したいだけなんで……=Well, even if you ask me that.... I just... wanted to give this to you...
+そういうの、俺興味ない。|だいたい君からもらう|いわれもない。=I'm not interested in that kind of thing. Besides, I have no reason to accept it from you. 
+そう言われちゃうと|ミもフタもないっていうか……=Y-You don't sugar-coat anything...
+……もう行っていい？=...Can I go now?
+えっ？えっと、その……=Huh? Um, that...
+（私が口ごもっている内に|支葵センパイは|行ってしまった）=(Shiki-senpai left whilst I was mumbling.)
+なんか……悔しいかも。=That's kinda... vexing.
+（自分でも驚く行動力で|私はとっさに支葵センパイを|追いかけた！）=(I surprised myself by chasing after Shiki-senpai.)
+ま、待って下さい！|きゃっ！！=P-Please wait!|Oof!!
+（勢いあまって|私は転んでしまった）=(I lost my footing and came crashing down.)
+いったぁ……=Ouch...
+（顔を上げると、可哀想に|私のチョコはころころと|地面を転がっていく……）=(When I lifted my head up, I saw my chocolate pathetically tumbling across the ground.)
+（このままじゃ誰かに|踏みつぶされちゃう！|そう思った瞬間ーー）=(At this rate someone will end up trampling on it! Just as that thought crossed my mind--)
+何か転がってきた……=Something's rolled over here...
+（運がいいのか悪いのか|私のチョコは|支葵センパイの足元へ！）=(I don't know if it was lucky or not, but my chocolate ended up rolling into Shiki-senpai's path!)
+あっ……！=Ah...!
+（ドキドキしながら|自分のチョコの運命を|見守っているとーー）=(Heart pounding, I watched over its fate--)
+（眉間にシワを寄せつつも|支葵センパイは私のチョコを|拾い上げてくれた）=(Furrowing his brow, Shiki-senpai picked my chocolate up.)
+これ、君の作戦？=Was this part of your plan?
+ぐ、偶然ですっ！=I-It was a coincidence!
+１度手にした物だし|受け取っておく。=I'll keep it this once.
+あ、ありがとうございます！=T-Thank you!
+ふぅ……良かった。|とりあえずは|受け取ってもらえたし。=Phew... I'm so glad. He's accepted it for the time being.
+（今夜ほど自分のドジっぷりに|感謝しない夜はなかった……）=(This must be the only time I've ever been grateful for my own clumsiness.)
 
-# A2378
-デイ･クラスの夜歩きさんも|見当たらないし|今夜はすっごく静かだね～=
-それより昨日の夜=
-見回りの後|台所で何してたんだよ？=
-凄い臭いがしてたぞ。|実験か？=
-し、失礼ね！|一生懸命手作りチョコを|作ってたのに～。=
-手作りチョコって……|まさか、さっきのチョコ！=
+# A2378 choose not to give the chocolate away
+デイ･クラスの夜歩きさんも|見当たらないし|今夜はすっごく静かだね～=I don't see any of the Day Class snooping around. It's so nice and quiet tonight~
+それより昨日の夜=More importantly, last night...
+見回りの後|台所で何してたんだよ？=What were you doing in the kitchen after our patrol?
+凄い臭いがしてたぞ。|実験か？=Something absolutely stank. Were you experimenting in there?
+し、失礼ね！|一生懸命手作りチョコを|作ってたのに～。=H-How rude! I was working hard to make homemade chocolate!
+手作りチョコって……|まさか、さっきのチョコ！=Homemade chocolate... It can't be, that chocolate from before--!?
 
 # A0CCC
-玖蘭先輩……|気の毒に……食あたりとか|してないといいけどな。=
+玖蘭先輩……|気の毒に……食あたりとか|してないといいけどな。=Kuran-senpai... The poor sod... I hope he doesn't get food poisoning.
 
 # A0C98
-藍堂先輩……|気の毒に……食あたりとか|してないといいけどな。=
+藍堂先輩……|気の毒に……食あたりとか|してないといいけどな。=Aido-senpai... The poor sod... I hope he doesn't get food poisoning.
 
 # A0F08
-架院先輩……|気の毒に……食あたりとか|してないといいけどな。=
+架院先輩……|気の毒に……食あたりとか|してないといいけどな。=Kain-senpai... The poor sod... I hope he doesn't get food poisoning.
 
 # A0B6C
-一条先輩……|気の毒に……食あたりとか|してないといいけどな。=
+一条先輩……|気の毒に……食あたりとか|してないといいけどな。=Ichijo-senpai... The poor sod... I hope he doesn't get food poisoning.
 
 # A0CE4
-支葵先輩……|気の毒に……食あたりとか|してないといいけどな。=
+支葵先輩……|気の毒に……食あたりとか|してないといいけどな。=Shiki-senpai... The poor sod... I hope he doesn't get food poisoning.
 
 # A0C00
-誰にあげたか知らないけど……|気の毒に……食あたりとか|してないといいけどな。=
+誰にあげたか知らないけど……|気の毒に……食あたりとか|してないといいけどな。=I don't know who you gave it to, but... The poor sod... I hope they don't get food poisoning.
 
 # A21F8
-ひっどーい！！|でも、余計なお世話なの！=
-手作りチョコはまだ|誰にもあげてないもん！=
-おい、そのチョコどうする……|考えただけで恐ろしいっ……|俺、見回り行ってくるわ。=
-ちょ、ちょっと零！|何、逃げてんのよっ！=
-別に零に渡すとは|一言も言ってないのに～！=
-ていうか、私の手作りチョコを|毒扱いするなーーー！！=
+ひっどーい！！|でも、余計なお世話なの！=That's so mean!! Anyway, your concern isn't necessary.
+手作りチョコはまだ|誰にもあげてないもん！=I haven't given my homemade chocolate to anyone yet!
+おい、そのチョコどうする……|考えただけで恐ろしいっ……|俺、見回り行ってくるわ。=Oi, what are you going to do with that chocolate...? It's scary to even think about... I'm gonna go patrol.
+ちょ、ちょっと零！|何、逃げてんのよっ！=Wa-Wait Zero! Why are you running away?!
+別に零に渡すとは|一言も言ってないのに～！=It's not like I said anything about giving it to you~!
+ていうか、私の手作りチョコを|毒扱いするなーーー！！=Hey wait, my homemade chocolate isn't poison to begin with--!
 
 # A6988
 全部見回ったか？<name>。=
@@ -2195,9 +2195,9 @@ Should we get going?
 えっと、その……=
 
 # A7078
-（そっとささやくように言って|枢センパイがゆっくりと私に|近付く）=
-（えっ？何……？）=
-（ど、どうしよっ……|そんなに接近されたら|心臓の音聞かれちゃう！）=
+（そっとささやくように言って|枢センパイがゆっくりと私に|近付く）=(Without saying a word, Kaname-senpai slowly came up to me.)
+（えっ？何……？）=(Huh? What...?)
+（ど、どうしよっ……|そんなに接近されたら|心臓の音聞かれちゃう！）=(W-What should I do...? If he comes that close, he'll hear my heart racing!)
 <name>、なんだかきみ……=
 はいっ……！=
 （触れるか触れないか……|枢センパイの指先がそっと|私の頬に伸ばされる）=

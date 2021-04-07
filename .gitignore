@@ -1,6 +1,7 @@
 extract*
-repack
+repack*
 out_*
-*_output.txt
+font_data.bin
+*_output.*
 *.nds
 *.xdelta

@@ -135,14 +135,14 @@ TEXTの表示速度を設定します。=
 襲い来るレベル:Ｅをアルテミス|（タッチペン）で倒すぞ！||赤いポイントを|タッチするのがコツ。|上手くいかなくてもアノ人の|助けが入るかも？|=
 
 !FILE:CharacterNames
-   玖蘭　枢   =
-   藍堂　英   =
-   架院　暁   =
-  一条　拓麻  =
-  支葵　千里  =
-  錐生　零    =
-  夜刈　十牙  =
-  黒主　優姫  =
+   玖蘭　枢   =Kaname Kuran
+   藍堂　英   =Aido Hanabusa
+   架院　暁   =Kain Akatsuki
+  一条　拓麻  =Takuma Ichijo
+  支葵　千里  =Senri Shiki
+  錐生　零    =Zero Kiryu
+  夜刈　十牙  =Toga Yagari
+  黒主　優姫  =Yuki Cross
 
 !FILE:AdditionalText
 ごきげんよう。|来てくれたんだ？=

@@ -145,10 +145,10 @@ TEXTの表示速度を設定します。=
   黒主　優姫  =Yuki Cross
 
 !FILE:AdditionalText
-ごきげんよう。|来てくれたんだ？=
-また会えたね。|とてもうれしいよ。=
-ようこそ、僕のお姫サマ。=
-くすっ……|そのドレスって……=
+ごきげんよう。|来てくれたんだ？=Farewell. I will see you again, I hope.
+また会えたね。|とてもうれしいよ。=I'm so happy to see you again.
+ようこそ、僕のお姫サマ。=Welcome, my princess.
+くすっ……|そのドレスって……=My god, that dress...
 あれっ、|なんでお前がこんなところに？=
 別に僕が招待した|訳じゃないぞ！=
 あっ、来てくれたんだ…。|別にうれしい訳じゃない|からな。=

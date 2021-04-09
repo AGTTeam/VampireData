@@ -38,55 +38,55 @@
 黒主　優姫=
 黒主=
 優姫=
-錐生　零=
-玖蘭　枢=
-夜刈　十牙=
-藍堂　英=
-架院　暁=
-一条　拓麻=
-支葵　千里=
-？？？=
-女子生徒１=
-女子生徒２=
-女子生徒３=
-女子生徒４=
-理事長=
-教師=
-ヴァンパイア=
-男子生徒=
-星煉=
-遠矢　莉磨=
-先生=
-子供=
-母親=
-ﾃﾚﾋﾞﾚﾎﾟ-ﾀ-=
-ﾆｭ-ｽｷｬｽﾀ-=
-若葉沙頼=
-ﾃﾚﾋﾞﾌﾟﾛﾃﾞｭ-ｻ-=
-花屋の店長=
-ﾚﾍﾞﾙ:Eﾚﾎﾟ-ﾀ-=
-若葉　沙頼=
-街の人１=
-街の人２=
-おばあさん=
-お婆さん=
-レベル：Ｅ=
-おじさん=
-ハンター=
-チビ=
-全員=
-リリィ=
-おじいさん=
-キャスター=
-レベル：Ｅ犬=
-レベルＥ=
-委員長=
-早園　瑠佳=
-夜刈＆一条=
-子犬=
-女子生徒=
-占い師=
-レポーター=
+錐生　零=Zero Kiryu
+玖蘭　枢=Kaname Kuran
+夜刈　十牙=Toga Yagari
+藍堂　英=Aido Hanabusa
+架院　暁=Kain Akatsuki
+一条　拓麻=Takuma Ichijo
+支葵　千里=Senri Shiki
+？？？=???
+女子生徒１=Girl  1#leave double spacing
+女子生徒２=Girl  2
+女子生徒３=Girl  3
+女子生徒４=Girl  4
+理事長=Headmaster
+教師=Professor
+ヴァンパイア=Vampire
+男子生徒=Boy
+星煉=Seiren
+遠矢　莉磨=Rima Toya
+先生=Student
+子供=Child
+母親=Mother
+ﾃﾚﾋﾞﾚﾎﾟ-ﾀ-=TV Reporter
+ﾆｭ-ｽｷｬｽﾀ-=News Caster
+若葉沙頼=Sayori Wakaba
+ﾃﾚﾋﾞﾌﾟﾛﾃﾞｭ-ｻ-=TV Producer
+花屋の店長=Florist
+ﾚﾍﾞﾙ:Eﾚﾎﾟ-ﾀ-=Level E Reporter
+若葉　沙頼=Sayori Wakaba
+街の人１=Townsperson 1
+街の人２=Townsperson 2
+おばあさん=Old Lady
+お婆さん=Old Lady
+レベル：Ｅ=Level E
+おじさん=Old Man
+ハンター=Hunter
+チビ=Chibi#qc
+全員=All
+リリィ=Lily
+おじいさん=Old Man
+キャスター=Caster#qc
+レベル：Ｅ犬=Level E Dog
+レベルＥ=Level E
+委員長=Chairman
+早園　瑠佳=Ruka Souen
+夜刈＆一条=Yagari & Ichijo
+子犬=Puppy
+女子生徒=Girl
+占い師=Fortune Teller
+レポーター=Reporter
 
 # ADADC
 最初は、トーン貼りだよ。=
@@ -398,7 +398,7 @@
 ラッキーワードは、|『綺麗な女性』です。=
 
 # A0F68
-守護係の仕事の疲れで|授業中なのについ|ウトウトと夢の中へ……=
+守護係の仕事の疲れで|授業中なのについ|ウトウトと夢の中へ……=Exhausted from my work as a guardian, I accidentally dozed off in class and had a dream...
 
 # A0C10
 気になるあの人との|今日一日の運勢を|占って貰いましょう。=
@@ -413,29 +413,29 @@
 頭が良くなる仕事を|こなしましょう。=
 
 # A0910
-ここは見晴らしがいい…=
+ここは見晴らしがいい…=This is a good vantage point...
 
 # A1318
-あれ？なぜかこんな所に|双眼鏡…デイ･クラスの子が|忘れていったのかな。=
-これって……|あ、結構よく見える……=
+あれ？なぜかこんな所に|双眼鏡…デイ･クラスの子が|忘れていったのかな。=Oh? What's a pair of bincolars doing here...? I wonder if it was left behind by one of the Day Class students.
+これって……|あ、結構よく見える……=Let's see... Ah, they work pretty well...
 
 # A0CC0
-この窓は……|あ、枢センパイが見える！=
+この窓は……|あ、枢センパイが見える！=Behind this window...|Ah, I can see Kaname-senpai!
 
 # A0F38
-この窓は……|あ、零！月の寮の空き部屋で|サボるなんて…考えたな…=
+この窓は……|あ、零！月の寮の空き部屋で|サボるなんて…考えたな…=Behind this window... Ah, Zero! Is he planning to play hooky in one of the empty rooms of the Moon Dorm...? Typical...
 
 # A0974
-この窓は……|あ、一条センパイが見える！=
+この窓は……|あ、一条センパイが見える！=Behind this window...|Ah, I can see Ichijo-senpai!
 
 # A0ED0
-この窓は……|あ、藍堂センパイが見える！=
+この窓は……|あ、藍堂センパイが見える！=Behind this window...|Ah, I can see Aido-senpai!
 
 # A0F40
-この窓は……|あ、架院センパイが見える！=
+この窓は……|あ、架院センパイが見える！=Behind this window...|Ah, I can see Kain-senpai!
 
 # A0EC0
-この窓は……|あ、支葵センパイが見える！=
+この窓は……|あ、支葵センパイが見える！=Behind this window...|Ah, I can see Shiki-senpai!
 
 # A0DDC
 ちょっとくらいいいよね？|でも目が合ったら怒られる|かも。気をつけて見よう。=
@@ -921,19 +921,19 @@
 もう時間が無いよ！=
 
 # A0DF8
-あ、支葵センパイだ。|話しかけようかな？|どうしようかな？=
+あ、支葵センパイだ。|話しかけようかな？|どうしようかな？=Oh, it's Shiki-senpai. Should I talk to him?
 
 # A0A00
-あ、行っちゃった……=
+あ、行っちゃった……=Ah, he left...
 
 # A12B0
-……あれ？なにか落ちてる……=
-パーティの招待状？|…あのドレスを着て行ったら|みんなどんな反応するかな？=
+……あれ？なにか落ちてる……=...Oh? There's something on the floor...
+パーティの招待状？|…あのドレスを着て行ったら|みんなどんな反応するかな？=A party invite? ...I wonder how they'd react if I went in this dress?
 
 # A1788
-……あれ？|私、何やってたんだろう？=
-確か、ここで招待状を拾って…=
-まあいいか。|見回り続けなくちゃ！=
+……あれ？|私、何やってたんだろう？=...Huh? What was I just doing?
+確か、ここで招待状を拾って…=I'm sure that I picked up the invitation, and then...?
+まあいいか。|見回り続けなくちゃ！=Ah well. I should get back to my patrol!
 
 # A0E30
 あ、零だ。|話しかけようかな？|どうしようかな？=Oh, it's Zero. Should I talk to him?
@@ -2098,7 +2098,7 @@ Should we get going?
 （いつだって零は|私に本心を見せてくれない）=(Zero never shows me his true feelings.)
 （突き放されてるみたいで|寂しくなるけど……）=(He pushes me away, even if means he'll be left all alone...)
 （繊細な零の心を強引に|こじ開けるような真似だけは|絶対にしたくない！）=(But, there's no way I could just force my way in and wrench open Zero's sensitive heart!)
-どうした、<name>？|急に黙り込んで……|何か調子狂うだろ。=What is it, <name>? Suddenly getting all quiet... That isn't like you. 
+どうした、<name>？|急に黙り込んで……|何か調子狂うだろ。=What is it, <name>? Suddenly getting all quiet... That isn't like you.
 何でもないよ。=It's nothing.
 （零に余計な心配かけたく|なくて私は精いっぱいの笑顔を|向けた）=(I didn't want to worry him, so I channeled all my energy into a big grin.)
 （何があっても|私は零の味方だよ……|そんな気持ちを込めて……）=(No matter what, Zero is my friend... With that thought...)
@@ -2389,7 +2389,7 @@ Should we get going?
 架院センパイ……？=Kain-senpai...?
 一人で夜回りなんかして|恐いとか思わないのか？|まぁ、それもあんたらしいか。=Don't you find it scary to do the night watch by yourself? Well, I guess that's just like you.
 別に。見た通りだよ。|ただの散歩。|今夜は静かだから。=Nothing much, as you can see. Just on a stroll, since it's quiet tonight.
-（そっけなく言うと|架院センパイは私から|ふっと視線をそらした）=(Kain-senpai was being short with me, and diverted his eyes.) 
+（そっけなく言うと|架院センパイは私から|ふっと視線をそらした）=(Kain-senpai was being short with me, and diverted his eyes.)
 （沈黙がちょっと|私を落ち着かない|気持ちにさせる……）=(The silence was making me feel a little unnerved...)#dupe
 
 # A5454 choose Did you like St. Xocolatl's Day?
@@ -2462,7 +2462,7 @@ Should we get going?
 （受け取り拒否されたら|ショックだし……）=(It'd be upsetting if he just refused to take it, so...)
 （架院センパイは無表情のまま|呆れたようにため息をついた）=(Kain-senpai gave a loud sigh, but his face remained expressionless.)
 別に言い訳なんか|しなくていい。=You don't have to make excuses.
-誰か大切な人のために残して|ある本命チョコなんだろ？=It's a sentimental chocolate you're reserving for the person most special to you, right? 
+誰か大切な人のために残して|ある本命チョコなんだろ？=It's a sentimental chocolate you're reserving for the person most special to you, right?
 今日中に渡せるといいな。|じゃ、せいぜい頑張れよ。|健闘を祈るぜ<last><name>。=I hope you're able to give it to them today. Well, do your best. I wish you luck, <name><last>.
 お、おやすみなさい、|架院センパイ！=G-Good night, Kain-senpai!
 
@@ -2628,7 +2628,7 @@ Sleep well...
 <name>ちゃんに手作りチョコ|もらったなんて知れたら|枢に何されるか……っ！=If Kaname found out that I got homemade chocolate from you, I don't know what he'd to do me...!
 それに正直言って……|手作りは遠慮してるんだよね。=And, to be honest... I'd rather not eat homemade things.
 僕って臆病だからさ、|えへへ～。=Because I'm a coward, ehehe~
-（満面の笑顔とは真逆の|一条センパイの辛辣な台詞に|私は思わず……絶句！！）=(His whole face was smiling, the exact opposite of the cruel words he'd just said. I was... speechless!!) 
+（満面の笑顔とは真逆の|一条センパイの辛辣な台詞に|私は思わず……絶句！！）=(His whole face was smiling, the exact opposite of the cruel words he'd just said. I was... speechless!!)
 あれれ～？|<name>ちゃん？|黙り込んでどうしたの？=Huh~? <name>-chan? You've gone all quiet, what's wrong?
 ……気にしないでください。=...It's nothing.
 <name>ちゃん、|コメカミがピクピクって|痙學してるけど？=The veins on your forehead are twitching. Are you okay?
@@ -2752,64 +2752,64 @@ Sleep well...
 おやすみ……=Night...
 
 # A46A8
-ふぅ……緊張したなぁ……。|まだ心臓がドキドキしてる……=
-（一人きりになった途端|ほっと肩の力が抜けていく）=
-ふふっ……|正式に今日という日は|無事終わりました……=
-（生まれて初めて男の人に|手作りチョコを作った|聖ショコラトル･デーがーー）=
-（こうして幕を閉じた）=
-（私の特別な思いがこもった|チョコレートを憧れの人へ|ーー）=
-（その思いはまだふわっと|してて無垢で透明で無邪気で|……）=
-（恋と呼ぶにはあまりに|幼すぎるかもしれない）=
-（でも、自分の素直な気持ちを|真っすぐ伝えられたことは|ーー）=
-（私の心を少しだけ|強くしてくれた気がする）=
-（この先|何が起きたとしてもーー）=
-（逃げずに向かい合える勇気を|一歩前に踏み出す覚悟をーー）=
-（今夜、|私は手に入れたのだーー）=
-（たとえ、この先|どんな悲劇が私を待ち受けて|いるとしても……）=
+ふぅ……緊張したなぁ……。|まだ心臓がドキドキしてる……=Sigh... I feel tense... My heart still hasn't stopped pounding.
+（一人きりになった途端|ほっと肩の力が抜けていく）=(As soon as I was alone, my shoulders dropped in relief.)
+ふふっ……|正式に今日という日は|無事終わりました……=Hehe... Today is officially over...
+（生まれて初めて男の人に|手作りチョコを作った|聖ショコラトル･デーがーー）=(St. Xocolatl's Day, the reason I made homemade chocolates for the first time ever, is over...)
+（こうして幕を閉じた）=(And so, this chapter has come to an end.)
+（私の特別な思いがこもった|チョコレートを憧れの人へ|ーー）=(The special chocolate overflowing with my feelings made it to the person I longed for.)
+（その思いはまだふわっと|してて無垢で透明で無邪気で|……）=(Those feelings are still fluffy; pure, light and innocent...)
+（恋と呼ぶにはあまりに|幼すぎるかもしれない）=(So they might be too young to really be called love.)
+（でも、自分の素直な気持ちを|真っすぐ伝えられたことは|ーー）=(But, I was able to be upfront and convey my honest feelings...)
+（私の心を少しだけ|強くしてくれた気がする）=(It feels like my heart has become a little bit more resilient.)
+（この先|何が起きたとしてもーー）=(I won't run away. I have the courage to face what lies ahead, to put one foot in front of the other and move forward...)
+（逃げずに向かい合える勇気を|一歩前に踏み出す覚悟をーー）=(I won't run away. I have the courage to face what lies ahead, to put one foot in front of the other and move forward...)
+（今夜、|私は手に入れたのだーー）=(I'll hold onto that strength...)
+（たとえ、この先|どんな悲劇が私を待ち受けて|いるとしても……）=(Even if all that's awaiting me in the future are untold tragedies...)
 
-# A8660
-あっ……忘れてた！|買ってきたチョコ|誰にもあげてなかった……！=
-聖ショコラトル･デーは|１日過ぎちゃったけど……=
-（あげるならあの人しか|いない。そう思って私は|廊下を慌てて引き返した）=
-あれ？電気ついてない。|もう寝ちゃったのかな？=
-返事ないし……どうしたんだろ|……<name>です！|入りますよー！=
-<name>で～す！|いないんですか～？=
-うわっ！理事長！|脅かさないでくださいっ！=
-うぅぅっ……=
-ど、どうしたんですか？|床に指で円書いてますけど……=
-チョコ一つも|もらえなかったよ～！=
-そんなことで|泣いてたんですか？|おとなげないな～。=
-ぼ、僕だって、１年間|聖ショコラトル･デーだけを|楽しみに待ってたんだよ～。=
-泣かないでください。|１日遅れですけどチョコ|届けに来たんですから。=
-本当に？<name>……|僕にチョコレートを|くれるのかい？=
-もちろん！理事長は|私の大事な人ですから。=
-<name>……！|ありがとう～！！|感動で涙が……！！=
-あ～あ、|ますます泣いてるし……=
-持つべきものはかわいい娘だ～|これからも私のそばに|いておくれよ、<name>……！=
-よしよし～ずっと|そばにいるよ、お父さん。|だから泣かないでくださいっ。=
-ふぇ～んっっ！！=
-あの……そろそろ私|部屋に帰りたいんですけど……=
-取込み中ごめんなさいっ|私はこれで……失礼します！=
-おやすみさない、理事長。|泣き止んでくださいね～。=
-おやすみ～<name>！|このチョコ、イケる！|ほっぺが落ちそうだ～！=
-いや～持つべきは義娘だ～|うれしくて笑いが止まらない|よ！ハッハッハッハ！=
-えぇっ！！嘘泣き！？=
+# A8660 if the shop-bought chocolate wasn't given to anyone during the first set of choices
+あっ……忘れてた！|買ってきたチョコ|誰にもあげてなかった……！=Ah-- I forgot! I never gave the chocolate I bought to anyone...!
+聖ショコラトル･デーは|１日過ぎちゃったけど……=St. Xocolatl's Day is already over, but...
+（あげるならあの人しか|いない。そう思って私は|廊下を慌てて引き返した）=(If I'm going to give it to someone, then there's only one choice. With that in mind, I rushed back down the corridor.)
+あれ？電気ついてない。|もう寝ちゃったのかな？=Oh? The lights aren't on. Is he already in bed?
+返事ないし……どうしたんだろ|……<name>です！|入りますよー！=No response... Has something happened? ...It's me, <name>! I'm coming in!
+<name>で～す！|いないんですか～？=It's <name>~! Not here, huh?
+うわっ！理事長！|脅かさないでくださいっ！=Eeep! Headmaster! Don't jump up on me like that!
+うぅぅっ……=Boohooooo...
+ど、どうしたんですか？|床に指で円書いてますけど……=W-What's wrong? You're tracing circles on the floor with your finger...
+チョコ一つも|もらえなかったよ～！=I didn't get a single chocolate~!
+そんなことで|泣いてたんですか？|おとなげないな～。=And that's why you're sobbing like that? You're like a child.
+ぼ、僕だって、１年間|聖ショコラトル･デーだけを|楽しみに待ってたんだよ～。=T-That's because the only thing I've been looking forward to this whole year was St. Xocolatl's Day~
+泣かないでください。|１日遅れですけどチョコ|届けに来たんですから。=Please stop crying. It might be a day late, but I've come to deliver your chocolate.
+本当に？<name>……|僕にチョコレートを|くれるのかい？=Really? <name>... You're giving me chocolate?
+もちろん！理事長は|私の大事な人ですから。=Of course! Because you're my important person.
+<name>……！|ありがとう～！！|感動で涙が……！！=<name>...! Thank you~!! I've been moved to tears...
+あ～あ、|ますます泣いてるし……=Dear me, now you're crying even more...
+持つべきものはかわいい娘だ～|これからも私のそばに|いておくれよ、<name>……！=I can't help it when I have such a cute daughter~ Stay close to me, now and forever, <name>...!
+よしよし～ずっと|そばにいるよ、お父さん。|だから泣かないでくださいっ。=There, there~ I'll always be by your side, Dad. So, please don't cry.
+ふぇ～んっっ！！=Weeeeeeh~!!
+あの……そろそろ私|部屋に帰りたいんですけど……=Um... I should be getting back to my room now...
+取込み中ごめんなさいっ|私はこれで……失礼します！=I'm sorry for interrupting whilst you were in the middle of something... Excuse me!
+おやすみさない、理事長。|泣き止んでくださいね～。=Good night, Headmaster. And, please stop crying~
+おやすみ～<name>！|このチョコ、イケる！|ほっぺが落ちそうだ～！=Good night, <name>~! This chocolate looks good! It's making my mouth water~!
+いや～持つべきは義娘だ～|うれしくて笑いが止まらない|よ！ハッハッハッハ！=Ah~ I'm glad I have an adopted daughter~ I'm so happy that I can't stop laughing! Hah hah hah ha!
+えぇっ！！嘘泣き！？=Huuuh!? He was only fake crying--!?
 
 # A46E0
-（今夜は|色んなことがありすぎて……|早くベッドに入りたい気分）=
-（頭の中を整理したい。|それに、まだ高鳴ってる鼓動を|どうにかしなきゃ……）=
-はぁ……|やっぱり自分の部屋って|落ち着く～……=
-あれ……？ベッドの上に|何か置いてある……=
-これは……=
-（真っ白な|バラの花束だった……）=
-とってもいい香り……|だけど……誰が私に|バラの花束なんて……=
-何か落ちた……=
-メッセージカードだ……！=
-私はあなたにふさわしい……=
-書いてあるのは|これだけみたい。|いったいどういう意味……？=
-（その時の私はまだ|知らずにいた……）=
-（白いバラと共に届けられた|メッセージに隠された|真実をーー）=
-（そして……|私に待ち受けてる運命をーー）=
+（今夜は|色んなことがありすぎて……|早くベッドに入りたい気分）=(So many things happened today... I want to hurry up and get into bed.)
+（頭の中を整理したい。|それに、まだ高鳴ってる鼓動を|どうにかしなきゃ……）=(But first, I should put my thoughts into order. Besides, I still have to do something about this pounding beat...)
+はぁ……|やっぱり自分の部屋って|落ち着く～……=Sigh... As I thought, being in my room really does help me calm down~....
+あれ……？ベッドの上に|何か置いてある……=Hm...? Something has been left on top on my bed...
+これは……=This is...
+（真っ白な|バラの花束だった……）=(A bouquet of snow white roses...)
+とってもいい香り……|だけど……誰が私に|バラの花束なんて……=They have a lovely smell... but... who would leave this here...?
+何か落ちた……=Something fell out...
+メッセージカードだ……！=A note card--!
+私はあなたにふさわしい……="We make a perfect pair..."#qc
+書いてあるのは|これだけみたい。|いったいどういう意味……？=That's all that has been written on it. What on earth does it mean...?
+（その時の私はまだ|知らずにいた……）=(At that time, I still had no idea...)
+（白いバラと共に届けられた|メッセージに隠された|真実をーー）=(of the truth hidden in the message, delivered to me with white roses...)
+（そして……|私に待ち受けてる運命をーー）=(And... the destiny that awaited me--)
 
 # AF770
 （ガーディアンの見回りって|体力勝負のキツい仕事）=
@@ -15391,27 +15391,27 @@ Sleep well...
 <ch1>４章<00><00>|<ch2>５章<00><01>|<ch3>７章<00><02>=
 <ch1>高い<00><03>|<ch2>中ぐらい<00><04>|<ch3>ひくひくぴゅ～<00><05>=
 <ch1>かくれんぼ<00>ヂ|<ch2>持ち物検査<00><00>|<ch3>持ち物整理<00><01>=
-<ch1>話しかける<00><00>|<ch2>話しかけない<00><01>=
-<ch1>騒がしい声<00><00>|<ch2>怪しい声<00><01>=
-<ch1>零の声<00><00>|<ch2>女の子の悲鳴<00><01>=
-<ch1>はい<00><00>|<ch2>いいえ<00><01>=
-<ch1>鋭い気配<00><00>|<ch2>怪しい気配<00><01>=
-<ch1>ありがとう<00><00>|<ch2>零……<00><01>|<ch3>意外と優しいじゃん<00><02>=
-<ch1>おせっかいだよ<00><00>|<ch2>零って……<00><01>|<ch3>ごめんね<00><02>=
-<ch1>藍堂　英<00><03>|<ch2>架院　暁<00><04>|<ch3>他の人……=
-<ch1>一条　拓麻<00><05>|<ch2>支葵　千里<00><06>|<ch3>他の人……<00><01>=
-<ch1>玖蘭　枢<00>漸|<ch2>錐生　零<00><02>|<ch3>誰にも渡さない<00><07>=
-<ch1>聖ショコラトル･デー|楽しかったですか？<00><00>|<ch2>沢山のチョコはどうしました？<00><01>=
-<ch1>あげる<00><00>|<ch2>あげない<00><01>=
-<ch1>聖ショコラトル･デー|大活躍でしたね？<00><00>|<ch2>新記録でました？<00><01>=
-<ch1>聖ショコラトル･デーって|好きですか？<00><00>|<ch2>甘い物って好きですか？<00><01>=
-<ch1>聖ショコラトル･デー|終わっちゃいましたね<00><00>|<ch2>沢山もらえましたね<00><01>=
-<ch1>莉磨さんからはチョコを|もらいました？<00><00>|<ch2>プレゼントってどう思います？<00><01>=
+<ch1>話しかける<00><00>|<ch2>話しかけない<00><01>=<ch1>Say something.<00><00>|<ch2>Don't say anything.<00><01>
+<ch1>騒がしい声<00><00>|<ch2>怪しい声<00><01>=<ch1>Rowdy voices.<00><00>|<ch2>Mysterious voices.<00><01>
+<ch1>零の声<00><00>|<ch2>女の子の悲鳴<00><01>=<ch1>Zero's voice.<00><00>|<ch2>A girl shrieking.<00><01>
+<ch1>はい<00><00>|<ch2>いいえ<00><01>=<ch1>Yes<00><00>|<ch2>No<00><01>
+<ch1>鋭い気配<00><00>|<ch2>怪しい気配<00><01>=<ch1>A piercing presence.<00><00>|<ch2>A mysterious presence.<00><01>
+<ch1>ありがとう<00><00>|<ch2>零……<00><01>|<ch3>意外と優しいじゃん<00><02>=<ch1>Thank you.<00><00>|<ch2>Zero...<00><01>|<ch3>That was unexpectedly nice of you.<00><02>
+<ch1>おせっかいだよ<00><00>|<ch2>零って……<00><01>|<ch3>ごめんね<00><02>=<ch1>You didn't have to barge in.<00><00>|<ch2>Hey, Zero...<00><01>|<ch3>I'm sorry.<00><02>
+<ch1>藍堂　英<00><03>|<ch2>架院　暁<00><04>|<ch3>他の人……=<ch1>Hanabusa Aido<00><03>|<ch2>Akatsuki Kain<00><04>|<ch3>Someone else...
+<ch1>一条　拓麻<00><05>|<ch2>支葵　千里<00><06>|<ch3>他の人……<00><01>=<ch1>Takuma Ichijo<00><05>|<ch2>Senri Shiki<00><06>|<ch3>Someone else...<00><01>
+<ch1>玖蘭　枢<00>漸|<ch2>錐生　零<00><02>|<ch3>誰にも渡さない<00><07>=<ch1>Kaname Kuran<00>漸|<ch2>Zero Kiryu<00><02>|<ch3>Don't give it away.<00><07>
+<ch1>聖ショコラトル･デー|楽しかったですか？<00><00>|<ch2>沢山のチョコはどうしました？<00><01>=<ch1>Did you enjoy St. Xocolatl's Day?<00><00>|<ch2>What did you do with all that chocolate?<00><01>
+<ch1>あげる<00><00>|<ch2>あげない<00><01>=<ch1>Give it to him.<00><00>|<ch2>Don't give it to him.<00><01>
+<ch1>聖ショコラトル･デー|大活躍でしたね？<00><00>|<ch2>新記録でました？<00><01>=<ch1>St. Xocolatl's Day was a great success, wasn't it?<00><00>|<ch2>Did you set a new record?<00><01>
+<ch1>聖ショコラトル･デーって|好きですか？<00><00>|<ch2>甘い物って好きですか？<00><01>=<ch1>Did you like St. Xocolatl's Day?<00><00>|<ch2>Do you like sweet things?<00><01>
+<ch1>聖ショコラトル･デー|終わっちゃいましたね<00><00>|<ch2>沢山もらえましたね<00><01>=<ch1>St. Xocolatl's Day is all done with then, huh?<00><00>|<ch2>You got a lot, didn't you?<00><01>
+<ch1>莉磨さんからはチョコを|もらいました？<00><00>|<ch2>プレゼントってどう思います？<00><01>=<ch1>Did you get chocolate from Rima-san?<00><00>|<ch2>What did you think of your presents?<00><01>
 <ch1>楽しかったです<00><01>|<ch2>楽しくなかったです<00><02>=
 <ch1>パフェは譲らない<00><02>|<ch2>妥協して塩ラーメン<00><03>=
-<ch1>錐生　零<00>麺|<ch2>玖蘭　枢<00>紺|<ch3>他の人……<00>⁎=
-<ch1>藍堂　英<00>画|<ch2>架院　暁<00>賀|<ch3>他の人……<00>☆=
-<ch1>一条　拓麻<00>培|<ch2>支葵　千里<00>匁|<ch3>他の人…<00>･=
+<ch1>錐生　零<00>麺|<ch2>玖蘭　枢<00>紺|<ch3>他の人……<00>⁎=<ch1>Zero Kiryu<00>麺|<ch2>Kaname Kuran<00>紺|<ch3>Someone else...<00>⁎
+<ch1>藍堂　英<00>画|<ch2>架院　暁<00>賀|<ch3>他の人……<00>☆=<ch1>Hanabusa Aido<00>画|<ch2>Akatsuki Kain<00>賀|<ch3>Someone else...<00>☆
+<ch1>一条　拓麻<00>培|<ch2>支葵　千里<00>匁|<ch3>他の人…<00>･=<ch1>Takuma Ichijo<00>培|<ch2>Senri Shiki<00>匁|<ch3>Someone else...<00>･
 <ch1>いつも一緒の零が良かった<00><00>|<ch2>ただ何となく<00><01>|<ch3>枢センパイの代わりに<00><02>=
 <ch1>ステキだと思う<00><04>|<ch2>本当は怖い<00><05>|<ch3>私たちと変わらない<00><06>=
 <ch1>怖いよね<00><08>|<ch2>無愛想だよね<00><09>|<ch3>素直じゃないよね<00>|=
@@ -15481,12 +15481,12 @@ Sleep well...
 <ch1>外で水をまく<00><00>|<ch2>校庭で水をまく<00><01>|<ch3>校舎の窓から水をまく<00><02>=
 <ch1>事件現場<00><00>|<ch2>インタビュー現場<00><02>=
 <ch1>インタビュー現場<00><02>=
-<ch1>話しかける<00><01>|<ch2>話しかけない<00>え=
-<ch1>話しかける<00><03>|<ch2>話しかけない<00><04>=
+<ch1>話しかける<00><01>|<ch2>話しかけない<00>え=<ch1>Say something.<00><01>|<ch2>Don't say anything.<00>え
+<ch1>話しかける<00><03>|<ch2>話しかけない<00><04>=<ch1>Say something.<00><03>|<ch2>Don't say anything.<00><04>
 <ch1>テレビ局<00><06>|<ch2>インタビュー現場へ戻る<00>お=
 <ch1>テレビ局<00><06>=
 <ch1>子供を探す<00><07>|<ch2>花屋へ行く<00><08>=
-<ch1>話しかける<00><09>|<ch2>話しかけない<00>|=
+<ch1>話しかける<00><09>|<ch2>話しかけない<00>|=<ch1>Say something.<00><09>|<ch2>Don't say anything.<00>|
 <ch1>バラの花言葉について聞く<00><92><0B>|<ch2><00><71>ライングローズについて聞く<00><92><0C>=
 <ch1>子供を探す<00><92><0D>|<ch2>レポーターを探す<00><92><0E>=
 <ch1>このままじっと隠れる<00>ヂ|<ch2>あえて外へ出る<00>う=
@@ -15502,10 +15502,10 @@ Sleep well...
 <ch1>湖へ<00><00>|<ch2>馬場へ<00><01>|<ch3>ここでいい<00><02>=
 <ch1>森へ<00><00>|<ch2>庭へ<00><01>|<ch3>一条の部屋へ<00><02>=
 <ch1>ここでいい<00><00>|<ch2>森へ<00><01>|<ch3>庭へ<00><02>=
-<ch1>話しかける<00><02>|<ch2>話しかけない<00><03>=
-<ch1>話しかける<00><04>|<ch2>話しかけない<00><05>=
-<ch1>話しかける<00><06>|<ch2>話しかけない<00><07>=
-<ch1>話しかける<00><08>|<ch2>話しかけない<00><09>=
+<ch1>話しかける<00><02>|<ch2>話しかけない<00><03>=<ch1>Say something.<00><02>|<ch2>Don't say anything.<00><03>
+<ch1>話しかける<00><04>|<ch2>話しかけない<00><05>=<ch1>Say something.<00><04>|<ch2>Don't say anything.<00><05>
+<ch1>話しかける<00><06>|<ch2>話しかけない<00><07>=<ch1>Say something.<00><06>|<ch2>Don't say anything.<00><07>
+<ch1>話しかける<00><08>|<ch2>話しかけない<00><09>=<ch1>Say something.<00><08>|<ch2>Don't say anything.<00><09>
 <ch1>どんな格好でしたか？<00><00>|<ch2>どんな髪型でしたか？<00><01>|<ch3>どんな顔立ちでしたか？<00><02>=
 <ch1>一緒に行く<00>げ|<ch2>遠慮する<00><04>=
 <ch1>一緒に行く<00><05>|<ch2>遠慮する<00><06>=

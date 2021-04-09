@@ -1904,7 +1904,7 @@ Should we get going?
 せっかく零にチョコ|あげようと思ったのに……=Even though I was planning to give it to you...
 だ、だったらそう言えよ！|俺はてっきり……|あぁ、もうメンドくさい！=I-If that was the case then you should have said so! I was sure... Agh, what a pain!
 俺は別に|チョコなんていらない。|仕事も終わったし、帰るぞ！=It's not like I really wanted the chocolate anyway. I'm finished here, so I'm going!
-（少しだけ赤く染まった頬を|隠すように背を向けると|零は去っていった）=(Zero turned to leave, hiding the faint redness that was tinting his cheeks.) 
+（少しだけ赤く染まった頬を|隠すように背を向けると|零は去っていった）=(Zero turned to leave, hiding the faint redness that was tinting his cheeks.)
 何よ……逆ギレしてるのは|そっちの方じゃない……=What... Why's he getting mad when it's me who should be angry...
 （零にチョコを渡すことは|できなかったけど|気持ちは……伝わったかな？）=(I wasn't able to give Zero the chocolate but, maybe my feelings... were passed on?)
 （心の中で自問自答を|繰り返しながら、何も語らない|零の背中を追った……）=(Unable to say anything as I chased behind Zero, the question kept repeating itself in my head.)
@@ -1919,7 +1919,7 @@ Should we get going?
 いつもの仕返しだな。|何かの罠だろう？|……その手に乗るか。=This must be revenge for always, huh? What's the catch? ...Got something up your sleeve?
 ちょ、ちょっと待って|ください！|からかってなんかないです！=N-No! I'm not trying to tease you or anything!
 藍堂センパイに|受け取ってほしくて|それで……その……=I wanted you to have this chocolate because... um...
-……本気で言ってるのか？|本気で僕にチョコレートを|渡そうって言うのか？=...Are you serious? Did you really just say that you wanted to give me chocolate? 
+……本気で言ってるのか？|本気で僕にチョコレートを|渡そうって言うのか？=...Are you serious? Did you really just say that you wanted to give me chocolate?
 はい……本気です……=Yes... I'm serious...
 （よっぽど意外だったのか|藍堂センパイは目を白黒させて|しばらく私をじっと見つめた）=(It must have come as quite a shock, because Aido-senpai stared at me wide-eyed for a moment.)
 あの……|やっぱり迷惑……ですよね？|すいませんでしたっ！=Um... I guess... I must just be bothering you after all? Please excuse me--!
@@ -1931,7 +1931,7 @@ Should we get going?
 まぁ、しょうがないから|もらってやるよ。|じゃあ、またね～！=Well, I guess I don't have a choice, so I'll take it. See you around~!
 よかった……|とにかく貰ってくれた……=I'm so glad... At any rate, he accepted it...
 （重大任務を終えた私は|ホッとした気持ちとドキドキと|高鳴る心臓を抱えーー）=(My important mission over, I gave a sigh of relief and felt my heart pounding in my chest--)
-（藍堂センパイの後ろ姿を|見送ったその背中が見えなく|なるまでずっとずっと……）=(I watched Aido-senpai's back until it was no longer in view...) 
+（藍堂センパイの後ろ姿を|見送ったその背中が見えなく|なるまでずっとずっと……）=(I watched Aido-senpai's back until it was no longer in view...)
 
 # A8034
 （架院センパイにあげよう）=(I'll give it to Kain-senpai.)
@@ -1985,7 +1985,7 @@ Should we get going?
 あ、あの……支葵センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=U-Um... Shiki-senpai. T-This chocolate. Please take it, if you'd like!
 …………なんで？=...What for?
 いや、何でと言われても……|ただ渡したいだけなんで……=Well, even if you ask me that.... I just... wanted to give this to you...
-そういうの、俺興味ない。|だいたい君からもらう|いわれもない。=I'm not interested in that kind of thing. Besides, I have no reason to accept it from you. 
+そういうの、俺興味ない。|だいたい君からもらう|いわれもない。=I'm not interested in that kind of thing. Besides, I have no reason to accept it from you.
 そう言われちゃうと|ミもフタもないっていうか……=Y-You don't sugar-coat anything...
 ……もう行っていい？=...Can I go now?
 えっ？えっと、その……=Huh? Um, that...
@@ -15378,7 +15378,7 @@ Should we get going?
 <ch1>シナリオへ<00><03>|<ch2>吸血テストへ<00><01>|<ch3>サウンドテストへ<00>ヂ=
 <ch1>１章<00><01>|<ch2>２章<00><02>|<ch3>次<00>言=
 <ch1>３章<00><03>|<ch2>４章<00><04>|<ch3>次<00>言=
-<ch1>４.５章<00><05>|<ch2>５章<00><06>|<ch3>次<00>言=
+<ch1>４。５章<00><05>|<ch2>５章<00><06>|<ch3>次<00>言=
 <ch1>６章<00><07>|<ch2>７章<00><08>|<ch3>戻る<00>ヂ=
 <ch1>零エンド<00><09>|<ch2>枢エンド<00>||<ch3>次<00>言=
 <ch1>藍堂エンド<00><92><0B>|<ch2>架院エンド<00><92><0C>|<ch3>次<00>言=

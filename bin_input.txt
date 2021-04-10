@@ -921,10 +921,17 @@
 もう時間が無いよ！=
 
 # A0DF8
+<<<<<<< Updated upstream
 あ、支葵センパイだ。|話しかけようかな？|どうしようかな？=Oh, it's Shiki-senpai. Should I talk to him?
 
 # A0A00
 あ、行っちゃった……=Ah, he left...
+=======
+あ、支葵センパイだ。|話しかけようかな？|どうしようかな？=Oh, it's Shiki-senpai.|What should I do?|Should I try talking to him?
+
+# A0A00
+あ、行っちゃった……=Ah, he's gone...
+>>>>>>> Stashed changes
 
 # A12B0
 ……あれ？なにか落ちてる……=...Oh? There's something on the floor...
@@ -3331,7 +3338,7 @@ Sleep well...
 ナイト･クラスの秘密が|漏れないようにみなさんを|お守りするのがーー=
 ガーディアンの役目なんです。=
 んー……何かよくわかんない。|どっちでもいいやって感じ。=
-そ、そうですか……=
+そ、そうですか……=O-Okay...
 （聞いて来たのは|支葵センパイの方なのに……）=
 （でも、確かにこういう話、|あんまり興味なさそうーー）=
 （って、支葵センパイ、|いつの間にか歩き出してる！）=
@@ -3479,7 +3486,7 @@ Sleep well...
 （架院センパイの|炎に包まれた|ヴァンパイアはーー）=
 （一瞬で灰となり|さらさらと姿を消した……）=
 ったく……こんな街中で|やりあおうだなんて。|お前も随分大胆だな。=
-す、すみません……=
+す、すみません……=I-I'm sorry...
 ありがとうございました、|架院センパイ。|助けてくださって……=
 って、あ、あれ？|架院センパイ？=
 （まるで幻のように|架院センパイの姿が|消えていた……）=
@@ -4470,7 +4477,7 @@ Sleep well...
 えっ？どうしてですか……？=
 どんなに表面は穏やかに|見えても、僕たちはやっぱり|ヴァンパイアだからーー=
 いつ、か弱い人間である|<name>ちゃんを傷つけたり|するかわからない……=
-そうですか……=
+そうですか……=Okay.
 （そんな風に釘を刺されると、|何だか寂しいな）=
 （せっかく今日の肝試しで、|仲良くなれたと思ったのに）=
 って、ん……？誰かいる……？=
@@ -4879,7 +4886,7 @@ Sleep well...
 （ヴァンパイアと人間が仲良く|私の目標ってそんな所に|あるのかも……）=
 じゃあ、俺はいつも通り|中の見回りに行くぞ。=
 う、うん。|わかった。=
-（私は零と別れ、|校舎の外の警備を|始めることにしたーー）=
+（私は零と別れ、|校舎の外の警備を|始めることにしたーー）=(I parted with Zero and chose to start patrolling the school grounds.)
 
 # A755C
 （見回りを続ける私の前に、|零が現れたーー）=
@@ -4899,7 +4906,7 @@ Sleep well...
 別にない、夢なんて。=
 そう……=
 そういうお前はどうなんだ？|お前こそ、何か夢はあるのか？=
-私は……=
+私は……=Me, I...
 
 # A2A50
 金持ちになりたい？=
@@ -4976,7 +4983,7 @@ Sleep well...
 
 # A1170
 でも、どうしてそんなに|健康にこだわるんだ？=
-それは……=
+それは……=Well...
 
 # A2FE0
 それがガーディアンとしての|務めだから。=
@@ -5892,100 +5899,100 @@ Sleep well...
 ないよ？=
 
 # A5BA8
-（見回りを続ける私の前に、|支葵センパイが現れたーー）=
-あれ、風紀委員だ。=
-支葵センパイ。|どうしたんですか？|こんな所で。=
-別に、ブラブラしてただけ。=
-（そうだ。|支葵先輩に夢について|聞いてみようかな……）=
-支葵センパイ。|ちょっと聞きたい事が|あるんですけど。=
-聞きたい事？なに？=
-支葵センパイの夢って|なんですか？=
-はあ？夢？突然なに？=
-支葵センパイにも、|夢や目標ってあるんですか？=
-別にない。|……っていうか興味ない。=
-モデルとして夢とか|ないんですか？いつかは|こんな仕事がしたい、とか。=
-ん～……|モデルの仕事は、|暇つぶしみたいなもんだし。=
-ずっと続けるかどうかも|わからないし。=
-風紀委員はどうなの？|何か夢があるの？=
+（見回りを続ける私の前に、|支葵センパイが現れたーー）=(As I continued my rounds, there before me was Shiki-senpai.)
+あれ、風紀委員だ。=Ah, the Disciplinary Committee.
+支葵センパイ。|どうしたんですか？|こんな所で。=Is something wrong, Shiki-senpai? What are you doing here?
+別に、ブラブラしてただけ。=Nothing's the matter. I was merely wandering.
+（そうだ。|支葵先輩に夢について|聞いてみようかな……）=(I know. Why don't I try asking Shiki-senpai about his dream?)
+支葵センパイ。|ちょっと聞きたい事が|あるんですけど。=Shiki-senpai, there's something I'd like to ask you about.
+聞きたい事？なに？=Me? What about?
+支葵センパイの夢って|なんですか？=Do you have any dreams?
+はあ？夢？突然なに？=Do I have any dreams? How unexpected.
+支葵センパイにも、|夢や目標ってあるんですか？=Even you have dreams and goals, don't you, Shiki-senpai?
+別にない。|……っていうか興味ない。=Not particularly. Dreams don't interest me.
+モデルとして夢とか|ないんですか？いつかは|こんな仕事がしたい、とか。=Not even as a model? There's not even like some kind of modeling work you dream of doing someday?
+ん～……|モデルの仕事は、|暇つぶしみたいなもんだし。=Honestly, modeling is such a waste of time.
+ずっと続けるかどうかも|わからないし。=I'm not sure why I still continue to do it.
+風紀委員はどうなの？|何か夢があるの？=And what about you? Do you have any dreams?
 
 # A181C
-物知り……|俺はそういうの答えるの面倒。=
-一条さんに聞けば|いいんじゃない？|一条さんは博識だよ。=
-ん？どうしたの？|一条さんに会いにいく？=
+物知り……|俺はそういうの答えるの面倒。=Knowledgeable... I'm not the person to talk to about such things.
+一条さんに聞けば|いいんじゃない？|一条さんは博識だよ。=Ichijo-san is knowledgeable about a great number of subjects. Why don't you try speaking with him?
+ん？どうしたの？|一条さんに会いにいく？=Hm? What's the matter? Are you going to see Ichijo-san?
 
 # A1040
-あ、そう。じゃあね。=
-はい、それでは……=
+あ、そう。じゃあね。=All right. Good night then.
+はい、それでは……=Yes, you too.
 
 # A1270
-ん？なんだ。|他にあるって事？=
-じゃあ改めて聞くけど……=
+ん？なんだ。|他にあるって事？=Hm? What is it? Is there something else?
+じゃあ改めて聞くけど……=Well, then permit me to ask again...
 
 # A22D0
-キレ者？なんで？=
-スパスパッとした人って|カッコイイし、そういう一目|置かれる人がいいかなって……=
-玖蘭寮長にでも聞けば|いいんじゃない？=
-相談にはいつも|乗ってくれるでしょ？=
-そ、そうですね……=
-ん？どうしたの？|玖蘭寮長に会いにいく？=
+キレ者？なんで？=Sophisticated? Why?
+スパスパッとした人って|カッコイイし、そういう一目|置かれる人がいいかなって……=Sophisticated people are so cool, and I wonder what it would be like to be seen that way.
+玖蘭寮長にでも聞けば|いいんじゃない？=Why don't you bring that up with Dorm President Kuran?
+相談にはいつも|乗ってくれるでしょ？=He's always willing to advise you, is he not?
+そ、そうですね……=Th-That's true...
+ん？どうしたの？|玖蘭寮長に会いにいく？=Hm? What's the matter? Are you going to see Dorm President Kuran?
 
 # A4948
-美しい……か。|キレイでいるのは大変だ。=
-支葵センパイはモデルも|やってますから、|色々気を遣ってるんですか？=
-俺は別に……|ただ、マネージャーは|うるさいけど。=
-日に焼けないように、とか|肌の手入れをしろ、とか|色々言われてるよ。=
-特に女の人なんて|化粧とか美容とか……俺は|そういった苦労はないけど、=
-人間って大変。|美を保つのに相当な努力を|しているよ。=
-そうですね。|美しくありたいのは|女性の願いですからね。=
-でもあまりそれに|とらわれすぎると、|心が疲れる。=
-風紀委員も|そんな努力をしているの？=
-それは、私だって|やっぱり女の子ですから。=
-ふうん、女の子なんだ。=
-ええ！？|どういう意味ですか？=
-いや、別に……|そうか、風紀委員は|キレイになりたいんだ。=
-（さっきの言い方|なんか引っかかるなあ……）=
+美しい……か。|キレイでいるのは大変だ。=You dream of beauty... Beauty is as much a curse as it is a gift.
+支葵センパイはモデルも|やってますから、|色々気を遣ってるんですか？=As a model, you're constantly worried about your appearance. Is that what you mean?
+俺は別に……|ただ、マネージャーは|うるさいけど。=I'm not particularly concerned, but my manager is quite fussy.
+日に焼けないように、とか|肌の手入れをしろ、とか|色々言われてるよ。=He badgers me constantly to stay out of the sun and to take care of my skin.
+特に女の人なんて|化粧とか美容とか……俺は|そういった苦労はないけど、=To think it's even worse for women with all the makeup and cosmetics.
+人間って大変。|美を保つのに相当な努力を|しているよ。=The effort required for a human to remain beautiful, it's astounding.
+そうですね。|美しくありたいのは|女性の願いですからね。=I suppose that's why women desire to be beautiful.
+でもあまりそれに|とらわれすぎると、|心が疲れる。=But you risk losing yourself in the endless pursuit of it.
+風紀委員も|そんな努力をしているの？=And do you put forth such effort, Yuki?
+それは、私だって|やっぱり女の子ですから。=Well, no, but I'm just a girl.
+ふうん、女の子なんだ。=That's right. You are just a girl.
+ええ！？|どういう意味ですか？=What!? What's that supposed to mean?
+いや、別に……|そうか、風紀委員は|キレイになりたいんだ。=Nothing, really... Right, so it's your dream to become beautiful.
+（さっきの言い方|なんか引っかかるなあ……）=(I can't stop thinking about what he meant just now.)
 
 # A11D0
-それで、|風紀委員はキレイになって|何かなりたいものでもあるの？=
+それで、|風紀委員はキレイになって|何かなりたいものでもあるの？=And what would you hope to become with your newfound beauty?
 
 # A1EE8
-私、支葵センパイや|遠矢センパイのようなステキな|モデルになりたいんです！=
-へえ……=
-うっ……|やっぱり無理でしょうか？=
-…莉磨の強敵現る、だね？=
-そ、そうですか。えへへ。=
+私、支葵センパイや|遠矢センパイのようなステキな|モデルになりたいんです！=I'd be a super cool model like you and Toya-senpai!
+へえ……=Oh?
+うっ……|やっぱり無理でしょうか？=Or... should I just keep dreaming?
+…莉磨の強敵現る、だね？=It looks like Rima has a new rival.
+そ、そうですか。えへへ。=R-Really? Ehehe...
 
 # A3F00
-私、女優になりたいです！=
-ふうん……=
-じゃあ、３通りの|『ありがとうございます』を|やってみてよ。=
-ええ？そんないきなり……|ええと……=
-ダメだね。女優を目指すなら、|突然の要求にも応じないと。=
-ただ『女優になりたい』って|言うだけなら、誰でも出来る事|だからね。=
-風紀委員は、まだまだだね。=
-撮影スタジオで有名女優を|見かけるけど、人間ながら|いいオーラを出してるよ…。=
-覚悟を決めて生きている|感じがする。=
-そういう覚悟があるから|人をひきつける事が|できるんだろう。=
-なるほど……|勉強になります。=
+私、女優になりたいです！=I'd be an actress!
+ふうん……=Truly?
+じゃあ、３通りの|『ありがとうございます』を|やってみてよ。=Give it a shot. Try thanking me three different ways.
+ええ？そんないきなり……|ええと……=Right now? You didn't give me any warning... Um...
+ダメだね。女優を目指すなら、|突然の要求にも応じないと。=That won't do. If you hope to become an actress, you must be able to respond to requests at a moment's notice.
+ただ『女優になりたい』って|言うだけなら、誰でも出来る事|だからね。=If it were as easy as saying "I want to be an actress," anyone could do it.
+風紀委員は、まだまだだね。=You're not there yet, Yuki.
+撮影スタジオで有名女優を|見かけるけど、人間ながら|いいオーラを出してるよ…。=When I see a famous actress in the photo studio, they always let off this almost inhuman aura.
+覚悟を決めて生きている|感じがする。=It feels like they live life always ready to jump into action.
+そういう覚悟があるから|人をひきつける事が|できるんだろう。=I think that's why they're so adept at charming others.
+なるほど……|勉強になります。=I see. I guess I still have a lot to learn.
 
 # A3F30
-私、ニュースキャスターに|なりたいんです！=
-ああ……いわゆる、|美人キャスター？=
-え、まあ……|美と知の両方が備わっていれば|完璧な女性になれるかなって。=
-ふーん、臆面もなく|そんな恥ずかしい事言うんだ？=
-風紀委員はけっこう|いい線いってると思うよ。=
-え？どういう意味ですか？=
-風紀委員はけっこう|可愛い方じゃない？=
-ホントですか！？|嬉しいです！=
-支葵センパイにそんな事|言ってもらえるなんて！=
-でもさ、『知』のほうは|かなり厳しい。|もっと頑張った方がいい。=
-うっ……おっしゃる通りです。|頑張ります……=
+私、ニュースキャスターに|なりたいんです！=I'd be a newscaster!
+ああ……いわゆる、|美人キャスター？=I see. One of those beauty casters.
+え、まあ……|美と知の両方が備わっていれば|完璧な女性になれるかなって。=Er, well... I mean, I could be the perfect woman if I was both beautiful and intelligent.
+ふーん、臆面もなく|そんな恥ずかしい事言うんだ？=Hm? What an embarrassing thing to say so unabashedly.
+風紀委員はけっこう|いい線いってると思うよ。=Well, I think your dream is within reach.
+え？どういう意味ですか？=What are you saying?
+風紀委員はけっこう|可愛い方じゃない？=I'm saying you're rather easy on the eyes.
+ホントですか！？|嬉しいです！=Do you really think so!? I'm blushing!
+支葵センパイにそんな事|言ってもらえるなんて！=I can't believe you would say that about me, Shiki-senpai!
+でもさ、『知』のほうは|かなり厳しい。|もっと頑張った方がいい。=That being said, you could stand to work on the "intelligent" part a little more.
+うっ……おっしゃる通りです。|頑張ります……=Uh... You're right. I'll work on it...
 
 # A1EFC
-有名になりたいんだ？=
-恥ずかしながら……|そうなんです。=
-描いてるビジョンあるの？=
-こうなっていたい、とか|そういうの。=
+有名になりたいんだ？=Do you wish to be famous?
+恥ずかしながら……|そうなんです。=It's embarrassing to admit, but, yes.
+描いてるビジョンあるの？=Have you envisioned what it would be like?
+こうなっていたい、とか|そういうの。=How do you imagine your life as a celebrity?
 
 # A55EC
 ……あまり想像したくない。|なんだか酔いそう。=
@@ -6006,31 +6013,31 @@ Sleep well...
 い、いえ……=
 
 # A5630
-人気者を目指してるの？=
-風紀委員って|けっこう目立ちたいんだ。=
-そんな風に思ってなかった……=
-だ、ダメでしょうか？=
-それは俺が決める事じゃない。=
-なればいいよ……人気者。=
-支葵センパイも、ずいぶんな|人気者ですよね。=
-そう？興味ない。=
-やっぱり、注目されるのって|気持ちいいですか？|実は恥ずかしかったり……=
-モデルをやるには|自分に酔わないと出来ない。=
-それを気持ちよく思うときも|ある…。=
-じゃあ、支葵センパイは|ナルシストなんですね。=
-ナルシスト？そう？=
-す、すみません！=
-ふーん、|俺は自分に興味ないけど。=
+人気者を目指してるの？=You try to be popular.
+風紀委員って|けっこう目立ちたいんだ。=You don't want to get lost in the crowd.
+そんな風に思ってなかった……=I didn't take you for that kind of girl.
+だ、ダメでしょうか？=Is... Is that bad?
+それは俺が決める事じゃない。=That's not for me to decide.
+なればいいよ……人気者。=I'm sure it's fine... to be popular.
+支葵センパイも、ずいぶんな|人気者ですよね。=You're really popular yourself, aren't you, Shiki-senpai?
+そう？興味ない。=Am I? I don't concern myself with such things.
+やっぱり、注目されるのって|気持ちいいですか？|実は恥ずかしかったり……=Does all that attention really not bother you? You don't feel the least bit embarrassed?
+モデルをやるには|自分に酔わないと出来ない。=You can't model without being entirely taken with yourself.
+それを気持ちよく思うときも|ある…。=I hardly notice the attention.
+じゃあ、支葵センパイは|ナルシストなんですね。=Wouldn't that make you a narcissist, Shiki-senpai?
+ナルシスト？そう？=A narcissist? You think so?
+す、すみません！=I-I'm sorry!
+ふーん、|俺は自分に興味ないけど。=Hm, I'm not really concerned with myself though.
 
 # A2B10
-そんなに注目を浴びたいの？|風紀委員って結構野心家？=
-獣みたい。=
-け……獣！？=
-褒め言葉。|人をひきつけるには|そういう激しさが必要。=
-外に出すタイプ、|内に秘めるタイプ、|色々あるけど。=
-風紀委員の獣はどこにいる？=
-そ、そんなの……|わかりません。=
-ふーん。=
+そんなに注目を浴びたいの？|風紀委員って結構野心家？=You wish to bathe in the attention, is that it? You're very ambitious.
+獣みたい。=How beastly.
+け……獣！？=B-Beastly?
+褒め言葉。|人をひきつけるには|そういう激しさが必要。=It's a compliment. That sort of ferocity is necessary to attract people.
+外に出すタイプ、|内に秘めるタイプ、|色々あるけど。=There are those who put themselves out there and those who hide themselves away.
+風紀委員の獣はどこにいる？=What sort of beast are you, Yuki?
+そ、そんなの……|わかりません。=I-I'm not sure I understand.
+ふーん。=Hmph...
 
 # A7128
 でも、どうしてそんなに|美にこだわる？=
@@ -15470,14 +15477,14 @@ Sleep well...
 <ch1>人間の事<00><09>|<ch2>ヴァンパイアの事<00>||<ch3>色んなウラの事<00><94><0B>=
 <ch1>社交的にするコツ<00><92><0D>|<ch2>周りに優しくするコツ<00><92><0E>|<ch3>変わり者と付き合うコツ<00><92><0F>=
 <ch1>一条センパイはどう思います？<00><00>|<ch2>支葵センパイはどう思います？<00><01>=
-<ch1>物知りな人になりたい<00><00>|<ch2>キレ者になりたい<00><01>|<ch3>心身ともに美しい人になりたい<00><02>=
-<ch1>キレ者になりたい<00><01>|<ch2>心身ともに美しい人になりたい<00><02>=
-<ch1>物知りな人になりたい<00><00>|<ch2>心身ともに美しい人になりたい<00><02>=
-<ch1>心身ともに美しい人になりたい<00><02>=
-<ch1>はい、そうします<00><03>|<ch2>いえ、本当の夢は……<00><04>=
-<ch1>はい、そうします<00><06>|<ch2>いえ、本当の夢は……<00><07>=
-<ch1>モデル<00><09>|<ch2>女優<00>||<ch3>ニュースキャスター<00><92><0B>=
-<ch1>街中自分のポスターだらけ<00><92><0D>|<ch2>ＴＶつけるといつも出てる<00><92><0E>|<ch3>パーティーで輪の中心<00><95><0F>=
+<ch1>物知りな人になりたい<00><00>|<ch2>キレ者になりたい<00><01>|<ch3>心身ともに美しい人になりたい<00><02>=<ch1>To become knowledgeable person<00><00>|<ch2>To become sophisticated<00><01>|<ch3>To become beautiful<00><02>
+<ch1>キレ者になりたい<00><01>|<ch2>心身ともに美しい人になりたい<00><02>=<ch1>To become sophisticated<00><01>|<ch2>To become beautiful<00><02>
+<ch1>物知りな人になりたい<00><00>|<ch2>心身ともに美しい人になりたい<00><02>=<ch1>To become knowledgeable<00><00>|<ch2>To become beautiful<00><02>
+<ch1>心身ともに美しい人になりたい<00><02>=<ch1>To become beautiful<00><02>
+<ch1>はい、そうします<00><03>|<ch2>いえ、本当の夢は……<00><04>=<ch1>Yes, I will.<00><03>|<ch2>Actually, my real dream is...<00><04>
+<ch1>はい、そうします<00><06>|<ch2>いえ、本当の夢は……<00><07>=<ch1>Yes, I will.<00><06>|<ch2>Actually, my real dream is...<00><07>
+<ch1>モデル<00><09>|<ch2>女優<00>||<ch3>ニュースキャスター<00><92><0B>=<ch1>Model<00><09>|<ch2>Actress<00>||<ch3>Newscaster<00><92><0B>
+<ch1>街中自分のポスターだらけ<00><92><0D>|<ch2>ＴＶつけるといつも出てる<00><92><0E>|<ch3>パーティーで輪の中心<00><95><0F>=<ch1>A city full of posters with my face<00><92><0D>|<ch2>Always seeing myself on TV<00><92><0E>|<ch3>Being the center of attention at parties<00><95><0F>
 <ch1>外で水をまく<00><00>|<ch2>校庭で水をまく<00><01>|<ch3>校舎の窓から水をまく<00><02>=
 <ch1>事件現場<00><00>|<ch2>インタビュー現場<00><02>=
 <ch1>インタビュー現場<00><02>=

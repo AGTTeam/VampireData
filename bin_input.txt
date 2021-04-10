@@ -921,17 +921,10 @@
 もう時間が無いよ！=
 
 # A0DF8
-<<<<<<< Updated upstream
 あ、支葵センパイだ。|話しかけようかな？|どうしようかな？=Oh, it's Shiki-senpai. Should I talk to him?
 
 # A0A00
 あ、行っちゃった……=Ah, he left...
-=======
-あ、支葵センパイだ。|話しかけようかな？|どうしようかな？=Oh, it's Shiki-senpai.|What should I do?|Should I try talking to him?
-
-# A0A00
-あ、行っちゃった……=Ah, he's gone...
->>>>>>> Stashed changes
 
 # A12B0
 ……あれ？なにか落ちてる……=...Oh? There's something on the floor...

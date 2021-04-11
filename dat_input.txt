@@ -1,4 +1,5 @@
 
+
 !FILE:DataErrors
 データを読めませんでした。|電源を切って、カードを|差し込み直してください。=Unable to read data. Please turn off the power and reinsert the game cartridge.
 データが壊れています。|全てのデータを初期化します。=Data corrupted. Formatting all data.
@@ -145,30 +146,43 @@ TEXTの表示速度を設定します。=Set the text speed.
   黒主　優姫  =Yuki Cross
 
 !FILE:AdditionalText
-ごきげんよう。|来てくれたんだ？=Good to see you. So you decided to come?#Kaname
+#Party intro - Kaname
+ごきげんよう。|来てくれたんだ？=Good to see you. So you decided to come?
 また会えたね。|とてもうれしいよ。=I'm so happy to see you again.
 ようこそ、僕のお姫サマ。=Welcome, my princess.
-くすっ……|そのドレスって……=Heh... That dress is...#Kaname
-あれっ、|なんでお前がこんなところに？=Oh, what are you doing here?#Aido
+くすっ……|そのドレスって……=Heh... That dress is...
+#
+#Party intro - Aido
+あれっ、|なんでお前がこんなところに？=Oh, what are you doing here?
 別に僕が招待した|訳じゃないぞ！=
 あっ、来てくれたんだ…。|別にうれしい訳じゃない|からな。=
-それって……=That's...#Aido
-なんだ、来ていたのか。|めずらしいな？=What, you came? That makes a change.#Kain
+それって……=That's...
+#
+#Party intro - Kain
+なんだ、来ていたのか。|めずらしいな？=What, you came? That makes a change.
 おっ、来たのか。|楽しんでいくといいぜ。=
 待ってた。|さぁ、|パーティーは始まってるぞ。=
-おおっ、そのドレスって……=Oh, that dress...#Kain
-あっ、君も来たんだ。|うれしいな。=Ah, so you came too. I'm so happy.#Ichijo
+おおっ、そのドレスって……=Oh, that dress...
+#
+#Party intro - Ichijo
+あっ、君も来たんだ。|うれしいな。=Ah, so you came too. I'm so happy.
 会えてうれしいよ。|一緒に楽しもう。=
 お待ちしておりました。|姫。さぁ、こちらへ。=
-わあ、そのドレスって……=Wow, that dress...#Ichijo
+わあ、そのドレスって……=Wow, that dress...
+#
+#Party intro - Shiki
 あれ？|どうしたの？そんな格好で。=Oh? What's up? Dressed like that...#Shiki
 ふぅ～ん。|来たんだ。=
 来てくれたんだ。|よかった。=
-そのドレスって……=That dress...#Shiki
-何でお前がここにいるんだ？=What are you doing here?#Zero
+そのドレスって……=That dress...
+#
+#Party intro - Zero
+何でお前がここにいるんだ？=What are you doing here?
 また会ったな。|偶然じゃないんだ…=
 待ってたぞ。|遅かったな。=
-そのドレスって……=That dress is...#Zero, or dupe?
+そのドレスって……=That dress is...
+#
+#Outfit comments
 なかなか主張の強い|ドレスだね。=
 ちょっと僕には|刺激が強すぎるみたいだ。=It seems like it's a bit too overpowering to me.#tc Kaname
 なんだか君らしくないね。=
@@ -340,7 +354,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 じゃ、もう俺は行くぞ。=Well, I should be going now.#Kain
 あんまり、|がんばりすぎるなよ。=
 次も楽しみにしてるぞ……|じゃあな。=
-じゃあ、僕は行くね。=Well, I'm going now.#Aido dupe?
+じゃあ、僕は行くね。=Well, I'm going now.#Ichijo
 いいものが見れたよ。|またね。=
 名残惜しいな……|じゃあね。=
 じゃあ、俺は行くね。=Okay, I'm going now.#Shiki
@@ -487,90 +501,104 @@ TEXTの表示速度を設定します。=Set the text speed.
 こんな楽しみがあって|いいかも。|よかったよ。=
 お前って、|本当にロクな夢をみないんだな。=
 俺も授業中、|お前のひどい夢を見てやる！=
-大丈夫かい？！|僕にまかせるんだ！=
+#
+#Level E minigame - Kaname
+大丈夫かい？！|僕にまかせるんだ！=Are you okay!? Leave this to me!
 君が手を汚す必要はない！|下がって！=
-キミの事は、僕が守る！=
+キミの事は、僕が守る！=I'll protect you!
 誰であろうが僕に逆らうこと|などできると思うな！=
-哀れな……|もう楽になっていいんだよ。=
+哀れな……|もう楽になっていいんだよ。=Pitiful thing... May you be able to find peace now.
 悲しい宿命を背負った者よ。|その重荷を解き放とう。=
-君はひどい人だ。|あまり僕をドキドキさせないで|欲しい……=
-君は勇気のある子だ。|だからこそ、気をつけて欲しい。=
+君はひどい人だ。|あまり僕をドキドキさせないで|欲しい……=You are cruel. Please don't make my heart race like that...
+君は勇気のある子だ。|だからこそ、気をつけて欲しい。=You are a brave one. That's all the more reason I wish you would be careful.
 君が傷つく姿は見たくない……|これっきりにしてほしい……=
-君を傷つけようとするものは、|この僕がゆるさない！|例えなんびとであろうとも！=
+君を傷つけようとするものは、|この僕がゆるさない！|例えなんびとであろうとも！=I won't forgive anyone who tries to hurt you! No matter who they are!
 こんなに危ないことを……|お願いだから、|もっと僕を頼ってほしい……=
 君が無事でなによりだ。|でも、あまり|頑張りすぎないようにね。=
 君に、ガーディアンの仕事は|過酷だ。|できれば、やらせたくない……=
 君をこんな目にあわせて……|錐生　零は一体何をやって|いるんだ。=
+#
+#Level E minigame - Aido
 大丈夫か？！|僕にまかせて！=
 危ないじゃないか！|下がっていろ！=
-きみの事は、…僕が守るんだ！=
+きみの事は、…僕が守るんだ！=I'll protect you...!
 清らかなものを汚す愚者よ！|無に還るんだ！=
 悲しき末路の者よ、|安らかに……=
-相手が悪かったな！|謝っても遅いぞ！=
+相手が悪かったな！|謝っても遅いぞ！=You picked a fight with the wrong person! It's too late to be sorry!
 大丈夫か？|けがはない？|もう……無茶するんじゃないよ。=
-危なかった。|お前はいつも僕をドキドキ|させるんだから…。=
+危なかった。|お前はいつも僕をドキドキ|させるんだから…。=That was dangerous. You make my heart race...
 また無茶して！|枢様に心配かけるんじゃない！=
 本当に、お前の事が心配なんだ|よ…。今後、危ないことは、|僕にまかせるんだ。いいな。=
 全く無鉄砲な奴だな。|でも、そんなお前がほっとけ|ない僕も無鉄砲なのかな？=
-お前の相棒も無責任だよね。|お前も大変だ。=
+お前の相棒も無責任だよね。|お前も大変だ。=Your partner is really irresponsible. What a handful you are.
 お前にガーディアンは|向いてないよ。|もう錐生にまかせたら？=
 また、危ないことを……|この事は、理事長に報告する。|追って沙汰を待つように。=
+#
+#Level E minigame - Kain
 大丈夫か？！|俺にまかせろ！=
-下がってろ！|俺がやる！=
+下がってろ！|俺がやる！=Stay back! I'll handle this.
 お前の事は、俺が守る！=
-こいつには、|指一本触れさせない！|消えるんだな！=
+こいつには、|指一本触れさせない！|消えるんだな！=I won't let you lay a finger on her! Disappear!
 炎に包まれ、暖かく逝きな……|せめてものなぐさみだ=
-俺の力を見くびるんじゃない！|レベル:Ｅ！=
-ケガはないか？|無茶ばっかりしやがって……=
-お前の行動で、俺はヤケドして|しまいそうだ。=
+俺の力を見くびるんじゃない！|レベル:Ｅ！=Don't you underestimate me, Level E!
+ケガはないか？|無茶ばっかりしやがって……=Are you hurt? Always being so reckless...
+お前の行動で、俺はヤケドして|しまいそうだ。=I feel like your actions are going backfire on me.
 みんなが心配するぞ。|ほどほどにな。=
 さすがは、理事長仕込みだ。|なかなかの腕だな。|見直したよ。=
-結構やるもんだな。|無鉄砲ぶりもイカしてるぞ。=
+結構やるもんだな。|無鉄砲ぶりもイカしてるぞ。=That was impressive. Even your recklessness was pretty badass.
 おい、|お前がピンチだって言うのに、|錐生は何をしているんだ！？=
 お前がガーディアンでは|不安だ。|あまり無理はしないでくれ。=
 すまんがこの事は、理事長に|報告する。|お前の事が心配だからだ。=
-大丈夫？！|僕にまかせて！=
+#
+#Level E minigame - Ichijo
+大丈夫？！|僕にまかせて！=Are you okay?! Leave this to me!
 危ない！|キミは下がって！=
-キミの事は、僕が守る！=
-彼女には、手出しさせない！|愚者は、消えるんだ！=
-悲しき宿命の者。|最期は見届けてやる。=
+キミの事は、僕が守る！=I'll protect you!
+彼女には、手出しさせない！|愚者は、消えるんだ！=I won't let you touch her! Fool's should just disappear!
+悲しき宿命の者。|最期は見届けてやる。=What a tragic fate. I'll see you through to the end.
 僕の力を甘く見ない方がいいよ。=
 大丈夫？|けがはない？|もう……、びっくりしたよ。=
-おどろいたよ。|君って大胆。|でも、心臓にわるいよ。=
-大丈夫だよね？|君が無事ならそれでいいんだよ。=
-本当にキミの事が心配なんだ。|次からは、僕にまかせて。=
+おどろいたよ。|君って大胆。|でも、心臓にわるいよ。=That surprised me. You're so brave. But, my heart nearly stopped.
+大丈夫だよね？|君が無事ならそれでいいんだよ。=Are you okay? As long as you're safe, that's all that matters.
+本当にキミの事が心配なんだ。|次からは、僕にまかせて。=I was so worried about you. From now on, leave it to me.
 これじゃあ、|君から目が離せないかな。=
 錐生君はどうしちゃったの？|ケンカでもしたのかな？=
 キミにガーディアンを|任せるの……不安だよ。|心配だから言っているんだよ。=
-こんな事が続くと、|きっと枢も悲しむよ……=
-大丈夫？|俺にまかせて。<09>=
-キミは下がって。=
+こんな事が続くと、|きっと枢も悲しむよ……=If this goes on, Kaname will surely be sad...
+#
+##Level E minigame - Shiki
+大丈夫？|俺にまかせて。<09>=Are you okay? Let me take care of this.<09>#Shiki
+キミは下がって。=Step back.
 キミの事は、俺が守る。=
-この人に手を出すな。|行くよ。=
-残念だけど……バイバイ。=
+この人に手を出すな。|行くよ。=Don't you lay a hand on her. Here I come.
+残念だけど……バイバイ。=I hate to do this, but... Bye bye.
 消えて。|早く帰って寝たいんだ。=
-ケガはない？……無茶しちゃ|ダメ。=
+ケガはない？……無茶しちゃ|ダメ。=Are you hurt? ...Don't go overboard.
 いつもこんな危い事|しているの？=
-キミが傷つくと悲しむ奴がいる|よ。=
-気が強い女の子……|結構好き。=
+キミが傷つくと悲しむ奴がいる|よ。=There are people who'll be sad if you get hurt.
+気が強い女の子……|結構好き。=You're strong-willed... I like that.
 結構やるね。びっくりした。=
 あんまりがんばると、疲れるよ。=
 風紀委員ってもう一人|いたよね？|でも、ここに居ない……=
-取り返しのつかない|事になる……|やめた方がいい。=
+取り返しのつかない|事になる……|やめた方がいい。=I... It's not a good idea.
+#
+#Level E minigame - Zero
 大丈夫か？！|俺にまかせろ！=
-危ない！|下がってろ！=
+危ない！|下がってろ！=It's dangerous! Stay back!
 お前の事は、俺が守る！=
 こいつに触れるな！醜い魂が！=
-お前の悲しみは、|俺が消してやる……=
+お前の悲しみは、|俺が消してやる……=I'll put you out of your misery...
 ２度とお目にかかりたくないな。|消えろ！=
-ケガはないか？|無茶ばっかりしやがって。=
+ケガはないか？|無茶ばっかりしやがって。=Are you hurt? That was too reckless.
 どうしていつも危ない橋を|渡るんだ？！|心配させやがって……=
 あまり無茶をすると理事長が|悲しむぞ。|あんな男でも、お前の父親だ。=
-よくこらえたな。|これからもお互いガーディアン|として頑張ろう。=
+よくこらえたな。|これからもお互いガーディアン|として頑張ろう。=You put up a good fight. Let's keep doing our best as guardians from now on.
 俺が来なかったらどうする|つもりだったんだ？|まぁ、がんばったよ。=
 醜いヴァンパイアは、|俺たちの手で葬るんだ。|いいな？=
 それでもガーディアンなのか？|今後はもう俺にまかせろ。=
 お前はもう外出しないほうが|いい。|あまりにも狙われすぎている。=
+#
+#Level E minigame - Yagari
 小娘！|大丈夫か！？=
 ヴァンパイアは…|始末する！=
 ちっ…数が多い…|ここは俺が引きつける！=

@@ -1,0 +1,62 @@
+﻿==OP_CHR==
+036_00: 錐生 零=Zero Kiryu
+宮野 真守=Mamoru Miyano
+
+037_00: 玖蘭 枢=Kaname Kuran
+岸尾 だいすけ=Daisuke Kishio
+
+038_00: 藍堂 英=Hanabusa Aido
+福山 潤=Jun Fukuyama
+
+039_00: 架院 暁=Akatsuki Kain
+諏訪部 順一=Junichi Suwabe
+
+040_00: 一条 拓麻=Takuma Ichijo
+千葉 進歩=Susumu Chiba
+
+041_00: 支葵 千里=Senri Shiki
+保志 総一朗=Soichiro Hoshi
+
+042_00: 夜刈十牙=Toga Yagari
+安元 洋貴=Hiroki Yasumoto
+黒主灰閻=Kaien Cross
+郷田 ほづみ=Hozumi Goda
+
+055_00: 原作=Original Work
+樋野 まつり=Matsuri Hino 
+「ヴァンパイア騎士」=Vampire Knight
+月刊LaLa (自泉社)=LaLa Monthly (Hakusensha, Inc.)
+
+056_00: 出演=Starring
+【錐生 零】=Zero Kiryu
+宮野 真守=Mamoru Miyano
+【玖蘭 枢】=Kaname Kuran
+岸尾 だいすけ=Daisuke Kishio
+
+057_00:
+【藍堂 英】=Hanabusa Aido
+福山 潤=Jun Fukuyama
+【架院 暁】=Akatsuki Kain
+諏訪部 順一=Junichi Suwabe
+【一条 拓麻】=Takuma Ichijo
+千葉 進歩=Susumu Chiba
+
+058_00:
+【支葵 千里】=Senri Shiki
+保志 総一朗=Soichiro Hoshi
+【夜刈十牙】=Toga Yagari
+安元 洋貴=Hiroki Yasumoto
+【黒主灰閻】=Kaien Cross
+郷田 ほづみ=Hozumi Goda
+
+059_00
+主題歌=Theme Song
+「輪廻 - ロンド-」=Rinne – Rondo -
+ON/OFF
+作詞：間みおこ=Lyrics: Hazama Mioko 
+作曲：中野雄太=Composer: Yuta Nakano
+编曲：h-wonder=Arrangement: h-wonder
+(MusicRay'n)
+
+
+

@@ -5,3 +5,5 @@ font_data.bin
 *_output.*
 *.nds
 *.xdelta
+bmpcache.txt
+temp*.bin

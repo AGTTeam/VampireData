@@ -5047,205 +5047,206 @@ Sleep well...
 （願うだけじゃ叶う訳がない。|でも、どうしたら私の夢に|近づく事が出来るんだろう…）=(But it’ll never come true just wishing for it. How can I make that dream come true?)
 （せっかくだから、枢センパイ|や零に聞いてみようかな……）　=(I guess I could try asking Zero and Kaname-senpai...)
 あのう……=Um...
-どうしたんだい？<name>。=
-なんだ？=
+どうしたんだい？<name>。=What is it, <name>?
+なんだ？=What?
 夢って、どうやったら|叶うと思いますか？=I’m not sure how to make that dream a reality.
 
-# A5520
-夢がどうやったら叶うか……|なかなか難しい質問だね。=
-どうやって夢を実現していけば|いいのか、枢センパイに|教えてほしいんです。=
-そうだね……=
-まずは、自分の思い描く夢を|頭の中に出来るだけ強く|イメージしてごらん。=
-<name>だったら、人間と|ヴァンパイアが仲良くしている|所かな？=
-……はい=
-そのイメージに|必要だと思う要素を、|少しずつ考えていくんだ。=
-どうかな？|イメージできたかな？=
-……枢センパイと零が|２人で仲良く|お茶を飲んでます。=
-はぁ？=
-おしゃれなティーカップで、|お茶菓子はクッキー……|ハーブティーを飲んでます……=
-２人とも笑顔で楽しそう……|ふふ……=
-気持ち悪いやつだな。|なんなんだよ、その妄想は。=
-<name>の夢を実現するには|僕たちが仲良くするのが|一番の近道みたいだね。=
-錐生くん。今度一緒に|紅茶でもいかがかな？=
-まっぴらごめんです。|玖蘭先輩。=
+# A5520 choose 枢センパイはどう思います？
+夢がどうやったら叶うか……|なかなか難しい質問だね。=How to make your dream a reality? That’s a rather difficult question.
+どうやって夢を実現していけば|いいのか、枢センパイに|教えてほしいんです。=Please, Kaname-senpai, what do you think I should do to make my dream a reality?
+そうだね……=Right...
+まずは、自分の思い描く夢を|頭の中に出来るだけ強く|イメージしてごらん。=First, you should try to paint a picture of your dream in your mind, and make a strong image.
+<name>だったら、人間と|ヴァンパイアが仲良くしている|所かな？=That’s a place where humans and vampires can get along, right?
+……はい=...Yes.
+そのイメージに|必要だと思う要素を、|少しずつ考えていくんだ。=Little by little, think of all the things that are necessary for that image.
+どうかな？|イメージできたかな？=Well? Can you imagine it?
+……枢センパイと零が|２人で仲良く|お茶を飲んでます。=...I see the two of you getting along, and drinking tea together.
+はぁ？=Huh?
+おしゃれなティーカップで、|お茶菓子はクッキー……|ハーブティーを飲んでます……=Using fancy teacups, with cookies to snack on... Drinking herbal tea...
+２人とも笑顔で楽しそう……|ふふ……=You’re both smiling and look like you’re having fun. Hehe...
+気持ち悪いやつだな。|なんなんだよ、その妄想は。=That’s creepy. What kind of weird delusion is that?
+<name>の夢を実現するには|僕たちが仲良くするのが|一番の近道みたいだね。=It seems that a shortcut to <name>’s dream coming true would be for us to get along.
+錐生くん。今度一緒に|紅茶でもいかがかな？=Kiryu-kun. Won’t you have some tea with me next time?
+まっぴらごめんです。|玖蘭先輩。=Maybe when pigs fly, Kuran-senpai.
 
-# A3924
-夢がどうやったら叶うか？|そんなの決まってるだろ。=
-どうしたらいいかな？=
-がむしゃらに努力するだけだ。|願ってるだけで叶う夢なんて|ないんだからな。=
-それは……わかってるよ。|その方法を知りたいのに……=
-方法って言ってもな……=
-ふふっ……|錐生くんらしいね。=
-何か言いました？=
-具体的な計画はさておき、|まずは行動……|キミらしいと思ってね。=
-物事は順序が大切だよ。|無計画に行動してもすぐに|壁に当たってしまうよ。=
-悪かったですね、無計画で。|玖蘭先輩こそ無計画にケン|カ売ってるようですが。=
-もう！やめてよ、零！=
+# A3924 choose 零はどう思う？
+夢がどうやったら叶うか？|そんなの決まってるだろ。=How to make your dream come true? That’s obvious.
+どうしたらいいかな？=What should I do?
+がむしゃらに努力するだけだ。|願ってるだけで叶う夢なんて|ないんだからな。=Just give it your best effort. There’s no such thing as a dream that’ll come true if you only wish for it.
+それは……わかってるよ。|その方法を知りたいのに……=I... know that. I just wanted to know how to go about it.
+方法って言ってもな……=Even if you ask for a method...
+ふふっ……|錐生くんらしいね。=Hehehe... How very like you, Kiryu-kun.
+何か言いました？=What did you say?
+具体的な計画はさておき、|まずは行動……|キミらしいと思ってね。=Not making any specific plans and acting first... I was just thinking that’s very like you.
+物事は順序が大切だよ。|無計画に行動してもすぐに|壁に当たってしまうよ。=The order of things is important. If you act so haphazardly, you’ll soon hit a wall.
+悪かったですね、無計画で。|玖蘭先輩こそ無計画にケン|カ売ってるようですが。=My bad for being so haphazard. It seems to me you’re the one who’s picking a fight without having a plan, Kuran-senpai.
+もう！やめてよ、零！=Come on, cut it out, Zero!
 
 # A6C7C
-そういえば|夢が叶う方法があるよ、|<name>。=
-え！？本当ですか？|枢センパイ！=
-そんなに都合のいい方法が|あるんですか？玖蘭先輩。=
-うん。|『ナイトレインボウ』を|知ってるかな？=
+そういえば|夢が叶う方法があるよ、|<name>。=Come to think of it, there is a way to make your dreams come true, <name>.
+え！？本当ですか？|枢センパイ！=Huh!? Is that true?
+そんなに都合のいい方法が|あるんですか？玖蘭先輩。=Does such a convenient thing really exist? Kaname-senpai.
+うん。|『ナイトレインボウ』を|知ってるかな？=Indeed. Do you know of the Night Rainbow?
 『ナイトレインボウ』？|初めて聞きます。=The “Night Rainbow"? I’ve never heard of it.
-その名の通り|夜に出る虹の事だよ。=
+その名の通り|夜に出る虹の事だよ。=As the name suggests, it’s a rainbow that appears at night.
 とても神秘的な虹で|見た者にとって最高の祝福を|与えるとされている。=It’s an incredibly mysterious rainbow which is said to bless whoever lays eyes on it.
 見た人の夢を叶えるとも……=It’s even said to make people’s dreams come true.
 夜に見られる虹なんて|ステキですね。=A rainbow that appears at night, that does sound magical.
-虹は太陽の光が反射して起こる|現象でしょう？夜に出る虹|なんて聞いた事がない。=
-月が太陽の代わりを|果たすんだ。|月の光が最も強いとき……=
-もしかしたら、|ナイトレインボウが|見られるかもしれないよ。=
-僕たちは昼間はあまり|行動しないから、普通の虹も|あまり見た事がないんだ。=
-月夜に虹がかかったら|とてもキレイだろうね。=
+虹は太陽の光が反射して起こる|現象でしょう？夜に出る虹|なんて聞いた事がない。=Rainbows are things which occur when the sun’s rays get refracted, right? I’ve never heard of a rainbow coming out at night.
+月が太陽の代わりを|果たすんだ。|月の光が最も強いとき……=The moon takes over the role of the sun. When the moon’s light is at its strongest...
+もしかしたら、|ナイトレインボウが|見られるかもしれないよ。=You might be able to see a night rainbow.
+僕たちは昼間はあまり|行動しないから、普通の虹も|あまり見た事がないんだ。=We don’t go out much during the day, so we don’t really see many normal rainbows.
+月夜に虹がかかったら|とてもキレイだろうね。=To see a rainbow on a moonlight night, I’m sure it’d be very beautiful.
 私……|その『ナイトレインボウ』を|見たいです！=I... I want to see a Night Rainbow!
-ふふ……そうだね。|<name>なら見ることができる|かもしれないね。=
-<name>。|からかわれてるのに気づけよ。=
-だって……=
-夢は思い描く事が大切だよ。|叶うといいね、<name>の夢が。=
-はい！=
-フン……=
+ふふ……そうだね。|<name>なら見ることができる|かもしれないね。=Hehehe... Right. Since it’s you, <name>, you might be able to see one.
+<name>。|からかわれてるのに気づけよ。=Can’t you tell when you’re being made fun of?
+だって……=B-But...
+夢は思い描く事が大切だよ。|叶うといいね、<name>の夢が。=It’s important to believe in your dreams. I hope your dream comes true, <name>. 
+はい！=Yes!
+フン……=Hmph...
 
 # A7A1C
-（見回りを続ける私の前に、|枢センパイが現れたーー）=
-<name>。|いつも御苦労さま。=
-いえ……|これが私の務めですから……=
-<name>……？=
-（枢センパイは私の顔を|じっと見つめた）=
-（真っ直ぐ私を見つめる瞳は|吸い込まれそうなほど深く、|私は少しうろたえた）=
-ど、どうしたんですか？|枢センパイ。=
-<name>。|やっぱりいつもと様子が|違うね。=
-どうしたんだい？|悩み事があるんだったら|僕に話してくれないかな？=
-ありがとうございます|枢センパイ。|でも、大した事じゃないので。=
-<name>も僕に言えない事が|あるんだね。|なんだか、さみしいな。=
-（枢センパイはそういうと、|うつむいてしまった）=
-（悲しそうな枢センパイを|見るのが耐えられなくて、|私は思わず口を開いた）=
-あ、あの、枢センパイ！=
-なんだい？=
-枢センパイには、|夢ってありますか？=
-どうしたんだい？急に。=
-ヴァンパイアの人たちも|夢を見たりするんでしょうか？=
-夢、か……|ふふ、それは秘密だね。=
-えー？どうしてですか？|教えてくださいよ。|枢センパイ。=
-そうだな……|じゃあ<name>が教えてくれたら|僕も答えてあげる。=
-<name>には|何か夢があるのかな？=
+（見回りを続ける私の前に、|枢センパイが現れたーー）=(As I continued my rounds, there before me was Kaname-senpai.)
+<name>。|いつも御苦労さま。=Thank you for all your hard work, <name>.
+いえ……|これが私の務めですから……=Ah... This is just part of my job, so...
+<name>……？=<name>...?
+（枢センパイは私の顔を|じっと見つめた）=(Kaname-senpai stared at my face.)
+（真っ直ぐ私を見つめる瞳は|吸い込まれそうなほど深く、|私は少しうろたえた）=(Being watched by his deep, mesmerizing eyes, I couldn’t help but feel flustered.)
+ど、どうしたんですか？|枢センパイ。=W-What is it?
+<name>。|やっぱりいつもと様子が|違うね。=There’s definitely something different about you tonight.
+どうしたんだい？|悩み事があるんだったら|僕に話してくれないかな？=Did something happen? If something’s bothering you, won’t you tell me about it?
+ありがとうございます|枢センパイ。|でも、大した事じゃないので。=Thank you, Kaname-senpai. But, it’s nothing, really.
+<name>も僕に言えない事が|あるんだね。|なんだか、さみしいな。=So there are things that you can’t tell me. Somehow, that makes me feel a little lonely.
+（枢センパイはそういうと、|うつむいてしまった）=(As he said that, Kaname-senpai looked down at the ground.)
+（悲しそうな枢センパイを|見るのが耐えられなくて、|私は思わず口を開いた）=(I couldn’t bear to see him looking so sad, so I opened my mouth without thinking.)
+あ、あの、枢センパイ！=U-Um, Kaname-senpai!
+なんだい？=What is it?
+枢センパイには、|夢ってありますか？=Do you... have a dream?
+どうしたんだい？急に。=What’s this, all of a sudden?
+ヴァンパイアの人たちも|夢を見たりするんでしょうか？=Vampires dream about things too, right? 
+夢、か……|ふふ、それは秘密だね。=My dream, huh...? Hehehe, that’s a secret.
+えー？どうしてですか？|教えてくださいよ。|枢センパイ。=Huh? Why? Please tell me, Kaname-senpai!
+そうだな……|じゃあ<name>が教えてくれたら|僕も答えてあげる。=I know. If you’ll tell me yours, then I’ll give you my answer. 
+<name>には|何か夢があるのかな？=Do you have a dream, <name>?
 
-# A2150
-きみは今のままで|充分可愛いと思うけど|もっと可愛くなりたいの？=
-そうだ、支葵に聞けば|いいんじゃないかな？=
-彼はモデルもやってるから|そういう事には詳しいだろう|から……=
-（枢センパイともっと|お話がしたかったな……）=
-ん？どうしたんだい？<name>。|支葵に会いに行くのかい？=
+# A2150 choose 可愛くなりたい
+きみは今のままで|充分可愛いと思うけど|もっと可愛くなりたいの？=I think that you are already very cute as you are, but you want to become even cuter?
+そうだ、支葵に聞けば|いいんじゃないかな？=I know, why don’t you ask Shiki?
+彼はモデルもやってるから|そういう事には詳しいだろう|から……=He’s a model, so I’m sure he’ll know a lot about that sort of thing.
+（枢センパイともっと|お話がしたかったな……）=(I want to talk more with you, though...)
+ん？どうしたんだい？<name>。|支葵に会いに行くのかい？=Hm? What is it, <name>? Are you going to see Shiki?
 
 # A1088
-そう……|それじゃあ、気をつけて|いくんだよ？=
-（私は枢センパイにお礼を言い|見回りに戻る事にしたーー）=
+そう……|それじゃあ、気をつけて|いくんだよ？=I see... Then, take care on your way, all right?
+（私は枢センパイにお礼を言い|見回りに戻る事にしたーー）=(I said my goodbyes to Kaname-senpai and returned to my patrol.)
 
 # A0A20
-それじゃあもう１度聞くよ？=
+それじゃあもう１度聞くよ？=Then, allow me to ask again.
 
-# A1A1C
-賢く、か……|えらいね、<name>は。|すごく大事な事を言ったよ。=
-え？本当ですか？=
-うん、さすが<name>だね。=
-枢センパイにそんなに|褒められるなんて……=
+# A1A1C choose 賢くなりたい 
+賢く、か……|えらいね、<name>は。|すごく大事な事を言ったよ。=To be smart, hm? How admirable. I think that’s a very invaluable thing you just said.
+え？本当ですか？=Huh? Really?
+うん、さすが<name>だね。=Yes, it’s very like you, <name>.
+枢センパイにそんなに|褒められるなんて……=To receive such praise from you...
 
-# A2240
-仕事、か……|確かに仕事ができるというのは|素晴らしい事だね。=
-でも、僕はそういった事に|あまり興味がないから……|架院に聞けばいいと思うよ。=
-彼ならそういった事に|興味を示すかもしれない。=
-ん？どうしたんだい？<name>。|架院に会いに行くのかい？=
+# A2240 choose 仕事を身につけたい
+仕事、か……|確かに仕事ができるというのは|素晴らしい事だね。=A job, hm...? Being able to work is certainly a wonderful thing.
+でも、僕はそういった事に|あまり興味がないから……|架院に聞けばいいと思うよ。=But, I’m afraid that kind of thing doesn’t really interest me... I think you might be best talking to Kain about it.
+彼ならそういった事に|興味を示すかもしれない。=He might show more of an interest in that kind of thing.
+ん？どうしたんだい？<name>。|架院に会いに行くのかい？=Hm? What is it, <name>? Are you going to see Kain?
 
 # A093C
-別にあるのかい？|それじゃあもう１度聞くよ？=
+別にあるのかい？|それじゃあもう１度聞くよ？=Is there something else?|Then, allow me to ask again.
 
 # A1638
-でもね、<name>。|一口に賢いといっても、|色々な賢さがあるよ？=
-<name>はどういった賢さを|目指しているのかな？=
+でもね、<name>。|一口に賢いといっても、|色々な賢さがあるよ？=But, even if you say you’d like to be smart, there are many different forms of wisdom, you know?
+<name>はどういった賢さを|目指しているのかな？=What kind of wisdom are you hoping for?
 
-# A3950
-たくさん勉強して、|賢い人になりたいです。=
-そう。じゃあまずは、|授業中の居眠りを直す所から|はじめないとね。=
-ええ！？|ど、どうしてその事を……！=
-この学園のデイ･クラスには|とても元気で反抗的な人間が|１人いてね。=
-どうして人間なのに|夜にそんなに元気なのか、|訪ねた事があるんだ。=
-『俺達は昼間は授業中に|ぐっすり寝てるからだ』って|言ってたっけ。=
-零だ……！もう！|その、枢センパイ……|私たちは毎晩……=
-大丈夫、わかってるよ。|僕たちのためにいつも頑張って|くれて、感謝しているよ。=
-枢センパイ……|でも、授業中寝てばかりじゃ|いけないですよね。=
-これからは、ちゃんと授業を|受けるようにします！=
-そう……|<name>ならきっと|賢くなれるよ。=
+# A3950 choose 勉学を極める
+たくさん勉強して、|賢い人になりたいです。=I want to study a lot and become smart.
+そう。じゃあまずは、|授業中の居眠りを直す所から|はじめないとね。=I see. Then, the first think you need to do is to stop dozing off during class.
+ええ！？|ど、どうしてその事を……！=Huh!? How do you know about that--!?
+この学園のデイ･クラスには|とても元気で反抗的な人間が|１人いてね。=In this academy’s Day Class, there is one very spirited person who goes against the grain. 
+どうして人間なのに|夜にそんなに元気なのか、|訪ねた事があるんだ。=Wondering how a human could be so full of energy at night, I paid them a visit. 
+『俺達は昼間は授業中に|ぐっすり寝てるからだ』って|言ってたっけ。=As I recall, his his answer was, “because we sleep in the daytime during class”.
+零だ……！もう！|その、枢センパイ……|私たちは毎晩……=Zero...! Honestly!! Um, that is to say, because every night we...
+大丈夫、わかってるよ。|僕たちのためにいつも頑張って|くれて、感謝しているよ。=It’s okay, <name>, I understand. I’m grateful that you’re always trying you’re best for our sake.
+枢センパイ……|でも、授業中寝てばかりじゃ|いけないですよね。=Kaname-senpai... But, I can’t keep falling asleep in class like this forever. 
+これからは、ちゃんと授業を|受けるようにします！=From now on, I’m going to do my best to listen to them properly!
+そう……|<name>ならきっと|賢くなれるよ。=I see... Since it’s you, I’m sure that you can do it.
 
-# A2258
-商売を極める？=
-はい！|手広く効率よくお金を回して|大きく儲けたいです。=
-それは意外だな。|<name>はそんな事も考えて|いるんだね。=
-なんだか<name>がたくましく|見えるよ。商売を極めるのも|悪くないよ。=
-ありがとうございます。=
+# A2258 choose 商売を極める
+商売を極める？=Business sense?
+はい！|手広く効率よくお金を回して|大きく儲けたいです。=Yes! I want to spend my money wisely and make a big profit.
+それは意外だな。|<name>はそんな事も考えて|いるんだね。=That’s surprising. So you think about these kinds of things...
+なんだか<name>がたくましく|見えるよ。商売を極めるのも|悪くないよ。=Somehow, you seem very formidable, <name>. There’s nothing wrong with having business skills.#tc
+ありがとうございます。=Thank you.
 
-# A3028
-人間関係……？=
-はい。やっぱり人と人でもそう|ですけど、気持ちが通じ合うの|って難しいかなって思って。=
-だからそういうのがよくわかる|人になって、=
-人とヴァンパイアとでも理解|しあえる事を証明したいです。=
-僕はきみの気持ちがすごく|よくわかるよ。|<name>は僕の気持ちがわかる？=
-え……？それは……|気持ちって、どういう……=
-<name>はいじわるだね。|僕がきみをどう思っているか|知っているだろう？=
-あの……その……は、はい。=
-そうだろう？それがわかると|いう事は、<name>はもう|充分賢いんだよ。=
+# A3028 choose 人間関係を極める
+人間関係……？=People skills?
+はい。やっぱり人と人でもそう|ですけど、気持ちが通じ合うの|って難しいかなって思って。=Yes. Even when dealing with people, I think that sometimes it’s difficult to understand each other’s feelings.
+だからそういうのがよくわかる|人になって、=That’s why I want to become someone who really understands people,
+人とヴァンパイアとでも理解|しあえる事を証明したいです。=and prove that humans and vampires can come to understand each other.
+僕はきみの気持ちがすごく|よくわかるよ。|<name>は僕の気持ちがわかる？=I understand your feelings very well. Do you understand mine?
+え……？それは……|気持ちって、どういう……=Huh...? That’s... What do you mean by “feelings”...?
+<name>はいじわるだね。|僕がきみをどう思っているか|知っているだろう？=That’s cruel, <name>. You know what I think of you, don't you?
+あの……その……は、はい。=Um... that’s... Y-Yes...
+そうだろう？それがわかると|いう事は、<name>はもう|充分賢いんだよ。=Right? If you can tell that, I think you’re already plenty smart.
 
 # A1050
-<name>が賢くなりたいのは|よくわかったよ。=
-その、賢い<name>は|何になりたいのかな？=
+<name>が賢くなりたいのは|よくわかったよ。=I understand that you want to become smart.
+その、賢い<name>は|何になりたいのかな？=But, what does that smart-<name> want to become? 
 
-# A2A70
-ふふ、かわいいね。|確かに賢いお嫁さんは|悪くないよ。=
-やっぱり、そうですよね！？|未来のダンナ様をしっかり|サポートしたいというか……=
-<name>と結婚する人って|どんな人だろうね？=
-そ、それはその……=
-（私は枢センパイの顔が見れず|うつむいてしまった）=
-どうしたの？<name>。|顔が真っ赤じゃないか。=
-もう、枢センパイのいじわる。=
-ふふ、ごめんね、<name>。=
+# A2A70 choose お嫁さん
+ふふ、かわいいね。|確かに賢いお嫁さんは|悪くないよ。=Hehe, that’s cute. A smart wife is certainly not a bad thing.
+やっぱり、そうですよね！？|未来のダンナ様をしっかり|サポートしたいというか……=You think so too!? I’d want to be able to firmly support my future husband, and things...
+<name>と結婚する人って|どんな人だろうね？=What kind of person will the person you marry be like, I wonder?
+そ、それはその……=T-That’s--!
+（私は枢センパイの顔が見れず|うつむいてしまった）=(I turned away, unable to look at Kaname-senpai’s face.)
+どうしたの？<name>。|顔が真っ赤じゃないか。=What’s wrong, <name>? You’ve gone quite red.
+もう、枢センパイのいじわる。=You’re such a tease, Kaname-senpai.
+ふふ、ごめんね、<name>。=Hehe, I’m sorry.
 
-# A1E98
-支配者……？|<name>ってけっこう大胆だね。=
-ええ？大胆ですか？|でも、みんなに理不尽な命令|するんじゃないです。=
-みんなケンカしないで仲良く|しなさい、とかそういう命令を|出したいなぁ、なんて……=
-ふふ……<name>。|きみは優しいんだね。=
-そ、そんな事……=
+# A1E98 choose 支配者
+支配者……？|<name>ってけっこう大胆だね。=A ruler...? You’re pretty bold, aren’t you?
+ええ？大胆ですか？|でも、みんなに理不尽な命令|するんじゃないです。=Bold? I wouldn’t go round giving unreasonable orders to anyone, or things...
+みんなケンカしないで仲良く|しなさい、とかそういう命令を|出したいなぁ、なんて……=Just that everyone should try to get along without fighting, stuff like that...
+ふふ……<name>。|きみは優しいんだね。=Hehe... You’re very kind, <name>.
+そ、そんな事……=T-That’s not...
 
-# A1EAC
-こんなに可愛いカリスマが|いたら、みんなが憧れるね。=
-そうだといいんですけど……|やっぱり私って変な事|言ってますね。=
-そうだね。否定はしないよ。=
-そんなぁ！|枢センパイひどいです！=
-はは、ごめんごめん。=
+# A1EAC choose カリスマ 
+こんなに可愛いカリスマが|いたら、みんなが憧れるね。=Being so cute and charismatic, everyone will chase you.
+そうだといいんですけど……|やっぱり私って変な事|言ってますね。=That’s true... I said something weird.
+そうだね。否定はしないよ。=I don’t deny that.
+そんなぁ！|枢センパイひどいです！=Ah! That’s so mean, Kaname-senpai!
+はは、ごめんごめん。=Hahaha, sorry.
 
 # A7EA4
-結局、枢センパイの夢って|なんですか？=
-夢…か。そうだね……=
-僕たちは人間とは違って寿命も|はるかに長いし、望まなくても|色々な物が手に入る。=
-夢なんて見なくても|いいのかもしれない。=
-でもね、僕たちヴァンパイアに|なくて、きみたち人間に|あるものだってあるんだよ。=
-それは『儚さ』さ。|だからこそ僕は、自分にない|ものを持つ人間に……=
-そう。<name>に夢を見いだす|事もあるんだよ。=
-枢センパイが私に夢を……？|私は、人間とヴァンパイアが|共存できる世界を夢見ます。=
-素晴らしいね……|<name>は本当にいい子だよ。=
-枢センパイ、|ありがとうございます。|話を聞いてくれて。=
-いいんだよ。<name>が|もう１人のガーディアンに|この話をしてなくてよかった。=
-無粋な彼はきっと、|<name>のこの素晴らしい夢を|否定するだろうから……=
-零はそんな事……=
-誰が無粋だって？=
-ぜ、零！？=
-きみの話をしていたんだよ。|平和を乱そうとする錐生くん。=
-きみのようにヴァンパイアを|憎む人間もいるというのに、=
-<name>の夢は、人間と僕らの|共存だというんだ。|立派だと思わないかい？=
-玖蘭先輩のような恐ろしい|ヴァンパイアもいるってのに|それはまた儚い夢だな。=
-錐生くん。|少しは<name>を見習ったら|どうだい？=
-いつもギラギラしたその目で|僕たちを見張るのも、|疲れるだろう？=
-あんたらがこの世界から|いなくなれば、この目つきも|直るだろうけどな。=
-ちょ、ちょっと！零！|枢センパイも！！=
-（零が枢センパイに銃口を|向けようとするのを止めるのに|私は必死だったーー）=
+結局、枢センパイの夢って|なんですか？=So, what’s your dream, Kaname-senpai? 
+夢…か。そうだね……=My dream? Right...
+僕たちは人間とは違って寿命も|はるかに長いし、望まなくても|色々な物が手に入る。=Unlike humans, we have a much longer lifespan, and even if we don’t want them, we receive all sorts of things.
+夢なんて見なくても|いいのかもしれない。=Maybe it’s not necessary for us to have things like dreams.
+そうですか……@A7EA4=I see...
+でもね、僕たちヴァンパイアに|なくて、きみたち人間に|あるものだってあるんだよ。=But, there’s something which humans have that vampires don’t.
+それは『儚さ』さ。|だからこそ僕は、自分にない|ものを持つ人間に……=Your “transience”. That’s why I’m interested in these humans who have what I don’t...
+そう。<name>に夢を見いだす|事もあるんだよ。=I’m interested in finding out about your dreams, <name>.
+枢センパイが私に夢を……？|私は、人間とヴァンパイアが|共存できる世界を夢見ます。=You’re interested in my dream...? I dream of a world where humans and vampires can coexist.
+素晴らしいね……|<name>は本当にいい子だよ。=That’s wonderful... You really are a good girl.
+枢センパイ、|ありがとうございます。|話を聞いてくれて。=Thank you, Kaname-senpai. For listening to me...
+いいんだよ。<name>が|もう１人のガーディアンに|この話をしてなくてよかった。=It’s fine. I’m glad you didn’t decide to tell this story to the other Guardian...
+無粋な彼はきっと、|<name>のこの素晴らしい夢を|否定するだろうから……=Boorish as he is, I’m sure that he would just dismiss that wonderful dream of yours.
+零はそんな事……=Zero would--
+誰が無粋だって？=Who are you calling boorish?
+ぜ、零！？=Z-Zero!
+きみの話をしていたんだよ。|平和を乱そうとする錐生くん。=I was talking about you. Hindrance-to-peace Kiryu-kun.
+きみのようにヴァンパイアを|憎む人間もいるというのに、=Even though there are people like you hate vampires,
+<name>の夢は、人間と僕らの|共存だというんだ。|立派だと思わないかい？=<name> dreams of a world where we can co-exist with humans. Don’t you think that’s wonderful?
+玖蘭先輩のような恐ろしい|ヴァンパイアもいるってのに|それはまた儚い夢だな。=Even though there are awful vampires like you, Kuran-senpai, that’s still just an empty dream.
+錐生くん。|少しは<name>を見習ったら|どうだい？=Kiryu-kun. Can’t you learn from <name> a little bit?
+いつもギラギラしたその目で|僕たちを見張るのも、|疲れるだろう？=Aren’t you tired of always watching us with those hateful eyes?
+あんたらがこの世界から|いなくなれば、この目つきも|直るだろうけどな。=If you were gone from this world, I wouldn’t have to make this expression.
+ちょ、ちょっと！零！|枢センパイも！！=H-Hey, Zero! Kaname-senpai! 
+（零が枢センパイに銃口を|向けようとするのを止めるのに|私は必死だったーー）=(I was desperate to try and stop Zero from pulling his gun on Kaname-senpai.)
 
 # A94A8
 （見回りを続ける私の前に、|藍堂センパイが現れたーー）=
@@ -15444,20 +15445,20 @@ Sleep well...
 <ch1>よく寝ること<00><05>|<ch2>よく食べること<00><06>|<ch3>よく運動すること<00><07>=
 <ch1>それが務めだから<00><09>|<ch2>秘密<00>||<ch3>守りたい人がいるから……<00><94><0B>=
 <ch1>枢センパイはどう思います？<00><00>|<ch2>零はどう思う？<00><01>=<ch1>What do you think, Kaname-senpai？<00><00>|<ch2>What do you think, Zero?<00><01>
-<ch1>可愛くなりたい<00><00>|<ch2>賢くなりたい<00><01>|<ch3>仕事を身につけたい<00><02>=
-<ch1>賢くなりたい<00><01>|<ch2>仕事を身につけたい<00><02>=
-<ch1>可愛くなりたい<00><00>|<ch2>賢くなりたい<00><01>=
-<ch1>賢くなりたい<00><01>=
-<ch1>はい、そうします。<00><03>|<ch2>いえ、私の本当の夢は……<00><04>=
-<ch1>はい、そうします<00><07>|<ch2>いえ、私の本当の夢は……<00><08>=
-<ch1>勉学を極める<00><09>|<ch2>商売を極める<00>||<ch3>人間関係を極める<00><92><0B>=
-<ch1>お嫁さん<00><92><0D>|<ch2>支配者<00><94><0E>|<ch3>カリスマ<00><93><0F>=
+<ch1>可愛くなりたい<00><00>|<ch2>賢くなりたい<00><01>|<ch3>仕事を身につけたい<00><02>=<ch1>To be cute.<00><00>|<ch2>To be smart.<00><01>|<ch3>To get a job.<00><02>
+<ch1>賢くなりたい<00><01>|<ch2>仕事を身につけたい<00><02>=<ch1>To be smart.<00><01>|<ch2>To get a job.<00><02>
+<ch1>可愛くなりたい<00><00>|<ch2>賢くなりたい<00><01>=<ch1>To be cute.<00><00>|<ch2>To be smart.00><01>
+<ch1>賢くなりたい<00><01>=<ch1>To be smart.<00><01>
+<ch1>はい、そうします。<00><03>|<ch2>いえ、私の本当の夢は……<00><04>=<ch1>Yes, I will.<00><03>|<ch2>Actually, my real dream is...<00><04>
+<ch1>はい、そうします<00><07>|<ch2>いえ、私の本当の夢は……<00><08>=<ch1>Yes, I will.<00><07>|<ch2>Actually, my real dream is...<00><08>
+<ch1>勉学を極める<00><09>|<ch2>商売を極める<00>||<ch3>人間関係を極める<00><92><0B>=<ch1>Book smarts.<00><09>|<ch2>Business sense.<00>||<ch3>People skills.<00><92><0B>
+<ch1>お嫁さん<00><92><0D>|<ch2>支配者<00><94><0E>|<ch3>カリスマ<00><93><0F>=<ch1>A wife.<00><92><0D>|<ch2>A ruler.<00><94><0E>|<ch3>Charismatic.<00><93><0F>
 <ch1>色んな経験を積みたい<00><01>|<ch2>色んな事を知りたい<00><02>|<ch3>賢くなりたい<00><03>=
 <ch1>色んな経験を積みたい<00><01>|<ch2>賢くなりたい<00><03>=
 <ch1>色んな経験を積みたい<00><01>|<ch2>色んな事を知りたい<00><02>=
 <ch1>色んな経験を積みたい<00><01>=
-<ch1>はい、そうします<00><05>|<ch2>いえ、本当の夢は……<00><06>=
-<ch1>はい、そうします<00><08>|<ch2>いえ、本当の夢は……<00><09>=
+<ch1>はい、そうします<00><05>|<ch2>いえ、本当の夢は……<00><06>=<ch1>Yes, I will.<00><05>|<ch2>Actually, my real dream is...<00><06>
+<ch1>はい、そうします<00><08>|<ch2>いえ、本当の夢は……<00><09>=<ch1>Yes, I will.<00><08>|<ch2>Actually, my real dream is...<00><09>
 <ch1>セラピスト<00>い|<ch2>作家<00>||<ch3>旅人<00><94><0B>=
 <ch1>お金<00><97><0E>|<ch2>好きな人の気持ち<00><92><0F>|<ch3>人望<00>波=
 <ch1>藍堂センパイはどう思います？<00><00>|<ch2>架院センパイはどう思います？<00><01>=<ch1>What do you think, Hanabusa-senpai？<00><00>|<ch2>What do you think, Akatsuki-senpai？<00><01>
@@ -15465,15 +15466,15 @@ Sleep well...
 <ch1>ライフワークを見つけたい<00><01>|<ch2>健康でいたい<00><02>=
 <ch1>いろんな人と接して|見聞を広げたい<00><00>|<ch2>ライフワークを見つけたい<00><01>=
 <ch1>ライフワークを見つけたい<00><01>=
-<ch1>はい、そうします<00>ヂ|<ch2>いえ、本当の夢は……<00><04>=
-<ch1>はい、そうします<00><07>|<ch2>いえ、本当の夢は……<00><08>=
+<ch1>はい、そうします<00>ヂ|<ch2>いえ、本当の夢は……<00><04>=<ch1>Yes, I will.<00>ヂ|<ch2>Actually, my real dream is...<00><04>
+<ch1>はい、そうします<00><07>|<ch2>いえ、本当の夢は……<00><08>=<ch1>Yes, I will.<00><07>|<ch2>Actually, my real dream is...<00><08>
 <ch1>特技を生かしたもの<00><09>|<ch2>頭脳を生かしたもの<00>||<ch3>人柄を生かしたもの<00><92><0B>=
 <ch1>世の中のため<00><92><0D>|<ch2>好きな人のため<00><92><0E>|<ch3>自分のため<00><92><0F>=
 <ch1>仙人になりたい<00><00>|<ch2>みんなのリーダーになりたい<00><01>|<ch3>沢山の人にチヤホヤされたい<00><02>=
 <ch1>仙人になりたい<00><00>|<ch2>沢山の人にチヤホヤされたい<00><02>=
 <ch1>仙人になりたい<00><00>|<ch2>みんなのリーダーになりたい<00><01>=
 <ch1>仙人になりたい=
-<ch1>はい、そうします<00><04>|<ch2>いえ、本当の夢は……<00><05>=
+<ch1>はい、そうします<00><04>|<ch2>いえ、本当の夢は……<00><05>=<ch1>Yes, I will.<00><04>|<ch2>Actually, my real dream is...<00><05>
 <ch1>人間の事<00><09>|<ch2>ヴァンパイアの事<00>||<ch3>色んなウラの事<00><94><0B>=
 <ch1>社交的にするコツ<00><92><0D>|<ch2>周りに優しくするコツ<00><92><0E>|<ch3>変わり者と付き合うコツ<00><92><0F>=
 <ch1>一条センパイはどう思います？<00><00>|<ch2>支葵センパイはどう思います？<00><01>=<ch1>What do you think, Ichijo-senpai？<00><00>|<ch2>What do you think, Shiki-senpai？<00><01>
@@ -15497,9 +15498,9 @@ Sleep well...
 <ch1>バラの花言葉について聞く<00><92><0B>|<ch2><00><71>ライングローズについて聞く<00><92><0C>=
 <ch1>子供を探す<00><92><0D>|<ch2>レポーターを探す<00><92><0E>=
 <ch1>このままじっと隠れる<00>ヂ|<ch2>あえて外へ出る<00>う=
-<ch1>錐生　零<00>麺|<ch2>玖蘭　枢<00>紺|<ch3>他の人……<00>言=
-<ch1>藍堂　英<00>画|<ch2>架院　暁<00>賀|<ch3>他の人……<00>言=
-<ch1>一条　拓麻<00>培|<ch2>支葵　千里<00>匁|<ch3>考え直す<00>う=
+<ch1>錐生　零<00>麺|<ch2>玖蘭　枢<00>紺|<ch3>他の人……<00>言=<ch1>Zero Kiryu<00>麺|<ch2>Kaname Kura<00>紺|<ch3>Someone else...<00>言
+<ch1>藍堂　英<00>画|<ch2>架院　暁<00>賀|<ch3>他の人……<00>言=<ch1>Hanabusa Aido<00>画|<ch2>Akatsuki Kain<00>賀|<ch3>Someone else...<00>言
+<ch1>一条　拓麻<00>培|<ch2>支葵　千里<00>匁|<ch3>考え直す<00>う=<ch1>Takuma Ichijo<00>培|<ch2>Senri Shiki<00>匁|<ch3>Let me rethink...<00>う
 <ch1>零だ<00><01>|<ch2>枢センパイだ<00><02>|<ch3>あ……<00><09>=
 <ch1>藍堂センパイだ<00><03>|<ch2>架院センパイだ<00><04>|<ch3>あ……<00>|=
 <ch1>一条センパイだ<00><05>|<ch2>支葵センパイだ<00><06>|<ch3>あ……<00><07>=

@@ -1,11 +1,11 @@
 
 !FILE:DataErrors
-データを読めませんでした。|電源を切って、カードを|差し込み直してください。=Unable to read data. Please turn off the power and reinsert the game cartridge.
+データを読めませんでした。|電源を切って、カードを|差し込み直してください。=Unable to read data. Please turn off the power and reinsert the game.
 データが壊れています。|全てのデータを初期化します。=Data corrupted. Formatting all data.
 データが壊れています。|選んだデータを初期化します。=Data corrupted. Formatting selected data.
-データを書けませんでした。|電源を切って、カードを|差し込み直してください。=Unable to write data. Please turn off the power and reinsert the game cartridge.
-データの初期化に|失敗しました。|電源を切って、カードを|差し込み直してください。=Failed to format data. Please turn off the power and reinsert the game cartridge.
-データが壊れています。|データを削除しても|よろしいですか？=Data corrupted. Are you sure you wish to delete the data?
+データを書けませんでした。|電源を切って、カードを|差し込み直してください。=Unable to write data. Please turn off the power and reinsert the game.
+データの初期化に|失敗しました。|電源を切って、カードを|差し込み直してください。=Failed to format data. Please turn off the power and reinsert the game.
+データが壊れています。|データを削除しても|よろしいですか？=Data corrupted. Do you wish to delete the data?
 
 !FILE:NameEntry
 苗字を入力して下さい。=Enter surname.#are these staying in the Japanese order surname - given name?
@@ -47,12 +47,12 @@ TEXTの表示速度を設定します。=Set the text speed.
 薔薇                =Rose
 
 !FILE:ShowingDresses
-枢センパイこんばんは！|このドレス、どうですか？=Good evening, Kaname-senpai!|What do you think of this dress?
-藍堂センパイこんばんは！|このドレス、どうですか？=Good evening, Hanabusa-senpai!|What do you think of this dress?
-架院センパイこんばんは！|このドレス、どうですか？=Good evening, Akatsuki-senpai!|What do you think of this dress?
-一条センパイこんばんは！|このドレス、どうですか？=Good evening, Ichijo-senpai!|What do you think of this dress?
-支葵センパイこんばんは！|このドレス、どうですか？=Good evening, Shiki-senpai!|What do you think of this dress?
-零こんばんわ！|このドレス、どう？=Good evening, Zero!|How’s my dress?
+枢センパイこんばんは！|このドレス、どうですか？=Good evening, Kaname-senpai!
+藍堂センパイこんばんは！|このドレス、どうですか？=Good evening, Hanabusa-senpai!
+架院センパイこんばんは！|このドレス、どうですか？=Good evening, Akatsuki-senpai!
+一条センパイこんばんは！|このドレス、どうですか？=Good evening, Ichijo-senpai!
+支葵センパイこんばんは！|このドレス、どうですか？=Good evening, Shiki-senpai!
+零こんばんわ！|このドレス、どう？=Hey, Zero!
 
 !FILE:Items
 ぺんぎんきぐるみ    =Penguin Costume

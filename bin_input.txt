@@ -45,6 +45,8 @@
 架院　暁=Kain Akatsuki
 一条　拓麻=Takuma Ichijo
 支葵　千里=Senri Shiki
+
+# AC240
 ？？？=???
 女子生徒１=Girl  1#leave double spacing
 女子生徒２=Girl  2
@@ -4152,7 +4154,7 @@ Sleep well...
 枢様は僕の事をあまり信用して|下さらない！=He doesn’t have much faith in me!
 ……い、いや、ちがうぞ、|断じてそんなことが|あるわけない！=...N-No, that’s wrong, he never had any faith to begin with.
 その様な事を|言われても困ります。=I’m not sure what I’m supposed to say to that.
-英、ほどほどにしておけよ。|玖蘭寮長はお前の事も、|一応、信用してるって。=Hanabusa, be sensible. President Kuran has at least a bit of faith in you. 
+英、ほどほどにしておけよ。|玖蘭寮長はお前の事も、|一応、信用してるって。=Hanabusa, be sensible. President Kuran has at least a bit of faith in you.
 
 # A3874
 藍堂センパイは星煉さんと|ペアを組んだんですね。|楽しんでますか？二人とも。=Aido-senpai, you were paired with Seiren-san? Are the two of you having fun?
@@ -5101,7 +5103,7 @@ Sleep well...
 ふふ……そうだね。|<name>なら見ることができる|かもしれないね。=Hehehe... Right. Since it’s you, <name>, you might be able to see one.
 <name>。|からかわれてるのに気づけよ。=Can’t you tell when you’re being made fun of?
 だって……=B-But...
-夢は思い描く事が大切だよ。|叶うといいね、<name>の夢が。=It’s important to believe in your dreams. I hope your dream comes true, <name>. 
+夢は思い描く事が大切だよ。|叶うといいね、<name>の夢が。=It’s important to believe in your dreams. I hope your dream comes true, <name>.
 はい！=Yes!
 フン……=Hmph...
 
@@ -5123,10 +5125,10 @@ Sleep well...
 なんだい？=What is it?
 枢センパイには、|夢ってありますか？=Do you... have a dream?
 どうしたんだい？急に。=What’s this, all of a sudden?
-ヴァンパイアの人たちも|夢を見たりするんでしょうか？=Vampires dream about things too, right? 
+ヴァンパイアの人たちも|夢を見たりするんでしょうか？=Vampires dream about things too, right?
 夢、か……|ふふ、それは秘密だね。=My dream, huh...? Hehehe, that’s a secret.
 えー？どうしてですか？|教えてくださいよ。|枢センパイ。=Huh? Why? Please tell me, Kaname-senpai!
-そうだな……|じゃあ<name>が教えてくれたら|僕も答えてあげる。=I know. If you’ll tell me yours, then I’ll give you my answer. 
+そうだな……|じゃあ<name>が教えてくれたら|僕も答えてあげる。=I know. If you’ll tell me yours, then I’ll give you my answer.
 <name>には|何か夢があるのかな？=Do you have a dream, <name>?
 
 # A2150 choose 可愛くなりたい
@@ -5143,7 +5145,7 @@ Sleep well...
 # A0A20
 それじゃあもう１度聞くよ？=Then, allow me to ask again.
 
-# A1A1C choose 賢くなりたい 
+# A1A1C choose 賢くなりたい
 賢く、か……|えらいね、<name>は。|すごく大事な事を言ったよ。=To be smart, hm? How admirable. I think that’s a very invaluable thing you just said.
 え？本当ですか？=Huh? Really?
 うん、さすが<name>だね。=Yes, it’s very like you, <name>.
@@ -5166,12 +5168,12 @@ Sleep well...
 たくさん勉強して、|賢い人になりたいです。=I want to study a lot and become smart.
 そう。じゃあまずは、|授業中の居眠りを直す所から|はじめないとね。=I see. Then, the first think you need to do is to stop dozing off during class.
 ええ！？|ど、どうしてその事を……！=Huh!? How do you know about that--!?
-この学園のデイ･クラスには|とても元気で反抗的な人間が|１人いてね。=In this academy’s Day Class, there is one very spirited person who goes against the grain. 
-どうして人間なのに|夜にそんなに元気なのか、|訪ねた事があるんだ。=Wondering how a human could be so full of energy at night, I paid them a visit. 
+この学園のデイ･クラスには|とても元気で反抗的な人間が|１人いてね。=In this academy’s Day Class, there is one very spirited person who goes against the grain.
+どうして人間なのに|夜にそんなに元気なのか、|訪ねた事があるんだ。=Wondering how a human could be so full of energy at night, I paid them a visit.
 『俺達は昼間は授業中に|ぐっすり寝てるからだ』って|言ってたっけ。=As I recall, his his answer was, “because we sleep in the daytime during class”.
 零だ……！もう！|その、枢センパイ……|私たちは毎晩……=Zero...! Honestly!! Um, that is to say, because every night we...
 大丈夫、わかってるよ。|僕たちのためにいつも頑張って|くれて、感謝しているよ。=It’s okay, <name>, I understand. I’m grateful that you’re always trying you’re best for our sake.
-枢センパイ……|でも、授業中寝てばかりじゃ|いけないですよね。=Kaname-senpai... But, I can’t keep falling asleep in class like this forever. 
+枢センパイ……|でも、授業中寝てばかりじゃ|いけないですよね。=Kaname-senpai... But, I can’t keep falling asleep in class like this forever.
 これからは、ちゃんと授業を|受けるようにします！=From now on, I’m going to do my best to listen to them properly!
 そう……|<name>ならきっと|賢くなれるよ。=I see... Since it’s you, I’m sure that you can do it.
 
@@ -5195,7 +5197,7 @@ Sleep well...
 
 # A1050
 <name>が賢くなりたいのは|よくわかったよ。=I understand that you want to become smart.
-その、賢い<name>は|何になりたいのかな？=But, what does that smart-<name> want to become? 
+その、賢い<name>は|何になりたいのかな？=But, what does that smart-<name> want to become?
 
 # A2A70 choose お嫁さん
 ふふ、かわいいね。|確かに賢いお嫁さんは|悪くないよ。=Hehe, that’s cute. A smart wife is certainly not a bad thing.
@@ -5214,7 +5216,7 @@ Sleep well...
 ふふ……<name>。|きみは優しいんだね。=Hehe... You’re very kind, <name>.
 そ、そんな事……=T-That’s not...
 
-# A1EAC choose カリスマ 
+# A1EAC choose カリスマ
 こんなに可愛いカリスマが|いたら、みんなが憧れるね。=Being so cute and charismatic, everyone will chase you.
 そうだといいんですけど……|やっぱり私って変な事|言ってますね。=That’s true... I said something weird.
 そうだね。否定はしないよ。=I don’t deny that.
@@ -5222,7 +5224,7 @@ Sleep well...
 はは、ごめんごめん。=Hahaha, sorry.
 
 # A7EA4
-結局、枢センパイの夢って|なんですか？=So, what’s your dream, Kaname-senpai? 
+結局、枢センパイの夢って|なんですか？=So, what’s your dream, Kaname-senpai?
 夢…か。そうだね……=My dream? Right...
 僕たちは人間とは違って寿命も|はるかに長いし、望まなくても|色々な物が手に入る。=Unlike humans, we have a much longer lifespan, and even if we don’t want them, we receive all sorts of things.
 夢なんて見なくても|いいのかもしれない。=Maybe it’s not necessary for us to have things like dreams.
@@ -5245,7 +5247,7 @@ Sleep well...
 錐生くん。|少しは<name>を見習ったら|どうだい？=Kiryu-kun. Can’t you learn from <name> a little bit?
 いつもギラギラしたその目で|僕たちを見張るのも、|疲れるだろう？=Aren’t you tired of always watching us with those hateful eyes?
 あんたらがこの世界から|いなくなれば、この目つきも|直るだろうけどな。=If you were gone from this world, I wouldn’t have to make this expression.
-ちょ、ちょっと！零！|枢センパイも！！=H-Hey, Zero! Kaname-senpai! 
+ちょ、ちょっと！零！|枢センパイも！！=H-Hey, Zero! Kaname-senpai!
 （零が枢センパイに銃口を|向けようとするのを止めるのに|私は必死だったーー）=(I was desperate to try and stop Zero from pulling his gun on Kaname-senpai.)
 
 # A94A8
@@ -15895,7 +15897,11 @@ vk_se6_010=
 <01><02><0C><01><44><01><05><04><00><BE><01><0D><00><00><00><00>=
 <01><02><04><01><44><01><0D><00>=
 <01><02><08><01><44><01><0D><00>=
+
+# B07E8
 <08><00><09><00><08><00><09><01><01><0D><00><00>=
+
+# B07F4
 <02><01><01><71><00><00><1E><02><01><01><72><01><00><1E><01><06><01><71><01><00><02><01><06><01><72><01><00><02><01><03><04><00><11><01><0B><00><14><01><11><01><01><0D><00><00>=
 <04><01><01><0D><00><00><00><00>=
 <04><00><01><0D><00><00><00><00>=
@@ -16042,6 +16048,8 @@ vk_se6_010=
 <01><06><01><1E><0A><00><00><01><06><01><20><0A><00><00><01><06><01><22><0A><00><00><01><06><01><24><0A><00><00><01><06><01><26><0A><00><00><01><06><01><28><0A><00><00><01><06><01><2A><0A><00><00><01><0D><00>=
 <01><06><01><2C><0A><00><01><01><03><04><00><AC><01><06><01><4F><01><00><01><01><05><04><01><01><01><0D><00><00>=
 <01><06><01><2E><0A><00><01><01><03><04><00><D9><01><06><01><4F><01><00><01><01><05><04><01><01><01><0D><00><00>=
+
+# B0BDC
 <01><09><00><0D><0A><00><01><00><00><00><01><01><11><00><01><09><01><57><0A><00><07><01><01><14><02><01><04><02><01><11><01><01><09><01><57><0A><00><06><01><01><14><02><01><11><02><01><0D><00>=
 <01><08><01><7A><0A><01><14><01><08><01><7B><0A><01><15><01><03><04><00><E7><01><06><00><09><0A><00><00><01><06><00><0A><0A><00><00><01><06><00><0B><0A><00><01><01><06><00><0C><0A><00><01><01><06><01><61><0A><00><1E><01><06><01><62><0A><00><1F><01><03><04><01><18><01><05><04><00><E8><01><0D><00><00><00>=
 <01><06><01><64><0A><FF><FF><01><05><04><00><EF><01><0D><00><00>=

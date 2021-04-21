@@ -47,11 +47,11 @@ TEXTの表示速度を設定します。=Set the text speed.
 薔薇                =Rose
 
 !FILE:ShowingDresses
-枢センパイこんばんは！|このドレス、どうですか？=Good evening, Kaname-senpai!
-藍堂センパイこんばんは！|このドレス、どうですか？=Good evening, Hanabusa-senpai!
-架院センパイこんばんは！|このドレス、どうですか？=Good evening, Akatsuki-senpai!
-一条センパイこんばんは！|このドレス、どうですか？=Good evening, Ichijo-senpai!
-支葵センパイこんばんは！|このドレス、どうですか？=Good evening, Shiki-senpai!
+枢センパイこんばんは！|このドレス、どうですか？=Good evening, Kaname!
+藍堂センパイこんばんは！|このドレス、どうですか？=Good evening, Hanabusa!
+架院センパイこんばんは！|このドレス、どうですか？=Good evening, Akatsuki!
+一条センパイこんばんは！|このドレス、どうですか？=Good evening, Ichijo!
+支葵センパイこんばんは！|このドレス、どうですか？=Good evening, Shiki!
 零こんばんわ！|このドレス、どう？=Hey, Zero!
 
 !FILE:Items
@@ -612,17 +612,17 @@ TEXTの表示速度を設定します。=Set the text speed.
 零……|まだ若いな…。=
 小娘。|お前、甘やかされ過ぎだな。=
 おまえ仮にも|ガーディアンだろうが！=
-枢センパイかな？=Kaname-senpai?
-藍堂センパイかな？=Aido-senpai?
-架院センパイかな？=Kain-senpai?
-一条センパイかな？=Ichijo-senpai?
-支葵センパイかな？=Shiki-senpai?
+枢センパイかな？=Kaname?
+藍堂センパイかな？=Aido?
+架院センパイかな？=Kain?
+一条センパイかな？=Ichijo?
+支葵センパイかな？=Shiki?
 零かな？=Zero?
-枢センパイに決めたよ。=Kaname-senpai it is!
-藍堂センパイに決めたよ。=Aido-senpai it is!
-架院センパイに決めたよ。=Kain-senpai it is!
-一条センパイに決めたよ。=Ichijo-senpai it is!
-支葵センパイに決めたよ。=Shiki-senpai it is!
+枢センパイに決めたよ。=Kaname it is!
+藍堂センパイに決めたよ。=Aido it is!
+架院センパイに決めたよ。=Kain it is!
+一条センパイに決めたよ。=Ichijo it is!
+支葵センパイに決めたよ。=Shiki it is!
 零に決めたよ。=Zero it is!
 私が買った服をあの人に|着てもらってデートとか……|夢の中だしいいよね？=If I bought some clothes to have my special someone wear on a date... A girl can dream, right?
 誰がいいかな？=Who should I pick?

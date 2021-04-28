@@ -8250,129 +8250,129 @@ Sleep well...
 寮まで送っていくぞ。|お前にまた何かあったら|大変だしね。=I’ll escort you back to your dorm. It would be terrible if something else were to happen to you.
 
 # A49B8
-（背筋が凍り付くような|恐ろしい体験をした翌日ーー）=
-（私を悩ませていた不安は|すべて消えていた）=
-（連日世間を騒がせていた|殺人事件は、公式報道でーー）=
-（ヴァンパイアと|クライングローズの伝説を|悪用した猟奇殺人としてーー）=
-（片付けられ、|事件は終息を迎えた）=
-（私を犯人扱いしていた|生徒達の中には、面と向かって|謝罪してくれる子もいた）=
-（すべてが元通り……）=
-（まるで長い悪夢を見ていた|かのように思えるほど|幕引きはあっけなかった）=
-（おそらく、枢センパイが|影で動いてくれた|おかげだと思う）=
-(はっきりとは言わないけど、|静かに海を照らす灯台の|灯りのようなーー）=
-（枢センパイの優しさを|私は肌で感じていた……）=
-お呼びですか、理事長。|私、これから見回りに……=
-な、何ですか！？|急に抱きつかないで|くださいっ！=
-<name>～！|夕べは大変だったね。=
+（背筋が凍り付くような|恐ろしい体験をした翌日ーー）=(That terrible experience that made my blood run cold. It had been a few days since then.)
+（私を悩ませていた不安は|すべて消えていた）=(All the anxieties weighing on my heart had disappeared.)
+（連日世間を騒がせていた|殺人事件は、公式報道でーー）=(That murder had sent the public into a constant frenzy.)
+（ヴァンパイアと|クライングローズの伝説を|悪用した猟奇殺人としてーー）=(Officially, the culprit was reported as deranged, perverted by legends of vampires and Crying Roses.)
+（片付けられ、|事件は終息を迎えた）=(Any further investigation was dismissed, and the case was closed.)
+（私を犯人扱いしていた|生徒達の中には、面と向かって|謝罪してくれる子もいた）=(Some of the students who had treated me as a criminal apologized to me directly.)
+（すべてが元通り……）=(Everything was back to normal...)
+（まるで長い悪夢を見ていた|かのように思えるほど|幕引きはあっけなかった）=(It ended so abruptly, almost as if I was just having a long nightmare.)
+（おそらく、枢センパイが|影で動いてくれた|おかげだと思う）=(I can’t be sure, but I imagine Kaname probably had something to do with that.)
+(はっきりとは言わないけど、|静かに海を照らす灯台の|灯りのようなーー）=(It’s like I was lost at sea, and he was the shining beacon lighting my way to shore.)
+（枢センパイの優しさを|私は肌で感じていた……）=(I could feel his affection radiating over me.)
+お呼びですか、理事長。|私、これから見回りに……=You called me, Headmaster?|I’ll be starting my patrol--
+な、何ですか！？|急に抱きつかないで|くださいっ！=Wh-What are you--!? Don’t just hug me like that without warning me first!
+<name>～！|夕べは大変だったね。=Oh, <name>! You had such a rough night the other night, didn’t you?
 
 # A0E5C
-錐生くんから事情は聞いた。=
+錐生くんから事情は聞いた。=Zero told me what happened.
 
 # A08F8
-枢くんから事情は聞いた。=
+枢くんから事情は聞いた。=Kaname told me what happened.
 
 # A0B90
-藍堂くんから事情は聞いた。=
+藍堂くんから事情は聞いた。=Aido told me what happened.
 
 # A0E10
-架院くんから事情は聞いた。=
+架院くんから事情は聞いた。=Kain told me what happened.
 
 # A0CE8
-一条くんから事情は聞いた。=
+一条くんから事情は聞いた。=Ichijo told me what happened.
 
 # A1764
-支葵くんから事情は聞いた。=
-まさかあのレポーターが|ヴァンパイアだったなんて、|ボクもびっくりしてるよ。=
-私も戸惑ってます。|どうして私が|狙われたのか……=
+支葵くんから事情は聞いた。=Shiki told me what happened.
+まさかあのレポーターが|ヴァンパイアだったなんて、|ボクもびっくりしてるよ。=I can’t believe that reporter turned out to be a vampire. I was so shocked.
+私も戸惑ってます。|どうして私が|狙われたのか……=I’m still confused about the whole thing. Why target me?
 
 # A0930
-零が助けてくれたので、|助かりましたけど。=
+零が助けてくれたので、|助かりましたけど。=Thankfully Zero was there to rescue me.
 
 # A0CE0
-枢センパイが助けてくれた|ので、助かりましたけど。=
+枢センパイが助けてくれた|ので、助かりましたけど。=Thankfully Kaname was there to rescue me.
 
 # A0E8C
-藍堂センパイが助けてくれた|ので、助かりましたけど。=
+藍堂センパイが助けてくれた|ので、助かりましたけど。=Thankfully Aido was there to rescue me.
 
 # A0F6C
-架院センパイが助けてくれた|ので、助かりましたけど。=
+架院センパイが助けてくれた|ので、助かりましたけど。=Thankfully Kain was there to rescue me.
 
 # A0F7C
-一条センパイが助けてくれた|ので、助かりましたけど。=
+一条センパイが助けてくれた|ので、助かりましたけど。=Thankfully Ichijo was there to rescue me.
 
 # AC76C
-支葵センパイが助けてくれた|ので、助かりましたけど。=
-<name>の血はヴァンパイア好み|らしいからね～。=
-本当にそれだけの理由なら|いいんですけど……=
-ていうか……いつまで|抱きついてるんですか！|離してくださいっ。=
-親子のスキンシップは|発育上とってもいいって|科学的に認められてるよ？=
-そんなの理由になりませんっ。|いい加減にしなさいっ！=
-くすん……寂しいな。|娘の巣立ちが|もう来たかと思うと。=
-はいはい、寂しいですね～。=
-あっ、さらっと流した！=
-私、見回りがあるんで|もう行きますよ。=
-待ちなさい、<name>。=
-何ですか？改まっちゃって。=
-<name>に贈り物が|届いているよ。=
-いつも<name>が一生懸命|頑張ってる姿を見守って|くれている人がいるんだね。=
-（理事長が差し出したのは|リボンがかけられた大きな箱）=
-中身は何でしょう？=
-開けてごらん。=
-（箱を開けると、|そこにあったのは……）=
-……うわぁ！！|かわいいドレス！！=
-いいねいいね！|かわいくて可憐で|<name>にぴったりだ！=
-このドレスを着ていけば|舞踏祭で目立つこと|間違いなしだ！=
-舞踏祭……あぁっ！|すっかり忘れてました～=
-ど、どうしよっ！|何の準備もしてないっ！=
-えっへん！任せなさい！|事件の間に、舞踏祭の|準備はしておいた。=
-もちろん、|ボク風の準備をね。=
-さすが、理事長！|ボク風ってのが少しだけ|気になりますけど……=
-せっかくの舞踏祭だ。|<name>も思う存分|楽しんでおいで。=
-（舞踏祭は年に一度開かれる|黒主学園の一大イベント）=
-（デイ･クラスと|ナイト･クラスが一緒に|参加できる公式行事でーー）=
-（親ぼくを深める貴重な場で|ある）=
-（デイ･クラスの生徒達は|ナイト･クラスの生徒達と|ダンスを踊りたくてーー）=
-（気合いの入れようも|ハンパない！）=
-（だけど、舞踏祭に参加|するには、大きな|ハードルがあるのだ……）=
-そのためには、学年試験で|最下位にならないように|頑張らないとね、ははは！=
-最下位になったクラスは|強制的に舞踏祭の裏方さんに|回されちゃうからな～。=
-うっ……死ぬ気で試験勉強|頑張らないと……。=
-<name>ガンバだよ～！|それはそうと……|誰からの贈り物だったの？=
-えっと……|あっ！メッセージカードが|ついてた。=
-どれどれ？=
-理事長！|覗き見は禁止です！=
-えぇ～！<name>のケチ！=
-ケチで結構です！|カードは後で読みます。=
-これから見回りに行くので、|失礼します、理事長。=
-気になる気になる！|これじゃ、|蛇の生殺しだぁ～！！=
-ふぅ……さてと。=
-（一人きりの見張り台で|深呼吸をひとつ）=
-（私は胸を高鳴らせながら|メッセージカードを開いた）=
-やっぱりあの人からだ……=
-（カードを抱きしめると、|バラのいい香りがして、|胸がいっぱいになった）=
-（あの人の優しい笑顔を|思い浮かべながら|夜空にそっとつぶやいた）=
-空としゃべるなんて、|お前もネクストステージに|突き抜けたか？=
-零！？=
-（私は急に恥ずかしくなって|慌ててカードを背中に隠した）=
-何、ジタバタしてんだ？|見回り、行くぞ。=
-（あれ？もしかして、零……|カード隠したこと、|気付かないふりしてくれた？）=
-ちょ、零！待って！=
-（相変わらず無口な背中を|私は慌てて追いかけたーー）=
+支葵センパイが助けてくれた|ので、助かりましたけど。=Thankfully Shiki was there to rescue me.
+<name>の血はヴァンパイア好み|らしいからね～。=It’s like your blood is catnip for those vampires～.
+本当にそれだけの理由なら|いいんですけど……=If that was really the only reason, I wouldn’t mind, but...
+ていうか……いつまで|抱きついてるんですか！|離してくださいっ。=I mean... How long do you plan on hugging me? Let go already!
+親子のスキンシップは|発育上とってもいいって|科学的に認められてるよ？=Physical contact between parent and child is scientifically proven to be vital for a child’s development, you know.
+そんなの理由になりませんっ。|いい加減にしなさいっ！=That’s not the “reason” I’m talking about! Cut it out!
+くすん……寂しいな。|娘の巣立ちが|もう来たかと思うと。=*Sniff* I knew this day would come. My little girl is all grown up, and she’s leaving the nest.
+はいはい、寂しいですね～。=Yeah, yeah, I’m all grown up～.
+あっ、さらっと流した！=Ah, here come the tears!
+私、見回りがあるんで|もう行きますよ。=Well, I’m still on duty, so I’m going to get back to my patrol.
+待ちなさい、<name>。=Hold on, <name>.
+何ですか？改まっちゃって。=What? Is something wrong?
+<name>に贈り物が|届いているよ。=This gift arrived today. It’s addressed to you.
+いつも<name>が一生懸命|頑張ってる姿を見守って|くれている人がいるんだね。=You’re always doing your very best, and it looks like someone has taken notice.
+（理事長が差し出したのは|リボンがかけられた大きな箱）=(The Headmaster held out a large box tied with a ribbon.)
+中身は何でしょう？=What could it be?
+開けてごらん。=Open it up and find out.
+（箱を開けると、|そこにあったのは……）=(I opened the box and there it was.)
+……うわぁ！！|かわいいドレス！！=Oh my gosh! This dress is so cute!!
+いいねいいね！|かわいくて可憐で|<name>にぴったりだ！=Oh, how lovely! It just as cute and adorable as you, <name>!
+このドレスを着ていけば|舞踏祭で目立つこと|間違いなしだ！=You’ll be the belle of the ball in that dress!
+舞踏祭……あぁっ！|すっかり忘れてました～=Ball? Oh no! I forgot all about that!
+ど、どうしよっ！|何の準備もしてないっ！=Wh-What do I do? I have nothing planned!
+えっへん！任せなさい！|事件の間に、舞踏祭の|準備はしておいた。=Ahem! Not to worry! While all that stuff was going on, I went ahead and got everything ready for the ball myself.
+もちろん、|ボク風の準備をね。=All according to my own vision, of course.
+さすが、理事長！|ボク風ってのが少しだけ|気になりますけど……=You’re a lifesaver! Although, I admit I’m a little worried what you mean by “according to your own vision.”
+せっかくの舞踏祭だ。|<name>も思う存分|楽しんでおいで。=This ball doesn’t come around very often, so make the most of it, okay?
+（舞踏祭は年に一度開かれる|黒主学園の一大イベント）=(The Cross Academy ball is a huge event held once a year.)
+（デイ･クラスと|ナイト･クラスが一緒に|参加できる公式行事でーー）=(It’s an official event that members of both the Day Class and Night Class can attend.)
+（親ぼくを深める貴重な場で|ある）=(It’s a valuable occasion to foster amity and understanding.)
+（デイ･クラスの生徒達は|ナイト･クラスの生徒達と|ダンスを踊りたくてーー）=(The Day Class students want so desperately to dance with the Night Class students.)
+（気合いの入れようも|ハンパない！）=(There’s really no end to their excitement!)
+（だけど、舞踏祭に参加|するには、大きな|ハードルがあるのだ……）=(That being said, there’s one big obstacle that can get in the way…)
+そのためには、学年試験で|最下位にならないように|頑張らないとね、ははは！=On that note, you’ve really got to try your best to not have the lowest score on the exam, hahaha.
+最下位になったクラスは|強制的に舞踏祭の裏方さんに|回されちゃうからな～。=Don’t forget the class with the lowest score will have to work the ball.
+うっ……死ぬ気で試験勉強|頑張らないと……。=Oh no! I better study like my life depends on it!
+<name>ガンバだよ～！|それはそうと……|誰からの贈り物だったの？=Fingers crossed, <name>! So who was the gift from anyway?
+えっと……|あっ！メッセージカードが|ついてた。=Um… Oh, there’s a card.
+どれどれ？=C’mon, tell me!
+理事長！|覗き見は禁止です！=Don’t be so nosy!
+えぇ～！<name>のケチ！=Aww... Meanie!
+ケチで結構です！|カードは後で読みます。=Call me all the names you want. I’ll read it later.
+これから見回りに行くので、|失礼します、理事長。=Well, I’m going to start my patrol now, so excuse me, Headmaster.
+気になる気になる！|これじゃ、|蛇の生殺しだぁ～！！=I’ve got to know!|Well, if you find me dead, it’s the suspense that killed me!!
+ふぅ……さてと。=Phew... Now then...
+（一人きりの見張り台で|深呼吸をひとつ）=(I was all alone on the watch tower, and I took a deep breath.)
+（私は胸を高鳴らせながら|メッセージカードを開いた）=(As I opened the card, I could hardly hear my own thoughts over the sound of my heart pounding.)
+やっぱりあの人からだ……=I knew it was from you...
+（カードを抱きしめると、|バラのいい香りがして、|胸がいっぱいになった）=(I held the card close to my heart, and I was overcome by the wonderful scent of roses.)
+（あの人の優しい笑顔を|思い浮かべながら|夜空にそっとつぶやいた）=(I softly uttered those words in the nighttime air while imagining his smiling face.)
+空としゃべるなんて、|お前もネクストステージに|突き抜けたか？=Have you gone off the deep end or something? Why are you talking to the sky?
+零！？=Zero!?
+（私は急に恥ずかしくなって|慌ててカードを背中に隠した）=(I was suddenly feeling embarrassed and hurried to hide the letter behind my back.)
+何、ジタバタしてんだ？|見回り、行くぞ。=What are you flailing around for?|Come on, let’s do our patrol.
+（あれ？もしかして、零……|カード隠したこと、|気付かないふりしてくれた？）=(Did... Did Zero really not see the card, or is he just pretending not to have noticed?)
+ちょ、零！待って！=Wait, Zero! Wait for me!
+（相変わらず無口な背中を|私は慌てて追いかけたーー）=(As usual, he said nothing and kept on walking. I jumped to my feet and ran after him.)
 
 # A4594
-ふぅ～見回り終了！|本日も問題ナシでした！=
-お疲れ、<name>。|いつも見回り大変ね。=
-試験勉強も頑張ってたし、|<name>偉いわね。=
-なんとか最下位は免れたし、|明日の舞踏祭は|堂々と参加できるよ～。=
-いよいよ明日だね、舞踏祭。|あっ、そういえば<name>に|贈り物が届いてたよ。=
-贈り物？|もしかして……=
-代わりに受け取っておいたわ。|はい、これ。=
-（舞踏祭の前日である今夜、|あの人から私の元に届いた|もう一つの贈り物ーー）=
-（それは、きれいな花束）=
-とってもロマンチックだね。|あのドレスにもぴったり！=
-なんだか、私には|もったいない気がしてきた～。=
-うふふ、<name>らしい。|ねぇ、舞踏祭では|誰と踊りたいの？=
-そうだなぁ……=
+ふぅ～見回り終了！|本日も問題ナシでした！=Phew, that’s another patrol done! And another day without hitch!
+お疲れ、<name>。|いつも見回り大変ね。=Welcome back, <name>. It must be exhausting being having to patrol the school all the time.
+試験勉強も頑張ってたし、|<name>偉いわね。=And you even studied hard for the exam. I think you’re really amazing, you know.
+なんとか最下位は免れたし、|明日の舞踏祭は|堂々と参加できるよ～。=I still don’t know how I avoided having the lowest score, but it means we’ll get to go and enjoy the ball tomorrow.
+いよいよ明日だね、舞踏祭。|あっ、そういえば<name>に|贈り物が届いてたよ。=The ball, it’s finally here. Oh, by the way, a present arrived for you today.
+贈り物？|もしかして……=A present?|I wonder...
+代わりに受け取っておいたわ。|はい、これ。=I went ahead and accepted it for you.|Here you go.
+（舞踏祭の前日である今夜、|あの人から私の元に届いた|もう一つの贈り物ーー）=(Another gift to me from him, tonight, the day before the ball...)
+（それは、きれいな花束）=(Flowers. They’re beautiful.)
+とってもロマンチックだね。|あのドレスにもぴったり！=How romantic! They even match the dress!
+なんだか、私には|もったいない気がしてきた～。=I feel like I don’t really deserve all this～.
+うふふ、<name>らしい。|ねぇ、舞踏祭では|誰と踊りたいの？=*Giggle* Typical <name>.|Hey, is there somebody you wanted to dance with at the ball?
+そうだなぁ……=Well…
 
 # A10A0
 （私はホールへと戻ってきた）=

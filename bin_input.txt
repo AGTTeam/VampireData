@@ -112,15 +112,15 @@
 <ch1>錐生　零<00><14><0A><ch2>玖蘭　枢<00><15><0A><ch3>他の人……<00><7F>=<ch1>Zero Kiryu<00><14><0A><ch2>Kaname Kuran<00><15><0A><ch3>Someone else...<00><7F>
 <ch1>藍堂　英<00><16><0A><ch2>架院　暁<00><17><0A><ch3>他の人……<00><7F>=<ch1>Hanabusa Aido<00><16><0A><ch2>Akatsuki Kain<00><17><0A><ch3>Someone else...<00><7F>
 <ch1>一条　拓麻<00><18><0A><ch2>支葵　千里<00><19><0A><ch3>考え直す<00><13>=<ch1>Takuma Ichijo<00><18><0A><ch2>Senri Shiki<00><19><0A><ch3>Let me rethink...<00><13>
-<ch1>零だ<00><01><0A><ch2>枢センパイだ<00><02><0A><ch3>あ……<00><09>=
-<ch1>藍堂センパイだ<00><03><0A><ch2>架院センパイだ<00><04><0A><ch3>あ……<00><0A>=
-<ch1>一条センパイだ<00><05><0A><ch2>支葵センパイだ<00><06><0A><ch3>あ……<00><07>=
-<ch1>湖へ<00><00><0A><ch2>裏庭へ<00><01><0A><ch3>馬場へ<00><02>=
-<ch1>ここでいい<00><00><0A><ch2>裏庭へ<00><01><0A><ch3>馬場へ<00><02>=
-<ch1>月の寮へ<00><00><0A><ch2>ここでいい<00><01><0A><ch3>湖へ<00><02>=
-<ch1>湖へ<00><00><0A><ch2>馬場へ<00><01><0A><ch3>ここでいい<00><02>=
-<ch1>森へ<00><00><0A><ch2>庭へ<00><01><0A><ch3>一条の部屋へ<00><02>=
-<ch1>ここでいい<00><00><0A><ch2>森へ<00><01><0A><ch3>庭へ<00><02>=
+<ch1>零だ<00><01><0A><ch2>枢センパイだ<00><02><0A><ch3>あ……<00><09>=<ch1>There’s Zero.<00><01><0A><ch2>There’s Kaname.<00><02><0A><ch3>Hm...<00><09>
+<ch1>藍堂センパイだ<00><03><0A><ch2>架院センパイだ<00><04><0A><ch3>あ……<00><0A>=<ch1>There’s Aido.<00><03><0A><ch2>There’s Kain.<00><04><0A><ch3>Hm...<00><0A>
+<ch1>一条センパイだ<00><05><0A><ch2>支葵センパイだ<00><06><0A><ch3>あ……<00><07>=<ch1>There’s Ichijo.<00><05><0A><ch2>There’s Shiki.<00><06><0A><ch3>Hm...<00><07>
+<ch1>湖へ<00><00><0A><ch2>裏庭へ<00><01><0A><ch3>馬場へ<00><02>=<ch1>To the lake.<00><00><0A><ch2>To the rear garden.<00><01><0A><ch3>To the stables.<00><02>
+<ch1>ここでいい<00><00><0A><ch2>裏庭へ<00><01><0A><ch3>馬場へ<00><02>=<ch1>Here’s fine.<00><00><0A><ch2>To the rear garden.<00><01><0A><ch3>To the stables.<00><02>
+<ch1>月の寮へ<00><00><0A><ch2>ここでいい<00><01><0A><ch3>湖へ<00><02>=<ch1>To the Moon Dorm.<00><00><0A><ch2>Here’s fine.<00><01><0A><ch3>To the lake.<00><02>
+<ch1>湖へ<00><00><0A><ch2>馬場へ<00><01><0A><ch3>ここでいい<00><02>=<ch1>To the lake.<00><00><0A><ch2>To the stables.<00><01><0A><ch3>Here’s fine.<00><02>
+<ch1>森へ<00><00><0A><ch2>庭へ<00><01><0A><ch3>一条の部屋へ<00><02>=<ch1>To the woods.<00><00><0A><ch2>To the courtyard.<00><01><0A><ch3>To Ichijo’s room.<00><02>
+<ch1>ここでいい<00><00><0A><ch2>森へ<00><01><0A><ch3>庭へ<00><02>=<ch1>Here’s fine.<00><00><0A><ch2>To the woods.<00><01><0A><ch3>To the courtyard.<00><02>
 <ch1>話しかける<00><02><0A><ch2>話しかけない<00><03>=<ch1>Say something.<00><02><0A><ch2>Don’t say anything.<00><03>
 <ch1>話しかける<00><04><0A><ch2>話しかけない<00><05>=<ch1>Say something.<00><04><0A><ch2>Don’t say anything.<00><05>
 <ch1>話しかける<00><06><0A><ch2>話しかけない<00><07>=<ch1>Say something.<00><06><0A><ch2>Don’t say anything.<00><07>
@@ -185,13 +185,13 @@
 <ch1>ええと……き、決めました<00><0C><0A><ch2>藍堂センパイにお任せします<00><0A>=
 <ch1>藍堂センパイにお任せします<00><0A>=
 <ch1>やっぱり……自分で決めます<00><0C><0A><ch2>やっぱり……いやです<00><0D>=
-<ch1>何がですか？<00><00><0A><ch2>ガマンしてください<00><01>=
-<ch1>別にいいですよ<00><03><0A><ch2>いやです<00><04>=
-<ch1>う～ん、まぁ、いいかな……<00><07><0A><ch2>絶対にいやです<00><08>=
+<ch1>何がですか？<00><00><0A><ch2>ガマンしてください<00><01>=<ch1>What does?<00><00><0A><ch2>Please, resist it.<00><01>
+<ch1>別にいいですよ<00><03><0A><ch2>いやです<00><04>=<ch1>Go ahead.<00><03><0A><ch2>You can’t.<00><04>
+<ch1>う～ん、まぁ、いいかな……<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>Well, I guess that would be okay.<00><07><0A><ch2>Not a single drop.<00><08>
 <ch1>う～ん、まぁ、いいかな……<00><07>=
 <ch1>自分できめます<00><09><0A><ch2>藍堂センパイにお任せします<00><0A>=
 <ch1>自分できめます<00><09>=
-<ch1>はい……<00><7F><0A><ch2>やっぱり……いやです<00><0D>=
+<ch1>はい……<00><7F><0A><ch2>やっぱり……いやです<00><0D>=<ch1>I’m sure...<00><7F><0A><ch2>I... I can’t go through with it.<00><0D>
 <ch1>何がですか？<00><7F><0A><ch2>私もあげたい……<00><01>=
 <ch1>あわてないでください<00><03><0A><ch2>ダメ<00><04>=
 <ch1>落ち着きのないのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
@@ -226,7 +226,7 @@
 <ch1>う～ん、じゃあいいです<00><7F>=
 <ch1>私が決めます……<00><09><0A><ch2>支葵センパイにお任せします<00><0A>=
 <ch1>私が決めます……<00><09>=
-<ch1>自分で決めます<00><09><0A><ch2>お任せします<00><0A>=
+<ch1>自分で決めます<00><09><0A><ch2>お任せします<00><0A>=<ch1>I’ll decide.<00><09><0A><ch2>I’ll let you decide.<00><0A>
 <ch1>何がですか？<00><7F><0A><ch2>私もあげたい<00><01>=
 <ch1>あわてるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
 <ch1>あわてるのはいやです<00><06>=
@@ -1303,16 +1303,16 @@ vk_se6_010=
 すごく楽しかったぞ。|俺たちってこんなに息が合うん|だな。=
 
 # A0F14
-全然バラバラ。|やるんじゃなかった。=
+全然バラバラ。|やるんじゃなかった。=We weren’t in step at all. That was hardly dancing.
 
 # A0E58
-もっと練習しようかな……=
+もっと練習しようかな……=We could stand to practice more.
 
 # A0E50
 足、踏まなかったよね……|よかった。=
 
 # A0DE0
-俺達って結構合う……|おどろいた。=
+俺達って結構合う……|おどろいた。=We’re not bad together... I’m surprised.
 
 # A0C40
 こんなにうまく踊れたの初めて|かも。=
@@ -8360,7 +8360,7 @@ Sleep well...
 （相変わらず無口な背中を|私は慌てて追いかけたーー）=(As usual, he said nothing and kept on walking. I jumped to my feet and ran after him.)
 
 # A4594
-ふぅ～見回り終了！|本日も問題ナシでした！=Phew, that’s another patrol done! And another day without hitch!
+ふぅ～見回り終了！|本日も問題ナシでした！=Phew, that’s another patrol done! And another day without a hitch!
 お疲れ、<name>。|いつも見回り大変ね。=Welcome back, <name>. It must be exhausting being having to patrol the school all the time.
 試験勉強も頑張ってたし、|<name>偉いわね。=And you even studied hard for the exam. I think you’re really amazing, you know.
 なんとか最下位は免れたし、|明日の舞踏祭は|堂々と参加できるよ～。=I still don’t know how I avoided having the lowest score, but it means we’ll get to go and enjoy the ball tomorrow.
@@ -8375,13 +8375,13 @@ Sleep well...
 そうだなぁ……=Well…
 
 # A10A0
-（私はホールへと戻ってきた）=
-あ……=
+（私はホールへと戻ってきた）=(I returned to the ballroom.)
+あ……=Hm...
 
 # A3100
-（今日は舞踏祭当日）=
-（色とりどりのドレスに|身を包んだ人波の中ーー）=
-（私はあの人にもらった|ドレスを着て、ホールへと|足を踏み入れた）=
+（今日は舞踏祭当日）=(Today was the day of the ball.)
+（色とりどりのドレスに|身を包んだ人波の中ーー）=(The ballroom was brimming with dresses of every color imaginable.)
+（私はあの人にもらった|ドレスを着て、ホールへと|足を踏み入れた）=(I entered the ballroom wearing the dress he gave me.)
 おい、<name>。|そのドレス……どうしたんだ？=
 ナ･イ･ショ！|気になる？零。=
 い、いや……別に俺は……=
@@ -8566,7 +8566,7 @@ Sleep well...
 さぁ、僕と一緒に帰ろう。=
 
 # A26EC
-ここでいいです。=
+ここでいいです。=Here’s fine.
 そうだね。|せっかくのパーティーだし、|ホールの中央で踊ろうか？=
 で、でも……！|みんな見ているし……=
 見せつけてやりたいのさ。|みんなに、僕のお姫様をね。=
@@ -8585,7 +8585,7 @@ Sleep well...
 
 # A2000
 その……悪気はなかった|んだが、結果的に疑って|悪かったかなとか……=
-そんな……私は全然|気にしてないですから！=
+そんな……私は全然|気にしてないですから！=You don’t... I really don’t mind at all!
 そ、そうだな。|あれくらい気にする程、|やわじゃないよな？=
 そんな強いお前だから……|僕は謝らないからな！=
 
@@ -8605,7 +8605,7 @@ Sleep well...
 何だ？=
 
 # A0AEC
-本当にありがとうございます！|あの時藍堂センパイが助けて|くれなかったら、私今頃……=
+本当にありがとうございます！|あの時藍堂センパイが助けて|くれなかったら、私今頃……=Thank you very much! If you hadn’t saved me at that time, I...
 
 # A7728
 ホント、|お前にはいつも驚かされるよ。=
@@ -8714,7 +8714,7 @@ Sleep well...
 どうした？<last>。=
 
 # A0D1C
-本当にありがとうございます！|あの時架院センパイが助けて|くれなかったら、私今頃……=
+本当にありがとうございます！|あの時架院センパイが助けて|くれなかったら、私今頃……=Thank you very much! If you hadn’t saved me at that time, I...
 
 # A82A4
 気にする必要はないんじゃ|ないか。それにお前の無鉄砲な|とこ、俺は嫌いじゃないしな。=
@@ -8818,7 +8818,7 @@ Sleep well...
 どうしたの？<name>ちゃん。=
 
 # A0FAC
-本当にありがとうございます！|あの時一条センパイが助けて|くれなかったら、私今頃……=
+本当にありがとうございます！|あの時一条センパイが助けて|くれなかったら、私今頃……=Thank you very much! If you hadn’t saved me at that time, I...
 
 # A5C80
 いいよ。|<name>ちゃんのそういう所、|僕嫌いじゃないよ。=
@@ -8837,7 +8837,7 @@ Sleep well...
 楽しかったね<name>ちゃん。|そうだ、場所を変えようよ？|どこに行きたい？=
 
 # A57C8
-森へ行きたいです。=
+森へ行きたいです。=I want to go to the woods.
 いいよ！|森へしゅっぱ～つ！=
 誰もいないから、|すっごく静か……=
 <name>ちゃん、|恐くなっちゃった？=
@@ -8855,7 +8855,7 @@ Sleep well...
 僕のとっておきの技だよ。|気に入ってもらえた|みたいで嬉しいよ。=
 
 # A5200
-庭へ行きたいです。=
+庭へ行きたいです。=I want to go to the courtyard.
 夜の庭か……|ロマンチックかもね。|行ってみようか！=
 ロマンチック……|とはほど遠いですね……=
 う～ん、噴水も止まってるし、|ちょっと暗いよね～。=
@@ -8898,7 +8898,7 @@ Sleep well...
 それでは、改めて……|<name>ちゃん、僕と|踊っていただけますか？=
 
 # A0B10
-そのドレス、着たんだ。=
+そのドレス、着たんだ。=You wore the dress.
 
 # A203C
 そのドレス、似合ってる。=
@@ -8908,8 +8908,8 @@ Sleep well...
 風紀委員にしては、上出来。=
 
 # A1C8C
-舞踏祭どころじゃなかった|と思って……|ちょっとした気まぐれ。=
-気まぐれって言ってる。|そんなに真剣に|受け止めなくていい。=
+舞踏祭どころじゃなかった|と思って……|ちょっとした気まぐれ。=I didn’t give it to you with the ball in mind. I just did it on a whim.
+気まぐれって言ってる。|そんなに真剣に|受け止めなくていい。=I’m saying I did it on a whim. There’s no need for such a reaction.
 
 # A35E4
 ……でも、これだけは|真剣に言っとくけど。=
@@ -8924,127 +8924,127 @@ Sleep well...
 別に感謝される筋合い|ないけど……=
 
 # A1608
-なに？風紀委員。=
+なに？風紀委員。=What is it, Prefect?
 
 # A0DC4
-本当にありがとうございます！|あの時支葵センパイが助けて|くれなかったら、私今頃……=
+本当にありがとうございます！|あの時支葵センパイが助けて|くれなかったら、私今頃……=Thank you very much! If you hadn’t saved me at that time, I...
 
 # A830C
-……いいよ。無事だったし。=
-いいって、言った。=
-すみません……=
-（うっ……|会話がつながらないよっ）=
-（でも、ここを離れないって|ことは、私と一緒にいるのが|イヤじゃないってことかな？）=
-……イヤじゃない。=
-えっ……？|ヴァンパイアって人の|思考が読めるんですか？=
-そんな能力ない。|ただの、勘。=
-キミが俺に対して気後れ|してるみたいだから。=
-す、鋭いですね……=
-感情がすぐに顔に出る。|気付かないの？=
-えっ？|そんなに顔に出てますか？=
-うん。|文字がおでこに|浮かび上がってる。=
-ウソ！？|やだっ、どうしよっ！=
-ふっ、そんなわけない。=
-あっ、ひどいっ！|私で遊ばないでくださいっ。=
-だって、反応、面白いから。=
-ねぇ、一緒に踊ろうよ？=
-と、突然来ますね。=
-そうしたいから。=
-わかりました。|お供させていただきます。=
+……いいよ。無事だったし。=It’s fine. You’re safe.
+いいって、言った。=I said it’s fine.
+すみません……=Sorry...
+（うっ……|会話がつながらないよっ）=(Oh no! I can’t think of anything to say!)
+（でも、ここを離れないって|ことは、私と一緒にいるのが|イヤじゃないってことかな？）=(But he’s not leaving. Does that mean he doesn’t mind being with me?)
+……イヤじゃない。=... I don’t mind.
+えっ……？|ヴァンパイアって人の|思考が読めるんですか？=How did you...? Can vampires read people’s thoughts?
+そんな能力ない。|ただの、勘。=No. It was just a guess.
+キミが俺に対して気後れ|してるみたいだから。=You’re always so timid around me.
+す、鋭いですね……=You’re really sharp, aren’t you?
+感情がすぐに顔に出る。|気付かないの？=A person’s emotions are written all over their face. Have you never noticed?
+えっ？|そんなに顔に出てますか？=What? You can read all that just from a person’s face?
+うん。|文字がおでこに|浮かび上がってる。=Yes, you can see the words written on their foreheads.
+ウソ！？|やだっ、どうしよっ！=There’s no way! You’re just making stuff up!
+ふっ、そんなわけない。=Hmph, are you sure?
+あっ、ひどいっ！|私で遊ばないでくださいっ。=You’re so mean! You’re just teasing me now!
+だって、反応、面白いから。=Sorry. I just like to see your reactions.
+ねぇ、一緒に踊ろうよ？=Hey, would you dance with me?
+と、突然来ますね。=Wh-Why ask me that all of a sudden?
+そうしたいから。=Because I would like to dance with you.
+わかりました。|お供させていただきます。=... Okay. It would be my pleasure to dance with you.
 
 # A1794
-ふぅ……やっぱり人混みは|苦手。俺は抜け出すけど、|一緒に来る？=
-いいんですか？=
-だから、二度も言わせないで。|どこか行きたい場所ある？=
+ふぅ……やっぱり人混みは|苦手。俺は抜け出すけど、|一緒に来る？=*Sigh* I’m not good with crowds. I’m going to leave. Would you care to accompany me?
+いいんですか？=Is that okay?
+だから、二度も言わせないで。|どこか行きたい場所ある？=Of course. Please don’t make me say it twice. Is there anywhere you’d like to go?
 
 # A4050
-せっかくの舞踏祭なんですし、|みんなと一緒に|楽しみましょうよ！=
-俺、そういうの苦手。=
-そう言わずに～。|年に一度の|お祭りなんですから！=
-わかったから、手を離して。|痛い。=
-離しませんよ。|離したら、一人でどこかへ|行くつもりでしょう？=
-風紀委員こそ、なかなか鋭い。=
-毎晩見回りで|鍛えられてますから！=
-あれ……視線を感じる……=
-それより、いい加減離してよ。=
-あっ、すみません！=
-（本当はもう少し|支葵センパイの手を握って|いたかったな……）=
+せっかくの舞踏祭なんですし、|みんなと一緒に|楽しみましょうよ！=The ball’s a special occasion, so let’s enjoy it with everyone!
+俺、そういうの苦手。=I’d really rather not.
+そう言わずに～。|年に一度の|お祭りなんですから！=Don’t say that～. The ball only comes around once a year, you know!
+わかったから、手を離して。|痛い。=I get it, so please let go of my hand. That hurts.
+離しませんよ。|離したら、一人でどこかへ|行くつもりでしょう？=No way. If I let go, you’ll run off somewhere by yourself, won’t you?
+風紀委員こそ、なかなか鋭い。=You’re quite sharp yourself, Prefect.
+毎晩見回りで|鍛えられてますから！=That’s from doing my rounds every night!
+あれ……視線を感じる……=What’re you... looking at...?
+それより、いい加減離してよ。=So please, release my hand.
+あっ、すみません！=Oh, I’m sorry!
+（本当はもう少し|支葵センパイの手を握って|いたかったな……）=(I was in fact squeezing Shiki’s hand too tight, and my nails were beginning to dig into his skin.)#added the part about the nails to make the use of ‘sharp’ work in both contexts
 
 # A5CC8
-森……？どうして？=
-ただの思いつきで……|ダメですか？=
-別にいいけど……=
-誰もいないし、|とっても静かですね……=
-静かというより不気味。|怖がったりしないの？=
-そ、そりゃあ、ちょっとは|心細かったりしますけど。=
-普通の女の子なら怖がる。=
-私だって普通の女の子です！=
-自覚ないんだ。=
-支葵センパイっ！=
-一応褒め言葉なんだけど。|普通じゃないってことは、|非凡だってこと。=
-あの……！=
-俺はそろそろ戻るよ。|風が冷たいしね。|キミもほどほどにね。=
-（本当はもう少し|支葵センパイと二人きりで|いたかったな……）=
+森……？どうして？=The woods? Why?
+ただの思いつきで……|ダメですか？=It was the first place that popped into my head. Is that okay?
+別にいいけど……=That’s fine by me.
+誰もいないし、|とっても静かですね……=It’s so peaceful here with nobody around.
+静かというより不気味。|怖がったりしないの？=It’s more ominous than peaceful. Are you not nervous at all?
+そ、そりゃあ、ちょっとは|心細かったりしますけど。=W-Well, I guess I feel more lonely than anything else.
+普通の女の子なら怖がる。=A normal girl would be frightened.
+私だって普通の女の子です！=But I am a normal girl!
+自覚ないんだ。=I don’t think so.
+支葵センパイっ！=Shiki!
+一応褒め言葉なんだけど。|普通じゃないってことは、|非凡だってこと。=It’s a compliment. What isn’t normal is exceptional.
+あの……！=I...
+俺はそろそろ戻るよ。|風が冷たいしね。|キミもほどほどにね。=I should be heading back now. The wind is cold, and too much of it would be bad for my skin.
+（本当はもう少し|支葵センパイと二人きりで|いたかったな……）=(I wish I could have been alone with Shiki for just a little longer...)
 
 # A8890
-えっ……|ダメ……ですか？=
-いや……|俺も同じこと考えてたから……=
-偶然ですね。=
-案外気が合うのかも。=
-じゃあ、行こう。=
-風が気持ちいいですね～。|誰もいないし、|とっても静か！=
-やっぱりここは落ち着く。=
-庭がお気に入り|なんですか？=
-一人になりたい時は|だいたい庭に来る。=
-あっ、夜間の外出は|校則違反ですからね～。=
-な～んて、かたい事は|今夜は言いませんから。=
-もう言ってる。|風紀委員ってさ……|見てて飽きない。=
-そんなに|くるくる変わって疲れないの？=
-えへへ。|落ち着きがないって|よく言われます。=
-……ここでなら|踊ってもいいけど。=
-風紀委員と|踊ってあげてもいいって|言ってるんだけど。=
-でも、ここじゃ……=
-……しょうがないな。=
-支葵センパイ！？|ムチなんて出して|どうするつもりですか！？=
-いいものを見せてあげる。=
-いいもの？=
-めんどくさいな。|とにかく見てて。=
+えっ……|ダメ……ですか？=Oh, is... that not okay?
+いや……|俺も同じこと考えてたから……=It is. It’s just that I was thinking the same thing.
+偶然ですね。=What a coincidence.
+案外気が合うのかも。=This should promise to be a good time then.
+じゃあ、行こう。=Shall we go?
+風が気持ちいいですね～。|誰もいないし、|とっても静か！=The wind feels nice～. It’s so quiet with nobody around.
+やっぱりここは落ち着く。=I figured it would be calmer here.
+庭がお気に入り|なんですか？=Why do you like the courtyard so much?
+一人になりたい時は|だいたい庭に来る。=I often come here when I wish to be alone.
+あっ、夜間の外出は|校則違反ですからね～。=You know that coming out here at night is a violation of the school rules.
+な～んて、かたい事は|今夜は言いませんから。=Well, I won’t saying anything about it tonight, but...
+もう言ってる。|風紀委員ってさ……|見てて飽きない。=You’ve already said it. Prefect, do you never get tired of looking over the school?
+そんなに|くるくる変わって疲れないの？=Is it not exhausting to always be working so tirelessly?
+えへへ。|落ち着きがないって|よく言われます。=Ehehe, I have been told that I don’t know how to relax.
+……ここでなら|踊ってもいいけど。=Would you dance with me here?
+風紀委員と|踊ってあげてもいいって|言ってるんだけど。=I’m just asking if you’ll dance with me.
+でも、ここじゃ……=But here we...
+……しょうがないな。=You’re not going to leave me any choice, are you?
+支葵センパイ！？|ムチなんて出して|どうするつもりですか！？=Shiki!? What are you going to do with that whip!?
+いいものを見せてあげる。=I’m going to show you something nice.
+いいもの？=Something nice?
+めんどくさいな。|とにかく見てて。=You ask too many questions. Just watch.
 
 # A23F0
-うわぁ～綺麗！|噴水の水しぶきが|月明かりに照らされて……=
-キラキラと舞ってくる……！|本当に綺麗……=
-これでどう？|少しは雰囲気出た？=
-じゃあ、踊ろうか。=
-喜んで……=
+うわぁ～綺麗！|噴水の水しぶきが|月明かりに照らされて……=Wow! It’s so pretty the way the moonlight glitters in the mist from the fountain!
+キラキラと舞ってくる……！|本当に綺麗……=It’s like the moonlight has started dancing! It’s gorgeous!
+これでどう？|少しは雰囲気出た？=A little ambiance, will this do?
+じゃあ、踊ろうか。=Then may I have this dance?
+喜んで……=You may...
 
 # A5240
-（夜の闇が深さを増し、|やがて訪れる夜明けを|予感させる頃になりーー）=
-（舞踏祭も闌の極みを|迎えようとしていた）=
-（デイ･クラスと|ナイト･クラスの|生徒達がーー）=
-（手を取り合って|踊る姿を眺めながらーー）=
-（私は一人、喜びを|噛み締めていた）=
-良かった。みんな笑顔……|今年の舞踏祭は何事もなく|平和で、一点の曇りさえ……=
-（その時、私の背中に|かすかな電流が走った！）=
-気のせい……じゃない。|誰かが……私を見てる……！=
-（それは好意的なもの|ではないと本能的に感じた）=
-（何か|含みをはらんだ視線……）=
-（私は勇気を振り絞って|振り返った！|そこにいたのはーー）=
-……！=
-（鍛えられた身体に|黒いスーツをまとった|男がそこにいた）=
-（片目が眼帯で覆われている|けれど、その眼光の鋭さは|どう猛なほど抜け目がない）=
-あの人は零の……？=
+（夜の闇が深さを増し、|やがて訪れる夜明けを|予感させる頃になりーー）=(The night had grown dark, and the first light of the coming dawn was on the horizon.)
+（舞踏祭も闌の極みを|迎えようとしていた）=(The ball was nearing its zenith.)
+（デイ･クラスと|ナイト･クラスの|生徒達がーー）=(The Day and Night Classes were dancing and holding hands.)
+（手を取り合って|踊る姿を眺めながらーー）=(I watched the dancing figures lazily from afar.)
+（私は一人、喜びを|噛み締めていた）=(Alone, I savoured the pleasure I felt in that moment.)
+良かった。みんな笑顔……|今年の舞踏祭は何事もなく|平和で、一点の曇りさえ……=I’m glad. Everyone’s smiling. This year’s ball went smoothly without incident. There wasn’t even a single cloud in the sky.
+（その時、私の背中に|かすかな電流が走った！）=(At that instant, I felt a tingle run down my spine!)
+気のせい……じゃない。|誰かが……私を見てる……！=I’m not... imagining it. Someone is... watching me!
+（それは好意的なもの|ではないと本能的に感じた）=(Instinctively, I could tell it wasn’t a friend.)
+（何か|含みをはらんだ視線……）=(Something briefly caught my attention...)
+（私は勇気を振り絞って|振り返った！|そこにいたのはーー）=(I mustered up all my courage and turned back to face it! And there stood--)
+……！=......!
+（鍛えられた身体に|黒いスーツをまとった|男がそこにいた）=(There stood a rugged clad in a black suit.)
+（片目が眼帯で覆われている|けれど、その眼光の鋭さは|どう猛なほど抜け目がない）=(Despite wearing an eyepatch over his right eye, the glint in his left was as fiercely alert as ever.)
+あの人は零の……？=That man, he’s Zero’s...
 
 # A0D00
 錐生零……浮かれていられる|のも今のウチだぜ。=
 
 # A2B70
-ヴァンパイア共……浮かれて|いられるのも今のウチだぜ。=
-（その時の私の耳には|彼がつぶやいた言葉は|届かなかった）=
-（そして、|その言葉が意味するものーー）=
-（私の運命を激しく揺さぶる|波乱と試練の日々が目の前に|迫っていることに……）=
-（気付くことさえ|できずにいた）=
-（まるで嵐の前で|立ち尽くすことしかできない|小さな子供のように……）=
-（胸の奥でかすかにうずく|不安を必死で押し殺す|ことしかできなかった）=
+ヴァンパイア共……浮かれて|いられるのも今のウチだぜ。=Together with a vampire... Enjoy the festivities while you still can.
+（その時の私の耳には|彼がつぶやいた言葉は|届かなかった）=(The words words he muttered did not reach my ears at that moment.)
+（そして、|その言葉が意味するものーー）=(Nor did the meaning behind those words.)
+（私の運命を激しく揺さぶる|波乱と試練の日々が目の前に|迫っていることに……）=(My life was on a violent crash course with destiny.)
+（気付くことさえ|できずにいた）=(The trials and tribulations I was to face were right in front of my eyes, but I was blind to them.)
+（まるで嵐の前で|立ち尽くすことしかできない|小さな子供のように……）=(I was like a little kid in the face of a storm who could do nothing but which it come.)
+（胸の奥でかすかにうずく|不安を必死で押し殺す|ことしかできなかった）=(There was nothing I could do but try desperately to stifle the anxiety I felt deep in my chest.)
 
 # AD604
 ふう、一回りしたかな。|校舎まで戻ってきちゃった。=
@@ -16012,7 +16012,7 @@ Sleep well...
 
 # A10F8
 じゃ、さようなら。=
-ちょ、ちょっと待ってください！|支葵センパイ！=
+ちょ、ちょっと待ってください！|支葵センパイ！=W-Wait! Please, Shiki!
 
 # A0A4C
 一条さんには、内緒…。=
@@ -16024,54 +16024,54 @@ Sleep well...
 おいしかった。ありがとう。=
 
 # A11E0
-おいしそう……=
-ガマンできない。=
+おいしそう……=It smells so delectable...
+ガマンできない。=I can’t resist.
 
 # A0F20
-え～…そんな……=
+え～…そんな……=Hm? But...
 
 # A09EC
-キミの血がほしい……=
+キミの血がほしい……=I want your blood...
 
 # A0F78
-よかった……ありがと。=
+よかった……ありがと。=Thank you.
 
 # A0CAC
-恐くなった？ゴメンね。=
+恐くなった？ゴメンね。=Did I frighten you? I’m sorry.
 
 # A0914
-ちょっとだけでもダメ？=
+ちょっとだけでもダメ？=Just a nibble? Would that be alright?
 
 # A0A5C
-本当？ありがとう。=
+本当？ありがとう。=Really? Thank you.
 
 # A0CDC
-だめなんだ……どうしよう。=
+だめなんだ……どうしよう。=I need blood... What should I do?
 
 # A0928
-どこからならいい？=
+どこからならいい？=Where should I do it?
 
 # A0C8C
-後悔しないでよね。=
+後悔しないでよね。=You’re sure you want regret it?
 
 # A1368
-俺の好きなところでいい？=
+俺の好きなところでいい？=Wherever I like?
 
 # A11C8
-最高にうれしい……本当に。=
+最高にうれしい……本当に。=You’ve made me incredibly happy... Truly.
 
 # A16D4
-なんだ……|そんなにだめなんだ。=
-眠くなったから帰って寝る。=
+なんだ……|そんなにだめなんだ。=Why not? Is it really so wrong?
+眠くなったから帰って寝る。=I’m feeling tired. I’m going to go home and lie down.
 
 # A0E34
-もう後戻りできないよ。=
+もう後戻りできないよ。=There’s no going back now.
 
 # A0B68
-こんな事になっちゃう|なんて……=
+こんな事になっちゃう|なんて……=To think we’d be doing such a thing...
 
 # A0D34
-おいしかった。よかったよ。=
+おいしかった。よかったよ。=It’s delectable. I had hoped it would be.
 
 # A0C20
 欲しい……。=
@@ -16120,6 +16120,6 @@ Sleep well...
 一条さんには内緒だよ。=
 
 # A0918
-咬ませる場所をタッチして|ください。一度咬まれた場所は|再度選択する事はできません。=
+咬ませる場所をタッチして|ください。一度咬まれた場所は|再度選択する事はできません。=Choose a location to be bitten. Once bitten, you cannot choose to be bitten in the same location again.
 
 

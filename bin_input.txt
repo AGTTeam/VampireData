@@ -155,28 +155,28 @@
 <ch1>一条センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
 <ch1>支葵センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
 <ch1>夜刈先生を責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
-<ch1>いいよ……零<00><06><0A><ch2>ちょっと待って……<00><07>=
-<ch1>うん<00><09><0A><ch2>やっぱり待って<00><0A>=
-<ch1>零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=
-<ch1>何か方法はないかな…<00><03><0A><ch2>どうすればいいの？…零<00><04>=
-<ch1>タブレットを……<00><06><0A><ch2>私がなんとかする…零<00><07>=
-<ch1>いいんだよ…零<00><09><0A><ch2>こらえて…零<00><0A>=
-<ch1>私の血を吸って……<00><0C><0A><ch2>タブレットを早く！<00><0D>=
-<ch1>待って<00><7F><0A><ch2>…………<00><01>=
+<ch1>いいよ……零<00><06><0A><ch2>ちょっと待って……<00><07>=<ch1>It’s okay, Zero...<00><06><0A><ch2>W-Wait a second...<00><07>
+<ch1>うん<00><09><0A><ch2>やっぱり待って<00><0A>=<ch1>Yes.<00><09><0A><ch2>A-Actually I--<00><0A>
+<ch1>零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>Zero!<00><0C><0A><ch2>No...　I’m scared...<00><0D>
+<ch1>何か方法はないかな…<00><03><0A><ch2>どうすればいいの？…零<00><04>=<ch1>There must be some way to help...<00><03><0A><ch2>What should I do...?<00><04>
+<ch1>タブレットを……<00><06><0A><ch2>私がなんとかする…零<00><07>=<ch1>Maybe a blood tablet would...<00><06><0A><ch2>Maybe I could...<00><07>
+<ch1>いいんだよ…零<00><09><0A><ch2>こらえて…零<00><0A>=<ch1>It’s okay, Zero...<00><09><0A><ch2>Hang in there, Zero...<00><0A>
+<ch1>私の血を吸って……<00><0C><0A><ch2>タブレットを早く！<00><0D>=<ch1>Drink my blood...<00><0C><0A><ch2>Take a blood tablet.<00><0D>
+<ch1>待って<00><7F><0A><ch2>…………<00><01>=<ch1>Wait.<00><7F><0A><ch2>......<00><01>
 <ch1>ひどい！<00><7F><0A><ch2>ゴメン……<00><04>=
 <ch1>いいんだよ……零<00><06><0A><ch2>そうだね……零<00><07>=
 <ch1>私の血を吸って……零<00><09><0A><ch2>やっぱり待って……零<00><0A>=
 <ch1>うん……零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=
-<ch1>何ですか…？<00><00><0A><ch2>まだ心の準備が…<00><01>=
-<ch1>ちょっと怖いんです…<00><03><0A><ch2>いいですよ。枢センパイなら…<00><04>=
-<ch1>えっ、どうしよう……<00><06><0A><ch2>そんなことしたら……ダメです<00><07>=
-<ch1>わかりました|覚悟を決めました<00><09><0A><ch2>やっぱり待って下さい<00><0A>=
-<ch1>枢センパイ！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=
-<ch1>何のことでしょうか？<00><7F><0A><ch2>ダメです|ガマン…できませんか？<00><01>=
-<ch1>本当にダメです…<00><03><0A><ch2>枢センパイの望みなら……<00><04>=
-<ch1>わかりました……<00><05><0A><ch2>困ります…本当に<00><03>=
-<ch1>おまかせします…|枢センパイ<00><08><0A><ch2>決めて良いですか？|…枢センパイ<00><09>=
-<ch1>枢センパイ…決めて下さい<00><0B><0A><ch2>私が決めます<00><0C>=
+<ch1>何ですか…？<00><00><0A><ch2>まだ心の準備が…<00><01>=<ch1>What is it...?<00><00><0A><ch2>I’m not sure my heart is ready...<00><01>
+<ch1>ちょっと怖いんです…<00><03><0A><ch2>いいですよ。枢センパイなら…<00><04>=<ch1>I’m a little scared...<00><03><0A><ch2>I’m okay. If it’s you, Kaname...<00><04>
+<ch1>えっ、どうしよう……<00><06><0A><ch2>そんなことしたら……ダメです<00><07>=<ch1>Huh? What should I...?<00><06><0A><ch2>In that case... we should stop.<00><07>
+<ch1>わかりました|覚悟を決めました<00><09><0A><ch2>やっぱり待って下さい<00><0A>=<ch1>I understand. I’m ready.<00><09><0A><ch2>Please wait a moment...<00><0A>
+<ch1>枢センパイ！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>Kaname!<00><0C><0A><ch2>No...　I’m scared...<00><0D>
+<ch1>何のことでしょうか？<00><7F><0A><ch2>ダメです|ガマン…できませんか？<00><01>=<ch1>What do you mean?<00><7F><0A><ch2>You mustn’t. Can’t you bear with it a little longer?<00><01>
+<ch1>本当にダメです…<00><03><0A><ch2>枢センパイの望みなら……<00><04>=<ch1>We really shouldn’t...<00><03><0A><ch2>If it’s what you want...<00><04>
+<ch1>わかりました……<00><05><0A><ch2>困ります…本当に<00><03>=<ch1>I understand...<00><05><0A><ch2>That’s...<00><03>
+<ch1>おまかせします…|枢センパイ<00><08><0A><ch2>決めて良いですか？|…枢センパイ<00><09>=<ch1>You decide.<00><08><0A><ch2>Is it... alright if I pick?<00><09>
+<ch1>枢センパイ…決めて下さい<00><0B><0A><ch2>私が決めます<00><0C>=<ch1>Please pick for me.<00><0B><0A><ch2>I’ll choose.<00><0C>
 <ch1>私も……<00><00><0A><ch2>何がですか？<00><01>=
 <ch1>ちょっと待ってください<00><03><0A><ch2>やっぱりダメです<00><04>=
 <ch1>いいですよ<00><7F><0A><ch2>いやです<00><01>=
@@ -1153,7 +1153,7 @@ vk_se6_010=
 この窓は……|あ、支葵センパイが見える！=Behind this window...|Ah, I can see Shiki!
 
 # A0DDC
-ちょっとくらいいいよね？|でも目が合ったら怒られる|かも。気をつけて見よう。=Just a little can’t hurt, right? But if he spots me, he might get mad. I should be careful.
+ちょっとくらいいいよね？|でも目が合ったら怒られる|かも。気をつけて見よう。=Just a little can’t hurt, right?|But if he spots me, he might get mad. I should be careful.
 
 # A09F4
 イケナイ子だね…。=
@@ -1221,41 +1221,43 @@ vk_se6_010=
 # A0E78
 きみって結構、|マニアックなんだね。=
 
-# A0ED8
+# A0ED8 Shiki
 そんなに、俺に興味が|あるんだ～。|ふ～ん。=You've taken quite the interest in me, haven't you?
 
 # A0BF8
 俺の事知りたい？……いいよ。=
 
+#Kaname Dancing Minigame
 # A0F34
-がっかりしないで。|練習すれば|きっと上手くなれるよ。=
+がっかりしないで。|練習すれば|きっと上手くなれるよ。=Don't be discouraged. With a little practice, I’m sure you’ll be able to improve.
 
 # A09E8
-気にしなくていいよ。|次はきっと上手く踊れるさ。=
+気にしなくていいよ。|次はきっと上手く踊れるさ。=Don’t worry about it. I’m sure that you’ll be able to pull it off next time.
 
 # A0A48
-僕はたのしかったよ。|あまり堅くならないで、|次はリラックスしていこう。=
+僕はたのしかったよ。|あまり堅くならないで、|次はリラックスしていこう。=That was fun. I hope you can try to relax more next time and be less rigid.
 
 # A09BC
-くすっ…上達したね。|そうやってだんだん大人の女性|になっていくんだ。=
+くすっ…上達したね。|そうやってだんだん大人の女性|になっていくんだ。=Heh... You’ve improved. You’re growing into a fine woman.
 
 # A0AC4
-最高の気分だよ、|マドモアゼル。|君も立派なレディだね。=
+最高の気分だよ、|マドモアゼル。|君も立派なレディだね。=That was magnificent, mademoiselle. You’ve become a fine lady.
 
+#Zero Dancing Minigame
 # A0E2C
-こんなんじゃ、ガーディアンの|仕事にまで影響しそうだ。=
+こんなんじゃ、ガーディアンの|仕事にまで影響しそうだ。=If you’re like this, it’s going to rub off on your work as a guardian as well.
 
 # A0F54
-俺たち息は合っていると|思っていたが……|音楽は難しい……=
+俺たち息は合っていると|思っていたが……|音楽は難しい……=I thought we were in tune, but... Music is hard.
 
 # A0AF8
-俺が練習不足なのか？|お前じゃないのか？=
+俺が練習不足なのか？|お前じゃないのか？=I’m out of practice? Are you sure that’s not just you?
 
 # A0CF4
-なかなか上手いんだな。|お前にこんな魅力があったなん|て……=
+なかなか上手いんだな。|お前にこんな魅力があったなん|て……=You're pretty good at this, aren't you? I never knew you had it in you...
 
 # A0DF4
-やっぱり長年のパートナーだ。|改めて見直したよ。最高だ！=
+やっぱり長年のパートナーだ。|改めて見直したよ。最高だ！=I can tell we’ve been partners for years. I’ve changed my mind. That was great!
 
 # A0DEC
 君ならいつかパーティーの主役|になれるさ！|がんばろう！=
@@ -1302,6 +1304,7 @@ vk_se6_010=
 # A0F30
 すごく楽しかったぞ。|俺たちってこんなに息が合うん|だな。=
 
+#Shiki Dancing Minigame
 # A0F14
 全然バラバラ。|やるんじゃなかった。=We weren’t in step at all. That was hardly dancing.
 
@@ -1317,6 +1320,7 @@ vk_se6_010=
 # A0C40
 こんなにうまく踊れたの初めて|かも。=
 
+#Yagari Dancing Minigame
 # A0F44
 ダンスは、もっとうまくなった|方が、早く大人になれるぞ。|小娘。=
 
@@ -8382,95 +8386,95 @@ Sleep well...
 （今日は舞踏祭当日）=(Today was the day of the ball.)
 （色とりどりのドレスに|身を包んだ人波の中ーー）=(The ballroom was brimming with dresses of every color imaginable.)
 （私はあの人にもらった|ドレスを着て、ホールへと|足を踏み入れた）=(I entered the ballroom wearing the dress he gave me.)
-おい、<name>。|そのドレス……どうしたんだ？=
-ナ･イ･ショ！|気になる？零。=
-い、いや……別に俺は……=
-あれ～？|そうなの～？=
-本当は、いったいどうしたん|だろう？でも綺麗だな～とか|思っているんでしょ？=
-なんで、俺がそんな事？！=
+おい、<name>。|そのドレス……どうしたんだ？=Oi, <name>. What’s up with that dress?
+ナ･イ･ショ！|気になる？零。=It’s a se-cr-et~!|Are you curious, Zero?
+い、いや……別に俺は……=N-No... Not really...
+あれ～？|そうなの～？=Oh~? Is that right~?
+本当は、いったいどうしたん|だろう？でも綺麗だな～とか|思っているんでしょ？=Aren’t you really thinking, “what’s up with that dress? It’s beautiful.”~?
+なんで、俺がそんな事？！=Why should I have to--?!
 
 # A171C
-零、もしかして、照れてる？=
-勝手に言ってろ！=
-どこ行くのよ？|待ちなさい、零！=
+零、もしかして、照れてる？=Zero, could it be that you’re shy?
+勝手に言ってろ！=Think what you want!
+どこ行くのよ？|待ちなさい、零！=Where are you going? Wait, Zero!
 
 # A3FF0
-いだっ！|ちょっと零！|急に振り返らないでよ！=
-何よ……|恐い顔して……=
-腹が立ってんだよ。=
-俺はそんなに頼りないか？=
-危ないことに一人で顔を|突っ込むなってことだ！=
-もっと俺に頼れよ、<name>。|一人で抱え込むな。=
-お前の面倒くらい、|俺がみてやるから……=
-うん……|ありがと、零……=
+いだっ！|ちょっと零！|急に振り返らないでよ！=Grr! Hey, Zero! Don’t just turn your back on me!
+何よ……|恐い顔して……=What? What’s with that scary face...?
+腹が立ってんだよ。=I’m pissed off.
+俺はそんなに頼りないか？=Am I really that unreliable?
+危ないことに一人で顔を|突っ込むなってことだ！=For you to go and put yourself out in the face of danger alone...
+もっと俺に頼れよ、<name>。|一人で抱え込むな。=You should rely on me a little more, <name>. Don’t take it all on by yourself.
+お前の面倒くらい、|俺がみてやるから……=At least let me try to look out for you...
+うん……|ありがと、零……=Yeah... Thanks, Zero...
 
 # A1530
-あ、あのね……！=
-何だよ？|急に改まって……=
-えっと、その……|ずっと言いたかったこと|なんだけど……=
+あ、あのね……！=L-Listen, Zero...
+何だよ？|急に改まって……=What? Suddenly acting serious...
+えっと、その……|ずっと言いたかったこと|なんだけど……=I, um... I’ve wanted to say this for a long time...
 
 # A0C50
-本当にありがとう！|あの時零が助けて|くれなかったら、私今頃……=
+本当にありがとう！|あの時零が助けて|くれなかったら、私今頃……=Thank you! If you hadn’t saved me at that time, I...
 
 # A9AA0
-迷惑かけてごめんね！=
-私って、ついつい一人で|突っ走っちゃうところが|あるから、その……=
-気にするなよ。=
-呆れたりしてない？|私に愛想尽かした？=
-お前にいちいち呆れてたら|身がもたないだろ。=
-俺なりに<name>のことは|理解してるつもりだ。=
-お前に振り回されることも|あるけど、逆にお前に|助けられたことだってある。=
-零……|ぐすっ……=
-な、涙ぐむな！|俺が泣かしたみたいだろ。=
-だって、零のせいだもん。|零があんまり嬉しいこと|言ってくれるから……=
-ねぇ、零……|私達も、少し踊ってみない？=
-踊るわけないだろ。|だいたい踊れないし。=
-零のケチ！|踊ってくれないなら、|もっと泣いてやる！=
-わかったよ！|踊ればいいんだろ、踊れば！=
-やけくそになってない？=
-当たり前だ。|やけにでもならないと、|ダンスなんか踊れるか。=
-ふふふ。|零、顔赤いよ～。=
-笑うな！|ったく、お前は|泣いたり笑ったり……=
-ダンスは組まなきゃ|踊れないんだけど？=
-はぁ……|今夜だけだからな。=
-（小さくため息をつくと|零は私の手を取った）=
-（そして、音楽に合わせて|さりげなく私を|リードしてくれる）=
-（動きはぎこちないけど、|他のカップルに|ぶつからないようにーー）=
-（少しだけ力を込めて|私を引き寄せた……）=
-ダンス、踊れるじゃん。|零のウソつき。=
-別に踊ってない。|ただ足を動かしてるだけだ。=
-（そっと見上げた零の顔は|ほんのり赤く染まっている）=
-（こんなに近くで零の顔を|見つめるなんて……|心臓に悪いかも……）=
-（それに、今夜の零は|いつになく優しくて……|ついつい甘えたくなる）=
-ねぇねぇ、もう一つだけ|お願い聞いてくれる？=
-……場所、変えない？=
+迷惑かけてごめんね！=I’m sorry for always troubling you!
+私って、ついつい一人で|突っ走っちゃうところが|あるから、その……=I have a tendency to go off on my own, and...
+気にするなよ。=Don’t worry about it.
+呆れたりしてない？|私に愛想尽かした？=Aren’t you annoyed? Are you fed up of me?
+お前にいちいち呆れてたら|身がもたないだろ。=If I got worked up by every little thing you did, my body would never last.
+俺なりに<name>のことは|理解してるつもりだ。=I think I’ve come to understand you, in my own way.
+お前に振り回されることも|あるけど、逆にお前に|助けられたことだってある。=There are times when you’ve got me running around like a headless chicken, but there have also been times where you’ve saved me instead.
+零……|ぐすっ……=Zero...Kaname...|*Sob...*
+な、涙ぐむな！|俺が泣かしたみたいだろ。=D-Don’t get all teary-eyed! Everyone’ll think I made you cry.
+だって、零のせいだもん。|零があんまり嬉しいこと|言ってくれるから……=B-But it is your fault. What you said made me so happy, and I just...
+ねぇ、零……|私達も、少し踊ってみない？=...Hey, Zero. Why don’t we join the dance.
+踊るわけないだろ。|だいたい踊れないし。=Not gonna happen. Besides, I don’t even know how to dance.
+零のケチ！|踊ってくれないなら、|もっと泣いてやる！=You bore! If you don’t dance, I’ll cry even harder!
+わかったよ！|踊ればいいんだろ、踊れば！=Alright! I’ll dance, okay?!
+やけくそになってない？=Are you that desperate?
+当たり前だ。|やけにでもならないと、|ダンスなんか踊れるか。=Of course I am. If I wasn’t desperate, there’s no way I’d do something like dancing.
+ふふふ。|零、顔赤いよ～。=Hehehe. Zero, your face is so red~
+笑うな！|ったく、お前は|泣いたり笑ったり……=Don’t laugh! Sheesh... First you were crying, and now you’re laughing...
+ダンスは組まなきゃ|踊れないんだけど？=You can’t dance without a partner now, can you?
+はぁ……|今夜だけだからな。=*Sigh...*|It’s just for tonight, okay?
+（小さくため息をつくと|零は私の手を取った）=(With a small sigh, Zero took my hands.)
+（そして、音楽に合わせて|さりげなく私を|リードしてくれる）=(He casually lead me in time with the music.)
+（動きはぎこちないけど、|他のカップルに|ぶつからないようにーー）=(His movements were a little clumsy, but he seemed to be trying to avoid bumping into any of the other couples.)
+（少しだけ力を込めて|私を引き寄せた……）=(He pulled me in closer...)
+ダンス、踊れるじゃん。|零のウソつき。=So you can dance. You liar.
+別に踊ってない。|ただ足を動かしてるだけだ。=This is hardly what I’d call dancing. I’m just moving my feet.
+（そっと見上げた零の顔は|ほんのり赤く染まっている）=(As he looked down at me gently, Zero’s face was slightly red.)
+（こんなに近くで零の顔を|見つめるなんて……|心臓に悪いかも……）=(Seeing his face so up close... I’m not sure if my heart can bear it...)
+（それに、今夜の零は|いつになく優しくて……|ついつい甘えたくなる）=(Plus, tonight Zero is being so much kinder than usual... I feel like I want him to spoil me.)
+ねぇねぇ、もう一つだけ|お願い聞いてくれる？=Hey, could I ask for one more favor?
+……場所、変えない？=...Can we go for a change of scene?
 
-# A3124
-（嫌がる零の手を引いて|湖までやって来た）=
-（我ながら今夜の私は大胆！|自分でも自分の行動力に|驚いていた）=
-（年に一度の舞踏祭だから|ちょっと気持ちが|高ぶっていたのかも）=
-零、ここでさっきの|続きしようよ？=
-あぁ……|でも、寒くないか？=
-そうだね……|寒すぎて、手が震えてきたっ。=
-ガラじゃないことするからだ。|ほら、帰るぞ。=
-ま、待ってよ、零！=
-（零のバカ……|もう少し二人きりで|いたかったのに……）=
+# A3124 choose 湖へ
+（嫌がる零の手を引いて|湖までやって来た）=(Dragging a reluctant Zero by the hand, we arrived at the lake.)
+（我ながら今夜の私は大胆！|自分でも自分の行動力に|驚いていた）=(I have to say, I’ve been really bold tonight! Even I’m surprised by my own persistence.)
+（年に一度の舞踏祭だから|ちょっと気持ちが|高ぶっていたのかも）=(It might be down to the fact that it’s the annual ball that my feelings are running a little high.)
+零、ここでさっきの|続きしようよ？=Zero, why don’t we continue where we left off?
+あぁ……|でも、寒くないか？=Alright... But isn’t it a bit cold?
+そうだね……|寒すぎて、手が震えてきたっ。=You’re right... It’s so cold, my hands are starting to shake.
+ガラじゃないことするからだ。|ほら、帰るぞ。=That’s because you did something so out-of-character. Come on, let’s go.
+ま、待ってよ、零！=W-Wait, Zero!
+（零のバカ……|もう少し二人きりで|いたかったのに……）=(That idiot... Even though I wanted to spend some more time alone together...)
 
-# A2BD0
-（嫌がる零の手を引いて|馬場までやって来た）=
-零、ここでさっきの続き……|しようよ？=
-ここでダンスは……|ホワイトリリィも見ている|しな。=
-そ、そんなこと言わないで|お願いだってば！=
-ついでに、ホワイトリリィの|飼い葉でも変えてやるか。=
-ちょっと、私は無視！？|もう！零なんて知らない！=
+# A2BD0 choose 馬場へ
+（嫌がる零の手を引いて|馬場までやって来た）=(Dragging a reluctant Zero by the hand, we arrived at the stables.)
+零、ここでさっきの続き……|しようよ？=Zero... Why don’t we continue where we left off?
+ここでダンスは……|ホワイトリリィも見ている|しな。=Dancing here... White Lily will be able to see.
+そ、そんなこと言わないで|お願いだってば！=D-Don’t say that! Come on, I’m asking you nicely!
+ついでに、ホワイトリリィの|飼い葉でも変えてやるか。=Since we’re here, maybe I’ll change White Lily’s hay.
+ちょっと、私は無視！？|もう！零なんて知らない！=Hey, did you just ignore me!? Fine! See if I care!
 
-# A2BF0
-（嫌がる零の手を引いて|裏庭までやって来た）=
-誰もいないね……|零、ここでさっきの続き……|しようか？=
-裏庭でダンスか？|見回りでもする方が|しっくりくるな。=
-たまにはいいでしょ？|今日は特別の夜なんだし。=
-……しょうがないな。|少しだけだぞ。=
-わ～い！|零、ありがとう！=
+# A2BF0 choose 裏庭へ
+（嫌がる零の手を引いて|裏庭までやって来た）=(Dragging a reluctant Zero by the hand, we arrived at the rear garden.)
+誰もいないね……|零、ここでさっきの続き……|しようか？=No one’s here...|Hey, Zero... Why don’t we continue where w left off?
+裏庭でダンスか？|見回りでもする方が|しっくりくるな。=You want to dance in the garden? It’d make more sense to do a sweep around.
+たまにはいいでしょ？|今日は特別の夜なんだし。=We’re allowed a night off patrol once in a while, right? I mean, it's a special night.
+……しょうがないな。|少しだけだぞ。=...Fine. But only for a little bit.
+わ～い！|零、ありがとう！=Yay! Thank you, Zero!
 
 # A0D64 Kaname
 こんばんは、<name>。|僕が贈ったドレス|着てくれたんだね？=Good evening, <name>. You’re wearing the dress I gave you, I see.
@@ -8510,69 +8514,69 @@ Sleep well...
 ご迷惑おかけいたしました！=I’m sorry for always troubling you!
 
 # A5C38
-その真っすぐさが|<name>のいいところだよ。=
-でも、私のせいで|みんなに迷惑かけて|しまったし……=
-いいんだよ。|<name>さえ無事なら……=
-<name>の幸せのためなら|僕は世界を敵にまわしても、|迷いはしない。=
-怖がらせてしまったかな？|<name>に対する僕の気持ちを|正直に表現しただけだよ。=
-いや、まだ足りない。|<name>への思いを言葉だけでは|とても表せない。=
-枢センパイ……|ぐすっ……=
-どうしたの、<name>？|お願いだから、泣かないで。=
-だって、枢センパイが|あんまり嬉しいこと|言ってくれるから……=
-いけないね、僕は。|<name>を泣かせてしまう|なんて……=
-そんな……とんでもないっ。|今夜の私はちょっと変ですね。|いつもより涙腺が緩いみたい。=
-今夜は特別な夜にしよう。|<name>、|僕と踊ってくれるかな？=
-えっ……でも……=
-いいだろう？|僕の手に掴まって。=
-は、はい……=
-（優しく微笑むと、|枢センパイは私の手を|そっと握りしめる）=
+その真っすぐさが|<name>のいいところだよ。=That straightforwardness of yours is one of your strengths, <name>.
+でも、私のせいで|みんなに迷惑かけて|しまったし……=But thanks to me, I caused everyone a lot of trouble...
+いいんだよ。|<name>さえ無事なら……=It’s fine. As long as you are safe...
+<name>の幸せのためなら|僕は世界を敵にまわしても、|迷いはしない。=If it was for the sake of your happiness, I wouldn't hesitate to make the world my enemy.
+怖がらせてしまったかな？|<name>に対する僕の気持ちを|正直に表現しただけだよ。=Have I frightened you? I only wanted to express my honest feelings for you.
+いや、まだ足りない。|<name>への思いを言葉だけでは|とても表せない。=No, it’s still not enough. Words alone could never express how I feel about you.
+枢センパイ……|ぐすっ……=Kaname...|*Sob...*
+どうしたの、<name>？|お願いだから、泣かないで。=What’s wrong, <name>? Please don’t cry.
+だって、枢センパイが|あんまり嬉しいこと|言ってくれるから……=S-Sorry. It’s just that what you said made me so happy, and...
+いけないね、僕は。|<name>を泣かせてしまう|なんて……=That’s not very gentlemanly of me, making you cry...
+そんな……とんでもないっ。|今夜の私はちょっと変ですね。|いつもより涙腺が緩いみたい。=That’s not it at all. I think there must just be something wrong with me tonight. I feel extra sentimental.
+今夜は特別な夜にしよう。|<name>、|僕と踊ってくれるかな？=Let's make tonight a special night. <name>, will you do me the honour of dancing with me?
+えっ……でも……=I... But--
+いいだろう？|僕の手に掴まって。=You’ve no objections, yes?|Take my hand.
+は、はい……=Y-Yes...
+（優しく微笑むと、|枢センパイは私の手を|そっと握りしめる）=(With a warm smile, Kaname gently squeezed my hand.)
 
 # A6DCC
-（そして、音楽に合わせ|……あれ？わざと音を外して|踊ってる？）=
-あの……枢センパイ？|どうして音楽に|合わせないんですか？=
-僕達はゆっくり踊ろう。|音に合わせる必要はないよ。=
-あっ……もしかして……=
-（幼い頃、私は枢センパイから|ワルツを教えてもらった）=
-（小さい私はゆっくりとしか|踊ることができなくて……）=
-（でも、枢センパイは辛抱強く|私のリズムに合わせてくれた）=
-ひどいですよ、枢センパイ。|私のことまだ子供扱い|するなんて。=
-子供扱いなんてしてないさ。|音楽に合わせないのは……=
-今の僕には<name>の|鼓動しか聞こえないからだよ。=
-あっ……恥ずかしいっ。=
-震えてるね、<name>。|緊張してるのかい？=
-（そっと見上げると、|枢センパイが目を細めて|私を見つめていた）=
-（こんなに近くで枢センパイの|顔を見つめるなんて……|心臓に悪すぎて……）=
-（それに、今夜の枢センパイは|いつもより大人っぽくて……|胸が高鳴ってしまう）=
-<name>かわいいよ。|抱きしめたい衝動に|駆られてしまいそうになる。=
-……場所を変えないか？=
-どこか行きたい場所はある？=
+（そして、音楽に合わせ|……あれ？わざと音を外して|踊ってる？）=(And step, and... Huh? Is he purposely dancing out of time?)
+あの……枢センパイ？|どうして音楽に|合わせないんですか？=Um... Kaname? Why aren’t we dancing in time with the music?
+僕達はゆっくり踊ろう。|音に合わせる必要はないよ。=Let’s dance slowly. We don't have to follow the music.
+あっ……もしかして……=Ah, could it be...?
+（幼い頃、私は枢センパイから|ワルツを教えてもらった）=(When I was small, Kaname taught me the Waltz.)
+（小さい私はゆっくりとしか|踊ることができなくて……）=(I could only dance it slowly...)
+（でも、枢センパイは辛抱強く|私のリズムに合わせてくれた）=(But Kaname patiently matched my pace.)
+ひどいですよ、枢センパイ。|私のことまだ子供扱い|するなんて。=That’s cruel, Kaname. You’re still treating me like a child.
+子供扱いなんてしてないさ。|音楽に合わせないのは……=I'm not treating you like a child. The reason I’m not moving in time with the music...
+今の僕には<name>の|鼓動しか聞こえないからだよ。=Is that the only thing I can hear right now is your heartbeat, <name>.
+あっ……恥ずかしいっ。=Ah... I’m so embarrassed.
+震えてるね、<name>。|緊張してるのかい？=You’re shaking. Are you nervous?
+（そっと見上げると、|枢センパイが目を細めて|私を見つめていた）=(When I looked up, I saw Kaname looking down back at me intently.)
+（こんなに近くで枢センパイの|顔を見つめるなんて……|心臓に悪すぎて……）=(Seeing his face so up close... My heart can’t bear it.)
+（それに、今夜の枢センパイは|いつもより大人っぽくて……|胸が高鳴ってしまう）=(Plus, tonight Kaname seems so much more grown-up than usual. It’s making my heart race.)
+<name>かわいいよ。|抱きしめたい衝動に|駆られてしまいそうになる。=You’re so cute, <name>. I can hardly resist the urge to hug you.
+……場所を変えないか？=...Shall we go somewhere else?
+どこか行きたい場所はある？=Is there anywhere you’d like to go?
 
-# A3148
-裏庭へ行きたいです。=
-<name>が望むなら、|仰せの通りに。=
-誰もいなくて寂しい感じだね。=
-ごめんなさいっ。|こんな場所に|連れてきちゃって。=
-そんなことないよ。|僕は<name>と一緒にいられる|だけで幸せなのだから。=
-やっぱり外は寒いですね？=
-ここは風が冷たい。|中へ戻ろうか、<name>。=
-（本当はもう少し|枢センパイと二人きりで|過ごしたかったな……）=
+# A3148 choose 裏庭
+裏庭へ行きたいです。=I’d like to go to the rear garden.
+<name>が望むなら、|仰せの通りに。=Your wish is my command.
+誰もいなくて寂しい感じだね。=There’s no one around. It seems a little empty.
+ごめんなさいっ。|こんな場所に|連れてきちゃって。=I’m sorry. Bringing you to such a place...
+そんなことないよ。|僕は<name>と一緒にいられる|だけで幸せなのだから。=It’s not like that. I’m happy just to be together with you.
+やっぱり外は寒いですね？=It’s cold out here, isn’t it?
+ここは風が冷たい。|中へ戻ろうか、<name>。=The wind is making it cold. Shall we go back inside, <name>?
+（本当はもう少し|枢センパイと二人きりで|過ごしたかったな……）=(I wish I could have been alone with Kaname for just a little longer...)
+	
+# A2C10 choose 馬場
+馬場へ行きたいです。=I’d like to go to the stables.
+う～ん、あまり行きたくは|ないけれど……|<name>のためなら行くよ。=Mm, I can’t say that I really want to go, however... I will for your sake.
+少し肌寒いね。|やっぱり戻ろう。=It’s a little chilly here, isn’t it?|Let’s go back.
+来たばかりですよ？=Even though we only just got here?
+<name>が風邪でもひいたら|僕は自分を許せないよ。=If you were to catch a cold, I’d never be able to forgive myself.
+さぁ、僕と一緒に帰ろう。=Come on, let’s go back together.
 
-# A2C10
-馬場へ行きたいです。=
-う～ん、あまり行きたくは|ないけれど……|<name>のためなら行くよ。=
-少し肌寒いね。|やっぱり戻ろう。=
-来たばかりですよ？=
-<name>が風邪でもひいたら|僕は自分を許せないよ。=
-さぁ、僕と一緒に帰ろう。=
-
-# A26EC
+# A26EC choose ここでいい
 ここでいいです。=Here’s fine.
-そうだね。|せっかくのパーティーだし、|ホールの中央で踊ろうか？=
-で、でも……！|みんな見ているし……=
-見せつけてやりたいのさ。|みんなに、僕のお姫様をね。=
-お姫様だなんて、そんな……=
-僕と踊って頂けますか、|お姫様？=
-……はい。喜んで……=
+そうだね。|せっかくのパーティーだし、|ホールの中央で踊ろうか？=Quite. Well, since we're at a party, what say we dance in the middle of the hall?
+で、でも……！|みんな見ているし……=B-But--! Everyone will be able to see us...
+見せつけてやりたいのさ。|みんなに、僕のお姫様をね。=I want them to see us. I want to show them my princess.
+お姫様だなんて、そんな……=Princess...
+僕と踊って頂けますか、|お姫様？=Will you dance with me, Princess?
+……はい。喜んで……=...Yes. With pleasure.
 
 # A0CC8
 <last><name>。|へぇ、僕が贈ったドレス|着てくれたんだ。=
@@ -8651,7 +8655,7 @@ Sleep well...
 強くなんか……=
 あれ？枢様が僕を呼ぶ声が|聞こえてきた気がする。|早く行かなくちゃ！=
 藍堂センパイ……！|待って下さいっ！=
-（本当はもう少し|藍堂センパイと二人きりで|いたかったけどな……）=
+（本当はもう少し|藍堂センパイと二人きりで|いたかったけどな……）=(I wish I could have been alone with Aido for just a little longer...)
 
 # A4A28
 やっぱり僕と二人きりに|なるのが恐いんだ？=
@@ -8869,7 +8873,7 @@ Sleep well...
 あらら、本当に大丈夫？|やっぱり戻ろうよ。=
 <name>ちゃんに|風邪なんてひかせたら、|枢に合わせる顔ないし。=
 夜のお散歩はおあずけ。|また、今度ね|<name>ちゃん。=
-（本当はもう少し|一条センパイと二人きりで|いたかったな……）=
+（本当はもう少し|一条センパイと二人きりで|いたかったな……）=(I wish I could have been alone with Ichijo for just a little longer...)
 
 # A6E74
 一条センパイのお部屋に|行ってみたいです。=
@@ -9035,11 +9039,11 @@ Sleep well...
 あの人は零の……？=That man, he’s Zero’s...
 
 # A0D00
-錐生零……浮かれていられる|のも今のウチだぜ。=
+錐生零……浮かれていられる|のも今のウチだぜ。=Zero Kiryu... Enjoy yourself while you still can.
 
 # A2B70
 ヴァンパイア共……浮かれて|いられるのも今のウチだぜ。=Together with a vampire... Enjoy the festivities while you still can.
-（その時の私の耳には|彼がつぶやいた言葉は|届かなかった）=(The words words he muttered did not reach my ears at that moment.)
+（その時の私の耳には|彼がつぶやいた言葉は|届かなかった）=(The words he muttered did not reach my ears at that moment.)
 （そして、|その言葉が意味するものーー）=(Nor did the meaning behind those words.)
 （私の運命を激しく揺さぶる|波乱と試練の日々が目の前に|迫っていることに……）=(My life was on a violent crash course with destiny.)
 （気付くことさえ|できずにいた）=(The trials and tribulations I was to face were right in front of my eyes, but I was blind to them.)
@@ -15202,7 +15206,7 @@ Sleep well...
 私も一緒に連れて行って|ください！=
 ……本気なのか？なら言ってお|く。いいか…よく聞け。お前は|お前自身の幸せや夢を考えろ。=
 俺のような奴や他人に|惑わされるんじゃない。=
-自分にとって何が大切なのか、|よく考えるんだな。=
+自分にとって何が大切なのか、|よく考えるんだな。=I’ve been thinking
 先生！私、明日の朝、|校門で待ってますから…|迎えに来てください！=
 ここから先、俺とお前は、|教師と生徒ではない。=
 ヴァンパイアに関わりつつも|異なる志を持つ者だ。|さっきの言葉ーー=
@@ -15270,88 +15274,88 @@ Sleep well...
 （どこにいってしまったの？|あの人は）=
 私は信じている。|先生はきっと生きている。|信じて待とう。いつまでも……=
 
-# A180C
-自分が嫌になる………|この渇きを抑え続けてみせると|自分に誓っていたのに…=
-零……まさか……=
-そうだ俺は今……お前の……|血を欲しい……最低だよな……=
+# A180C low intimacy Zero bloodlust
+自分が嫌になる………|この渇きを抑え続けてみせると|自分に誓っていたのに…=I hate myself... Even though I swore to myself that I’d keep this thirst under control...
+零……まさか……=Zero... You don’t mean...?
+そうだ俺は今……お前の……|血を欲しい……最低だよな……=That’s right. At this very moment, I... want your blood... I’m the worst.
 
-# A0A50
-…いいって…簡単に言って|いいことじゃないだろ。=
+# A0A50 choose いいよ……零
+…いいって…簡単に言って|いいことじゃないだろ。=“Okay”...? Can you really say that so easily?
 
-# A144C
-……無理を言ってるよな。|……俺。=
-ちょっとは怖いから、|心の準備を…うん、大丈夫……=
-わかった…目を、つぶって|他の事を考えていろ。=
+# A144C choose ちょっと待って……
+……無理を言ってるよな。|……俺。=...That’s asking too much, isn’t it? I did...
+ちょっとは怖いから、|心の準備を…うん、大丈夫……=I’m just a bit nervous, so I need some time to prepare... Alright, I’m ready...
+わかった…目を、つぶって|他の事を考えていろ。=Okay... Close your eyes, and think about something else...
 
-# A0EE0
-<name>……|本当に……ごめん………=
+# A0EE0 choose うん
+<name>……|本当に……ごめん………=<name>... I’m... really sorry...
 
 # A12C0
-そうか……お前の気持ちも|考えないで……ごめん…|もう行ってくれ……=
-ごめんね……。=
+そうか……お前の気持ちも|考えないで……ごめん…|もう行ってくれ……=I see... I didn’t even consider your feelings at all... I’m sorry... Please just go.
+ごめんね……。=I’m sorry...
 
 # A1330
-零……場所は私に決めさせて。=
-ああ、わかった……=
+零……場所は私に決めさせて。=Zero... Let me pick the spot.
+ああ、わかった……=All right...
 
-# A1130
-ごめん、<name>。=
-零！やめて！=
+# A1130 choose 零！
+ごめん、<name>。=I’m sorry, <name>.
+零！やめて！=Zero! Stop--!
 
 # A0A64
-<name>……ごめん。=
+<name>……ごめん。=<name>... I’m sorry.
 
 # A0DB4
-お前を……傷つけたいわけじゃ|ないのに……=
+お前を……傷つけたいわけじゃ|ないのに……=I... never wanted to hurt you, and yet--
 
 # A0C34
-俺は…最低だ…=
+俺は…最低だ…=I’m... the worst...
 
-# A1404
-零…、顔が真っ青だよ。=
-大丈夫…？=
+# A1404 Zero high intimacy bloodlust
+零…、顔が真っ青だよ。=Zero... You’ve gone white.
+大丈夫…？=Are you okay...?
 
-# A1260
-何か方法は……そうだ、|タブレット…でも、零の体には|受け付けないんだ…=
-う……はぁ………はぁ……=
+# A1260 choose 何か方法はないかな…
+何か方法は……そうだ、|タブレット…でも、零の体には|受け付けないんだ…=A way to help... Right, there’s blood tablets. But... Zero’s body won’t accept them.
+う……はぁ………はぁ……=Ngh... Haa... haa...
 
-# A1278
-どうすればいいの……零？=
-いいんだ……今はあっちに|行ってくれないか……=
+# A1278 choose どうすればいいの？…零
+どうすればいいの……零？=What should I do...!?
+いいんだ……今はあっちに|行ってくれないか……=I’m fine... Just please go away...
 
-# A0D24
-うう、あ……はぁ…はあ……=
+# A0D24 choose タブレットを……
+うう、あ……はぁ…はあ……=Nngh, aah... haa... haa...
 
-# A0988
-ダメだ……|これ以上、お前を……=
+# A0988 私がなんとかする…零
+ダメだ……|これ以上、お前を……=You can’t. Any more and you’ll--
 
 # A1340
-でも、このままじゃ……|零……私が止めなきゃ！=
-くっ……頼む、むこうへ|行ってくれ…=
+でも、このままじゃ……|零……私が止めなきゃ！=But at this rate...|I have to find some way to stop you!
+くっ……頼む、むこうへ|行ってくれ…=Ngh... I’m begging you, just go away...
 
-# A1358
-いいんだよ……|私に出来ること……=
-だめだ……そんなこと……|自分を許せない……=
+# A1358 choose いいんだよ
+いいんだよ……|私に出来ること……=It’s okay... If it’s something I can do...
+だめだ……そんなこと……|自分を許せない……=You can’t... I’d... never forgive myself...
 
-# A12C8
-私がなんとかするから……=
-くそ…もう…=
+# A12C8 choose こらえて…零
+私がなんとかするから……=I’m going to find a way to fix this...
+くそ…もう…=Damn it... I can’t--
 
-# A1674
-すまない……。=
-一緒に……|一番許されない事をしよう……=
+# A1674 choose 私の血を吸って……
+すまない……。=I’m sorry...
+一緒に……|一番許されない事をしよう……=Together... We’ll do the most forbidden act of all...
 
-# A0FF8
-うっ……タブレットは……|ごめん<name>、俺…もう…！=
+# A0FF8 choose タブレットを早く！
+うっ……タブレットは……|ごめん<name>、俺…もう…！=Ngh... Blood tablets are...|I’m sorry, <name>... I’m already...!
 
 # A0C94
-……ごめん……俺はまた…=
+……ごめん……俺はまた…=...I’m sorry... Again, I’m...
 
 # A0A18
-こんな姿……|お前には見られたくなかった……=
+こんな姿……|お前には見られたくなかった……=I... didn’t want you to see me like this...
 
 # A0A08
-俺は…けだものだな…。=
+俺は…けだものだな…。=I’m... nothing more than a beast...
 
 # A17E8
 零の為だから……|覚悟は出来ているよ。=
@@ -15408,121 +15412,121 @@ Sleep well...
 # A0CBC
 俺たち……これからどこへ|行くんだろうな……=
 
-# A0FD4
-僕のワガママを、聞いてくれる|かな？=
+# A0FD4 Kaname low intimacy bloodlust
+僕のワガママを、聞いてくれる|かな？=Will you listen to my selfish request?
 
-# A0AD0
-とにかく、来てくれない？=
+# A0AD0 choose 何ですか…？
+とにかく、来てくれない？=To start, won’t you please come here?
 
-# A0CFC
-顔が真っ赤だよ……|かわいいね。=
+# A0CFC choose まだ心の準備が…
+顔が真っ赤だよ……|かわいいね。=Your face has gone quite red... How cute.
 
 # A0EB4
-僕はきみに来て欲しいんだ。|ダメなの……かな？=
+僕はきみに来て欲しいんだ。|ダメなの……かな？=I want you to come closer.|...Is that a no?
 
-# A13F8
-くすっ……かわいいね。|怖がらなくていいんだよ。=
-枢センパイ……まさか……=
-きみは本当に良いにおいが|する……いっそもう咬んで|しまいたいくらいに……=
+# A13F8　choose ちょっと怖いんです…
+くすっ……かわいいね。|怖がらなくていいんだよ。=Heh... You’re so cute. There’s nothing to be afraid of.
+枢センパイ……まさか……=Kaname... Are you...?
+きみは本当に良いにおいが|する……いっそもう咬んで|しまいたいくらいに……=You really do smell good... Good enough to eat...
 
-# A1614
-でも、行くだけですよ……=
-ああ……来てくれるんだ、|うれしいよ。=
-少しだけ……|きみを咬んでしまおうかな…=
+# A1614 choose いいですよ。枢センパイなら…
+でも、行くだけですよ……=But, I’m just coming closer, that’s all...
+ああ……来てくれるんだ、|うれしいよ。=Yes... That makes me really happy.
+少しだけ……|きみを咬んでしまおうかな…=I think I might bite you... just a little...
 
-# A0B40
-恥ずかしがらないで……|僕に任せて……=
+# A0B40 choose えっ、どうしよう……
+恥ずかしがらないで……|僕に任せて……=Don’t be shy... Leave it all to me...
 
-# A162C
-そうだね、人じゃなくなって|しまうね。=
-う……=
-それでも……|僕と同じにならない？=
+# A162C　choose そんなことしたら……ダメです
+そうだね、人じゃなくなって|しまうね。=That’s right. You wouldn’t be human any more.
+う……=Ngh...
+それでも……|僕と同じにならない？=But... You’d be the same as me.
 
-# A0CD4
-そう……後悔しないね？=
+# A0CD4 choose わかりました|覚悟を決めました
+そう……後悔しないね？=I see... You won't regret this, right?
 
-# A0F70
-脅かしてゴメンね。|……きみの覚悟も決まらない|のに悪かったね。=
+# A0F70 choose やっぱり待って下さい
+脅かしてゴメンね。|……きみの覚悟も決まらない|のに悪かったね。=I’m sorry for frightening you. It was wrong of me to suggest when you weren’t ready.
 
-# A12F0
-場所は私に決めさせて下さい。=
-いいよ。まかせるよ。=
+# A12F0 choose 枢センパイ！
+場所は私に決めさせて下さい。=Please let me decide on the spot.
+いいよ。まかせるよ。=That’s all right. I’ll leave it to you.
 
-# A0E3C
-フフフ……安心して。大事な|きみを傷つけたりしないよ。=
+# A0E3C choose やっぱり……怖い……いや
+フフフ……安心して。大事な|きみを傷つけたりしないよ。=Hehehe... Don’t worry. I would never hurt you, my dear.
 
 # A1028
-う……あれ？=
-枢センパイ……血は……|吸わないのですか？=
+う……あれ？=Nn... Huh?
+枢センパイ……血は……|吸わないのですか？=Kaname... You’re not going to suck my blood?
 
 # A0C88
-ゴメンね。きみの血をもらう訳|にはいかないんだ。=
+ゴメンね。きみの血をもらう訳|にはいかないんだ。=I’m sorry. I’m afraid I can’t take your blood.
 
 # A0CF0
-やっぱり、きみを傷つけること|は、出来ないんだよ。=
+やっぱり、きみを傷つけること|は、出来ないんだよ。=I can’t hurt you after all.
 
 # A0DCC
-今はまだ、その時では|ないから…。=
+今はまだ、その時では|ないから…。=It's not the right time yet...
 
-# A15A8
-この時をずっとずっと…|待っていたんだよ。=
-きみもそうなの？=
-ごめんね。ガマンできそうに|ないんだ。=
+# A15A8 Kaname high intimacy bloodlust
+この時をずっとずっと…|待っていたんだよ。=I’ve been waiting for this moment for so, so long.
+きみもそうなの？=Don’t you feel the same?
+ごめんね。ガマンできそうに|ないんだ。=I’m sorry. It seems I can’t bear it any longer.
 
-# A12D8
-冷たいんだね……=
-咬んでも……いい？=
+# A12D8 choose 何のことでしょうか？
+冷たいんだね……=That’s cold...
+咬んでも……いい？=Do you mind if I... bite you?
 
-# A14B8
-きみは……|残酷なことをするんだね……=
-僕の気持ち、忘れていない|よね？=
+# A14B8 choose ダメです|ガマン…できませんか？
+きみは……|残酷なことをするんだね……=You’re so cruel...
+僕の気持ち、忘れていない|よね？=Have you forgotten my feelings for you?
 
-# A1D6C
-どうしたの？|……怖くなっちゃったかな？=
-気にしないで。当然だよ。だっ|て、きみはまだヴァンパイア|にはなりたくないだろう？=
-折角のご好意、本当に|ごめんなさい……=
-少し悲しいかな……だけど、|断ったのはきみが賢明な証拠|だよ。=
+# A1D6C choose 本当にダメです… or later 困ります…本当に
+どうしたの？|……怖くなっちゃったかな？=What’s the matter?|...Are you scared?
+気にしないで。当然だよ。だっ|て、きみはまだヴァンパイア|にはなりたくないだろう？=Don’t worry about it. That’s only natural. You don’t want to become a vampire yet, do you?
+折角のご好意、本当に|ごめんなさい……=I’m really sorry to have to turn down your offer...
+少し悲しいかな……だけど、|断ったのはきみが賢明な証拠|だよ。=I am a little sad... But your refusal is just proof of your wise judgment.
 
-# A1BEC
-覚悟……決めたんだね。=
-ずっと欲しかった…=
-僕の大切なきみを他の奴に|咬まれてしまうなんて…平気で|いられないんだよ。いいかい？=
+# A1BEC　choose 枢センパイの望みなら……
+覚悟……決めたんだね。=You’ve made up your mind, haven’t you?
+ずっと欲しかった…=I’ve wanted this for so long...
+僕の大切なきみを他の奴に|咬まれてしまうなんて…平気で|いられないんだよ。いいかい？=I would never be able to cope with anyone else biting my dear girl. Are you okay with that?
 
-# A0FE4
-くすっ……|きみの想いは受け取ったよ。=
+# A0FE4 choose わかりました……
+くすっ……|きみの想いは受け取ったよ。=Heh... I appreciate the thought.
 
 # A0D14
-どこを咬んでほしいか…|いってごらん。=
+どこを咬んでほしいか…|いってごらん。=Tell me... Where would you like me to bite?
 
-# A1110
-僕を信じてくれるんだ……|ありがとう……=
-でも……素直に望みを聞かせて|ほしいな。=
+# A1110 おまかせします…|枢センパイ
+僕を信じてくれるんだ……|ありがとう……=You’re putting your faith in me...? Thank you.
+でも……素直に望みを聞かせて|ほしいな。=But... I’d like to hear your true desire.
 
-# A0C9C
-ああ、いいよ。|それで……どうするの？=
+# A0C9C choose 決めて良いですか？|…枢センパイ
+ああ、いいよ。|それで……どうするの？=Yes, it’s fine... So, what will you do?
 
-# A16A4
-枢センパイ……決めて下さい。=
-きみの決意の記念に|ここは譲りたかったけれどね。=
-一緒に……|一番許されない事を……|私と枢センパイで……=
+# A16A4 choose 枢センパイ…決めて下さい
+枢センパイ……決めて下さい。=Kaname... Please pick for me.
+きみの決意の記念に|ここは譲りたかったけれどね。=I’d wanted to concede the choice in commemoration of your resolve, though.
+一緒に……|一番許されない事を……|私と枢センパイで……=Together... We’ll do the most forbidden act of all...
 
-# A12F8
-くすっ……いい子だね。さあ、|僕に初めて咬まれるなら、どこ|がいいか素直に言うんだよ。=
-……枢センパイ。=
+# A12F8 choose 私が決めます
+くすっ……いい子だね。さあ、|僕に初めて咬まれるなら、どこ|がいいか素直に言うんだよ。=Heh... You’re a good girl. Now, tell me where you’d like me to make the first bite.
+……枢センパイ。=...Kaname.
 
 # A0B9C
-ごめんね、|おしおきが過ぎたかな？……=
+ごめんね、|おしおきが過ぎたかな？……=I’m sorry. Have I been too mean?
 
 # A0E28
-僕がきみの血を吸って|しまったら、きみはもう人へは|戻れないからね…=
+僕がきみの血を吸って|しまったら、きみはもう人へは|戻れないからね…=Once I suck your blood, you'll never be human again...
 
 # A0964
-僕たちだけの秘密だよ。|誰にも気づかれないでね。=
+僕たちだけの秘密だよ。|誰にも気づかれないでね。=This will be our little secret. No one else must find out.
 
 # A1470
-僕たちを邪魔する者なんて、|この世界に誰もいない。=
-覚悟は…できている？=
-ホシイ…んだ…。=
+僕たちを邪魔する者なんて、|この世界に誰もいない。=There's no one in the world who can stand in our way.
+覚悟は…できている？=Are you ready?
+ホシイ…んだ…。=Y...Yes.
 
 # A13F0
 そうなの？くすっ……|オトナになったんだね……=

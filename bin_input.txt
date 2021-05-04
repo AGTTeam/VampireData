@@ -8560,7 +8560,7 @@ Sleep well...
 やっぱり外は寒いですね？=It’s cold out here, isn’t it?
 ここは風が冷たい。|中へ戻ろうか、<name>。=The wind is making it cold. Shall we go back inside, <name>?
 （本当はもう少し|枢センパイと二人きりで|過ごしたかったな……）=(I wish I could have been alone with Kaname for just a little longer...)
-	
+
 # A2C10 choose 馬場
 馬場へ行きたいです。=I’d like to go to the stables.
 う～ん、あまり行きたくは|ないけれど……|<name>のためなら行くよ。=Mm, I can’t say that I really want to go, however... I will for your sake.
@@ -16125,5 +16125,3 @@ Sleep well...
 
 # A0918
 咬ませる場所をタッチして|ください。一度咬まれた場所は|再度選択する事はできません。=Choose a location to be bitten. Once bitten, you cannot choose to be bitten in the same location again.
-
-

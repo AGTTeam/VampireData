@@ -2,6 +2,7 @@ extract*
 repack*
 out_*
 font_data.bin
+dictionary.asm
 *_output.*
 *.nds
 *.xdelta

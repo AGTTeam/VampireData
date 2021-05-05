@@ -181,7 +181,7 @@
 <ch1>ちょっと待ってください<00><03><0A><ch2>やっぱりダメです<00><04>=
 <ch1>いいですよ<00><7F><0A><ch2>いやです<00><01>=<ch1>You may.<00><7F><0A><ch2>No.<00><01>
 <ch1>別にいいですよ<00><03><0A><ch2>そんなのいやです<00><04>=<ch1>I don’t mind.<00><03><0A><ch2>Y-You can’t!<00><04>
-<ch1>う～ん、じゃあいいです<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>Well, I guess it’s okay.<00><07><0A><ch2>Not a single drop.<00><08>
+<ch1>う～ん、じゃあいいです<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>Well, I guess it’s okay.<00><07><0A><ch2>It’s not happening.<00><08>
 <ch1>ええと……き、決めました<00><0C><0A><ch2>藍堂センパイにお任せします<00><0A>=<ch1>A-Ah... I’ll choose.<00><0C><0A><ch2>I’ll leave it to you.<00><0A>
 <ch1>藍堂センパイにお任せします<00><0A>=<ch1>I’ll leave it to you.<00><0A>
 <ch1>やっぱり……自分で決めます<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>Actually...　I’ll pick.<00><0C><0A><ch2>Actually...　I’ve changed my mind.<00><0D>
@@ -197,12 +197,12 @@
 <ch1>落ち着きのないのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
 <ch1>落ち着きのないのはいやです<00><06>=
 <ch1>やっぱりやめます<00><09><0A><ch2>ここです<00><0A>=
-<ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><04>=
-<ch1>う～ん、じゃあいいです<00><07>=
-<ch1>自分で決めます<00><09><0A><ch2>架院センパイにお任せします<00><0A>=
-<ch1>自分で決めます<00><09>=
-<ch1>はい……<00><0C><0A><ch2>やっぱり……いやです<00><0D>=
-<ch1>何がですか？<00><7F><0A><ch2>ガマンしてください<00><01>=<ch1>What does?<00><7F><0A><ch2>Please, resist it.<00><01>
+<ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><04>=<ch1>I don’ｔ mind.<00><7F><0A><ch2>I’d rather you didn’t.<00><04>
+<ch1>う～ん、じゃあいいです<00><07>=<ch1>Well, I guess that would be okay.<00><07>
+<ch1>自分で決めます<00><09><0A><ch2>架院センパイにお任せします<00><0A>=<ch1>Let me pick.<00><09><0A><ch2>I’ll leave it to you.<00><0A>
+<ch1>自分で決めます<00><09>=<ch1>I’ll pick...<00><09>
+<ch1>はい……<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>Right...<00><0C><0A><ch2>I... I can’t go through with this.<00><0D>
+<ch1>何がですか？<00><7F><0A><ch2>ガマンしてください<00><01>=<ch1>What does?<00><7F><0A><ch2>Please, pull yourself together.<00><01>
 <ch1>別にいいですよ<00><7F><0A><ch2>いやです<00><04>=<ch1>Go ahead.<00><7F><0A><ch2>You can’t.<00><04>
 <ch1>う～ん、まぁ、いいかな……<00><06><0A><ch2>絶対にいやです<00><07>=<ch1>Well, I guess that would be okay.<00><06><0A><ch2>Not a single drop.<00><07>
 <ch1>う～ん、まぁ、いいかな……<00><06>=<ch1>Well, I guess that would be okay.<00><06>
@@ -1293,19 +1293,19 @@ vk_se6_010=
 
 #Kain Dancing Minigame
 # A0A28
-お前、アレはないだろ。|頼むぜ？=
+お前、アレはないだろ。|頼むぜ？=Come on, you can do better than this	. I’m counting on you.
 
 # A0F60
-いや、俺がヘタだったのかな|……|それとも……=
+いや、俺がヘタだったのかな|……|それとも……=Ah, I guess I’m not very good at this... Else...
 
 # A0C5C
-まあまあかな。|お互いもっと練習しようぜ。=
+まあまあかな。|お互いもっと練習しようぜ。=That was alright. We could both do with some more practice.
 
 # A0BA4
-結構やるな、お前。|俺をリードしてくれたんだな。=
+結構やるな、お前。|俺をリードしてくれたんだな。=That was pretty good. You managed to take the lead.
 
 # A0F30
-すごく楽しかったぞ。|俺たちってこんなに息が合うん|だな。=
+すごく楽しかったぞ。|俺たちってこんなに息が合うん|だな。=That was a lot of fun. We’re really in sync.
 
 #Shiki Dancing Minigame
 # A0F14
@@ -8195,7 +8195,7 @@ Sleep well...
 （架院センパイはゆっくり|彼女に近付くと|一思いにトドメを刺した）=(Kain drew slowly nearer the woman and delivered the final blow.)
 ケガはないか？=Are you hurt?
 あっ、はい！|おかげ様で無傷です。=Ah, no! I’m fine, thanks to you.
-バカヤロウ！=You idiot!
+バカヤロウ！=You dumbass!
 えっ！=Huh!?
 危ないから外に出るなって|お前に言わなかったか？=Weren’t you told not to go out because it’s dangerous?
 それを１人で|事件解決しようなんて……|無茶にも程がある。=Trying to sort it out all by yourself... There’s a limit to how reckless someone can be.
@@ -8598,7 +8598,7 @@ Sleep well...
 
 # A3A2C
 ……だけど|……やっぱりダメだよ！！=...But... I can’t take it!!
-なっ……何ですか急に……？=Wha—What are you on about, so suddenly?
+なっ……何ですか急に……？=Wha-What are you on about, so suddenly?
 今回の事件もそうだけど、|一人で何でも抱え込みすぎだ！|たまには誰かに頼ればいい。=You did the same thing this time too, but you’re always trying to take on too much by yourself! You should try relying on someone else once in a while.
 無茶はするなよな。|…頼る相手は、|僕だっていいんだ。=Don’t over do it. ...You could count on me, even.
 ごめんなさい。|でも、藍堂センパイに|心配かけたくなくて……=I’m sorry. I didn’t want to worry you...
@@ -8690,106 +8690,106 @@ Sleep well...
 さぁ、参りましょうか。|お手をどうぞ、お姫様。=Well, shall we try it? Your hand, if you will, Princess.
 
 # A0E70
-よう、<last><name>。|俺が贈ったドレス|着てくれたんだな？=
+よう、<last><name>。|俺が贈ったドレス|着てくれたんだな？=Yo, <name><last>. You’re wearing the dress I gave you?
 
 # A2708
-よう、<last><name>。|そのドレス……|綺麗なんじゃないか？=
-私にはセクシーすぎるかなって|思ったんですけど、|すっごく嬉しかったので……=
-まぁ、確かにところどころ|布が余ってるみたいだな。=
-どうせ、|お子様体型ですよ……=
-冗談だよ。|とても似合ってる。|心からそう思うよ。=
-それより、申し訳なかった。|お前をちょっとでも疑った|自分が恥ずかしいぜ。=
+よう、<last><name>。|そのドレス……|綺麗なんじゃないか？=Yo, <name><last>. That dress... It’s mighty pretty.
+私にはセクシーすぎるかなって|思ったんですけど、|すっごく嬉しかったので……=I was a bit worried it might be too sexy for me, but it made me really happy...
+まぁ、確かにところどころ|布が余ってるみたいだな。=Well, I guess there are places where it doesn’t fit you properly.
+どうせ、|お子様体型ですよ……=You mean to say I’m as flat as a board...
+冗談だよ。|とても似合ってる。|心からそう思うよ。=I’m joking. It really suits you. I mean that.
+それより、申し訳なかった。|お前をちょっとでも疑った|自分が恥ずかしいぜ。=Anyway, I wanted to apologize. I’m ashamed of myself for suspecting you before.
 
 # A2014
-そのドレスは一応、|お詫びの印だ。だから|遠慮なく受け取ってくれ。=
-そんな……|私は全然|気にしてないですから！=
-ったく、|お前には適わない、か。=
-お前を思う玖蘭寮長の気持ちが|わかる気がするぜ。=
+そのドレスは一応、|お詫びの印だ。だから|遠慮なく受け取ってくれ。=That dress is a token of my apology, so don’t fret and just keep it.
+そんな……|私は全然|気にしてないですから！=I really didn’t mind at all!
+ったく、|お前には適わない、か。=Honestly... I’m really no match for you.
+お前を思う玖蘭寮長の気持ちが|わかる気がするぜ。=I think can I understand President Kuran’s feelings for you.
 
 # A3A58
-……でも、俺は玖蘭寮長ほど|甘いつもりはない。=
-今回の事件のことだ。|一人で突っ走って。=
-大事になる前に、|俺でもいいから一言相談しても|いいんじゃないのか？=
-ごめんなさい。|でも、架院センパイに|心配かけたくなくて……=
-何もかも一人で|抱え込もうとするな。=
-お前の夢はヴァンパイアと|人間との共存だろ？=
-ならもっと俺たちに|頼ってもいいんじゃないのか？=
-お前を疑った俺も悪い。|だから、これからはお互いを|信じる努力をしよう。=
-はい……|ありがとうございます|架院センパイ……=
+……でも、俺は玖蘭寮長ほど|甘いつもりはない。=But, I've no intention of being as lenient with you as President Kuran is.
+今回の事件のことだ。|一人で突っ走って。=I’m talking about this incident. Rushing off on your own...
+大事になる前に、|俺でもいいから一言相談しても|いいんじゃないのか？=Before things turn that serious, can’t you talk to someone, even me, to get a word of advice?
+ごめんなさい。|でも、架院センパイに|心配かけたくなくて……=I’m sorry. I didn’t want to worry you...
+何もかも一人で|抱え込もうとするな。=Don't try to take care of everything by yourself.
+お前の夢はヴァンパイアと|人間との共存だろ？=Your dream is for vampires and humans to coexist, right?
+ならもっと俺たちに|頼ってもいいんじゃないのか？=Then, why don’t you rely on us a little more?
+お前を疑った俺も悪い。|だから、これからはお互いを|信じる努力をしよう。=I shouldn’t have doubted you before, either. So from now, how about we both make an effort to believe in each other?
+はい……|ありがとうございます|架院センパイ……=Right... Thank you, Kain.
 
 # A1590
-どうした？<last>。=
+どうした？<last>。=What is it, <last>?
 
 # A0D1C
 本当にありがとうございます！|あの時架院センパイが助けて|くれなかったら、私今頃……=Thank you very much! If you hadn’t saved me at that time, I...
 
 # A82A4
-気にする必要はないんじゃ|ないか。それにお前の無鉄砲な|とこ、俺は嫌いじゃないしな。=
-あぁ。不器用だけど|一生懸命なとこ、|俺はわりと買ってるしな。=
-まぁ……やり過ぎな時も|あるけど、そいつは|愛嬌で勘弁してやるよ。=
-そう言って頂けると|ちょっと安心します。|これからも心置きなく……=
-おいおい！|俺は別にもっとやれ！って|煽ってるわけじゃねーぞ。=
-たださ、自分の気持ちに|素直に従うお前の潔さが|見てて気持ちいいってことだ。=
-うらやましいくらいだ。|お前の素直さが……=
-でも、ほどほどにしろよ。|お前にもしものことが|あったら、心配だしな。=
-架院センパイ、大変ですね？|藍堂センパイの心配もあるのに|私の心配まで……=
-ふっ…まあいいさ。|へんに哀れまないでくれ。=
-でも、そういうとこが|架院センパイの|いいところなんですよ。=
-だから、これからも思う存分|心配かけちゃおうかな～|なんて。=
-バカヤロウ、調子に乗るな。=
-俺の心臓だって鉄じゃない。|少しは休ませてほしいもん|だぜ。=
-ふふっ、ごめんなさい。=
-別に謝ることはねーよ。=
-そうだ、|せっかくだから<last>。|俺と踊ってみるか？=
-はいっ、よろこんで！=
-なぁ、<last>場所変えるか？=
-ここは騒がしいし、|お前と一度ゆっくり話して|みたいと思ってたんだ。=
-どこか|行きたいところでもあるか？=
+気にする必要はないんじゃ|ないか。それにお前の無鉄砲な|とこ、俺は嫌いじゃないしな。=You don’t have to worry about it. Besides, I don't dislike that recklessness of yours.
+あぁ。不器用だけど|一生懸命なとこ、|俺はわりと買ってるしな。=Yeah. You’re clumsy but hard- working. I can buy into that.
+まぁ……やり過ぎな時も|あるけど、そいつは|愛嬌で勘弁してやるよ。=Well... there are times when you go overboard, but I’ll let that slide as part of your charm.
+そう言って頂けると|ちょっと安心します。|これからも心置きなく……=It makes me feel a little better to hear you say that. I guess I’ll just keep following my heart!
+おいおい！|俺は別にもっとやれ！って|煽ってるわけじゃねーぞ。=Oi, oi, I never said to start doing more. I wasn’t trying to encourage you.
+たださ、自分の気持ちに|素直に従うお前の潔さが|見てて気持ちいいってことだ。=I’m just saying that it’s nice to see that you have the determination to follow through on your feelings.
+うらやましいくらいだ。|お前の素直さが……=I’m almost jealous of your ability to be so true to yourself.
+でも、ほどほどにしろよ。|お前にもしものことが|あったら、心配だしな。=Still, everything in moderation. If anything happened to you, I’d be worried.
+架院センパイ、大変ですね？|藍堂センパイの心配もあるのに|私の心配まで……=You must have it hard, Kain. Even though you’ve got Aido to worry about, you’re even worried about me...
+ふっ…まあいいさ。|へんに哀れまないでくれ。=Heh... It’s alright. I’d feel weird if you were going to start pitying me.
+でも、そういうとこが|架院センパイの|いいところなんですよ。=I think that’s something that’s nice about you, though.
+だから、これからも思う存分|心配かけちゃおうかな～|なんて。=So, I was thinking that I wouldn’t mind if you kept worrying about me~ Kinda...
+バカヤロウ、調子に乗るな。=Don’t push it, dumbass.
+俺の心臓だって鉄じゃない。|少しは休ませてほしいもん|だぜ。=My heart isn’t made of iron. I don’t mind if you give me a break, you know.
+ふふっ、ごめんなさい。=Hehehe, I’m sorry.
+別に謝ることはねーよ。=You don’t have to apologize.
+そうだ、|せっかくだから<last>。|俺と踊ってみるか？=I know, while we’re at it, will you dance with me, <last>?
+はいっ、よろこんで！=Gladly!
+なぁ、<last>場所変えるか？=Hey <last>, should we go somewhere else?
+ここは騒がしいし、|お前と一度ゆっくり話して|みたいと思ってたんだ。=It’s noisy in here, and I kind of wanted to just take it easy and chat with you.
+どこか|行きたいところでもあるか？=Is there anywhere you’d like to go?
 
-# A5740
-おう、いいぜ。=
-寒くないか、<last>？=
-大丈夫です。=
-無理はすんなよ。|風邪でもひいたら、|大変だからな。=
-架院センパイ、心配性だな～|私は体力だけは……きゃっ！=
-大丈夫か！=
-平気です！|ちょっとつまずいただけです。|ドジですね、私って。=
-ほら、手貸せよ。=
-転ばれると俺が困る。|別に取って食いやしないから|安心しな。=
-それじゃ、|お言葉に甘えて……=
-うっすらと音楽が聞こえる。|せっかくの舞踏祭だし、|俺と踊るか？=
-えっ……いいんですか？=
-でも、ここはさすがに|踊れるような所じゃないか。|寒いし、戻ろうぜ。=
-あっ……はい。=
-（本当は架院センパイと|踊ってみたかったな……）=
+# A5740 choose 湖へ
+おう、いいぜ。=Oh, sounds good.
+寒くないか、<last>？=Aren’t you cold, <last>?
+大丈夫です。=I’m fine.
+無理はすんなよ。|風邪でもひいたら、|大変だからな。=Don't push yourself too hard. It wouldn’t do to have you catch a cold.#dupe
+架院センパイ、心配性だな～|私は体力だけは……きゃっ！=You're a worrier, Kain~ If nothing else, my physical strength is--|Eeek!
+大丈夫か！=Are you okay!?
+平気です！|ちょっとつまずいただけです。|ドジですね、私って。=I’m fine! It was just a little stumble. I guess I am just a clutz.
+ほら、手貸せよ。=Here, lend me your hand.
+転ばれると俺が困る。|別に取って食いやしないから|安心しな。=I don’t want you to fall over. Don’t worry, I’m not gonna eat you or anything.
+それじゃ、|お言葉に甘えて……=If you insist...
+うっすらと音楽が聞こえる。|せっかくの舞踏祭だし、|俺と踊るか？=I can still faintly hear the music. Well, we are at a ball so, will you dance with me?#dupe
+えっ……いいんですか？=Huh? ...Is that okay?
+でも、ここはさすがに|踊れるような所じゃないか。|寒いし、戻ろうぜ。=I guess this isn’t really the right place to be dancing. Plus, it’s cold. Let’s go back.
+あっ……はい。=Ah... Right.
+（本当は架院センパイと|踊ってみたかったな……）=(I would have liked to dance with him, though...)
 
-# A1380
-馬場だって？くっ…|やっぱりお前、変なヤツだな。|面白いと言うか…=
+# A1380 choose 馬場へ
+馬場だって？くっ…|やっぱりお前、変なヤツだな。|面白いと言うか…=The stables? Heh... You really are weird. Or, maybe I should say quirky...
 
-# A4E90
-それって、俺と二人きりに|なりたくないってことか？=
-そんなつもりじゃ……！=
-別に責めてるわけじゃない。|まぁ、当然の反応だろうしな。=
-本当にそういう意味じゃ|ないんですって！=
-何だ？|俺の手握ったりして……=
-ごめんなさいっ、咄嗟に。|でも……誤解が解けるまで|離したくないです。=
-架院センパイと二人きりに|なるのが嫌なわけないです。=
-今日は舞踏祭だから、|この雰囲気を思いきり|堪能したかっただけです。=
-わかったよ。|変なこと言って悪かったな。=
-私の方こそです。=
-……というか、そろそろ|手を離してくれないか？=
-さっきから瑠佳が|何かこっち見ているし……=
-あっ！すみません！=
+# A4E90 choose ここでいい
+それって、俺と二人きりに|なりたくないってことか？=You mean, you don’t want to be alone with me?
+そんなつもりじゃ……！=That’s not what I--!
+別に責めてるわけじゃない。|まぁ、当然の反応だろうしな。=I’m not trying to accuse you or anything. I guess that’s a pretty normal reaction.
+本当にそういう意味じゃ|ないんですって！=I really didn’t mean it like that!
+何だ？|俺の手握ったりして……=Huh? What are you grabbing my hand for...?
+ごめんなさいっ、咄嗟に。|でも……誤解が解けるまで|離したくないです。=S-Sorry, I did it without thinking. But... I’m not going to let you go until we clear up this misunderstanding.
+架院センパイと二人きりに|なるのが嫌なわけないです。=It’s not that I don’t want to be alone with you.
+今日は舞踏祭だから、|この雰囲気を思いきり|堪能したかっただけです。=It’s just that since it’s a ball, I wanted to be able to enjoy the atmosphere to the fullest.
+わかったよ。|変なこと言って悪かったな。=I get it. Sorry for saying something weird.
+私の方こそです。=I’m sorry too.
+……というか、そろそろ|手を離してくれないか？=...Speaking of, are you going to let go of my hand, ever?
+さっきから瑠佳が|何かこっち見ているし……=Ruka’s been staring at us, too...
+あっ！すみません！=Ah! My bad!
 
 # A5784
-誰もいないですね。=
-あぁ、静かで落ち着くな。|寒くないか、<last>？=
-無理はするなよ。|風邪でもひいたら、|大変だからな。=
-うっすらと音楽が聞こえる。|せっかくの舞踏祭だし、|俺と踊ってみるか？=
-えっ……|でも何もないですよ？=
-まぁ、見てろよ。=
-うわぁ～綺麗！|干し草に火が灯って|とっても幻想的ですね。=
-ライトアップ完成、と。|それじゃ、踊ってみるか？=
+誰もいないですね。=There’s no one here.
+あぁ、静かで落ち着くな。|寒くないか、<last>？=Yeah, it’s nice and quiet. But, aren’t you cold, <name>?
+無理はするなよ。|風邪でもひいたら、|大変だからな。=Don't push yourself too hard. It wouldn’t do to have you catch a cold.#dupe
+うっすらと音楽が聞こえる。|せっかくの舞踏祭だし、|俺と踊ってみるか？=I can still faintly hear the music. Well, we are at a ball so, will you dance with me?#dupe
+えっ……|でも何もないですよ？=Huh? But, there’s nothing here...
+まぁ、見てろよ。=Just watch.
+うわぁ～綺麗！|干し草に火が灯って|とっても幻想的ですね。=Wow, it’s beautiful! The hay is all lit up and it’s so magical.
+ライトアップ完成、と。|それじゃ、踊ってみるか？=That’s the lighting done. So, may I have this dance?
 
 # A0E1C
 おっは～、<name>ちゃん。|僕が贈ったドレス|着てくれたんだね～？=
@@ -8814,7 +8814,7 @@ Sleep well...
 そんなこと……=
 ごめんごめん！|困らせるつもりはないんだ。=
 でも、|蚊帳の外に置かれたみたいで|ちょっとショックだった。=
-ごめんなさい。|でも、一条センパイに|心配かけたくなくて……=
+ごめんなさい。|でも、一条センパイに|心配かけたくなくて……=I’m sorry. I didn’t want to worry you...
 本当に優しいね、|<name>ちゃんは。|かっこいいよ！=
 でも、遠慮なんてしないで|これからは、何でもいいから|ジャンジャン相談してよ。=
 はい……|ありがとうございます|一条センパイ……=
@@ -8925,7 +8925,7 @@ Sleep well...
 今回の事件のこと、|一人で解決しようとするなんて|無鉄砲すぎ。=
 風紀委員が|頑張り屋だってことは|知ってるけど、張り切りすぎ。=
 誰かに相談するとか、|方法はいくらでもある。=
-ごめんなさい。|でも、支葵センパイに|心配かけたくなくて……=
+ごめんなさい。|でも、支葵センパイに|心配かけたくなくて……=I’m sorry. I didn’t want to worry you...
 その遠慮が余計迷惑。|キミ見てると、危ないし……=
 何かほっとけなくて|イライラする。=
 ごめんなさい……それと|ありがとうございます|支葵センパイ……=
@@ -15713,102 +15713,103 @@ Sleep well...
 # A0954
 僕たちだけの秘密は永遠さ。=
 
-# A168C
-何か話…しようか？=
-はい。何を話しましょうか？=
-ああ、頼みがあるんだが。=
+# A168C Kain low intimacy bloodlust
+何か話…しようか？=Can we... talk?
+はい。何を話しましょうか？=Sure. What would you like to talk about?
+ああ、頼みがあるんだが。=May I ask a favor?
 
-# A0D50
-玖蘭寮長に知られると|さすがにマズイな……=
+# A0D50 choose いいですよ
+玖蘭寮長に知られると|さすがにマズイな……=If President Kuran ever found out about this, it wouldn’t end well...
 
 # A1310
-ちょっとでいいんだ……|たとえば俺があんたを咬むの|って…ありか？=
-架院センパイもヴァンパイア|なんですね……=
+ちょっとでいいんだ……|たとえば俺があんたを咬むの|って…ありか？=It wouldn’t hurt you to hear me out... Like, would I be allowed to bite you?
+架院センパイもヴァンパイア|なんですね……=Right, you’re a vampire too...
 
-# A0FA8
-へえ？！いいのか……|うれしいよ。=
+# A0FA8 choose 別にいいですよ
+へえ？！いいのか……|うれしいよ。=Huh!? You don’t mind...?|I’m so happy.
 
-# A1308
-ダメか……。そうだよな…=
-驚かせちまったか？悪いな。=
+# A1308　choose そんなのいやです
+ダメか……。そうだよな…=So it’s no good... That figures...
+驚かせちまったか？悪いな。=Did I scare you? I’m sorry.
 
-# A0B84
-本当か？いいのか…？=
+# A0B84 choose う～ん、まぁ、いいかな……
+本当か？いいのか…？=Really? It’s okay...?
 
 # A0EF4
-どうしてもダメ…なのか？|ほんの少しでいいんだが。=
+どうしてもダメ…なのか？|ほんの少しでいいんだが。=Is there any way I convince you to change your mind? Even just a sip...
 
 # A0C7C
-じゃあ……どこからならいい？=
+じゃあ……どこからならいい？=Then... Where should I bite?
 
 # A0B2C
-本当に？いいのか……=
+本当に？いいのか……=You mean it? You don’t mind...?
 
 # A0C08
-本当にいいんだな。=
+本当にいいんだな。=I really don’t mind.
 
 # A153C
-だめ…か……|ふぅ、そうだよな……=
-わかった。迷惑かけたな。=
+だめ…か……|ふぅ、そうだよな……=It’s no good...?|Heh, of course...
+わかった。迷惑かけたな。=I understand. Sorry for troubling you.
 
 # A0F0C
-俺達だけの、秘密だ。=
+俺達だけの、秘密だ。=This’ll be our little secret.
 
 # A0A24
-英には、秘密にしておけるな。=
+英には、秘密にしておけるな。=Let’s keep this a secret from Hanabusa.
 
 # A09A0
-こんな事になるなんて……|悪くない気分だ。=
+こんな事になるなんて……|悪くない気分だ。=To think things would turn out this way... That’s not a bad feeling.
 
-# A11F8
-悪い…うまそうだと|思ってしまった……=
-まずいな…ガマンできなく|なりそうだ。=
+# A11F8 Kain high intimacy bloodlust
+悪い…うまそうだと|思ってしまった……=Sorry... I was just thinking that it smells good.
+まずいな…ガマンできなく|なりそうだ。=Damn... I don’t think I can take it.
 
 # A0E80
-その……お前の血が欲しいん|だが……いいか？=
+そうか……=Right...
+その……お前の血が欲しいん|だが……いいか？=I... want your blood... Do you mind?
 
-# A0F64
-嬉しいが、本当か？|俺に吸わせてくれるなんて。=
+# A0F64 choose 別にいいですよ
+嬉しいが、本当か？|俺に吸わせてくれるなんて。=I’m happy, but are you sure? You’d let me suck your blood?
 
-# A1000
-だめか……|……そうだよな。=
-驚かせちまったな。|悪かった、ゴメン。=
+# A1000 choose いやです
+だめか……|……そうだよな。=So it’s a no...|...That figures.
+驚かせちまったな。|悪かった、ゴメン。=You must be scared. I’m sorry.
 
-# A0F8C
-本当か？いや、嬉しいが…=
+# A0F8C choose う～ん、まぁ、いいかな……
+本当か？いや、嬉しいが…=You mean it? I mean, I’m happy, but...
 
-# A0D54
-ダメか……そこをなんとか…|てわけにもいかないか。=
+# A0D54 choose 絶対にいやです
+ダメか……そこをなんとか…|てわけにもいかないか。=No good, huh...? Is there any way I could convince you to change your mind? I guess not...
 
 # A0C68
-じゃあ、|どこからいただこうか…？=
+じゃあ、|どこからいただこうか…？=Okay, where should I bite...?
 
-# A0C38
-いいんだな？じゃあ……=
+# A0C38 choose 自分で決めます
+いいんだな？じゃあ……=No problem. Then...
 
 # A1300
-本当にいいのか？|じゃあ目をつぶってろよ………=
-すみません……|やっぱり、自分で決めます。=
+本当にいいのか？|じゃあ目をつぶってろよ………=Are you sure?|Okay, then close your eyes...
+すみません……|やっぱり、自分で決めます。=I’m sorry... I think I’d like to pick after all.
 
-# A0D58
-最高の答えだ。うれしいよ。=
+# A0D58 choose
+最高の答えだ。うれしいよ。=That’s a good answer. I’m so happy.
 
-# A1740
-だめか……|まぁ、そりゃそうだよな……=
-どうしてもダメか……|わかった。あきらめる。=
+# A1740 choose やっぱり……いやです
+だめか……|まぁ、そりゃそうだよな……=So that’s a no...? Well, that makes sense.
+どうしてもダメか……|わかった。あきらめる。=I couldn’t convince you otherwise, right...? Alright, I get it. I’ll give up.
 
 # A0A34
-お前は本当に人がいいな…|でも、最高にいい味だったよ…=
+お前は本当に人がいいな…|でも、最高にいい味だったよ…=You really are a good person... I’ve never tasted anything so good.
 
 # A0C60
-英には、知られたくないな。=
+英には、知られたくないな。=I hope Hanabusa doesn’t find out about this.
 
 # A0CEC
-俺たちだけの最高機密だな。=
+俺たちだけの最高機密だな。=This is top secret, just between the two of us.
 
 # A1350
-いいよな？=
-欲しいんだ……。=
+いいよな？=It’s okay, right?
+欲しいんだ……。=I want it bad...
 
 # A091C
 わかってるだろう……|じらしてるつもりか？=

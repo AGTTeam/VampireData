@@ -125,14 +125,14 @@
 <ch1>話しかける<00><04><0A><ch2>話しかけない<00><05>=<ch1>Say something.<00><04><0A><ch2>Don’t say anything.<00><05>
 <ch1>話しかける<00><06><0A><ch2>話しかけない<00><07>=<ch1>Say something.<00><06><0A><ch2>Don’t say anything.<00><07>
 <ch1>話しかける<00><08><0A><ch2>話しかけない<00><09>=<ch1>Say something.<00><08><0A><ch2>Don’t say anything.<00><09>
-<ch1>どんな格好でしたか？<00><00><0A><ch2>どんな髪型でしたか？<00><01><0A><ch3>どんな顔立ちでしたか？<00><02>=<ch1>What was her figure like?<00><00><0A><ch2>What was her hair like?<00><01><0A><ch3>What was her face like?<00><02>
-<ch1>一緒に行く<00><19><0A><ch2>遠慮する<00><04>=
-<ch1>一緒に行く<00><05><0A><ch2>遠慮する<00><06>=
+<ch1>どんな格好でしたか？<00><00><0A><ch2>どんな髪型でしたか？<00><01><0A><ch3>どんな顔立ちでしたか？<00><02>=<ch1>What was she wearing?<00><00><0A><ch2>What was her hair like?<00><01><0A><ch3>What did she look like?<00><02>
+<ch1>一緒に行く<00><19><0A><ch2>遠慮する<00><04>=<ch1>Go together.<00><19><0A><ch2>Decline.<00><04>
+<ch1>一緒に行く<00><05><0A><ch2>遠慮する<00><06>=<ch1>Go together.<00><05><0A><ch2>Decline.<00><06>
 <ch1>仕方なく一緒に行く<00><07><0A><ch2>確実に遠慮する<00><08>=
-<ch1>一緒に行く<00><09><0A><ch2>遠慮する<00><0A>=
-<ch1>一緒に行く<00><0B><0A><ch2>遠慮する<00><0C>=
-<ch1>一緒に行く<00><0D><0A><ch2>遠慮する<00><0E>=
-<ch1>一緒に行く<00><0F><0A><ch2>遠慮する<00><10>=
+<ch1>一緒に行く<00><09><0A><ch2>遠慮する<00><0A>=<ch1>Go together.<00><09><0A><ch2>Decline.<00><0A>
+<ch1>一緒に行く<00><0B><0A><ch2>遠慮する<00><0C>=<ch1>Go together.<00><0B><0A><ch2>Decline.<00><0C>
+<ch1>一緒に行く<00><0D><0A><ch2>遠慮する<00><0E>=<ch1>Go together.<00><0D><0A><ch2>Decline.<00><0E>
+<ch1>一緒に行く<00><0F><0A><ch2>遠慮する<00><10>=<ch1>Go together.<00><0F><0A><ch2>Decline.<00><10>
 <ch1>洞窟を出る<00><00><0A><ch2>このまま<00><01>=
 <ch1>行きます<00><00><0A><ch2>行きません<00><01>=
 <ch1>恥ずかしいです<00><00><0A><ch2>ふざけないで下さい！<00><01>=
@@ -5427,7 +5427,7 @@ Sleep well...
 また、お話してくださいね～？=
 （もう！みんないつもより|興奮してるから、|なかなか寮に戻らないよ！）=
 （しかも、こんな時に限って|零のヤツ、いないし！|仕事放棄？）=
-しばらく後……=
+しばらく後……=Some time later...
 ふう……やっとみんな|帰ったかな？=
 それにしても零、|どこ行ったんだろう？|……探しに行こうかな。=
 風紀委員さん、ご苦労様。=
@@ -9456,8 +9456,8 @@ Sleep well...
 ふ～！何だろう、この開放感！|やっぱり、学園の外に出ると|気分が変わるなあ。=Ahh, I feel so free! My mood really changes when I leave the school grounds.
 一人で街に出るのは、|まだちょっと怖いけど……=I admit coming into town by myself is still a little scary though.
 この間のクライングローズの|ごたごたで、外出するのも|だいぶ慣れたかも。=I guess that whole mess with the Crying Rose must have gotten me used to leaving school.
-あれ？どこ入れたっけ、|骨董市のお知らせのチラシ……|あった！=Now, where did I put that flyer for the flea market?|Found it!
-ふふ……こういうの、|ぶらぶら見て回るの、|楽しそうだな。=Tee-hee, just wandering around a flea market like this, this should be so much fun.
+あれ？どこ入れたっけ、|骨董市のお知らせのチラシ……|あった！=Now, where did I put the flyer for that market?|Found it!
+ふふ……こういうの、|ぶらぶら見て回るの、|楽しそうだな。=Tee-hee, just wandering around an outdoor market like this, this should be so much fun.
 アンティークの雑貨とか|アクセサリーとか……=All the antiques, jewelry, they have a little bit of everything.
 何かいいもの見つかると|いいな！=I hope I find something really nice!
 今日は土曜日。もしかすると…|ナイト･クラスの人に街で|ばったり！とか……=Today’s Saturday, so I might even run into someone from the Night Class like...
@@ -9470,59 +9470,59 @@ Sleep well...
 お店のおかみさんたちが|喜んじゃって、もう大変！|アハハ。=The missus in that store were happy somethin’ fierce! Ahaha!
 （キレイな男の子って、|ナイト･クラスのことかな？|でもお昼だし……）=(A handsome fellow? That sounds like someone from the Night Class, but it’s the middle of the day...)
 （もしかして、|委員長……なワケないか）=(Maybe the Class Rep... Nah, there’s no way.)
-おや、可愛らしい|お嬢さんだこと。=My, look at how cute you are, young lady.
+おや、可愛らしい|お嬢さんだこと。=My, look at how cute you are.
 やっぱり、黒主学園さんの所の|ナイト･クラスの子かい？=You’re one of those kids from the Cross Academy’s Night Class, aren’t you?
-あ……いえ、黒主学園の|生徒なんですが、|私はデイ･クラスの方で……=Ah, I’m afraid not. I am a student there, but I’m in the Day Class actually.
+あ……いえ、黒主学園の|生徒なんですが、|私はデイ･クラスの方で……=Ah, I’m afraid not. I am a student there, but I’m actually in the Day Class.
 おんや、そうかい。|黒主学園の人には、|ついこの間お世話になってね。=Oh, is that right? Someone from the academy lent me quite the hand the other day.
 この辺りで気分が悪くなって|座り込んだ時に、親切に|介抱してくださったんだよ。=It wasn’t too far from here. I started feeling weak and had to sit down. It was so kind of her to look after me.
 ナイト･クラスの子でね、|ずいぶんと綺麗なお顔立ちの|お嬢さんだったよ。=She was a girl from the Night Class. She had a very pretty face.
 （ナイト･クラスの|女の子か……|誰だったんだろう？）=(A girl from the Night Class? I wonder who it was.)
-あの……どんな人でしたか？|おばあさんを助けた|ナイト･クラスの子って。=Ma’am, um, the Night Class girl who helped you, what did she look like?
+あの……どんな人でしたか？|おばあさんを助けた|ナイト･クラスの子って。=Ma’am, um, I was wondering about that Night Class girl.
 
 # A24A0
-どんな格好でしたか？=
-どんな格好……あんまり|覚えてないけど、確か日傘を|差してたような。=
-あと、髪の毛を頭の上で|２つにくくって、|それが可愛らしくてねぇ。=
-（日傘にツインテール……|という事は、遠矢センパイ|だろうな、きっと）=
-ツンと澄ましたした感じかと|思ってたら、笑うととても|ステキなお嬢さんだったよ。=
-（笑顔……|いつものクールな遠矢センパイ|からは想像できないな……）=
-（そんな遠矢センパイ、|いちど見てみたいな！）=
+どんな格好でしたか？=What was she wearing?
+どんな格好……あんまり|覚えてないけど、確か日傘を|差してたような。=I'm afraid my memory's not what it used to be. I do recall she was carrying a parasol however.
+あと、髪の毛を頭の上で|２つにくくって、|それが可愛らしくてねぇ。=I remember thinking she was awfully cute with those pigtails of hers as well.
+（日傘にツインテール……|という事は、遠矢センパイ|だろうな、きっと）=(Pigtails and a parasol... That's gotta be Toya.)
+ツンと澄ましたした感じかと|思ってたら、笑うととても|ステキなお嬢さんだったよ。=She seemed a little snooty at first, but once you get her laughing, she's a lovely young lady.
+（笑顔……|いつものクールな遠矢センパイ|からは想像できないな……）=(Toya's always so indifferent to everything that I can't even imagine her smiling.)
+（そんな遠矢センパイ、|いちど見てみたいな！）=(Just once, I wish I could see her with a big grin on her face!)
 
 # A275C
-どんな髪型でしたか？|長いとか、短いとか……=
-長くてちょっとカールした|栗色の髪をなびかせてね。=
-とても上品で、何とか歌劇団の|スターさんみたいな華やかで|大人びたお嬢さんだったよ。=
-（もしかして……|早園センパイの事かな？）=
-頼もしい方だったよ。|私の体を支えて、ベンチまで|連れてって下さってね。=
-（優しい……早園センパイ|だったらありえるかも）=
-（でも、歌劇団って……|例えがピッタリすぎて|ちょっとおかしい！）=
+どんな髪型でしたか？|長いとか、短いとか……=What was her hair like? Like, was it long or short or...?
+長くてちょっとカールした|栗色の髪をなびかせてね。=It was long. Long and flowing with soft, toffee-colored curls.
+とても上品で、何とか歌劇団の|スターさんみたいな華やかで|大人びたお嬢さんだったよ。=It was very sophisticated, but bold like a star of the theater. Such a mature young woman.
+（もしかして……|早園センパイの事かな？）=(That's probably Souen if I had to take a guess.)
+頼もしい方だったよ。|私の体を支えて、ベンチまで|連れてって下さってね。=She shouldered some of my weight and helped me over to that bench. So helpful, that girl.
+（優しい……早園センパイ|だったらありえるかも）=(It's no surprise hearing Souen can be so kind.)
+（でも、歌劇団って……|例えがピッタリすぎて|ちょっとおかしい！）=(But a theater actress!? I can't believe how perfect that fits her!)
 
 # A2078
-どんな顔立ちの人でしたか？=
-そうだねえ……|肌が透き通るように白くて、|ーー=
-おかっぱ頭の、|凛々しいお嬢さんだったね。=
-（おかっぱ頭、色白……|もしかして、星煉さんの事|かな？）=
-（星煉さんが、枢センパイの|命令じゃないのに進んで|人助けをするなんて……）=
-（星煉さんのそんなところ、|一度見てみたいな）=
+どんな顔立ちの人でしたか？=What did she look like?
+そうだねえ……|肌が透き通るように白くて、|ーー=Let me see. Her skin was white like porcelain.
+おかっぱ頭の、|凛々しいお嬢さんだったね。=And she had a bob cut. Quite the dignified young lady, I must say.
+（おかっぱ頭、色白……|もしかして、星煉さんの事|かな？）=(Pale skin and a bob cut... That sounds like Seiren.)
+（星煉さんが、枢センパイの|命令じゃないのに進んで|人助けをするなんて……）=(She really chose to help someone without being ordered to do so by Kaname though?)
+（星煉さんのそんなところ、|一度見てみたいな）=(I hope I get to see that someday!)
 
 # A5300
-ところで、お嬢さんは|どこに行くつもりなのかね？=
-あ、そうだ……すみません、|このチラシにある骨董市には|どう行ったらいいんですか。=
-ああ、これは確か……|街はずれにある噴水広場で|やってるって聞いたよ。=
-噴水広場ですね、|ありがとうございます！=
-ここんところ物騒な事件が|多くてね……お嬢ちゃん、|可愛いから気をつけなさいよ。=
-あ……はい、|ご心配ありがとうございます。|さよなら、おばあさん。=
-（物騒な事件か……|この前の件といい|色々とあったからなぁ……）=
-（ちょっと気になるけど、|まあ、大丈夫だよね？）=
-（よし、骨董市に行く前に、|ちょっとあちこち寄り道して|行こう）=
-（さてと……|まずはどこへ行こうかな？）=
-いろいろと歩いてるうちに|すっかり遅くなっちゃった。=
-あれ？……知らないところに|きちゃったみたい……=
-うう、何だかイヤな|予感が……もしかして……=
-グオッ……=
-何！？また出たの？ =
-グゥオォオオオオオ！！=
-レベル：Ｅ！！=
+ところで、お嬢さんは|どこに行くつもりなのかね？=And what about you, young lady? Where is it that you're headed?
+あ、そうだ……すみません、|このチラシにある骨董市には|どう行ったらいいんですか。=Oh, right. I, uh, you wouldn't know how to get to the market on this flyer, would you?
+ああ、これは確か……|街はずれにある噴水広場で|やってるって聞いたよ。=Why of course. From what I gather, they're holding it over in the fountain square on the outskirts of town.#not sure if the square should be considered a proper noun
+噴水広場ですね、|ありがとうございます！=The fountain square, got it. Thanks!
+ここんところ物騒な事件が|多くてね……お嬢ちゃん、|可愛いから気をつけなさいよ。=There've been lots of disturbing incidents around here lately, so you look after yourself now.
+あ……はい、|ご心配ありがとうございます。|さよなら、おばあさん。= I will. I appreciate your concern, ma'am. Bye now.
+（物騒な事件か……|この前の件といい|色々とあったからなぁ……）=(Disturbing incidents... I guess the one from before wasn't the only one.)
+（ちょっと気になるけど、|まあ、大丈夫だよね？）=(I'm a little worried, but, well, I'm sure I'll be fine.)
+（よし、骨董市に行く前に、|ちょっとあちこち寄り道して|行こう）=(Alright, let's take a couple detours on the way to the market.)
+（さてと……|まずはどこへ行こうかな？）=(Let's see. Where to first?)
+いろいろと歩いてるうちに|すっかり遅くなっちゃった。=I guess I've been walking around for a while. I didn't even notice it was starting to get dark.
+あれ？……知らないところに|きちゃったみたい……=Wait. I don't think I recognize this place.
+うう、何だかイヤな|予感が……もしかして……=Oh, I've got a bad feeling about this.
+グオッ……=Guoh...
+何！？また出たの？ =What!? Who are you!?
+グゥオォオオオオオ！！=Guuoooooh!!
+レベル：Ｅ！！=A Level E!!
 
 # A34F4
 危ない所だったな。=
@@ -9577,8 +9577,8 @@ Sleep well...
 
 # A5344
 あーあ、また助けちゃった。|しかしよく襲われるよな、|お前。=
-藍堂センパイ……！|ありがとうございました、|助けて下さって……=
-でも、まさか街で|藍堂センパイに会うなんて……|どこかに行くんですか？=
+藍堂センパイ……！|ありがとうございました、|助けて下さって……=Aido, you saved me! Thank you.
+でも、まさか街で|藍堂センパイに会うなんて……|どこかに行くんですか？=I'm surprised to see you here though. Where are you headed?
 ん？それを聞いて|どうしようっていうんだよ。|<last><name>！=
 どうするって……その、|どうも……=
 ははーん。わかったぞ！=
@@ -9616,15 +9616,15 @@ Sleep well...
 ああ、待ってくださいよ～。=
 
 # A1AEC
-すみません、私、もう少し|見て回りたい所があるので……=
+すみません、私、もう少し|見て回りたい所があるので……=I would, but I sort of already had plans to go to this other place. Sorry.
 えっ？……あ、ああ、|用があるなら仕方ないか。|用事は大事だ。そうそう……=
 助けてくれて|本当にありがとう|ございました。=
 あっ……ああ、気をつけろよ。=
 
 # A411C
 大丈夫か、<last>。=
-架院センパイ……！|ありがとうございました、|助けてくれて……=
-でも、まさか街で|架院センパイに会うなんて……|何かご用ですか？=
+架院センパイ……！|ありがとうございました、|助けてくれて……=Kain, you saved me! Thank you.
+でも、まさか街で|架院センパイに会うなんて……|何かご用ですか？=I'm surprised to see you here though. Did you have some things to take care of?
 ああ……ちょっと行きたい所が|あってな。=
 あの……ちょっと聞いて|いいですか？=
 ん？何だ？=
@@ -9643,16 +9643,16 @@ Sleep well...
 え？負けない……って？=
 
 # A1F60
-すみません、私、|もう少し見て回りたい所が|あるので……=
+すみません、私、|もう少し見て回りたい所が|あるので……=I would, but I sort of already had plans to go to this other place. Sorry.
 そうか、じゃあ仕方ないな。=
-でも、助けてくださって|本当にありがとう|ございました。=
+でも、助けてくださって|本当にありがとう|ございました。=But, really, thanks for saving me.
 ああ、わかった。|さっきみたいにぼうっと|してるとまた襲われるぞ。=
 あ……気をつけます。|ありがとうございます。=
 
 # A3AE0
 危ない所だったね。大丈夫？|ケガはない？<name>ちゃん。=
-一条センパイ……！|ありがとうございました、|助けて下さって……=
-でも、こんなところで|一条センパイに会うなんて……|何かご用ですか？=
+一条センパイ……！|ありがとうございました、|助けて下さって……=Ichijo, you saved me! Thank you.
+でも、こんなところで|一条センパイに会うなんて……|何かご用ですか？=I'm surprised to see you here though. Did you have some things to take care of?
 あはは、僕、ちょっと|行きたい所があってね。=
 どちらまで？=
 うふっ、と～っても|いいところさ。=
@@ -9675,28 +9675,28 @@ Sleep well...
 うん。わかったよ。|じゃ、気をつけてね。=
 
 # A3664
-危なかった……風紀委員。=
-支葵センパイ……！|ありがとうございました、|助けて下さって……=
-でも、ここで支葵センパイに|会うなんて……|何かご用だったんですか？=
-うん……ちょっと|行きたい所があって。=
-（支葵センパイが行くところ|って……すごく興味がある）=
-あの……どちらへ、|行かれるんですか？=
-君には、あんまり関係ない。|仕事関係。=
-という事は……=
-そうだ。|風紀委員も一緒に行く？=
-あっ、えっと……|どうしよう……=
-イヤなら、別にいいよ。=
+危なかった……風紀委員。=Prefect, you could have been killed.
+支葵センパイ……！|ありがとうございました、|助けて下さって……=Shiki, you saved me! Thank you.
+でも、ここで支葵センパイに|会うなんて……|何かご用だったんですか？=I'm surprised to see you here though. Did you have some things to take care of?
+うん……ちょっと|行きたい所があって。=Yeah. There's this place I wanted to visit.
+（支葵センパイが行くところ|って……すごく興味がある）=(Where could Shiki be going? I'm dying to know.)
+あの……どちらへ、|行かれるんですか？=Um, if you don't mind, could I ask where you're going?
+君には、あんまり関係ない。|仕事関係。=It doesn't really concern you. It's work-related.
+という事は……=Which means...?
+そうだ。|風紀委員も一緒に行く？=Well, I suppose you could accompany me.
+あっ、えっと……|どうしよう……=Um, well... Are you sure?
+イヤなら、別にいいよ。=It's up to you. No one's forcing you.
 
 # A2300
-じゃあ、ご一緒してもいいです|か？カッコイイ支葵センパイ、|見られますよね？=
-さぁ、どうかな……|はぐれないように付いてきて。=
-あ、はい……！=
-わぁ、とっても楽しみです！=
-えっ？……=
+じゃあ、ご一緒してもいいです|か？カッコイイ支葵センパイ、|見られますよね？=Together it is then. It's not every day I get to hang out with a cool model after all.
+さぁ、どうかな……|はぐれないように付いてきて。=Well, are you coming or not? Stick close so you don't get lost.
+あ、はい……！=Right behind you!
+わぁ、とっても楽しみです！=Yay! This is going to be so much fun!
+えっ？……=Huh?
 
 # A1CF4
-そう……？残念。=
-気をつけて行きなよ。=
+そう……？残念。=I understand. Oh well.
+気をつけて行きなよ。=Wherever you're going, please be careful.
 
 # A2794
 ふう……！|危ねえ所だったな。=
@@ -9740,7 +9740,7 @@ Sleep well...
 ありがとう、零！|これでまたレベル：Ｅに|襲われても大丈夫だね！=
 ハア？調子に乗るなよ、|お前……！=
 へへっ、ゴメンね。=
-へえ～、|何か、オリエンタルな街の|バザールみたい……！=
+へえ～、|何か、オリエンタルな街の|バザールみたい……！=Wow! It looks just like one of those desert bazaars you see in those pictures.
 楽しい～！|どこから見ようかな？=
 あ……これいいな、|絞り染めのテーブルクロス。=
 へえ……珍しい色だな。|何の染料使ってるんだ？=
@@ -9749,15 +9749,15 @@ Sleep well...
 お前、はしゃぎすぎだぞ！|少しは落ち着いて見ろ！=
 ごめんごめん。|つい好奇心が|先走っちゃって……=
 わあ……見て、綺麗。|真鍮の飾りがついたビンが|いっぱい……。=
-いらっしゃい、お嬢さん。|良かったら見ていって。|これね、全部香水なの。=
+いらっしゃい、お嬢さん。|良かったら見ていって。|これね、全部香水なの。=Welcome, miss! Look to your heart's content. Each bottle contains a perfume that smells better than the one before it.
 そうなんですか。|すごい……いいな、|このピンク色のビン。=
-フタを開けてごらん。|香りもなかなかのもんだよ。=
-本当だ……甘いけど|さっぱりしてて、何か、|心が落ち着くような……=
-その香りにはね、|何でも望みを叶える力が|あるって言われてるんだ。=
-わあ……本当ですか？|ビンもすごく気に入ったし|香りもいいし……=
-決めた！これ、ください。=
-どうも、ありがとうね。|今包んでくるから待っててね。=
-ふふ……早速いいもの|見つけちゃった！|望みが叶う香水だって。=
+フタを開けてごらん。|香りもなかなかのもんだよ。=Go ahead and lift off its lid. Don't be shy. Its scent is as striking its bottle.
+本当だ……甘いけど|さっぱりしてて、何か、|心が落ち着くような……=Oh my gosh! It smells sweet but also refreshing. There's something soothing about it.
+その香りにはね、|何でも望みを叶える力が|あるって言われてるんだ。=That fragrance is said to be imbued with the power to make wishes come true.
+わあ……本当ですか？|ビンもすごく気に入ったし|香りもいいし……=Whoa! Really!? Well, I love the bottle, and it does smell nice...
+決めた！これ、ください。=Alright! I'll take it!
+どうも、ありがとうね。|今包んでくるから待っててね。=Your patronage is much appreciated, miss. Please wait a moment while I wrap it for you.
+ふふ……早速いいもの|見つけちゃった！|望みが叶う香水だって。=Hmhm, a perfume that grants wishes, I had to buy it before someone else snatched it up!
 そんなの、ウソに決まってる|だろ。あんな単純なーー=
 セールストークに|乗せられるお前が|ある意味、うらやましいぜ。=
 うっ、うるさいな零！|私だってわかってるよ、|そんな事くらい！=
@@ -9799,13 +9799,13 @@ Sleep well...
 あまり遅くなってしまうと|良くないからね。=
 は、ハイ……！=
 （やっと枢センパイとの距離が|普通に戻った……|ほっとした様な、寂しい様な）=
-すごいですね……！|何か、オリエンタルな街の|バザールみたい。=
+すごいですね……！|何か、オリエンタルな街の|バザールみたい。=Wow! It looks just like one of those desert bazaars you see in those pictures.
 本当。目移りしてしまうね。|<name>は、何が欲しいの？=
 えっと……特に決めてはいない|んですけど、ピンと来る物が|あれば買おうかなと……=
 じゃあ、ああいうのはどう？|ステンドグラスではないけど|なかなか綺麗だよ。=
 わあ……本当！|真鍮の飾りがついたビンが|いっぱい……。=
 そうなんですか。|すごい……素敵！|このピンク色のビン。=
-本当だ……|甘いけどさっぱりしてて、|何か、心が落ち着くような……=
+本当だ……|甘いけどさっぱりしてて、|何か、心が落ち着くような……=Oh my gosh! It smells sweet but also refreshing. There's something soothing about it.
 ありがとうございます、|枢センパイのおかげで|すごくいい物見つかりました。=
 望みが叶う香水か……|<name>が叶えたい望みって、|何かな？=
 えっと、それは、その……=
@@ -9869,8 +9869,8 @@ Sleep well...
 いや何でもない。|それより急ごう。=
 人が多いし、ホコリっぽい。|並んでる品物も、薄汚いの|ばっかりじゃないか。=
 こういう物の中から|掘り出し物を見つけるのが|面白いんですよ。=
-あ……あれ、すてきだな……|真鍮の飾りがついたビンが|いっぱい……。=
-そうなんですか。|あ、これ、好きだな……|このピンク色のビン。=
+あ……あれ、すてきだな……|真鍮の飾りがついたビンが|いっぱい……。=Wow! Look over here! They've got all sorts of cool bottles with fancy brass decorations!
+そうなんですか。|あ、これ、好きだな……|このピンク色のビン。=There are so many. Oh, this pink bottle. I really like this one.
 その香りにはね、何でも望みを|叶える力があるって言われてる|んだ。=
 フン、バカバカしい。|お前、本当に信じてるのか？=
 いいえ、まさか！|でもそんな香水、実際あったら|素敵ですよね。=
@@ -9929,11 +9929,11 @@ Sleep well...
 まだ帰寮時間には早いし……|結構、いい暇つぶしに|なりますよ？=
 そうだな……じゃ、|行ってみるか。=
 うわぁ、やった！|早速行きましょう。|いい物が売れちゃう前に！=
-すごいですね……！|何か、どこか遠い国の街の|バザールみたい。=
+すごいですね……！|何か、どこか遠い国の街の|バザールみたい。=Wow! It looks just like one of those desert bazaars you see in those pictures.
 はあ……、みんな、よく|こんな狭苦しい所に密集して|居られるな。=
 私は、このザワザワした感じが|市場っぽくて逆に好きです。=
 へえ……香水かぁ。|あ、これ、好きだな……|このピンク色のビン。=
-ふふ、早速いい買い物|しちゃいました！|望みが叶う香水かあ……！=
+ふふ、早速いい買い物|しちゃいました！|望みが叶う香水かあ……！=Hmhm, a perfume that grants wishes, I had to buy it before someone else snatched it up!
 <last>、お前、|案外ロマンチストなんだな。|そんな話信じるなんて。=
 信じる、信じないと言うより、|大切なのは気分ですよ。=
 仮に、その香水で|願いが叶うとしたら、|<last>は何を願うんだ？=
@@ -9985,7 +9985,7 @@ Sleep well...
 本当だ……甘いけどさっぱり|してて、何か、心が落ち着く|ような……=
 いい香りだね。あんまりきつく|なくて……僕も好きだよ、|こういうの。=
 決めた！これ、頂きます。=
-ふふ、早速いい買い物|しちゃいました！=
+ふふ、早速いい買い物|しちゃいました！=Hmhm, I had to buy it before someone else snatched it up!
 夢が叶う香水なんて|ロマンティックだね。|僕も少しわけてもらおうかな？=
 後で、アドマイザーに分けて|持っていきます。さっきの|アロマのお礼もかねて。=
 え？本当にくれるの？|言ってみるもんだね。|ありがとう、<name>ちゃん。=
@@ -10000,46 +10000,46 @@ Sleep well...
 ……って言っても、|物には限度がある！|止めよう！一条センパーイ！！=
 
 # ABC58
-ん～……今日はあんまり|欲しいの、ないな。=
-（さすがは|モデルの支葵センパイ。）=
-（行きつけのアパレルショップ|に連れてきてくれました。）=
-あの、支葵センパイ。|服を選ぶ時のポイントって|何ですか？=
-色とか、丈のバランス。|あと、小物の使い方とか。=
-なるほど、バランス……|それに、小物か。=
-どうしたの？風紀委員。|そんなに真剣な顔しちゃって。=
-あはは……私、ふだんから|あんまり着る物にこだわりが|ないからーー=
-たまにちぐはぐした|格好してる事があって。だから|プロの現役モデルであるーー=
-支葵センパイから|おしゃれのコツを色々|勉強しようと思って。=
-ん～……じゃあ、|風紀委員には、こんなの|似合うんじゃない？=
-え……でも、こういう|落ち着いた色のワンピはもっと|大人っぽい人じゃないと……=
-考えすぎだよ。|ほら、こういう遊びっぽい|バッグと合わせれば。=
-あ、本当だ……|意外に似合ってますか？私。|どうですか？=
-いいんじゃない。|可愛いと思うけど。=
-あ、はは……|ありがとうございます……！=
-（服を選んでもらったり、|なんて、何だか恋人同士の|デートみたい……）=
-（ふふ……楽しいな！）=
-そろそろ帰る……|でもまだ何か遊び足りない。=
-あ、それだったら、|ちょうどいい暇つぶし|ありますよ。=
-何、このチラシ。|……骨董市？=
-これから行こうと思ってた|ところなんです。良かったら、|一緒に行きませんか。=
-今日は暇だし……|まあ、行ってもいいか。=
-本当ですか？|じゃ、早速行きましょう！|やった、連れが出来た～。=
-何がそんなに嬉しいの？|風紀委員。=
-だって、一人で見るより|二人で見た方が面白いじゃない|ですか、こういう物は。=
-ふ～ん、そうなんだ。|良くわかんないけど。=
-どこにどんな店があるのか|わかんない。|ごちゃごちゃしてる。=
-あはは、市場ってそういうもの|ですよ。この雑多な感じを|楽しむというか。=
-ふふ、早速いい買い物|しちゃいました！|夢が叶う香水かあ……=
-本当にそんなの信じてるの？|風紀委員って、意外と|ロマンチストだね。=
-まあ、さすがに本気には|してませんけど……|でもビンも素敵だしーー=
-香りもいいし、|それだけでもう十分満足です！=
-あ、そうだ……|一条さんに何か|おみやげ買っていこうかな。=
-一条センパイ、こういうの|好きそうですもんね。|どれがいいですかね……=
-これにする。『考える猫』=
-（し、渋い……！|猫がしゃがんで、|考え込んでいる石像！）=
-もっと若い人向けの物|じゃなくていいんですか？=
-ううん、これでいい。|一条さんよろこぶかな。=
-な、なるほど。一条センパイの|考え込む姿が、ちょっと今|目に浮かびました……=
+ん～……今日はあんまり|欲しいの、ないな。=Hmm... I'm not really finding anything that I like today.
+（さすがは|モデルの支葵センパイ。）=(Shiki brought me along to his favorite clothing boutique.)#changed order here for flow
+（行きつけのアパレルショップ|に連れてきてくれました。）=(I guess I shouldn't be surprised since he is a model.)
+あの、支葵センパイ。|服を選ぶ時のポイントって|何ですか？=Um, Shiki, what exactly are you looking for when you're picking out clothes?
+色とか、丈のバランス。|あと、小物の使い方とか。=Well, there's the color, the fit, how easily something can be accessorized. The list goes on.
+なるほど、バランス……|それに、小物か。=I never realized how much thought goes into it. Hmm...
+どうしたの？風紀委員。|そんなに真剣な顔しちゃって。=What is it, Prefect? You seem lost in thought.
+あはは……私、ふだんから|あんまり着る物にこだわりが|ないからーー=Ahaha, it's just that I usually throw something on without much thought.
+たまにちぐはぐした|格好してる事があって。だから|プロの現役モデルであるーー=Sometimes I look like a total mess, and, well, here I am with an actual professional model.
+支葵センパイから|おしゃれのコツを色々|勉強しようと思って。=So I was wondering if maybe you could give me some fasion tips.
+ん～……じゃあ、|風紀委員には、こんなの|似合うんじゃない？=Hmm... Alright, what do you think of this dress here?
+え……でも、こういう|落ち着いた色のワンピはもっと|大人っぽい人じゃないと……=Um, well, it's colors are really subdued. It's too grown-up for me, maybe?
+考えすぎだよ。|ほら、こういう遊びっぽい|バッグと合わせれば。=You're overthinking it. Look here. If you pair it with a playful bag like this...
+あ、本当だ……|意外に似合ってますか？私。|どうですか？=You're right. I didn't think this would look good on me. What do you think, Shiki?
+いいんじゃない。|可愛いと思うけど。=I like it. It's quite cute on you.
+あ、はは……|ありがとうございます……！=Oh, haha...|Thanks!
+（服を選んでもらったり、|なんて、何だか恋人同士の|デートみたい……）=(Picking out clothes like this, it almost feels like we're on a date.)
+（ふふ……楽しいな！）=(Hmhm, I'm so happy I came!)
+そろそろ帰る……|でもまだ何か遊び足りない。=It's about time we headed back. I do wish we could hang out a little longer though.
+あ、それだったら、|ちょうどいい暇つぶし|ありますよ。=Well, in that case, I have just the thing for you.
+何、このチラシ。|……骨董市？=Is that a flyer? An outdoor market?
+これから行こうと思ってた|ところなんです。良かったら、|一緒に行きませんか。=I was planning on going there anyway, so why don't you come with me?
+今日は暇だし……|まあ、行ってもいいか。=I am free today. Alright. Why not?
+本当ですか？|じゃ、早速行きましょう！|やった、連れが出来た～。=Really? Let's get going then! I'm so excited someone's going with me after all～!
+何がそんなに嬉しいの？|風紀委員。=Why get so excited over that?
+だって、一人で見るより|二人で見た方が面白いじゃない|ですか、こういう物は。=Because. Some things are just more fun together than by yourself, you know?
+ふ～ん、そうなんだ。|良くわかんないけど。=If you say so. I wouldn't know.
+どこにどんな店があるのか|わかんない。|ごちゃごちゃしてる。=I can't tell where or what anything is. Everything's so chaotic.
+あはは、市場ってそういうもの|ですよ。この雑多な感じを|楽しむというか。=Ahaha, that's what a market is. The chaos is half the fun!
+ふふ、早速いい買い物|しちゃいました！|夢が叶う香水かあ……=Hmhm, a perfume that grants wishes, I had to buy it before someone else snatched it up!
+本当にそんなの信じてるの？|風紀委員って、意外と|ロマンチストだね。=Do you honestly believe that? I never took you for a dreamer.
+まあ、さすがに本気には|してませんけど……|でもビンも素敵だしーー=Well, so what if it can't really do those things. It smells nice.
+香りもいいし、|それだけでもう十分満足です！=And the bottle's really pretty, and that's good enough for me!
+あ、そうだ……|一条さんに何か|おみやげ買っていこうかな。=Now that I think about it, I wonder if we should buy a little something for Ichijo.
+一条センパイ、こういうの|好きそうですもんね。|どれがいいですかね……=I bet Ichijo would like these kinds of things. Did you have anything in mind?
+これにする。『考える猫』=This here, the "Pensive Pussycat."
+（し、渋い……！|猫がしゃがんで、|考え込んでいる石像！）=(A statuette of a cat in the classic thinker pose? That's so tacky!)
+もっと若い人向けの物|じゃなくていいんですか？=How about something a little more chic? Maybe that would be better?
+ううん、これでいい。|一条さんよろこぶかな。=No, this is the one. Ichijo will delighted when he sees it.
+な、なるほど。一条センパイの|考え込む姿が、ちょっと今|目に浮かびました……=I guess you do know him best. I was just imagining Ichijo lost in thought like the cat.
 
 # ACC34
 （ここがハンター協会か）=
@@ -10084,7 +10084,7 @@ Sleep well...
 じゃあ、ボディガードがてら|先生も市場を楽しんで……|なんてどうですか？=
 ふん……勝手にしろ。=
 やった！じゃ、いいんですね？|行きましょう、骨董市。=
-すごいですね……！|何か、アジアのどこかの街の|バザールみたい。=
+すごいですね……！|何か、アジアのどこかの街の|バザールみたい。=Wow! It looks just like one of those desert bazaars you see in those pictures.
 どいつもこいつも、|ガラクタばっかだな。=
 そのガラクタの中から|掘り出し物を見つけるのが|面白いんですよ。=
 そんなもんで夢が叶うんなら|人生何の苦労もないぜ。=

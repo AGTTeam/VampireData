@@ -15,88 +15,88 @@
 <ch1>零の声<00><00><0A><ch2>女の子の悲鳴<00><01>=<ch1>Zero’s voice.<00><00><0A><ch2>A girl shrieking.<00><01>
 <ch1>はい<00><00><0A><ch2>いいえ<00><01>=<ch1>Yes<00><00><0A><ch2>No<00><01>
 <ch1>鋭い気配<00><00><0A><ch2>怪しい気配<00><01>=<ch1>A piercing presence.<00><00><0A><ch2>A mysterious presence.<00><01>
-<ch1>ありがとう<00><00><0A><ch2>零……<00><01><0A><ch3>意外と優しいじゃん<00><02>=<ch1>Thank you.<00><00><0A><ch2>Zero...<00><01><0A><ch3>That was unexpectedly nice of you.<00><02>
-<ch1>おせっかいだよ<00><00><0A><ch2>零って……<00><01><0A><ch3>ごめんね<00><02>=<ch1>You didn’t have to barge in.<00><00><0A><ch2>Hey, Zero...<00><01><0A><ch3>I’m sorry.<00><02>
+<ch1>ありがとう<00><00><0A><ch2>零……<00><01><0A><ch3>意外と優しいじゃん<00><02>=<ch1>“Thank you.”<00><00><0A><ch2>“Zero...”<00><01><0A><ch3>“That was unexpectedly nice of you.”<00><02>
+<ch1>おせっかいだよ<00><00><0A><ch2>零って……<00><01><0A><ch3>ごめんね<00><02>=<ch1>“You didn’t have to barge in.”<00><00><0A><ch2>“Hey, Zero...”<00><01><0A><ch3>“I’m sorry.”<00><02>
 <ch1>藍堂　英<00><03><0A><ch2>架院　暁<00><04><0A><ch3>他の人……=<ch1>Hanabusa Aido<00><03><0A><ch2>Akatsuki Kain<00><04><0A><ch3>Someone else...
 <ch1>一条　拓麻<00><05><0A><ch2>支葵　千里<00><06><0A><ch3>他の人……<00><01>=<ch1>Takuma Ichijo<00><05><0A><ch2>Senri Shiki<00><06><0A><ch3>Someone else...<00><01>
 <ch1>玖蘭　枢<00><7F><0A><ch2>錐生　零<00><02><0A><ch3>誰にも渡さない<00><07>=<ch1>Kaname Kuran<00><7F><0A><ch2>Zero Kiryu<00><02><0A><ch3>Don’t give it away.<00><07>
-<ch1>聖ショコラトル･デー|楽しかったですか？<00><00><0A><ch2>沢山のチョコはどうしました？<00><01>=<ch1>Did you enjoy St. Xocolatl’s Day?<00><00><0A><ch2>What did you do with all that chocolate?<00><01>
+<ch1>聖ショコラトル･デー|楽しかったですか？<00><00><0A><ch2>沢山のチョコはどうしました？<00><01>=<ch1>“Did you enjoy St. Xocolatl’s Day?”<00><00><0A><ch2>“What did you do with all that chocolate?”<00><01>
 <ch1>あげる<00><00><0A><ch2>あげない<00><01>=<ch1>Give it to him.<00><00><0A><ch2>Don’t give it to him.<00><01>
-<ch1>聖ショコラトル･デー|大活躍でしたね？<00><00><0A><ch2>新記録でました？<00><01>=<ch1>St. Xocolatl’s Day was a great success, wasn’t it?<00><00><0A><ch2>Did you set a new record?<00><01>
-<ch1>聖ショコラトル･デーって|好きですか？<00><00><0A><ch2>甘い物って好きですか？<00><01>=<ch1>Did you like St. Xocolatl’s Day?<00><00><0A><ch2>Do you like sweet things?<00><01>
-<ch1>聖ショコラトル･デー|終わっちゃいましたね<00><00><0A><ch2>沢山もらえましたね<00><01>=<ch1>St. Xocolatl’s Day is all done with then, huh?<00><00><0A><ch2>You got a lot, didn’t you?<00><01>
-<ch1>莉磨さんからはチョコを|もらいました？<00><00><0A><ch2>プレゼントってどう思います？<00><01>=<ch1>Did you get chocolate from Rima?<00><00><0A><ch2>What did you think of your presents?<00><01>
-<ch1>楽しかったです<00><01><0A><ch2>楽しくなかったです<00><02>=<ch1>It’s been fun.<00><01><0A><ch2>I didn’t enjoy it.<00><02>
-<ch1>パフェは譲らない<00><02><0A><ch2>妥協して塩ラーメン<00><03>=<ch1>I won’t concede.<00><02><0A><ch2>I’ll compromise.<00><03>
+<ch1>聖ショコラトル･デー|大活躍でしたね？<00><00><0A><ch2>新記録でました？<00><01>=<ch1>“St. Xocolatl’s Day was a great success, wasn’t it?”<00><00><0A><ch2>“Did you set a new record?”<00><01>
+<ch1>聖ショコラトル･デーって|好きですか？<00><00><0A><ch2>甘い物って好きですか？<00><01>=<ch1>“Did you like St. Xocolatl’s Day?”<00><00><0A><ch2>“Do you like sweet things?”<00><01>
+<ch1>聖ショコラトル･デー|終わっちゃいましたね<00><00><0A><ch2>沢山もらえましたね<00><01>=<ch1>“St. Xocolatl’s Day is all done with then, huh?”<00><00><0A><ch2>“You got a lot, didn’t you?”<00><01>
+<ch1>莉磨さんからはチョコを|もらいました？<00><00><0A><ch2>プレゼントってどう思います？<00><01>=<ch1>“Did you get chocolate from Rima?”<00><00><0A><ch2>“What did you think of your presents?”<00><01>
+<ch1>楽しかったです<00><01><0A><ch2>楽しくなかったです<00><02>=<ch1>“It’s been fun.”<00><01><0A><ch2>“I didn’t enjoy it.”<00><02>
+<ch1>パフェは譲らない<00><02><0A><ch2>妥協して塩ラーメン<00><03>=<ch1>Don’t concede.<00><02><0A><ch2>Compromise.<00><03>
 <ch1>錐生　零<00><14><0A><ch2>玖蘭　枢<00><15><0A><ch3>他の人……<00><12>=<ch1>Zero Kiryu<00><14><0A><ch2>Kaname Kuran<00><15><0A><ch3>Someone else...<00><12>
 <ch1>藍堂　英<00><16><0A><ch2>架院　暁<00><17><0A><ch3>他の人……<00><13>=<ch1>Hanabusa Aido<00><16><0A><ch2>Akatsuki Kain<00><17><0A><ch3>Someone else...<00><13>
 <ch1>一条　拓麻<00><18><0A><ch2>支葵　千里<00><19><0A><ch3>他の人…<00><11>=<ch1>Takuma Ichijo<00><18><0A><ch2>Senri Shiki<00><19><0A><ch3>Someone else...<00><11>
-<ch1>いつも一緒の零が良かった<00><00><0A><ch2>ただ何となく<00><01><0A><ch3>枢センパイの代わりに<00><02>=<ch1>Since we’re always together.<00><00><0A><ch2>I just went for it.<00><01><0A><ch3>To stand-in for Kaname.<00><02>
-<ch1>ステキだと思う<00><04><0A><ch2>本当は怖い<00><05><0A><ch3>私たちと変わらない<00><06>=<ch1>I think they’re great.<00><04><0A><ch2>They’re scary.<00><05><0A><ch3>They’re not so different from us.<00><06>
-<ch1>怖いよね<00><08><0A><ch2>無愛想だよね<00><09><0A><ch3>素直じゃないよね<00><0A>=<ch1>You’re scary.<00><08><0A><ch2>You’re unfriendly.<00><09><0A><ch3>You’re never upfront.<00><0A>
-<ch1>全然怖くありません！<00><00><0A><ch2>別に何とも……<00><01><0A><ch3>少し怖いです<00><02>=<ch1>I’m not scared at all!<00><00><0A><ch2>Not really...<00><01><0A><ch3>They are a bit scary.<00><02>
-<ch1>可愛いふりをしているだけ<00><04><0A><ch2>毎晩イメトレをしてるから<00><05><0A><ch3>ダイエットしてるから<00><06>=<ch1>I’m just pretending to be cute.<00><04><0A><ch2>It’s because I do visualizations every night.<00><05><0A><ch3>It’s because I’m on a diet.<00><06>
-<ch1>大好きです<00><08><0A><ch2>秘密です<00><09><0A><ch3>はずかしくて答えられません！<00><0A>=<ch1>I love you.<00><08><0A><ch2>That’s a secret.<00><09><0A><ch3>I’m too embarrassed to answer!<00><0A>
-<ch1>怖くなんかありません<00><00><0A><ch2>怖いです<00><01><0A><ch3>別に……<00><02>=<ch1>I’m not afraid!<00><00><0A><ch2>I’m scared.<00><01><0A><ch3>Not really...<00><02>
-<ch1>枢センパイ<00><04><0A><ch2>架院センパイ<00><05><0A><ch3>藍堂センパイ<00><06>=<ch1>Kaname.<00><04><0A><ch2>Kain.<00><05><0A><ch3>Aido.<00><06>
-<ch1>知ってます<00><08><0A><ch2>だからモテるんですね<00><09><0A><ch3>うわべだけでしょう？<00><0A>=<ch1>I know.<00><08><0A><ch2>That’s why you’re so popular.<00><09><0A><ch3>Isn’t that just a facade?<00><0A>
-<ch1>アダ名で呼んでいいですか<00><00><0A><ch2>このアダ名、好きですか<00><01><0A><ch3>本当にワイルドなんですか<00><02>=<ch1>Can I call you that?<00><00><0A><ch2>Do you like that nickname?<00><01><0A><ch3>Are you really that wild?<00><02>
-<ch1>女の子が怖い？<00><04><0A><ch2>枢センパイが怖い？<00><05><0A><ch3>ブラッディローズが怖い？<00><06>=<ch1>You’re scared of girls?<00><04><0A><ch2>You’re scared of Kaname?<00><05><0A><ch3>You’re scared of the Bloody Rose?<00><06>
-<ch1>血が怖い<00><08><0A><ch2>枢センパイが怖い<00><09><0A><ch3>学校のテストが怖い<00><0A>=<ch1>I’m scared of blood.<00><08><0A><ch2>I’m scared of Kaname.<00><09><0A><ch3>I’m scared of our exams.<00>
+<ch1>いつも一緒の零が良かった<00><00><0A><ch2>ただ何となく<00><01><0A><ch3>枢センパイの代わりに<00><02>=<ch1>“Since we’re always together.”<00><00><0A><ch2>“I just went for it.”<00><01><0A><ch3>“To stand-in for Kaname.”<00><02>
+<ch1>ステキだと思う<00><04><0A><ch2>本当は怖い<00><05><0A><ch3>私たちと変わらない<00><06>=<ch1>“I think they’re great.”<00><04><0A><ch2>“They’re scary.”<00><05><0A><ch3>“They’re not so different from us.”<00><06>
+<ch1>怖いよね<00><08><0A><ch2>無愛想だよね<00><09><0A><ch3>素直じゃないよね<00><0A>=<ch1>“You’re scary.”<00><08><0A><ch2>“You’re unfriendly.”<00><09><0A><ch3>“You’re never upfront.”<00><0A>
+<ch1>全然怖くありません！<00><00><0A><ch2>別に何とも……<00><01><0A><ch3>少し怖いです<00><02>=<ch1>“I’m not scared at all!”<00><00><0A><ch2>“Not really...”<00><01><0A><ch3>“They are a bit scary.”<00><02>
+<ch1>可愛いふりをしているだけ<00><04><0A><ch2>毎晩イメトレをしてるから<00><05><0A><ch3>ダイエットしてるから<00><06>=<ch1>“I’m just pretending to be cute.”<00><04><0A><ch2>“It’s because I do visualizations every night.”<00><05><0A><ch3>“It’s because I’m on a diet.”<00><06>
+<ch1>大好きです<00><08><0A><ch2>秘密です<00><09><0A><ch3>はずかしくて答えられません！<00><0A>=<ch1>“I love you.”<00><08><0A><ch2>“That’s a secret.”<00><09><0A><ch3>“I’m too embarrassed to answer!”<00><0A>
+<ch1>怖くなんかありません<00><00><0A><ch2>怖いです<00><01><0A><ch3>別に……<00><02>=<ch1>“I’m not afraid!”<00><00><0A><ch2>“I’m scared.”<00><01><0A><ch3>“Not really...”<00><02>
+<ch1>枢センパイ<00><04><0A><ch2>架院センパイ<00><05><0A><ch3>藍堂センパイ<00><06>=<ch1>“Kaname.”<00><04><0A><ch2>“Kain.”<00><05><0A><ch3>“Aido.”<00><06>
+<ch1>知ってます<00><08><0A><ch2>だからモテるんですね<00><09><0A><ch3>うわべだけでしょう？<00><0A>=<ch1>“I know.”<00><08><0A><ch2>“That’s why you’re so popular.”<00><09><0A><ch3>“Isn’t that just a facade?”<00><0A>
+<ch1>アダ名で呼んでいいですか<00><00><0A><ch2>このアダ名、好きですか<00><01><0A><ch3>本当にワイルドなんですか<00><02>=<ch1>“Can I call you that?”<00><00><0A><ch2>“Do you like that nickname?”<00><01><0A><ch3>“Are you really that wild?”<00><02>
+<ch1>女の子が怖い？<00><04><0A><ch2>枢センパイが怖い？<00><05><0A><ch3>ブラッディローズが怖い？<00><06>=<ch1>“You’re scared of girls?”<00><04><0A><ch2>“You’re scared of Kaname?”<00><05><0A><ch3>“You’re scared of the Bloody Rose?”<00><06>
+<ch1>血が怖い<00><08><0A><ch2>枢センパイが怖い<00><09><0A><ch3>学校のテストが怖い<00><0A>=<ch1>“I’m scared of blood.”<00><08><0A><ch2>“I’m scared of Kaname.”<00><09><0A><ch3>“I’m scared of our exams.”<00>
 <ch1>好きです<00><00><0A><ch2>わかりません<00><01><0A><ch3>嫌いな人もいます<00><02>=
 <ch1>明るくて親しみやすい所<00><04><0A><ch2>二面性がある所<00><05><0A><ch3>高貴で王子様っぽい所<00><06>=
 <ch1>そうです<00><08><0A><ch2>みなさんが好きです<00><09><0A><ch3>一条センパイが好きです<00><0A>=
 <ch1>モデルのお仕事？<00><00><0A><ch2>女の子の事？<00><01><0A><ch3>学園生活の事？<00><02>=
 <ch1>私でも出来ますか？<00><04><0A><ch2>恥ずかしいです！<00><05><0A><ch3>人気モデルになっちゃう<00><06>=
 <ch1>全然興味ないですか？<00><08><0A><ch2>本当は楽しんでるんじゃ？<00><09><0A><ch3>好きな子と回りたかった？<00><0A>=
-<ch1>お金持ちになりたい<00><00><0A><ch2>キレイになりたい<00><01><0A><ch3>ずっと元気でいたい<00><02>=<ch1>To have a lot of money.<00><00><0A><ch2>To be beautiful.<00><01><0A><ch3>To always be well.<00><02>
-<ch1>キレイになりたい<00><01><0A><ch2>ずっと元気でいたい<00><02>=<ch1>To be beautiful.<00><01><0A><ch2>To always be well.<00><02>
-<ch1>お金持ちになりたい<00><00><0A><ch2>ずっと元気でいたい<00><02>=<ch1>To have a lot of money.<00><00><0A><ch2>To always be well.<00><02>
-<ch1>ずっと元気でいたい<00><02>=<ch1>To always be well.<00><02>
-<ch1>よく寝ること<00><05><0A><ch2>よく食べること<00><06><0A><ch3>よく運動すること<00><07>=<ch1>Getting a proper night’s rest.<00><05><0A><ch2>Eating well.<00><06><0A><ch3>Getting plenty of exercise.<00><07>
-<ch1>それが務めだから<00><09><0A><ch2>秘密<00><0A><0A><ch3>守りたい人がいるから……<00><0B>=<ch1>Part of my responsibility.<00><09><0A><ch2>A secret.<00><0A><0A><ch3>Because there’s someone I want to protect...<00><0B>
-<ch1>枢センパイはどう思います？<00><00><0A><ch2>零はどう思う？<00><01>=<ch1>What do you think, Kaname？<00><00><0A><ch2>What do you think, Zero?<00><01>
-<ch1>可愛くなりたい<00><00><0A><ch2>賢くなりたい<00><01><0A><ch3>仕事を身につけたい<00><02>=<ch1>To be cute.<00><00><0A><ch2>To be smart.<00><01><0A><ch3>To get a job.<00><02>
-<ch1>賢くなりたい<00><01><0A><ch2>仕事を身につけたい<00><02>=<ch1>To be smart.<00><01><0A><ch2>To get a job.<00><02>
-<ch1>可愛くなりたい<00><00><0A><ch2>賢くなりたい<00><01>=<ch1>To be cute.<00><00><0A><ch2>To be smart.00><01>
-<ch1>賢くなりたい<00><01>=<ch1>To be smart.<00><01>
-<ch1>はい、そうします。<00><03><0A><ch2>いえ、私の本当の夢は……<00><04>=<ch1>Yes, I will.<00><03><0A><ch2>Actually, my real dream is...<00><04>
-<ch1>はい、そうします<00><07><0A><ch2>いえ、私の本当の夢は……<00><08>=<ch1>Yes, I will.<00><07><0A><ch2>Actually, my real dream is...<00><08>
-<ch1>勉学を極める<00><09><0A><ch2>商売を極める<00><0A><0A><ch3>人間関係を極める<00><0B>=<ch1>Book smarts.<00><09><0A><ch2>Business sense.<00><0A><0A><ch3>People skills.<00><0B>
-<ch1>お嫁さん<00><0D><0A><ch2>支配者<00><0E><0A><ch3>カリスマ<00><0F>=<ch1>A wife.<00><0D><0A><ch2>A ruler.<00><0E><0A><ch3>Charismatic.<00><0F>
-<ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02><0A><ch3>賢くなりたい<00><03>=<ch1>I want to gain a lot of experience.<00><01><0A><ch2>I want to know about a lot of things.<00><02><0A><ch3>I want to be smart.<00><03>
-<ch1>色んな経験を積みたい<00><01><0A><ch2>賢くなりたい<00><03>=<ch1>To gain a lot of experience.<00><01><0A><ch2>To be smart.<00><03>
-<ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02>=<ch1>To gain a lot of experience.<00><01><0A><ch2>To know about a lot of things.<00><02>
-<ch1>色んな経験を積みたい<00><01>=<ch1>To gain a lot of experience.<00><01>
-<ch1>はい、そうします<00><05><0A><ch2>いえ、本当の夢は……<00><06>=<ch1>Yes, I will.<00><05><0A><ch2>Actually, my real dream is...<00><06>
-<ch1>はい、そうします<00><08><0A><ch2>いえ、本当の夢は……<00><09>=<ch1>Yes, I will.<00><08><0A><ch2>Actually, my real dream is...<00><09>
-<ch1>セラピスト<00><12><0A><ch2>作家<00><0A><0A><ch3>旅人<00><0B>=<ch1>To be a therapist.<00><12><0A><ch2>To be a writer.<00><0A><0A><ch3>To be a traveler.<00><0B>
-<ch1>お金<00><0E><0A><ch2>好きな人の気持ち<00><0F><0A><ch3>人望<00><10>=<ch1>Money.<00><0E><0A><ch2>To have the person I like love me|back.<00><0F><0A><ch3>To be popular.<00><10>
-<ch1>藍堂センパイはどう思います？<00><00><0A><ch2>架院センパイはどう思います？<00><01>=<ch1>What do you think, Aido？<00><00><0A><ch2>What do you think, Kain？<00><01>
-<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01><0A><ch3>健康でいたい<00><02>=<ch1>I want to broaden my knowledge by meeting all kinds of people.<00><00><0A><ch2>I want to find my life’s work.<00><01><0A><ch3>I want to stay healthy.<00><02>
-<ch1>ライフワークを見つけたい<00><01><0A><ch2>健康でいたい<00><02>=<ch1>I want to find my life’s work.<00><01><0A><ch2>I want to stay healthy.<00><02>
-<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01>=<ch1>I want to broaden my knowledge by meeting all kinds of people.<00><00><0A><ch2>I want to find my life’s work.<00><01>
-<ch1>ライフワークを見つけたい<00><01>=<ch1>I want to find my life’s work.<00><01>
-<ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>Yes, I will.<00>ヂ<0A><ch2>Actually, my real dream is...<00><04>
-<ch1>はい、そうします<00><07><0A><ch2>いえ、本当の夢は……<00><08>=<ch1>Yes, I will.<00><07><0A><ch2>Actually, my real dream is...<00><08>
-<ch1>特技を生かしたもの<00><09><0A><ch2>頭脳を生かしたもの<00><0A><0A><ch3>人柄を生かしたもの<00><0B>=<ch1>Something that will make use of my skills.<00><09><0A><ch2>Something that I can use my brain for.<00><0A><0A><ch3>Something that fits my personality.<00><0B>
-<ch1>世の中のため<00><0D><0A><ch2>好きな人のため<00><0E><0A><ch3>自分のため<00><0F>=<ch1>For society.<00><0D><0A><ch2>For the person I like.<00><0E><0A><ch3>For myself.<00><0F>
-<ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01><0A><ch3>沢山の人にチヤホヤされたい<00><02>=<ch1>I want to be enlightened.<00><00><0A><ch2>I want to become a leader.<00><01><0A><ch3>I want to be spoiled by a lot of people.<00><02>
-<ch1>仙人になりたい<00><00><0A><ch2>沢山の人にチヤホヤされたい<00><02>=<ch1>I want to be enlightened.<00><00><0A><ch2>I want to be spoiled by a lot of people.<00><02>
-<ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01>=<ch1>I want to be enlightened.<00><00><0A><ch2>I want to become a leader.<00><01>
-<ch1>仙人になりたい=<ch1>I want to be enlightened.
-<ch1>はい、そうします<00><04><0A><ch2>いえ、本当の夢は……<00><05>=<ch1>Yes, I will.<00><04><0A><ch2>Actually, my real dream is...<00><05>
-<ch1>人間の事<00><09><0A><ch2>ヴァンパイアの事<00><0A><0A><ch3>色んなウラの事<00><0B>=<ch1>About humans.<00><09><0A><ch2>About vampires.<00><0A><0A><ch3>About the flip side of all sorts of things.<00><0B>
-<ch1>社交的にするコツ<00><0D><0A><ch2>周りに優しくするコツ<00><0E><0A><ch3>変わり者と付き合うコツ<00><0F>=<ch1>Tips on socializing.<00><0D><0A><ch2>Tips on being kind.<00><0E><0A><ch3>Tips on getting to know someone who’s a bit different.<00><0F>
-<ch1>一条センパイはどう思います？<00><00><0A><ch2>支葵センパイはどう思います？<00><01>=<ch1>What do you think, Ichijo？<00><00><0A><ch2>What do you think, Shiki？<00><01>
-<ch1>物知りな人になりたい<00><00><0A><ch2>キレ者になりたい<00><01><0A><ch3>心身ともに美しい人になりたい<00><02>=<ch1>To become knowledgeable person<00><00><0A><ch2>To become sophisticated<00><01><0A><ch3>To become beautiful<00><02>
-<ch1>キレ者になりたい<00><01><0A><ch2>心身ともに美しい人になりたい<00><02>=<ch1>To become sophisticated<00><01><0A><ch2>To become beautiful<00><02>
-<ch1>物知りな人になりたい<00><00><0A><ch2>心身ともに美しい人になりたい<00><02>=<ch1>To become knowledgeable<00><00><0A><ch2>To become beautiful<00><02>
-<ch1>心身ともに美しい人になりたい<00><02>=<ch1>To become beautiful<00><02>
-<ch1>はい、そうします<00><03><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>Yes, I will.<00><03><0A><ch2>Actually, my real dream is...<00><04>
-<ch1>はい、そうします<00><06><0A><ch2>いえ、本当の夢は……<00><07>=<ch1>Yes, I will.<00><06><0A><ch2>Actually, my real dream is...<00><07>
-<ch1>モデル<00><09><0A><ch2>女優<00><0A><0A><ch3>ニュースキャスター<00><0B>=<ch1>Model<00><09><0A><ch2>Actress<00><0A><0A><ch3>Newscaster<00><0B>
-<ch1>街中自分のポスターだらけ<00><0D><0A><ch2>ＴＶつけるといつも出てる<00><0E><0A><ch3>パーティーで輪の中心<00><0F>=<ch1>A city full of posters with my face<00><0D><0A><ch2>Always seeing myself on TV<00><0E><0A><ch3>Being the center of attention at parties<00><0F>
+<ch1>お金持ちになりたい<00><00><0A><ch2>キレイになりたい<00><01><0A><ch3>ずっと元気でいたい<00><02>=<ch1>“To have a lot of money.”<00><00><0A><ch2>“To be beautiful.”<00><01><0A><ch3>“To always be well.”<00><02>
+<ch1>キレイになりたい<00><01><0A><ch2>ずっと元気でいたい<00><02>=<ch1>“To be beautiful.”<00><01><0A><ch2>“To always be well.”<00><02>
+<ch1>お金持ちになりたい<00><00><0A><ch2>ずっと元気でいたい<00><02>=<ch1>“To have a lot of money.”<00><00><0A><ch2>“To always be well.”<00><02>
+<ch1>ずっと元気でいたい<00><02>=<ch1>“To always be well.”<00><02>
+<ch1>よく寝ること<00><05><0A><ch2>よく食べること<00><06><0A><ch3>よく運動すること<00><07>=<ch1>“Getting a proper night’s rest.”<00><05><0A><ch2>“Eating well.”<00><06><0A><ch3>“Getting plenty of exercise.”<00><07>
+<ch1>それが務めだから<00><09><0A><ch2>秘密<00><0A><0A><ch3>守りたい人がいるから……<00><0B>=<ch1>“It’s part of my responsibility.”<00><09><0A><ch2>“That’s a secret.”<00><0A><0A><ch3>“Because there’s someone I want to protect...”<00><0B>
+<ch1>枢センパイはどう思います？<00><00><0A><ch2>零はどう思う？<00><01>=<ch1>“What do you think, Kaname?”<00><00><0A><ch2>“What do you think, Zero?”<00><01>
+<ch1>可愛くなりたい<00><00><0A><ch2>賢くなりたい<00><01><0A><ch3>仕事を身につけたい<00><02>=<ch1>“To be cute.”<00><00><0A><ch2>“To be smart.”<00><01><0A><ch3>“To get a job.”<00><02>
+<ch1>賢くなりたい<00><01><0A><ch2>仕事を身につけたい<00><02>=<ch1>“To be smart.”<00><01><0A><ch2>“To get a job.”<00><02>
+<ch1>可愛くなりたい<00><00><0A><ch2>賢くなりたい<00><01>=<ch1>“To be cute.”<00><00><0A><ch2>“To be smart.”<00><01>
+<ch1>賢くなりたい<00><01>=<ch1>“To be smart.”<00><01>
+<ch1>はい、そうします。<00><03><0A><ch2>いえ、私の本当の夢は……<00><04>=<ch1>“Yes, I will.”<00><03><0A><ch2>“Actually, my real dream is...”<00><04>
+<ch1>はい、そうします<00><07><0A><ch2>いえ、私の本当の夢は……<00><08>=<ch1>“Yes, I will.”<00><07><0A><ch2>“Actually, my real dream is...”<00><08>
+<ch1>勉学を極める<00><09><0A><ch2>商売を極める<00><0A><0A><ch3>人間関係を極める<00><0B>=<ch1>“Book smarts.”<00><09><0A><ch2>“Business sense.”<00><0A><0A><ch3>“People skills.”<00><0B>
+<ch1>お嫁さん<00><0D><0A><ch2>支配者<00><0E><0A><ch3>カリスマ<00><0F>=<ch1>“A wife.”<00><0D><0A><ch2>“A ruler.”<00><0E><0A><ch3>“Charismatic.”<00><0F>
+<ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02><0A><ch3>賢くなりたい<00><03>=<ch1>“I want to gain a lot of experience.”<00><01><0A><ch2>“I want to know about a lot of things.”<00><02><0A><ch3>“I want to be smart.”<00><03>
+<ch1>色んな経験を積みたい<00><01><0A><ch2>賢くなりたい<00><03>=<ch1>“To gain a lot of experience.”<00><01><0A><ch2>“To be smart.”<00><03>
+<ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02>=<ch1>“To gain a lot of experience.”<00><01><0A><ch2>“To know about a lot of things.”<00><02>
+<ch1>色んな経験を積みたい<00><01>=<ch1>“To gain a lot of experience.”<00><01>
+<ch1>はい、そうします<00><05><0A><ch2>いえ、本当の夢は……<00><06>=<ch1>“Yes, I will.”<00><05><0A><ch2>“Actually, my real dream is...”<00><06>
+<ch1>はい、そうします<00><08><0A><ch2>いえ、本当の夢は……<00><09>=<ch1>“Yes, I will.”<00><08><0A><ch2>“Actually, my real dream is...”<00><09>
+<ch1>セラピスト<00><12><0A><ch2>作家<00><0A><0A><ch3>旅人<00><0B>=<ch1>“To be a therapist.”<00><12><0A><ch2>“To be a writer.”<00><0A><0A><ch3>“To be a traveler.”<00><0B>
+<ch1>お金<00><0E><0A><ch2>好きな人の気持ち<00><0F><0A><ch3>人望<00><10>=<ch1>“Money.”<00><0E><0A><ch2>“To have the person I like love me|back.”<00><0F><0A><ch3>“To be popular.”<00><10>
+<ch1>藍堂センパイはどう思います？<00><00><0A><ch2>架院センパイはどう思います？<00><01>=<ch1>“What do you think, Aido?”<00><00><0A><ch2>“What do you think, Kain?”<00><01>
+<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01><0A><ch3>健康でいたい<00><02>=<ch1>“I want to broaden my knowledge by meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01><0A><ch3>“I want to stay healthy.”<00><02>
+<ch1>ライフワークを見つけたい<00><01><0A><ch2>健康でいたい<00><02>=<ch1>“I want to find my life’s work.”<00><01><0A><ch2>“I want to stay healthy.”<00><02>
+<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01>=<ch1>“I want to broaden my knowledge by meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01>
+<ch1>ライフワークを見つけたい<00><01>=<ch1>“I want to find my life’s work.”<00><01>
+<ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00>ヂ<0A><ch2>“Actually, my real dream is...”<00><04>
+<ch1>はい、そうします<00><07><0A><ch2>いえ、本当の夢は……<00><08>=<ch1>“Yes, I will.”<00><07><0A><ch2>“Actually, my real dream is...”<00><08>
+<ch1>特技を生かしたもの<00><09><0A><ch2>頭脳を生かしたもの<00><0A><0A><ch3>人柄を生かしたもの<00><0B>=<ch1>“Something that will make use of my skills.”<00><09><0A><ch2>“Something that I can use my brain for.”<00><0A><0A><ch3>“Something that fits my personality.”<00><0B>
+<ch1>世の中のため<00><0D><0A><ch2>好きな人のため<00><0E><0A><ch3>自分のため<00><0F>=<ch1>“For society.”<00><0D><0A><ch2>“For the person I like.”<00><0E><0A><ch3>“For myself.”<00><0F>
+<ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01><0A><ch3>沢山の人にチヤホヤされたい<00><02>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to become a leader.”<00><01><0A><ch3>“I want to be spoiled by a lot of people.”<00><02>
+<ch1>仙人になりたい<00><00><0A><ch2>沢山の人にチヤホヤされたい<00><02>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to be spoiled by a lot of people.”<00><02>
+<ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to become a leader.”<00><01>
+<ch1>仙人になりたい=<ch1>“I want to be enlightened.”
+<ch1>はい、そうします<00><04><0A><ch2>いえ、本当の夢は……<00><05>=<ch1>“Yes, I will.”<00><04><0A><ch2>“Actually, my real dream is...”<00><05>
+<ch1>人間の事<00><09><0A><ch2>ヴァンパイアの事<00><0A><0A><ch3>色んなウラの事<00><0B>=<ch1>“About humans.”<00><09><0A><ch2>“About vampires.”<00><0A><0A><ch3>“About the flip side of all sorts of things.”<00><0B>
+<ch1>社交的にするコツ<00><0D><0A><ch2>周りに優しくするコツ<00><0E><0A><ch3>変わり者と付き合うコツ<00><0F>=<ch1>“Tips on socializing.”<00><0D><0A><ch2>“Tips on being kind.”<00><0E><0A><ch3>“Tips on getting to know someone who’s a bit different.”<00><0F>
+<ch1>一条センパイはどう思います？<00><00><0A><ch2>支葵センパイはどう思います？<00><01>=<ch1>“What do you think, Ichijo?”<00><00><0A><ch2>“What do you think, Shiki?”<00><01>
+<ch1>物知りな人になりたい<00><00><0A><ch2>キレ者になりたい<00><01><0A><ch3>心身ともに美しい人になりたい<00><02>=<ch1>“To become knowledgeable.”<00><00><0A><ch2>“To become sophisticated.”<00><01><0A><ch3>“To become beautiful.”<00><02>
+<ch1>キレ者になりたい<00><01><0A><ch2>心身ともに美しい人になりたい<00><02>=<ch1>“To become sophisticated.”<00><01><0A><ch2>“To become beautiful.”<00><02>
+<ch1>物知りな人になりたい<00><00><0A><ch2>心身ともに美しい人になりたい<00><02>=<ch1>“To become knowledgeable.”<00><00><0A><ch2>“To become beautiful.”<00><02>
+<ch1>心身ともに美しい人になりたい<00><02>=<ch1>“To become beautiful.”<00><02>
+<ch1>はい、そうします<00><03><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00><03><0A><ch2>“Actually, my real dream is...”<00><04>
+<ch1>はい、そうします<00><06><0A><ch2>いえ、本当の夢は……<00><07>=<ch1>“Yes, I will.”<00><06><0A><ch2>“Actually, my real dream is...”<00><07>
+<ch1>モデル<00><09><0A><ch2>女優<00><0A><0A><ch3>ニュースキャスター<00><0B>=<ch1>“A model.”<00><09><0A><ch2>“An actress.”<00><0A><0A><ch3>“A newscaster.”<00><0B>
+<ch1>街中自分のポスターだらけ<00><0D><0A><ch2>ＴＶつけるといつも出てる<00><0E><0A><ch3>パーティーで輪の中心<00><0F>=<ch1>“A city full of posters with my face.”<00><0D><0A><ch2>“Always seeing myself on TV.”<00><0E><0A><ch3>“Being the center of attention at parties.”<00><0F>
 <ch1>外で水をまく<00><00><0A><ch2>校庭で水をまく<00><01><0A><ch3>校舎の窓から水をまく<00><02>=<ch1>Outside.<00><00><0A><ch2>In the schoolyard.<00><01><0A><ch3>From a window in the school building.<00><02>
 <ch1>事件現場<00><00><0A><ch2>インタビュー現場<00><02>=<ch1>The crime scene.<00><00><0A><ch2>The interview spot.<00><02>
 <ch1>インタビュー現場<00><02>=<ch1>The interview spot.<00><02>
@@ -115,17 +115,17 @@
 <ch1>零だ<00><01><0A><ch2>枢センパイだ<00><02><0A><ch3>あ……<00><09>=<ch1>There’s Zero.<00><01><0A><ch2>There’s Kaname.<00><02><0A><ch3>Hm...<00><09>
 <ch1>藍堂センパイだ<00><03><0A><ch2>架院センパイだ<00><04><0A><ch3>あ……<00><0A>=<ch1>There’s Aido.<00><03><0A><ch2>There’s Kain.<00><04><0A><ch3>Hm...<00><0A>
 <ch1>一条センパイだ<00><05><0A><ch2>支葵センパイだ<00><06><0A><ch3>あ……<00><07>=<ch1>There’s Ichijo.<00><05><0A><ch2>There’s Shiki.<00><06><0A><ch3>Hm...<00><07>
-<ch1>湖へ<00><00><0A><ch2>裏庭へ<00><01><0A><ch3>馬場へ<00><02>=<ch1>To the lake.<00><00><0A><ch2>To the rear garden.<00><01><0A><ch3>To the stables.<00><02>
-<ch1>ここでいい<00><00><0A><ch2>裏庭へ<00><01><0A><ch3>馬場へ<00><02>=<ch1>Here’s fine.<00><00><0A><ch2>To the rear garden.<00><01><0A><ch3>To the stables.<00><02>
-<ch1>月の寮へ<00><00><0A><ch2>ここでいい<00><01><0A><ch3>湖へ<00><02>=<ch1>To the Moon Dorm.<00><00><0A><ch2>Here’s fine.<00><01><0A><ch3>To the lake.<00><02>
-<ch1>湖へ<00><00><0A><ch2>馬場へ<00><01><0A><ch3>ここでいい<00><02>=<ch1>To the lake.<00><00><0A><ch2>To the stables.<00><01><0A><ch3>Here’s fine.<00><02>
-<ch1>森へ<00><00><0A><ch2>庭へ<00><01><0A><ch3>一条の部屋へ<00><02>=<ch1>To the woods.<00><00><0A><ch2>To the courtyard.<00><01><0A><ch3>To Ichijo’s room.<00><02>
-<ch1>ここでいい<00><00><0A><ch2>森へ<00><01><0A><ch3>庭へ<00><02>=<ch1>Here’s fine.<00><00><0A><ch2>To the woods.<00><01><0A><ch3>To the courtyard.<00><02>
+<ch1>湖へ<00><00><0A><ch2>裏庭へ<00><01><0A><ch3>馬場へ<00><02>=<ch1>“To the lake.”<00><00><0A><ch2>“To the rear garden.”<00><01><0A><ch3>“To the stables.”<00><02>
+<ch1>ここでいい<00><00><0A><ch2>裏庭へ<00><01><0A><ch3>馬場へ<00><02>=<ch1>“Here’s fine.”<00><00><0A><ch2>“To the rear garden.”<00><01><0A><ch3>“To the stables.”<00><02>
+<ch1>月の寮へ<00><00><0A><ch2>ここでいい<00><01><0A><ch3>湖へ<00><02>=<ch1>“To the Moon Dorm.”<00><00><0A><ch2>“Here’s fine.”<00><01><0A><ch3>“To the lake.”<00><02>
+<ch1>湖へ<00><00><0A><ch2>馬場へ<00><01><0A><ch3>ここでいい<00><02>=<ch1>“To the lake.”<00><00><0A><ch2>“To the stables.”<00><01><0A><ch3>“Here’s fine.”<00><02>
+<ch1>森へ<00><00><0A><ch2>庭へ<00><01><0A><ch3>一条の部屋へ<00><02>=<ch1>“To the woods.”<00><00><0A><ch2>“To the courtyard.”<00><01><0A><ch3>“To your room.”<00><02>
+<ch1>ここでいい<00><00><0A><ch2>森へ<00><01><0A><ch3>庭へ<00><02>=<ch1>“Here’s fine.”<00><00><0A><ch2>“To the woods.”<00><01><0A><ch3>“To the courtyard.”<00><02>
 <ch1>話しかける<00><02><0A><ch2>話しかけない<00><03>=<ch1>Say something.<00><02><0A><ch2>Don’t say anything.<00><03>
 <ch1>話しかける<00><04><0A><ch2>話しかけない<00><05>=<ch1>Say something.<00><04><0A><ch2>Don’t say anything.<00><05>
 <ch1>話しかける<00><06><0A><ch2>話しかけない<00><07>=<ch1>Say something.<00><06><0A><ch2>Don’t say anything.<00><07>
 <ch1>話しかける<00><08><0A><ch2>話しかけない<00><09>=<ch1>Say something.<00><08><0A><ch2>Don’t say anything.<00><09>
-<ch1>どんな格好でしたか？<00><00><0A><ch2>どんな髪型でしたか？<00><01><0A><ch3>どんな顔立ちでしたか？<00><02>=<ch1>What was she wearing?<00><00><0A><ch2>What was her hair like?<00><01><0A><ch3>What did she look like?<00><02>
+<ch1>どんな格好でしたか？<00><00><0A><ch2>どんな髪型でしたか？<00><01><0A><ch3>どんな顔立ちでしたか？<00><02>=<ch1>“What was she wearing?”<00><00><0A><ch2>“What was her hair like?”<00><01><0A><ch3>“What did she look like?”<00><02>
 <ch1>一緒に行く<00><19><0A><ch2>遠慮する<00><04>=<ch1>Go together.<00><19><0A><ch2>Decline.<00><04>
 <ch1>一緒に行く<00><05><0A><ch2>遠慮する<00><06>=<ch1>Go together.<00><05><0A><ch2>Decline.<00><06>
 <ch1>仕方なく一緒に行く<00><07><0A><ch2>確実に遠慮する<00><08>=
@@ -155,78 +155,78 @@
 <ch1>一条センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
 <ch1>支葵センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
 <ch1>夜刈先生を責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
-<ch1>いいよ……零<00><06><0A><ch2>ちょっと待って……<00><07>=<ch1>It’s okay, Zero...<00><06><0A><ch2>W-Wait a second...<00><07>
-<ch1>うん<00><09><0A><ch2>やっぱり待って<00><0A>=<ch1>Yes.<00><09><0A><ch2>A-Actually I--<00><0A>
-<ch1>零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>Zero!<00><0C><0A><ch2>No...　I’m scared...<00><0D>
-<ch1>何か方法はないかな…<00><03><0A><ch2>どうすればいいの？…零<00><04>=<ch1>There must be some way to help...<00><03><0A><ch2>What should I do...?<00><04>
-<ch1>タブレットを……<00><06><0A><ch2>私がなんとかする…零<00><07>=<ch1>Maybe a blood tablet would...<00><06><0A><ch2>Maybe I could...<00><07>
-<ch1>いいんだよ…零<00><09><0A><ch2>こらえて…零<00><0A>=<ch1>It’s okay, Zero...<00><09><0A><ch2>Hang in there, Zero...<00><0A>
-<ch1>私の血を吸って……<00><0C><0A><ch2>タブレットを早く！<00><0D>=<ch1>Drink my blood...<00><0C><0A><ch2>Take a blood tablet.<00><0D>
-<ch1>待って<00><7F><0A><ch2>…………<00><01>=<ch1>Wait.<00><7F><0A><ch2>......<00><01>
+<ch1>いいよ……零<00><06><0A><ch2>ちょっと待って……<00><07>=<ch1>“It’s okay, Zero...”<00><06><0A><ch2>“W-Wait a second...”<00><07>
+<ch1>うん<00><09><0A><ch2>やっぱり待って<00><0A>=<ch1>“Yes.”<00><09><0A><ch2>“A-Actually I--”<00><0A>
+<ch1>零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>“Zero!”<00><0C><0A><ch2>“No...　I’m scared...”<00><0D>
+<ch1>何か方法はないかな…<00><03><0A><ch2>どうすればいいの？…零<00><04>=<ch1>“There must be some way to help...”<00><03><0A><ch2>“What should I do...?”<00><04>
+<ch1>タブレットを……<00><06><0A><ch2>私がなんとかする…零<00><07>=<ch1>“Maybe a blood tablet would...”<00><06><0A><ch2>“Maybe I could...”<00><07>
+<ch1>いいんだよ…零<00><09><0A><ch2>こらえて…零<00><0A>=<ch1>“It’s okay, Zero...”<00><09><0A><ch2>“Hang in there, Zero...”<00><0A>
+<ch1>私の血を吸って……<00><0C><0A><ch2>タブレットを早く！<00><0D>=<ch1>“Drink my blood...”<00><0C><0A><ch2>“Take a blood tablet.”<00><0D>
+<ch1>待って<00><7F><0A><ch2>…………<00><01>=<ch1>“Wait.”<00><7F><0A><ch2>“......”<00><01>
 <ch1>ひどい！<00><7F><0A><ch2>ゴメン……<00><04>=
 <ch1>いいんだよ……零<00><06><0A><ch2>そうだね……零<00><07>=
 <ch1>私の血を吸って……零<00><09><0A><ch2>やっぱり待って……零<00><0A>=
 <ch1>うん……零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=
-<ch1>何ですか…？<00><00><0A><ch2>まだ心の準備が…<00><01>=<ch1>What is it...?<00><00><0A><ch2>I’m not sure my heart is ready...<00><01>
-<ch1>ちょっと怖いんです…<00><03><0A><ch2>いいですよ。枢センパイなら…<00><04>=<ch1>I’m a little scared...<00><03><0A><ch2>I’m okay. If it’s you, Kaname...<00><04>
-<ch1>えっ、どうしよう……<00><06><0A><ch2>そんなことしたら……ダメです<00><07>=<ch1>Huh? What should I...?<00><06><0A><ch2>In that case... we should stop.<00><07>
-<ch1>わかりました|覚悟を決めました<00><09><0A><ch2>やっぱり待って下さい<00><0A>=<ch1>I understand. I’m ready.<00><09><0A><ch2>Please wait a moment...<00><0A>
-<ch1>枢センパイ！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>Kaname!<00><0C><0A><ch2>No...　I’m scared...<00><0D>
-<ch1>何のことでしょうか？<00><7F><0A><ch2>ダメです|ガマン…できませんか？<00><01>=<ch1>What do you mean?<00><7F><0A><ch2>You mustn’t. Can’t you bear with it a little longer?<00><01>
-<ch1>本当にダメです…<00><03><0A><ch2>枢センパイの望みなら……<00><04>=<ch1>We really shouldn’t...<00><03><0A><ch2>If it’s what you want...<00><04>
-<ch1>わかりました……<00><05><0A><ch2>困ります…本当に<00><03>=<ch1>I understand...<00><05><0A><ch2>That’s...<00><03>
-<ch1>おまかせします…|枢センパイ<00><08><0A><ch2>決めて良いですか？|…枢センパイ<00><09>=<ch1>You decide.<00><08><0A><ch2>Is it... alright if I pick?<00><09>
-<ch1>枢センパイ…決めて下さい<00><0B><0A><ch2>私が決めます<00><0C>=<ch1>Please pick for me.<00><0B><0A><ch2>I’ll choose.<00><0C>
+<ch1>何ですか…？<00><00><0A><ch2>まだ心の準備が…<00><01>=<ch1>“What is it...?”<00><00><0A><ch2>“I’m not sure my heart is ready...”<00><01>
+<ch1>ちょっと怖いんです…<00><03><0A><ch2>いいですよ。枢センパイなら…<00><04>=<ch1>“I’m a little scared...”<00><03><0A><ch2>“I’m okay. If it’s you, Kaname...”<00><04>
+<ch1>えっ、どうしよう……<00><06><0A><ch2>そんなことしたら……ダメです<00><07>=<ch1>“Huh? What should I...?”<00><06><0A><ch2>“In that case... we should stop.”<00><07>
+<ch1>わかりました|覚悟を決めました<00><09><0A><ch2>やっぱり待って下さい<00><0A>=<ch1>“I understand. I’m ready.”<00><09><0A><ch2>“Please wait a moment...”<00><0A>
+<ch1>枢センパイ！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>“Kaname!”<00><0C><0A><ch2>“No...　I’m scared...”<00><0D>
+<ch1>何のことでしょうか？<00><7F><0A><ch2>ダメです|ガマン…できませんか？<00><01>=<ch1>“What do you mean?”<00><7F><0A><ch2>“You mustn’t. Can’t you bear with it|a little longer?”<00><01>
+<ch1>本当にダメです…<00><03><0A><ch2>枢センパイの望みなら……<00><04>=<ch1>“We really shouldn’t...”<00><03><0A><ch2>“If it’s what you want...”<00><04>
+<ch1>わかりました……<00><05><0A><ch2>困ります…本当に<00><03>=<ch1>“I understand...”<00><05><0A><ch2>“I don’t think...”<00><03>
+<ch1>おまかせします…|枢センパイ<00><08><0A><ch2>決めて良いですか？|…枢センパイ<00><09>=<ch1>“You decide.”<00><08><0A><ch2>“Is it... alright if I pick?”<00><09>
+<ch1>枢センパイ…決めて下さい<00><0B><0A><ch2>私が決めます<00><0C>=<ch1>“Please pick for me.”<00><0B><0A><ch2>“I’ll choose.”<00><0C>
 <ch1>私も……<00><00><0A><ch2>何がですか？<00><01>=
 <ch1>ちょっと待ってください<00><03><0A><ch2>やっぱりダメです<00><04>=
-<ch1>いいですよ<00><7F><0A><ch2>いやです<00><01>=<ch1>You may.<00><7F><0A><ch2>No.<00><01>
-<ch1>別にいいですよ<00><03><0A><ch2>そんなのいやです<00><04>=<ch1>I don’t mind.<00><03><0A><ch2>Y-You can’t!<00><04>
-<ch1>う～ん、じゃあいいです<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>Well, I guess it’s okay.<00><07><0A><ch2>It’s not happening.<00><08>
-<ch1>ええと……き、決めました<00><0C><0A><ch2>藍堂センパイにお任せします<00><0A>=<ch1>A-Ah... I’ll choose.<00><0C><0A><ch2>I’ll leave it to you.<00><0A>
-<ch1>藍堂センパイにお任せします<00><0A>=<ch1>I’ll leave it to you.<00><0A>
-<ch1>やっぱり……自分で決めます<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>Actually...　I’ll pick.<00><0C><0A><ch2>Actually...　I’ve changed my mind.<00><0D>
-<ch1>何がですか？<00><00><0A><ch2>ガマンしてください<00><01>=<ch1>What are you talking about?<00><00><0A><ch2>Please get a hold of yourself.<00><01>
-<ch1>別にいいですよ<00><03><0A><ch2>いやです<00><04>=<ch1>Go ahead.<00><03><0A><ch2>You can’t.<00><04>
-<ch1>う～ん、まぁ、いいかな……<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>Well, I guess it’s okay.<00><07><0A><ch2>Not a chance.<00><08>
-<ch1>う～ん、まぁ、いいかな……<00><07>=<ch1>Well, I guess it’s okay...<00><07>
-<ch1>自分できめます<00><09><0A><ch2>藍堂センパイにお任せします<00><0A>=<ch1>Let me pick.<00><09><0A><ch2>I’ll leave it to you.<00><0A>
-<ch1>自分できめます<00><09>=<ch1>I’ll pick...<00><09>
-<ch1>はい……<00><7F><0A><ch2>やっぱり……いやです<00><0D>=<ch1>Yes...<00><7F><0A><ch2>I... I can’t go through with it.<00><0D>
+<ch1>いいですよ<00><7F><0A><ch2>いやです<00><01>=<ch1>“You may.”<00><7F><0A><ch2>“No.”<00><01>
+<ch1>別にいいですよ<00><03><0A><ch2>そんなのいやです<00><04>=<ch1>“I don’t mind.”<00><03><0A><ch2>“Y-You can’t!”<00><04>
+<ch1>う～ん、じゃあいいです<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay.”<00><07><0A><ch2>“It’s not happening.”<00><08>
+<ch1>ええと……き、決めました<00><0C><0A><ch2>藍堂センパイにお任せします<00><0A>=<ch1>“A-Ah... I’ll choose.”<00><0C><0A><ch2>“I’ll leave it to you.”<00><0A>
+<ch1>藍堂センパイにお任せします<00><0A>=<ch1>“I’ll leave it to you.”<00><0A>
+<ch1>やっぱり……自分で決めます<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>“Actually...　I’ll pick.”<00><0C><0A><ch2>“Actually...　I’ve changed my mind.”<00><0D>
+<ch1>何がですか？<00><00><0A><ch2>ガマンしてください<00><01>=<ch1>“What are you talking about?”<00><00><0A><ch2>“Please get a hold of yourself.”<00><01>
+<ch1>別にいいですよ<00><03><0A><ch2>いやです<00><04>=<ch1>“Go ahead.”<00><03><0A><ch2>“You can’t.”<00><04>
+<ch1>う～ん、まぁ、いいかな……<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay...”<00><07><0A><ch2>“I’m not going to change my mind.”<00><08>
+<ch1>う～ん、まぁ、いいかな……<00><07>=<ch1>“Well, I guess that would be okay...”<00><07>
+<ch1>自分できめます<00><09><0A><ch2>藍堂センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
+<ch1>自分できめます<00><09>=<ch1>“I’ll pick...”<00><09>
+<ch1>はい……<00><7F><0A><ch2>やっぱり……いやです<00><0D>=<ch1>“Yes...”<00><7F><0A><ch2>“I... I can’t go through with it.”<00><0D>
 <ch1>何がですか？<00><7F><0A><ch2>私もあげたい……<00><01>=
 <ch1>あわてないでください<00><03><0A><ch2>ダメ<00><04>=
 <ch1>落ち着きのないのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
 <ch1>落ち着きのないのはいやです<00><06>=
 <ch1>やっぱりやめます<00><09><0A><ch2>ここです<00><0A>=
-<ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><04>=<ch1>I don’ｔ mind.<00><7F><0A><ch2>I’d rather you didn’t.<00><04>
-<ch1>う～ん、じゃあいいです<00><07>=<ch1>Well, I guess that would be okay.<00><07>
-<ch1>自分で決めます<00><09><0A><ch2>架院センパイにお任せします<00><0A>=<ch1>Let me pick.<00><09><0A><ch2>I’ll leave it to you.<00><0A>
-<ch1>自分で決めます<00><09>=<ch1>I’ll pick...<00><09>
-<ch1>はい……<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>Right...<00><0C><0A><ch2>I... I can’t go through with this.<00><0D>
-<ch1>何がですか？<00><7F><0A><ch2>ガマンしてください<00><01>=<ch1>What does?<00><7F><0A><ch2>Please, pull yourself together.<00><01>
-<ch1>別にいいですよ<00><7F><0A><ch2>いやです<00><04>=<ch1>Go ahead.<00><7F><0A><ch2>You can’t.<00><04>
-<ch1>う～ん、まぁ、いいかな……<00><06><0A><ch2>絶対にいやです<00><07>=<ch1>Well, I guess that would be okay.<00><06><0A><ch2>Not a single drop.<00><07>
-<ch1>う～ん、まぁ、いいかな……<00><06>=<ch1>Well, I guess that would be okay.<00><06>
+<ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><04>=<ch1>“I don’t mind.”<00><7F><0A><ch2>“I’d rather you didn’t.”<00><04>
+<ch1>う～ん、じゃあいいです<00><07>=<ch1>“Well, I guess it’s okay.”<00><07>
+<ch1>自分で決めます<00><09><0A><ch2>架院センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
+<ch1>自分で決めます<00><09>=<ch1>“I’ll pick...”<00><09>
+<ch1>はい……<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>“Right...”<00><0C><0A><ch2>“I... I can’t go through with this.”<00><0D>
+<ch1>何がですか？<00><7F><0A><ch2>ガマンしてください<00><01>=<ch1>“What does?”<00><7F><0A><ch2>“Please, pull yourself together.”<00><01>
+<ch1>別にいいですよ<00><7F><0A><ch2>いやです<00><04>=<ch1>“Go ahead.”<00><7F><0A><ch2>“You can’t.”<00><04>
+<ch1>う～ん、まぁ、いいかな……<00><06><0A><ch2>絶対にいやです<00><07>=<ch1>“Well, I guess it’s okay.”<00><06><0A><ch2>“I’m not going to change my mind.”<00><07>
+<ch1>う～ん、まぁ、いいかな……<00><06>=<ch1>“Well, I guess that would be okay.”<00><06>
 <ch1>あわてないで<00><03><0A><ch2>ダメ<00><04>=
 <ch1>やっぱりダメです<00><09><0A><ch2>ここです<00><0A>=
-<ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><01>=
-<ch1>う～ん、じゃあいいです<00><03><0A><ch2>絶対にいやです<00><04>=
-<ch1>う～ん、じゃあいいです<00><03>=
-<ch1>そんなの決められません<00><06><0A><ch2>一条センパイにお任せします<00><07>=
-<ch1>はい……<00><09><0A><ch2>やっぱり……いやです<00><0A>=<ch1>I’m sure...<00><09><0A><ch2>I... I can’t go through with it.<00><0A>
-<ch1>う～ん、まぁ、いいかな<00><07><0A><ch2>絶対にいやです<00><08>=
-<ch1>う～ん、まぁ、いいかな<00><07>=
-<ch1>自分で決めます<00><09><0A><ch2>一条センパイにお任せします<00><0A>=
+<ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><01>=<ch1>“I don’t mind.”<00><7F><0A><ch2>“I’d rather you didn’t.”<00><01>
+<ch1>う～ん、じゃあいいです<00><03><0A><ch2>絶対にいやです<00><04>=<ch1>“Well, I guess it’s okay.”<00><03><0A><ch2>“I’m not going to change my mind.”<00><04>
+<ch1>う～ん、じゃあいいです<00><03>=<ch1>“Well, I guess that would be okay.”<00><03>
+<ch1>そんなの決められません<00><06><0A><ch2>一条センパイにお任せします<00><07>=<ch1>“I’m nt...”<00><06><0A><ch2>“I’ll leave it to you.”<00><07>
+<ch1>はい……<00><09><0A><ch2>やっぱり……いやです<00><0A>=<ch1>“I’m sure...”<00><09><0A><ch2>“I... I can’t go through with it.”<00><0A>
+<ch1>う～ん、まぁ、いいかな<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay.”<00><07><0A><ch2>“Not a single drop.”<00><08>
+<ch1>う～ん、まぁ、いいかな<00><07>=<ch1>“Well, I guess that would be okay...”<00><07>
+<ch1>自分で決めます<00><09><0A><ch2>一条センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
 <ch1>慌てないでください<00><03><0A><ch2>ダメ<00><04>=
 <ch1>あせるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
 <ch1>あせるのはいやです<00><06>=
 <ch1>やっぱりイヤです<00><09><0A><ch2>ここです<00><0A>=
-<ch1>いいですよ<00><7F><0A><ch2>いやです<00><02>=
-<ch1>別にいいですよ<00><03>=
-<ch1>う～ん、じゃあいいです<00><06><0A><ch2>絶対にいやです<00><07>=
-<ch1>う～ん、じゃあいいです<00><7F>=
-<ch1>私が決めます……<00><09><0A><ch2>支葵センパイにお任せします<00><0A>=
-<ch1>私が決めます……<00><09>=
-<ch1>自分で決めます<00><09><0A><ch2>お任せします<00><0A>=<ch1>I’ll decide.<00><09><0A><ch2>I’ll let you decide.<00><0A>
+<ch1>いいですよ<00><7F><0A><ch2>いやです<00><02>=<ch1>“It’s fine.”<00><7F><0A><ch2> <ch1>いいですよ<00><7F><0A><ch2>いやです<00><02>“I don’t...”<00><02>
+<ch1>別にいいですよ<00><03>=<ch1>“Go ahead.”<00><03>
+<ch1>う～ん、じゃあいいです<00><06><0A><ch2>絶対にいやです<00><07>=<ch1>“Well, I guess it’d be okay.”<00><06><0A><ch2>“I’m not going to change my mind.”<00><07>
+<ch1>う～ん、じゃあいいです<00><7F>=<ch1>“Well, I guess that would be okay.”<00><7F>
+<ch1>私が決めます……<00><09><0A><ch2>支葵センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
+<ch1>私が決めます……<00><09>=<ch1>I’ll pick...<00><09>
+<ch1>自分で決めます<00><09><0A><ch2>お任せします<00><0A>=<ch1>“I’ll decide.”<00><09><0A><ch2>“I’ll let you decide.”<00><0A>
 <ch1>何がですか？<00><7F><0A><ch2>私もあげたい<00><01>=
 <ch1>あわてるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
 <ch1>あわてるのはいやです<00><06>=
@@ -1261,19 +1261,19 @@ vk_se6_010=
 
 #Ichijo Dancing Minigame
 # A0DEC
-君ならいつかパーティーの主役|になれるさ！|がんばろう！=
+君ならいつかパーティーの主役|になれるさ！|がんばろう！=One day, you’re going to be the life of the party! Work hard!
 
 # A0CB8
-もっと練習すると、|もっと楽しくなるよ。|がんばろうね。=
+もっと練習すると、|もっと楽しくなるよ。|がんばろうね。=The more you practice, the more fun you'll have. Keep it up.
 
 # A0D8C
-今も最高だけど、|もっと一緒に踊りたいなぁ。=
+今も最高だけど、|もっと一緒に踊りたいなぁ。=That was great, but I wish we could dance together a little more.
 
 # A0FD8
-上手だね。|踊っていて気持ちよかったよ。|もっと踊りたかったなぁ。=
+上手だね。|踊っていて気持ちよかったよ。|もっと踊りたかったなぁ。=You’re good. It felt really nice to dance together. I wanted to keep going longer.
 
 # A0984
-君がこんなに、ダンスがじょう|ずだなんて！次もご一緒させ|てください、マドモアゼル。=
+君がこんなに、ダンスがじょう|ずだなんて！次もご一緒させ|てください、マドモアゼル。=I never knew you were such a good dancer! I hope you’ll let me dance with you again sometime, Mademoiselle.
 
 #Aido Dancing Minigame
 # A0DD0
@@ -1315,13 +1315,13 @@ vk_se6_010=
 もっと練習しようかな……=We could stand to practice more.
 
 # A0E50
-足、踏まなかったよね……|よかった。=
+足、踏まなかったよね……|よかった。=I’m glad you didn’t step on my feet...
 
 # A0DE0
 俺達って結構合う……|おどろいた。=We’re not bad together... I’m surprised.
 
 # A0C40
-こんなにうまく踊れたの初めて|かも。=
+こんなにうまく踊れたの初めて|かも。=This might be the first time it’s ever gone so well.
 
 #Yagari Dancing Minigame
 # A0F44
@@ -1541,7 +1541,7 @@ vk_se6_010=
 
 # A2050
 <unk1>陽の寮から抜け出したと|見られる生徒が６名！=<unk1>It looks like six students managed to sneak out of the Sun Dormitory!
-<unk1>またナイト･クラスの授業を|のぞきに来たんだよ。|もう、懲りないんだから！=<unk1>They’ve gone to peep at the night class again. Some people never learn!
+<unk1>またナイト･クラスの授業を|のぞきに来たんだよ。|もう、懲りないんだから！=<unk1>They’ve gone to peep at the Night Class again. Some people never learn!
 <unk1>右画面下のバーをスライドすると|画面がスクロールするから=<unk1>By sliding the bar at the bottom of the right screen, you can scroll the screen.
 <unk1>『デイ･クラス』の生徒を|見つけたらタッチして|捕まえるんだ。=<unk1>If you spot any Day Class students, tap on them once to catch them.
 <unk1>今夜も悪い子達を捕まえるよ！|右画面をタッチしたら|はじめるよ！=<unk1>I’ll catch anyone who’s misbehaving!|Touch the right screen to start!
@@ -1687,7 +1687,7 @@ vk_se6_010=
 （私立黒主学園、|特に女子生徒達にとって|待望の瞬間がやってくるーー）=(The long awaited moment, especially for the female students at the Cross Academy, is finally here--)
 はいはい|下がって下がって～！=Alright, alright! Step back!
 デイ･クラスの皆さんは、|もう門限ですから自分の寮に|帰ってくださ～い！=It’s already past curfew for everyone in the Day Class, so please go back to your dorm!
-（私の名前は<last><name>）=(My name is <last><name>.)
+（私の名前は<last><name>）=(My name is <name><last>.)
 （黒主学園の普通科１年であり|学園の秩序を守る風紀委員だ）=(I’m a first-year student and a prefect, fighting to protect the peace.)
 邪魔よ！|風紀委員！=Get out of the way, Prefect!
 ちょっと押さないで！=Hey! Stop pushing me!
@@ -6071,7 +6071,7 @@ Sleep well...
 まあ、自分を磨くのはいい事|だけど、それで、目的とか|欲しいものでもあるわけ？=Well, it’s all well and good to improve yourself, but did you have a goal or something else in mind?
 
 # A304C choose お金
-やっぱり……=Of course...
+やっぱり……@A304C=Of course...
 やっぱりって|どういう事ですか？=What do you mean?
 まあ、お前の事だから|そんな事だろうと思ってた|けどね。=Well, I just thought, since it’s you, it figures.
 でもどうして金の亡者のごとく|お金が欲しいんだ？=But, why do you want money like some kind of money-grubber?
@@ -8389,6 +8389,7 @@ Sleep well...
 （今日は舞踏祭当日）=(Today was the day of the ball.)
 （色とりどりのドレスに|身を包んだ人波の中ーー）=(The ballroom was brimming with dresses of every color imaginable.)
 （私はあの人にもらった|ドレスを着て、ホールへと|足を踏み入れた）=(I entered the ballroom wearing the dress he gave me.)
+#Zero ball
 おい、<name>。|そのドレス……どうしたんだ？=Oi, <name>. What’s up with that dress?
 ナ･イ･ショ！|気になる？零。=It’s a se-cr-et~!|Are you curious, Zero?
 い、いや……別に俺は……=N-No... Not really...
@@ -8479,7 +8480,7 @@ Sleep well...
 ……しょうがないな。|少しだけだぞ。=...Fine. But only for a little bit.
 わ～い！|零、ありがとう！=Yay! Thank you, Zero!
 
-# A0D64 Kaname
+# A0D64 Kaname ball
 こんばんは、<name>。|僕が贈ったドレス|着てくれたんだね？=Good evening, <name>. You’re wearing the dress I gave you, I see.
 
 # A26B4
@@ -8581,7 +8582,7 @@ Sleep well...
 僕と踊って頂けますか、|お姫様？=Will you dance with me, Princess?
 ……はい。喜んで……=...Yes. With pleasure.
 
-# A0CC8
+# A0CC8 Aido ball
 <last><name>。|へぇ、僕が贈ったドレス|着てくれたんだ。=<name><last>.|Ooh, you’re wearing the dress I sent you.
 
 # A1C1C
@@ -8689,7 +8690,7 @@ Sleep well...
 なかなかいいだろ？|湖の上に立つなんて|めったにできない。=Pretty impressive, right?  It's not every day you get to walk on a lake.
 さぁ、参りましょうか。|お手をどうぞ、お姫様。=Well, shall we try it? Your hand, if you will, Princess.
 
-# A0E70
+# A0E70 Kain ball
 よう、<last><name>。|俺が贈ったドレス|着てくれたんだな？=Yo, <name><last>. You’re wearing the dress I gave you?
 
 # A2708
@@ -8789,130 +8790,130 @@ Sleep well...
 えっ……|でも何もないですよ？=Huh? But, there’s nothing here...
 まぁ、見てろよ。=Just watch.
 うわぁ～綺麗！|干し草に火が灯って|とっても幻想的ですね。=Wow, it’s beautiful! The hay is all lit up and it’s so magical.
-ライトアップ完成、と。|それじゃ、踊ってみるか？=That’s the lighting done. So, may I have this dance?
+ライトアップ完成、と。|それじゃ、踊ってみるか？=That’s the lighting done. So, shall we dance?
 
-# A0E1C
-おっは～、<name>ちゃん。|僕が贈ったドレス|着てくれたんだね～？=
+# A0E1C Ichijo ball
+おっは～、<name>ちゃん。|僕が贈ったドレス|着てくれたんだね～？=Morning, <name>~|I see you’re wearing the dress I gave you.
 
 # A2028
-おっは～、<name>ちゃん。|うわぁ！そのドレス素敵だね～=
-私にはゴージャスすぎるかな|って思ったんですけど、|すっごく嬉しかったので……=
-すっごく似合ってるよ！|お人形さんみたい！|くるくる回ってみて！=
-私のこと着せかえ人形|扱いしてません……？=
-あははは！|<name>ちゃんかわいいから|着せかえしがいあるんだもん！=
+おっは～、<name>ちゃん。|うわぁ！そのドレス素敵だね～=Morning, <name>~|Wow, that dress is just beautiful.
+私にはゴージャスすぎるかな|って思ったんですけど、|すっごく嬉しかったので……=I was a bit worried it might be too pretty for me, but it made me really happy...
+すっごく似合ってるよ！|お人形さんみたい！|くるくる回ってみて！=It really suits you! You look just like a doll. Give me a spin!
+私のこと着せかえ人形|扱いしてません……？=Why do I feel like you’re treating me as some kind of dress-up doll?
+あははは！|<name>ちゃんかわいいから|着せかえしがいあるんだもん！=Ahaha! You’re so cute <name>, it's worth seeing you dressed up.
 
 # A2420
-でもね、本当は|お詫びの印なんだ。=
-お詫び……ですか？=
-僕、<name>ちゃんのこと|ちょっと疑っちゃったでしょ？|そのお詫び。ごめんね！=
-<name>ちゃん、優しい～！|もう、僕、大感激だよ～！=
+でもね、本当は|お詫びの印なんだ。=To tell you the truth, I meant it as a token of apology.
+お詫び……ですか？=An apology?
+僕、<name>ちゃんのこと|ちょっと疑っちゃったでしょ？|そのお詫び。ごめんね！=I thought you might be the one responsible. So for that, I apologize. I’m sorry!
+<name>ちゃん、優しい～！|もう、僕、大感激だよ～！=<name>, you’re so sweet! I’m really touched.
 
 # A4020
-……でも、ちょっとだけ|怒ってるんだよ？=
-えっ……|どうしてですか？=
-今回の事件のこと、|僕に相談してくれなかったね。|僕って、そんなに頼りない？=
-そんなこと……=
-ごめんごめん！|困らせるつもりはないんだ。=
-でも、|蚊帳の外に置かれたみたいで|ちょっとショックだった。=
+……でも、ちょっとだけ|怒ってるんだよ？=...But, I am a little mad at you, you know?
+えっ……|どうしてですか？=Huh...? What for?
+今回の事件のこと、|僕に相談してくれなかったね。|僕って、そんなに頼りない？=You didn’t speak to me about what you were going through with this case. Am I that unreliable?
+そんなこと……=I...
+ごめんごめん！|困らせるつもりはないんだ。=Ah, sorry! I didn’t mean to upset you.
+でも、|蚊帳の外に置かれたみたいで|ちょっとショックだった。=But, I was a little shocked when I found out I was so out of the loop.
 ごめんなさい。|でも、一条センパイに|心配かけたくなくて……=I’m sorry. I didn’t want to worry you...
-本当に優しいね、|<name>ちゃんは。|かっこいいよ！=
-でも、遠慮なんてしないで|これからは、何でもいいから|ジャンジャン相談してよ。=
-はい……|ありがとうございます|一条センパイ……=
-僕もこれからいっぱい|<name>ちゃんに|相談しちゃうからね～！=
-これでおあいこだよ。|ははは！=
+本当に優しいね、|<name>ちゃんは。|かっこいいよ！=You really are kind, <name>. You’re too sweet~
+でも、遠慮なんてしないで|これからは、何でもいいから|ジャンジャン相談してよ。=Still, I hope from now on you won’t hold back and come to see me about anything.
+はい……|ありがとうございます|一条センパイ……=Yes... Thank you, Ichijo...
+僕もこれからいっぱい|<name>ちゃんに|相談しちゃうからね～！=I’m going to come to see you about tons of thing too~!
+これでおあいこだよ。|ははは！=Then we’ll be even. Hahaha!
 
 # A1428
-どうしたの？<name>ちゃん。=
+どうしたの？<name>ちゃん。=What is it, <name>?
 
 # A0FAC
 本当にありがとうございます！|あの時一条センパイが助けて|くれなかったら、私今頃……=Thank you very much! If you hadn’t saved me at that time, I...
 
 # A5C80
-いいよ。|<name>ちゃんのそういう所、|僕嫌いじゃないよ。=
-うん！|どう言えばいいのかな～？=
-無我夢中で突っ走る|<name>ちゃんってさ……|…………男らしいよ！=
-えっ……男らしい？=
-男は黙って……みたいな！|すっごくかっこ良くて、|思わず弟子入り……あっ。=
-ごめんね！|女の子に対して男らしい|なんて失礼だったね！=
-別に……|気にしてません……|………………=
-めちゃくちゃ|してるじゃない～！=
-本当にごめんね！|どうすれば、|機嫌直してくれる？=
-冗談ですって。|全然気にしてませんよ。=
-良かった～。|<name>ちゃんに嫌われたら|僕ショックで寝込んじゃうっ。=
-大げさですね。=
-ねぇ、仲直りの記念にさ、|一緒に踊ろうよ？=
-楽しかったね<name>ちゃん。|そうだ、場所を変えようよ？|どこに行きたい？=
+いいよ。|<name>ちゃんのそういう所、|僕嫌いじゃないよ。=It’s fine. I don’t dislike that about you.
+うん！|どう言えばいいのかな～？=Yeah! How can I put this~?
+無我夢中で突っ走る|<name>ちゃんってさ……|…………男らしいよ！=The way you feverishly rush into things head-on... it’s very manly!
+えっ……男らしい？=Huh...? Manly?
+男は黙って……みたいな！|すっごくかっこ良くて、|思わず弟子入り……あっ。=Like, how men don’t say anything! It was so cool, I wanted to become your apprentice... Ah--#tc
+ごめんね！|女の子に対して男らしい|なんて失礼だったね！=I’m sorry! It was rude of me to call a girl manly!
+別に……|気にしてません……|………………=It doesn’t... really bother me...|...
+めちゃくちゃ|してるじゃない～！=You’re totally bothered by it, aren’t you!?
+本当にごめんね！|どうすれば、|機嫌直してくれる？=I’m so sorry! What can I do to make you feel better?
+冗談ですって。|全然気にしてませんよ。=I’m only joking. It really didn’t bother me.
+良かった～。|<name>ちゃんに嫌われたら|僕ショックで寝込んじゃうっ。=That’s a relief~ If you hated me, I’d be so shocked that I’d faint!
+大げさですね。=You're exaggerating, right?
+ねぇ、仲直りの記念にさ、|一緒に踊ろうよ？=Hey, how about we dance together to commemorate our reconciliation?
+楽しかったね<name>ちゃん。|そうだ、場所を変えようよ？|どこに行きたい？=That was fun, <name>. I know, how about we swap places? Is there anywhere you’d like to go?
 
-# A57C8
+# A57C8 choose 森へ
 森へ行きたいです。=I want to go to the woods.
-いいよ！|森へしゅっぱ～つ！=
-誰もいないから、|すっごく静か……=
-<name>ちゃん、|恐くなっちゃった？=
-少しだけ……=
-ふふふ、|しおらしい一面も|あるんだね？=
-わ、私だって|恐くなる時くらい|ありますよ～だ。=
-大丈夫だよ。|僕がそばにいるからね。|手を繋ごうか？=
-恥ずかしがらないで。|行くよ！こっちこっち～！=
-一条センパイっ！|そんなに強く手を|引っ張らないでくださいっ。=
-ねぇ、<name>ちゃん、|ここで踊ろうか？=
-えっ……でも、こんなに|暗いと足下が見えないし。=
-まだ月明かりも残ってるし、|ちょうどいいと思うよ。|僕に任せて。=
-うわぁ～綺麗！|たくさんの木の葉が|舞い上がって……=
-月明かりに反射して、|キラキラ輝いてる……=
-僕のとっておきの技だよ。|気に入ってもらえた|みたいで嬉しいよ。=
+いいよ！|森へしゅっぱ～つ！=All right! It’s off to the woods we go~
+誰もいないから、|すっごく静か……=No one’s around. It’s really quiet.
+<name>ちゃん、|恐くなっちゃった？=Are you scared, <name>?
+少しだけ……=Only a little...
+ふふふ、|しおらしい一面も|あるんだね？=Hehehe, you have a soft side too, don’t you?
+わ、私だって|恐くなる時くらい|ありますよ～だ。=E-Even I have times when I’m scared, you know!
+大丈夫だよ。|僕がそばにいるからね。|手を繋ごうか？=It’s okay, I’m here. Want me to hold your hand?
+恥ずかしがらないで。|行くよ！こっちこっち～！=Don’t be shy. Let’s go! Come on, come on~!
+一条センパイっ！|そんなに強く手を|引っ張らないでくださいっ。=Ichijo--! Please don't pull my hand so hard.
+ねぇ、<name>ちゃん、|ここで踊ろうか？=Hey <name>, why don’t we dance here?
+えっ……でも、こんなに|暗いと足下が見えないし。=Huh...? But it’s so dark, I can’t even see my feet.
+まだ月明かりも残ってるし、|ちょうどいいと思うよ。|僕に任せて。=There’s still moonlight, so I think it’s perfect. Leave it to me.
+うわぁ～綺麗！|たくさんの木の葉が|舞い上がって……=Wow, it’s so beautiful! The leaves are dancing around...
+月明かりに反射して、|キラキラ輝いてる……=They’re sparkling in the moonlight.
+僕のとっておきの技だよ。|気に入ってもらえた|みたいで嬉しいよ。=It’s my special skills. I'm glad you like it.
 
-# A5200
+# A5200 choose 庭へ
 庭へ行きたいです。=I want to go to the courtyard.
-夜の庭か……|ロマンチックかもね。|行ってみようか！=
-ロマンチック……|とはほど遠いですね……=
-う～ん、噴水も止まってるし、|ちょっと暗いよね～。=
-はくしゅんっ！=
-大丈夫？|そろそろ戻ろうか？=
-もう少しこのままで|いたいです……=
-僕の手を握りしめたりして|どうしたの？|心細くなっちゃった？=
-ちょっとだけ……=
-ははは。<name>ちゃん、|小さな子供みたい。=
-子供扱いしないでくださいっ。|はっくしゅん！=
-あらら、本当に大丈夫？|やっぱり戻ろうよ。=
-<name>ちゃんに|風邪なんてひかせたら、|枢に合わせる顔ないし。=
-夜のお散歩はおあずけ。|また、今度ね|<name>ちゃん。=
+夜の庭か……|ロマンチックかもね。|行ってみようか！=The courtyard at night... It sounds romantic. Let’s go!
+ロマンチック……|とはほど遠いですね……=It’s... rather a long way from romantic...
+う～ん、噴水も止まってるし、|ちょっと暗いよね～。=Yeah, the fountains aren’t running, and it’s kind of dark...
+はくしゅんっ！=*Achoo!*
+大丈夫？|そろそろ戻ろうか？=Are you okay? Maybe we should head back now?
+もう少しこのままで|いたいです……=I’d like to stay like this a little longer...
+僕の手を握りしめたりして|どうしたの？|心細くなっちゃった？=Why did you grab my hand? Are you feeling timid?
+ちょっとだけ……=Just for a bit...
+ははは。<name>ちゃん、|小さな子供みたい。=Hahaha, <name>, you’re like a little kid.
+子供扱いしないでくださいっ。|はっくしゅん！=Please don’t treat me like a child!|*Achoo!*
+あらら、本当に大丈夫？|やっぱり戻ろうよ。=Oh dear, are you sure you’re all right? I think we should head back.
+<name>ちゃんに|風邪なんてひかせたら、|枢に合わせる顔ないし。=If you were to catch a cold, I’d wouldn’t be able to face Kaname.
+夜のお散歩はおあずけ。|また、今度ね|<name>ちゃん。=We’ll have to postpone our nighttime stroll. Until next time, <name>.
 （本当はもう少し|一条センパイと二人きりで|いたかったな……）=(I wish I could have been alone with Ichijo for just a little longer...)
 
-# A6E74
-一条センパイのお部屋に|行ってみたいです。=
-僕の部屋に来たいの？=
-ダメ……ですか？=
-ダメなわけないよ。|<name>ちゃんなら大歓迎！=
-僕の部屋へようこそ～！|さぁ、くつろいで|<name>ちゃん。=
-おじゃまします。=
-何か飲む？|ジュース？紅茶？|何でも言ってね。=
-それじゃ、紅茶を。=
-承知しました～！|今、美味しい紅茶を|入れてきてあげるね。=
-その代わりに……|僕は<name>ちゃんの血を|飲ませてもらおうかな？=
-えっ……！=
-<name>ちゃんの血を|一度飲んでみたいと|思っていたんだ……=
-僕の部屋で二人きり、|こんなチャンス、|二度と巡ってはこないよね……=
-一条センパイ……！？=
-ははは！冗談だって！|真に受けないでよ～。=
-冗談にしては、|目が本気でしたけど……=
-半分本気だったかもね。|忘れた？僕はこう見えて|ヴァンパイアなんだよ？=
-誘っておいて何だけど、|ちょっと無防備すぎじゃない？=
-軽卒でした……|私、帰りますっ！=
-えっ？今すぐ！？|今紅茶入れようと|思ったんだけど。=
-待ってよ、<name>ちゃ～ん！=
+# A6E74 choose 一条の部屋へ
+一条センパイのお部屋に|行ってみたいです。=I’d like to see your room, Ichijo.
+僕の部屋に来たいの？=You want to come to my room?
+ダメ……ですか？=Am I not allowed...?
+ダメなわけないよ。|<name>ちゃんなら大歓迎！=Of course not. You’re more than welcome, <name>!
+僕の部屋へようこそ～！|さぁ、くつろいで|<name>ちゃん。=Welcome to my humble abode~! Make yourself at home, <name>.
+おじゃまします。=Pardon me.
+何か飲む？|ジュース？紅茶？|何でも言ってね。=Can I get you anything to drink? Juice? Tea? Anything you’d like.
+それじゃ、紅茶を。=Some tea would be nice, thank you.
+承知しました～！|今、美味しい紅茶を|入れてきてあげるね。=You’ve got it~! I’ll go and make you a nice cup of tea.
+その代わりに……|僕は<name>ちゃんの血を|飲ませてもらおうかな？=But in exchange... I can drink your blood, right?
+えっ……！=Wha--!?
+<name>ちゃんの血を|一度飲んでみたいと|思っていたんだ……=I’ve always wanted to taste your blood.
+僕の部屋で二人きり、|こんなチャンス、|二度と巡ってはこないよね……=The two of us, alone in my room. I might never get another chance like this...
+一条センパイ……！？=Ichijo...!?
+ははは！冗談だって！|真に受けないでよ～。=Hahaha, I’m just joking! You don’t have to take it so seriously~
+冗談にしては、|目が本気でしたけど……=You say it’s a joke, but your expression was so serious...
+半分本気だったかもね。|忘れた？僕はこう見えて|ヴァンパイアなんだよ？=I suppose I might have been half serious. Have you forgotten? I am a vampire, you know?
+誘っておいて何だけど、|ちょっと無防備すぎじゃない？=You’re the one who suggested it, but don’t you think you’re a little too defenseless?
+軽卒でした……|私、帰りますっ！=I was careless... I’m going to go now?
+えっ？今すぐ！？|今紅茶入れようと|思ったんだけど。=Huh? Already!? I was just about to make the tea.
+待ってよ、<name>ちゃ～ん！=Wait, <name>~!
 
 # A1268
-それでは、改めて……|<name>ちゃん、僕と|踊っていただけますか？=
+それでは、改めて……|<name>ちゃん、僕と|踊っていただけますか？=Well then, let me ask you again... <name>, would you do me the honor of dancing with me?
 
-# A0B10
+# A0B10 Shiki ball
 そのドレス、着たんだ。=You wore the dress.
 
 # A203C
-そのドレス、似合ってる。=
-私にはかわいすぎるかな|って思ったんですけど、|すっごく嬉しかったので……=
-うん、まぁ……|それなりに|似合ってるんじゃない。=
-それなりですか……=
-風紀委員にしては、上出来。=
+そのドレス、似合ってる。=That dress suits you.
+私にはかわいすぎるかな|って思ったんですけど、|すっごく嬉しかったので……=I was a bit worried it might be too cutesy for me, but it made me really happy...
+うん、まぁ……|それなりに|似合ってるんじゃない。=Yeah... It suits you, in its own way.
+それなりですか……=In its own way...?
+風紀委員にしては、上出来。=It worked out, Prefect.
 
 # A1C8C
 舞踏祭どころじゃなかった|と思って……|ちょっとした気まぐれ。=I didn’t give it to you with the ball in mind. I just did it on a whim.
@@ -8920,16 +8921,16 @@ Sleep well...
 気まぐれって言ってる。|そんなに真剣に|受け止めなくていい。=I’m saying I did it on a whim. There’s no need for such a reaction.
 
 # A35E4
-……でも、これだけは|真剣に言っとくけど。=
-えっ……|何ですか？=
-今回の事件のこと、|一人で解決しようとするなんて|無鉄砲すぎ。=
-風紀委員が|頑張り屋だってことは|知ってるけど、張り切りすぎ。=
-誰かに相談するとか、|方法はいくらでもある。=
+……でも、これだけは|真剣に言っとくけど。=...But there was something I wanted to have a serious talk with you about.
+えっ……|何ですか？=Huh...? What is it?
+今回の事件のこと、|一人で解決しようとするなんて|無鉄砲すぎ。=Trying to solve the case by yourself was too reckless.
+風紀委員が|頑張り屋だってことは|知ってるけど、張り切りすぎ。=I know you’re a hard-worker, Prefect, but you work too hard.
+誰かに相談するとか、|方法はいくらでもある。=There are plenty of other things you could have done, like talk to someone.
 ごめんなさい。|でも、支葵センパイに|心配かけたくなくて……=I’m sorry. I didn’t want to worry you...
-その遠慮が余計迷惑。|キミ見てると、危ないし……=
-何かほっとけなくて|イライラする。=
-ごめんなさい……それと|ありがとうございます|支葵センパイ……=
-別に感謝される筋合い|ないけど……=
+その遠慮が余計迷惑。|キミ見てると、危ないし……=It’s your hesitation that’s the bother. It’s dangerous to even look at you...
+何かほっとけなくて|イライラする。=It’s irritating. I can't just leave you be.
+ごめんなさい……それと|ありがとうございます|支葵センパイ……=I’m sorry... But thank you, Shiki.
+別に感謝される筋合い|ないけど……=It’s nothing to thank me for...
 
 # A1608
 なに？風紀委員。=What is it, Prefect?
@@ -9030,7 +9031,7 @@ Sleep well...
 （舞踏祭も闌の極みを|迎えようとしていた）=(The ball was nearing its zenith.)
 （デイ･クラスと|ナイト･クラスの|生徒達がーー）=(The Day and Night Classes were dancing and holding hands.)
 （手を取り合って|踊る姿を眺めながらーー）=(I watched the dancing figures lazily from afar.)
-（私は一人、喜びを|噛み締めていた）=(Alone, I savoured the pleasure I felt in that moment.)
+（私は一人、喜びを|噛み締めていた）=(Alone, I savored the pleasure I felt in that moment.)
 良かった。みんな笑顔……|今年の舞踏祭は何事もなく|平和で、一点の曇りさえ……=I’m glad. Everyone’s smiling. This year’s ball went smoothly without incident. There wasn’t even a single cloud in the sky.
 （その時、私の背中に|かすかな電流が走った！）=(At that instant, I felt a tingle run down my spine!)
 気のせい……じゃない。|誰かが……私を見てる……！=I’m not... imagining it. Someone is... watching me!
@@ -15666,17 +15667,17 @@ Sleep well...
 僕たちだけの秘密だね。=This’ll be our little secret, right?
 
 # A0E04
-いいよね？=
+いいよね？=It’s fine, right?
 
 # A13E8
-わかってるくせに……|いいだろ？=
-きみの血が欲しい……|この想いを、満たしたいんだ…=
+わかってるくせに……|いいだろ？=I think you can guess, but... May I?
+きみの血が欲しい……|この想いを、満たしたいんだ…=I want your blood...  To satisfy this longing...
 
 # A1338
-うれしいよ。僕たちは吸血で…|想いを満たすんだ。=
+うれしいよ。僕たちは吸血で…|想いを満たすんだ。=I’m happy. We vampires... fulfill our desires with blood.
 
 # A0B14
-もう咬んでもいい?=
+もう咬んでもいい?=Can I bite you now?
 
 # A0FC0
 そんな……ちぇ…。=
@@ -15852,37 +15853,37 @@ Sleep well...
 # A0FC4
 なぁ…足りないって言ったら|怒るか？=
 
-# A17DC
-ちょっとお願いがあるんだ。=
-手、見せてくれない？=
-その……このままちょっと|だけ、かじっちゃったりしたら|ダメかな？=
+# A17DC Ichijo low intimacy bloodlust
+ちょっとお願いがあるんだ。=I have a favor to ask...
+手、見せてくれない？=Can I see your hand?
+その……このままちょっと|だけ、かじっちゃったりしたら|ダメかな？=W...Would it be bad if I had a little sample?
 
-# A16B0
-あれ？！いいんだ……|うれしいけど、本当にいいの？=
-ホント？いいのかな……=
+# A16B0 choose 別にいいですよ
+あれ？！いいんだ……|うれしいけど、本当にいいの？=Huh? It’s fine...? I’m happy, but are you sure it’s okay?
+ホント？いいのかな……=Really? Can I take your word for it?
 
-# A1068
-ダメ……か。そうだよね。=
-ゴメンネ。|驚かせちゃったかな。=
+# A1068 choose そんなのいやです
+ダメ……か。そうだよね。=I... can’t, huh? Right.
+ゴメンネ。|驚かせちゃったかな。=Sorry. I must have frightened you.
 
-# A0CD8
-ホントに？うれしいなぁ！=
+# A0CD8 choose う～ん、じゃあいいです
+ホントに？うれしいなぁ！=Really? I’m so happy?
 
-# A0ECC
-…ちょっとだけでも…いや、|そうだよね、ダメだよね。=
+# A0ECC choose 絶対にいやです
+…ちょっとだけでも…いや、|そうだよね、ダメだよね。=Just a little-- No, you’re right. I shouldn’t...
 
 # A09F8
-じゃあ……|どこからがいいのかな？=
+じゃあ……|どこからがいいのかな？=Then... I wonder where would be good?
 
-# A13A8
-じ、自分で決めていいですか？=
+# A13A8 choose そんなの決められません
+じ、自分で決めていいですか？=W-Wait, is it alright if I pick?
 
-# A1090
-や、やっぱり、|自分で決めていいですか？=
+# A1090 一条センパイにお任せします
+や、やっぱり、|自分で決めていいですか？=A-Actually, is it alright if I pick?
 
 # A1560
-そうだよね。ダメだよね。=
-うん、わかった。|迷惑かけちゃったね。=
+そうだよね。ダメだよね。=Right. It’s a bad idea, isn’t it?
+うん、わかった。|迷惑かけちゃったね。=Yeah, I get it. I’ve caused you trouble.
 
 # A0E18
 枢に何て言えばいいのかな……=
@@ -15893,50 +15894,50 @@ Sleep well...
 # A0EDC
 こんな事になるなんて……|なんだかドキドキする。=
 
-# A16E0
-手、握っていいかな？=
-ふぅ……ガマンできないかも=
+# A16E0 Ichijo high intimacy bloodlust
+手、握っていいかな？=Can I hold your hand?
+ふぅ……ガマンできないかも=*Sigh...* I’m not sure if I can take it.
 
-# A094C
-えっ？そんな……=
+# A094C　choose ガマンしてください
+えっ？そんな……=Huh? But...
 
-# A0BBC
-その……キミの血が欲しい|んだ。あ、や、ムリにとは|言わないよ。=
+# A0BBC choose 何でしょうか
+その……キミの血が欲しい|んだ。あ、や、ムリにとは|言わないよ。=That’s... I want your blood. Ah, I don’t want to pressure you, though.
 
-# A11B8
-いいんだ……ありがとう。|その気持ちがうれしいよ。=
-君は本当に優しい人だね。=
+# A11B8 choose 別にいいですよ
+いいんだ……ありがとう。|その気持ちがうれしいよ。=You don’t mind? ...Thank you. Just that thought makes me happy.
+君は本当に優しい人だね。=You really are kind.
 
-# A1008
-だめなんだ……すっごく残念|だけどしょうがない……=
-怖がらせちゃったかな？|本当にゴメンね。=
+# A1008 いやです
+だめなんだ……すっごく残念|だけどしょうがない……=So it’s no good... I’m disappointed, but I guess it can’t be helped.
+怖がらせちゃったかな？|本当にゴメンね。=Did I frighten you? I’m really sorry.
 
-# A1108
-ホントに？ありがとう！=
-じゃあ、どこからがいいかな？=
+# A1108 choose う～ん、まぁ、いいかな……
+ホントに？ありがとう！=Really? Thank you!
+じゃあ、どこからがいいかな？=So, where would be good?
 
-# A12B8
-やっぱりダメ…なのかな？|どうしても？=
-わかったよ。|もし、気が向いたら今度はね。=
+# A12B8 choose 絶対にいやです
+やっぱりダメ…なのかな？|どうしても？=So, I can’t...? No matter what?
+わかったよ。|もし、気が向いたら今度はね。=I understand. If you ever change your mind, maybe another time.
 
-# A09FC
-いいんだね？じゃあ……=
+# A09FC choose 自分で決めます
+いいんだね？じゃあ……=That should be fine.|Well then...
 
-# A1218
-本当にいいのかい？|後悔させたりはしないけど……=
-すみません、やっぱり……=
+# A1218 choose 一条センパイにお任せします
+本当にいいのかい？|後悔させたりはしないけど……=Are you sure? I don’t want you to regret it later...
+すみません、やっぱり……=Sorry, I think actually...
 
 # A0FF0
-だめ……か……|……そう……だよね。=
+だめ……か……|……そう……だよね。=I can’t...? Right... Yeah...
 
 # A0E9C
-みんなが知ったら|どうなるかな？=
+みんなが知ったら|どうなるかな？=Imagine what would happen if everyone found out about this...
 
 # A0BC4
-錐生君と…枢には、|知られたくないね。=
+錐生君と…枢には、|知られたくないね。=I hope Kiryu... and Kaname don’t find out about this
 
 # A1650
-本当はこんなこと、|思っちゃいけないことだけど…=
+本当はこんなこと、|思っちゃいけないことだけど…=We’re doing the unthinkable...
 
 # A0D0C
 イジワルだね、君は。|いいでしょ？=
@@ -15982,58 +15983,59 @@ Sleep well...
 # A0DA8
 わかってる？これって…|イケナイことなんだよ？|僕たちだけの秘密だからね。=
 
-# A14A0
-いい？=
-なんでしょうか？=
-おなかすいちゃった。=
+# A14A0 Shiki low intimacy bloodlust
+いい？=Can I?
+なんでしょうか？=Can you what?
+おなかすいちゃった。=I’m hungry.
 
 # A0DC8
-誰にも言わないから……=
+誰にも言わないから……=I won’t tell anyone, so...
 
 # A0D28
-咬んでいい？=
+咬んでいい？=Can I bite you?
 
 # A1644
-いいの？|ふーん。いいんだ。=
-断られると思ってたんだ。|よかった。=
+いいの？|ふーん。いいんだ。=You don’t mind? Hmmm... Alright.
+断られると思ってたんだ。|よかった。=I thought you were going to refuse. That’s good.
 
 # A1728
-だめなんだ。そうなんだ。=
-急だったから……=
-驚かなくてもいいよ。|冗談だから。=
+だめなんだ。そうなんだ。=So I can’t? I see.
+急だったから……=It was just so sudden, I..
+驚かなくてもいいよ。|冗談だから。=You don't have to be scared. I was just kidding.
 
 # A09B0
-お腹空いていると、|眠れないから。=
+お腹空いていると、|眠れないから。=I can’t sleep when I’m hungry.
 
 # A0B5C
-うれしいな。=
+うれしいな。=That makes me happy.
 
 # A0D84
-だめなんだ……はあ……=
+だめなんだ……はあ……=So I can’t... *Sigh...*
 
 # A09F0
-どこからでもいい？=
+どこからでもいい？=Can I bite you anywhere?
 
 # A0FCC
-本当にいいんだよね。=
+やっぱり……=Actually...
+本当にいいんだよね。=That’s fine.
 
 # A13B0
-いただきます。=
+いただきます。=Don’t mind if I do.
 
 # A10F8
-じゃ、さようなら。=
+じゃ、さようなら。=Well, see you.
 ちょ、ちょっと待ってください！|支葵センパイ！=W-Wait! Please, Shiki!
 
 # A0A4C
-一条さんには、内緒…。=
+一条さんには、内緒…。=Let’s keep this a secret from Ichijo...
 
 # A090C
-風紀委員の男には、|ナイショ…。=
+風紀委員の男には、|ナイショ…。=Let’s keep this a secret from the male prefect...
 
 # A0BD0
-おいしかった。ありがとう。=
+おいしかった。ありがとう。=That was nice. Thank you.
 
-# A11E0
+# A11E0 Shiki high intimacy bloodlust
 おいしそう……=It smells so delectable...
 ガマンできない。=I can’t resist.
 
@@ -16062,7 +16064,7 @@ Sleep well...
 どこからならいい？=Where should I do it?
 
 # A0C8C
-後悔しないでよね。=You’re sure you want regret it?
+後悔しないでよね。=You’re sure you won’t regret it?
 
 # A1368
 俺の好きなところでいい？=Wherever I like?

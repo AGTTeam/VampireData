@@ -10539,7 +10539,7 @@ Sleep well...
 じゃあ、ここで。=Here then.
 
 # A1554
-……そ、そろそろ|戻りませんか？=
+……そ、そろそろ|戻りませんか？=Let's just go back, okay?
 
 # A260C
 （支葵センパイに……|お姫様だっこ……）=
@@ -10552,24 +10552,24 @@ Sleep well...
 # AB1A4
 あ……の……=Uh... Um...
 ねえ……|ほっぺた触ってもいい？=Hey, would it be alright if I touched your cheek?
-（支葵センパイの|細くて長い指が、|私の頬の上を滑ってく……）=(Shiki gently slid his long, slender finger across my cheek.)
+（支葵センパイの|細くて長い指が、|私の頬の上を滑ってく……）=(Shiki gently slid his long, slender finger down my cheek.)
 閉じて。=Close your eyes.
-（何だか|肌に吸い付くような……吸い|付きすぎるような感触……）=
-（そして、生臭い匂い……）=
-ん……？生臭い匂い……？|あっ……！キャーーーー！！！=
-タコ！タコが～～！！|首にタコが這ってる～～！！=
-あ、それ、さっきのタコだ。=
-し、支葵センパイ！|いつの間に|そんな離れた所に……？=
-ずっと、|私の目の前にいるもんだと|思ってました……！=
-そんな風紀委員は可愛いけど|さすがに|タコとのコラボは勘弁。=
-ちょっ……支葵センパイ！|そんな悠長な事言ってないで|助けて下さいよ～～！！=
-風紀委員って可笑しい。|皆にも見せたかった。=
-特に玖蘭寮長と|風紀委員の男。=
-一番見られたくない|２人です！！=
-もう……思い出させないで|下さい！こっちは気持ち|悪かったんですから！=
-ごめん…………フッ。=
-今、支葵センパイ|笑いましたね？=
-知らない。=
+（何だか|肌に吸い付くような……吸い|付きすぎるような感触……）=(Somehow the feeling of his touch lingered on my skin as if it were stuck.)
+（そして、生臭い匂い……）=(Then there was a fishy smell...)
+ん……？生臭い匂い……？|あっ……！キャーーーー！！！=Hm? A fishy smell? Ah! Yaaaaaaa!!
+タコ！タコが～～！！|首にタコが這ってる～～！！=An octopus? An octopus tentacle～～!! There's an octopus tentacle slithering on my neck～～!!
+あ、それ、さっきのタコだ。=Yeah. That's the octopus from before.
+し、支葵センパイ！|いつの間に|そんな離れた所に……？=Sh-Shiki, when did you leave!?
+ずっと、|私の目の前にいるもんだと|思ってました……！=I thought you were right in front of me the whole time!
+そんな風紀委員は可愛いけど|さすがに|タコとのコラボは勘弁。=You were so adorable, and I hoped you would forgive me if I got the octopus back for you.
+ちょっ……支葵センパイ！|そんな悠長な事言ってないで|助けて下さいよ～～！！=Shiki, just...! Just forget about the octopus and come help me～～!!
+風紀委員って可笑しい。|皆にも見せたかった。=You're so strange, Prefect. I wanted to show the others.
+特に玖蘭寮長と|風紀委員の男。=Especially to Dorm President Kuran and your friend in the Disciplinary Committee.
+一番見られたくない|２人です！！=Those two would want to see it the least!!
+もう……思い出させないで|下さい！こっちは気持ち|悪かったんですから！=Ugh! This wasn't fun at all, so please don't remind me of it later!
+ごめん…………フッ。=Sorry... Hmph.
+今、支葵センパイ|笑いましたね？=You just laughed, didn't you?
+知らない。=I don't know.
 ハァ……ハァ……|ちくしょう……=
 たった一人、|この島に流れ着いて|もう何日目だ？=
 いや、そもそも|どうして俺はこんな所に|来ちまったんだ？=
@@ -10658,10 +10658,10 @@ Sleep well...
 （集合場所へと向かって|いった）=
 
 # A2450
-これ全部一条さんが獲ったの？=
-さすが一条さん。=
-支葵、それほめてるのかい？=
-一応ね。何を獲ったの？|ふーん、キスがいっぱい。=
+これ全部一条さんが獲ったの？=You caught all of this, Ichijo?
+さすが一条さん。=I would have expected as much from you.
+支葵、それほめてるのかい？=Was that a compliment just now, Shiki?
+一応ね。何を獲ったの？|ふーん、キスがいっぱい。=More or less. What did you catch? Hmm, 
 支葵は、キス好きなの？=
 好きかも。|美味しいから。キス。=
 

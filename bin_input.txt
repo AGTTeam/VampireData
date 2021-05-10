@@ -10533,7 +10533,7 @@ Sleep well...
 そういえば、まだ|支葵センパイに|抱きしめられたまま……=By the way, you’re still holding on to me...#this line feels really out of place even in Japanese. I’m thinking it’s maybe supposed to be her inner monologue and they just forget to add the parentheses
 
 # A0DC0
-このまま連れて行く。=
+このまま連れて行く。=I'll lead the way.
 
 # A0AA4
 じゃあ、ここで。=Here then.
@@ -10542,12 +10542,12 @@ Sleep well...
 ……そ、そろそろ|戻りませんか？=Let's just go back, okay?
 
 # A260C
-（支葵センパイに……|お姫様だっこ……）=
-（そんなに|強く抱きしめられたら|苦しいです……）=
-あ、あの、支葵センパイ……|もう大丈夫ですから、|離して下さい……=
-そうだね。わかってる。|でも……不思議。=
-このまま離したくない感じ……|君のこと。=
-（近い……|支葵センパイの顔が|すぐ目の前に……）=
+（支葵センパイに……|お姫様だっこ……）=Shiki still had his hand around my wrist, almost like a young girl and her doll.)
+（そんなに|強く抱きしめられたら|苦しいです……）=(It would start to hurt if he continued to squeeze so tightly.)
+あ、あの、支葵センパイ……|もう大丈夫ですから、|離して下さい……=U-Um, Shiki? I'm okay now, so you can let go.
+そうだね。わかってる。|でも……不思議。=Right. Alright. It's strange though.
+このまま離したくない感じ……|君のこと。=This feeling... I don't want to let you go.
+（近い……|支葵センパイの顔が|すぐ目の前に……）=(Shiki drew his face in close to mine. Close... So close...)
 
 # AB1A4
 あ……の……=Uh... Um...
@@ -10661,32 +10661,32 @@ Sleep well...
 これ全部一条さんが獲ったの？=You caught all of this, Ichijo?
 さすが一条さん。=I would have expected as much from you.
 支葵、それほめてるのかい？=Was that a compliment just now, Shiki?
-一応ね。何を獲ったの？|ふーん、キスがいっぱい。=More or less. What did you catch? Hmm, 
-支葵は、キス好きなの？=
-好きかも。|美味しいから。キス。=
+一応ね。何を獲ったの？|ふーん、キスがいっぱい。=More or less. What did you catch? Hmm, that's a lot of fish.
+支葵は、キス好きなの？=They're kissing fish. Do you like kissers, Shiki?
+好きかも。|美味しいから。キス。=I suppose so. I like the taste of kissers.
 
 # A6AD8
 （そんなに、キス、キスって|連呼しないで欲しいな……|さっきの事、思い出しちゃう）=
 <name>ちゃん。|何、さっきから|ひとりで赤くなってるの？=
 え……？いいえ、|別に何でもありません！=
 （もう、一条センパイってば！|絶対わかってて言ってるよ、|あれ……）=
-一条さん。ご苦労様。|沢山獲ってくれてありがとう。|運ぶのは僕に任せて。=
-うわ……す……すごい！=
-（支葵センパイの血の鞭が|縦横無尽に網を裁断し）=
-（ひゅんひゅんと|飛びかって、あっという間に|魚をまとめ上げた）=
-へえ。考えたね、支葵。|手弁当みたくまとまったよ。=
-これなら楽に持てる。=
-（うん、この二人はやっぱり|いいコンビって感じ……！）=
-（こんなサバイバルな環境|だからこそ、コンビプレーは|大事だよね！）=
-よいしょっと……重い。|ねえ、少し持って。=
-うん。半分貸して。=
-私も手伝います！=
-じゃ、集合場所に戻ろうか。|ふふ、みんなの驚く顔が見たい|なあ。=
-ふぁあ……俺、疲れちゃった。=
-だめだよ、支葵。|これから料理もしないと|いけないんだから。=
-メンドくさいなあ……=
-でも、これだけ沢山獲れたん|ですからーー=
-みんなで力を合わせて|おいしいものを作りましょう！=
+一条さん。ご苦労様。|沢山獲ってくれてありがとう。|運ぶのは僕に任せて。=Ichijo, you must be tired after catching all these. Let me help you carry them.
+うわ……す……すごい！=Whoa! Amazing!
+（支葵センパイの血の鞭が|縦横無尽に網を裁断し）=(Shiki's blood whip flitted back and forth slicing the net.)
+（ひゅんひゅんと|飛びかって、あっという間に|魚をまとめ上げた）=(A few deft movements of his arm and Shiki had gathered up all the fish.)
+へえ。考えたね、支葵。|手弁当みたくまとまったよ。=Hey, nice thinking, Shiki. It's almost like a packed lunch.
+これなら楽に持てる。=This will make it easier to carry.
+（うん、この二人はやっぱり|いいコンビって感じ……！）=(I felt like those two really made a great pair.)
+（こんなサバイバルな環境|だからこそ、コンビプレーは|大事だよね！）=(And working well together is super important in survival situations like this!)
+よいしょっと……重い。|ねえ、少し持って。=Actually... It's pretty heavy. Hey, could you help carry it?
+うん。半分貸して。=Sure. Give me half.
+私も手伝います！=I'll help too!
+じゃ、集合場所に戻ろうか。|ふふ、みんなの驚く顔が見たい|なあ。=Alright, let's get back to the meeting spot. Hmhm, I can't wait to see the surprised look on all their faces.
+ふぁあ……俺、疲れちゃった。=*Yawn* I'm exhausted.
+だめだよ、支葵。|これから料理もしないと|いけないんだから。=We can't rest yet, Shiki. We still have to prepare the food.
+メンドくさいなあ……=I'd really rather not.
+でも、これだけ沢山獲れたん|ですからーー=But we've caught so much.
+みんなで力を合わせて|おいしいものを作りましょう！=We can all work together and make something really delicious!
 
 # AA8AC
 うわぁ……魚がいっぱい！|ウニ、タコ、イカ、貝も！|すごいですね！=

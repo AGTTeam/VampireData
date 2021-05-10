@@ -25,7 +25,7 @@
 055_00: 原作=Original Work
 樋野 まつり=Matsuri Hino 
 「ヴァンパイア騎士」=Vampire Knight
-月刊LaLa (自泉社)=LaLa Monthly (Hakusensha, Inc.)
+月刊LaLa (自泉社)=LaLa Monthly (Hakusensha)
 
 056_00: 出演=Starring
 【錐生 零】=Zero Kiryu
@@ -58,5 +58,140 @@ ON/OFF
 编曲：h-wonder=Arrangement: h-wonder
 (MusicRay'n)
 
+060_00
+プロデューサー=Producers
+前田 佳代子=Kayoko Maeda #can't find
+鈴木 淳=Jun Suzuki
+アシスタント　プロデューサ=Assistant Producer
+茂木 美玲=Mirei Mogi #can't find
+ディレくター=Directors
+和久田　貴浩　（アフェクト）=Takahiro Wakuta (Affect)
+村山 達郎　（アフェクト）=Tatsuro Murayama (Affect) #possibly found?
 
+061_00
+プログラム=Programming
+正岡 博和　（アフェクト）=Hirokazu Masaoka (Affect)
+草川 優樹 （アフェクト）=Yuki Kusakawa (Affect)
+栗原 真登 （アフェクト）=Masato Kurihara (Affect) #can't find
+大貫　悟 （アフェクト）=大貫悟 #can't find
 
+062_00
+グラフィック=Graphics
+岩来 みなみ　（アフェクト）=Minami Iwarai (Affect) #i'm just going to stop writing can't find at this point because i can't find any of these
+福島 由喜　（アフェクト）=Yuki Fukushima (Affect)
+野平 里奈　（アフェクト）=Rina Nohei (Affect)
+大楠 紀子 （株式会社フェローズ）=Noriko Ookusu (Fellows Co.)
+緒形 祐 （株式会社フェローズ）=Yu Ogata (WINDS Co., Ltd.)
+安部 知栄子 （株式会社フェローズ）=Chieko Abe (WINDS Co., Ltd.)
+安田 真子 （株式会社フェローズ）=Mako Yasude (WINDS Co., Ltd.)
+竹内 朝子 （株式会社フェローズ）=Chouko Takeuchi (WINDS Co., Ltd.)
+竹村 友美 （株式会社フェローズ）=Tomomi Takemura (WINDS Co., Ltd.)
+廣野 和子 （株式会社フェローズ）=Kazuko Hirono (WINDS Co., Ltd.)
+沢田 寿理=Juri Sawada
+
+063_00
+スクリプト=Script
+菊地 達也 （アフェクト）=Tatsuya Kikuchi
+シナリオ=Scenario
+高木 聖子 （エッジワークス）=Seiko Takagi (EdgeWORKS)
+竹之内 亮 （エッジワークス）=Ryo Takenouchi (EdgeWORKS)
+眞島 浩一 （エッジワークス）=Koichi Majima (EdgeWORKS)
+水井 としえ （エッジワークス）=Toshie Mizui (EdgeWORKS)
+
+064_00
+サウンド=Sound
+畠山 一星　（アフェクト）=Issei Hatakeyama (Affect)
+野村 教裕 （有限会社ノーマライズ）=Norihiro Nomura (Normalize LLC)
+青木 秀由基 （有限会社ノーマライズ）=Hideyuki Aoki (Normalize LLC)
+大畠 和也 （有限会社ノーマライズ）=Kazuya Ohata (Normalize LLC)
+河野 翔 （有限会社ノーマライズ）=Sho Kono (Normalize LLC)
+
+065_00
+音響制作=Sound Design
+株式会社フェザード=Feathered Co., Ltd.
+脅響監督=Sound Director
+成富 聡一=Soichi Naritomi
+音声編集=Sound Editing
+小室 あかね=Akane Omuro
+向日葵 めぐみ=Megumi Himawari
+渡辺 貴胤=Takatane Watanabe
+音響制作=Sound Production
+フェザード・サウンドスタジオ=Feathered Sound Studio
+
+066_00
+マーケティング部 統括=Marketing Department General Manager
+川勝 啓史=Hiroshi Kawakatsu
+マーケティング部 販売企画チーム=Marketing Department Sales Planning Team
+赤井 隆史=Takashi Akai
+望月 綠=Midori Mochizuki
+日田 裕次郎=Yujiro  Nitsuta
+中江 理紗=Risa Nakae
+マーケティング部 宣伝広喔チーム=Marketing Department Advertising and Promotion Team #if this is too long feel free to shorten it
+城田 雄一郎=Yuichiro Shirota
+岡 毅=Takeshi Oka
+松岡 あさみ=Asami Matsuoka
+大橋 俊郎=Toshio Ohashi
+川嵜 美幸=Miyuki Kawasaki
+
+067_00
+スペシャルサンクス=Special Thanks
+齋藤 大成=Taisei Saito
+小笠原 洋=Hiroshi Ogasawara
+字原 似=
+杉山 忍=Shinobu Sugiyama
+杉崎 祐一=Yuichi Sugizaki
+大熊 達矢=
+阿部 ひとみ=Hitomi Abe
+小西 裕二=Yuji Konishi
+田中 潔=Kiyoshi Tanaka
+宮本 琢志=Takushi Miyamoto
+山本 博喜=Hiroki Yamamoto
+野村 敦士=Atsushi Nomura
+細谷 真里=Mari Hosaya
+益子 沙紀=Saki Mashiko
+
+068_00
+岡田 優奈=Yuna Okada
+森 由佳=Yuka Mori
+小寺 健治=Kenji Odera
+村山 浩一=Koichi Murayama
+八木 絵理子=Eriko Yagi
+多島 健=Ken Tajima
+渡部 洋子=Yoko Watanabe
+横井 太地=Taiji Yokoi
+棚瀬 信次=Shinji Tanase
+立花 宏且= Tachibana #can't find a translation for given name but i'm pretty sure the kanji is right?
+渡辺 浩一=Koichi Watanabe
+堀 恵木=Keiki Hori
+小嶋 正樹=Masaki Ojima
+松木 靖則=Yasunori Matsuki
+立花 秀崇=Hidetaka Tachibana
+
+069_00
+藤田 由美子=Yumiko Fujita
+上野 志保=Shiho Ueno
+小峰 克友=Katsutomo Komine
+中条 稔夫=Toshio Chuujo
+藤井 克依 （株式会社フェローズ）=Katsuyori Fujii (Fellows Co.)
+
+070_00
+キャスティング協力=Casting Assistance
+田中 貢子　（ネルケプランニング）=Mitsuko Yamada (Nelke Planning)
+アドバイザー=Advisors
+高橋 知子　（NAS）=Tomoko Takahashi (NAS)
+井手 優美 （白泉社）=Yumi Ide (Hakusensha)
+協力=Assistance
+白泉社=Hakusensha
+スタジオ　ディーン=Studio Deen
+ソニー・ミュージックエンタテインメント=Sony Music Entertainment Japan
+NAS=NAS
+
+071_00
+スーパーバイザー=Supervisor
+岡島 信幸=Nobuyuki Okajima
+エグゼクティブ プロデューサー=Executive Producer
+伊藤 裕二=Yuji Ito
+
+072_00
+©樋野 まつり・白泉社/「ヴァンパイア騎士」 会=Matsuri Hino ・ Hakusensha/Vampire Knight Production Comittee
+©D3 PUBLISHER=©D3 PUBLISHER

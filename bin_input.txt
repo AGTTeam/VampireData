@@ -5099,12 +5099,12 @@ I’m so happy.
 そうですね……やっぱり、|ナイト･クラスの中には|苦手な人もいます。=Let’s see...well, there are some people in the Night Class who I don’t get on with...
 一条センパイみたいな|優しい人ばかりじゃ|ありませんし……=They’re not all kind people like you, Ichijo...
 
-# A21E0
-苦手な人って、例えば誰？=
-う～ん、やっぱり……|藍堂センパイとか|ちょっと苦手かな？=
-ああ、そうか。|この間、藍堂にちょこっと|血吸われちゃったんだよね。=
-ごめんね。もう二度と|あんな事がないように、|藍堂のことはーー=
-枢がちゃんと|叱っておいたから。=
+# A21E0 if Aido was encountered on Day 1
+苦手な人って、例えば誰？=When you say “people you don’t get on with”, who do you mean?
+う～ん、やっぱり……|藍堂センパイとか|ちょっと苦手かな？=Well, I guess... I never really know how to handle Aido.
+ああ、そうか。|この間、藍堂にちょこっと|血吸われちゃったんだよね。=Ah, I see. The other day, he drank some of blood, didn’t he?
+ごめんね。もう二度と|あんな事がないように、|藍堂のことはーー=I’m sorry. To make sure something like that never happens again...
+枢がちゃんと|叱っておいたから。=Aido was thoroughly told off by Kaname. 
 
 # A445C
 ここから先は通さんぞ～！|ニョロー=This is the end of the line for you~!  Slither~
@@ -9132,51 +9132,51 @@ I’m so happy.
 藍堂、やめなよ。|挑発しすぎだよ。|夜刈先生もーー=Stop it, Aido. You’re being too proactive. And you too, Mr. Yagari--
 もう少し発言に|気をつけていただけませんか？=Could you please be a little more careful with what you say?
 一条君、悪いね。|あいにく口が悪いのは|生まれつきなんだ。=Sorry, Ichijo. I’m afraid I was born with a sharp tongue.
-ちぇっ、こんな授業、|出る意味なんかないよ。|僕は帰るね。=Tch. There’s no point in even attending a class like this. I’m leaving.
+ちぇっ、こんな授業、|出る意味なんかないよ。|僕は帰るね。=Tch. There’s no point in even attending a class like this.|I’m leaving.
 
-# AA564
-じゃあ、僕は部屋にもどるね。|バイバイ。=
-まずは、お互いの闘争の歴史を|正面から掘り下げよう|じゃないかーー=
-お前達が|いかに『弱い』存在か、|教えてやるぜ。=
-俺達は外見こそ近いが、|中身は全くの別物だ。=
-それでも……それぞれに|思想や感情がある故に|闘争がおこりーー=
-またその裏返しとしての|交流もあったわけだ。=
-お前達の中に、|純血種が少ない事が、|この事を物語っているだろう。=
-フッ……=
-人間は数で言ったら圧倒的に|多いですからね。全てを敵に|まわすと、流石に大変だ。=
-結局……この学園でも、|僕達の正体はナイショのまま。=
-人間の側に異質なものを|受け付ける度量がない以上ーー=
-真の友好などなく、|感情のもつれは続くばかり……|残念なことです。=
-さすが、|副寮長はわかってらっしゃる、|ってとこか。=
-結局ヴァンパイア側は、感情|云々以前に単に需要としても、|人間を必要としている。=
-お前達の存在と所業が|知れ渡ると人間の側も|だまっちゃいない。しかしーー=
-それでも、接触は必要であり、|場合によっては理解も必要と|される。=
-ただし、今受け入れている|者が、まだまだ少数でありーー=
-皮肉なことに、その最たる者が|ヴァンパイアハンターだという|悲しい現実がある。=
-悲しい？先生が仰ると|ジョークに聞こえちゃいますね|ーー=
-…あはは、|これもジョークですよ。=
-副寮長様には、お気に召しま|せんでしたか？失礼。まぁ言い|たい事はあるんだろうがーー=
-お前達の理解者である|俺の存在も、結局、|自衛の為でしかない。=
-自衛…ですか？=
-お前達は個々に|素晴らしい能力を持ちーー=
-とてもじゃないが、|俺達人間が太刀打ちできる|ものではない。=
-ただ、お前達がここの学園で|過ごすように品行方正であれば|お互い問題のない話だ。=
-現に俺はこの場で|銃をぶっ放す必要がない。|これも友好の証さ。=
-ここで丸腰なのは、全てに|おいて高貴な存在である皆様方|に敬意を表しているからだ。=
-お前達ヴァンパイアが人間を|甘く見ずーー=
-はじめからそうやって|大人しくしていれば、|何の問題もなかった話だ。=
-意外と弁が立つんですね？|結局、そっちの都合ばかりで話|してるようにも聞こえますが。=
-まあ、そう言うな。=
-お前達がお馬鹿な人間共に|うまく合わせてくれるのが、|一番いい。それだけの話だ。=
-よくわかりましたよ。|あなたがたの立場は。=
-でも、議論を交わしても|平行線ですよ。お互いの立場が|あまりに違いすぎる。=
-結局は、|僕らにガマンしろとだけ……|僕たちはこの学園でーー=
-こうして友好関係を保って|いますが、あなたの話は少し|刺激が強いみたいですね。=
-すみませんが、|ここは友好のためにもーー=
-少しお互いに|頭を冷やしたほうが|いいんじゃないでしょうか。=
-勝手にしろ。=
+# AA564 don’t say anything
+じゃあ、僕は部屋にもどるね。|バイバイ。=I’m going back to my room. Bye bye.
+まずは、お互いの闘争の歴史を|正面から掘り下げよう|じゃないかーー=First, let's tackle the history of our shared strife head-on.
+お前達が|いかに『弱い』存在か、|教えてやるぜ。=Allow me to demonstrate how “weak” you are.
+俺達は外見こそ近いが、|中身は全くの別物だ。=We may resemble each other on the outside, but inside, we’re completely different.
+それでも……それぞれに|思想や感情がある故に|闘争がおこりーー=Even so... we both have our own thoughts and feelings, and thus, conflicts arose.
+またその裏返しとしての|交流もあったわけだ。=And on the contrary, there was also exchange which occurred.
+お前達の中に、|純血種が少ない事が、|この事を物語っているだろう。=The fact that there are so few purebloods among you tells us this.
+フッ……=Hmph...
+人間は数で言ったら圧倒的に|多いですからね。全てを敵に|まわすと、流石に大変だ。=That’s because humans are overwhelmingly abundant. If one was to make an enemy of all of them, it would be rather tough.
+結局……この学園でも、|僕達の正体はナイショのまま。=In the end, even at this academy, our true identity remains a secret...
+人間の側に異質なものを|受け付ける度量がない以上ーー=For as long as humans are intolerant to anything different...
+真の友好などなく、|感情のもつれは続くばかり……|残念なことです。=There can be no real friendship, only the continuation of estranged emotions... It is a shame 
+さすが、|副寮長はわかってらっしゃる、|ってとこか。=How well-informed you are, Vice-President. 
+結局ヴァンパイア側は、感情|云々以前に単に需要としても、|人間を必要としている。=Ultimately, vampires have a demand for humans, and feelings aside, they need them.#tc 
+お前達の存在と所業が|知れ渡ると人間の側も|だまっちゃいない。しかしーー=If word of your existence and acts became known, human’s would not just sit back and take it lightly. However...
+それでも、接触は必要であり、|場合によっては理解も必要と|される。=Despite this, contact is necessary, and sometimes, even mutual understanding is necessary.
+ただし、今受け入れている|者が、まだまだ少数でありーー=Yet, the number of people who accept you at present is scarce...
+皮肉なことに、その最たる者が|ヴァンパイアハンターだという|悲しい現実がある。=And unfortunately, the sad reality is that most of those people are Vampire Hunters.
+悲しい？先生が仰ると|ジョークに聞こえちゃいますね|ーー=Sad? It sounds like a joke to hear that coming from you.
+…あはは、|これもジョークですよ。=...Ahaha, I meant that as a joke too.
+副寮長様には、お気に召しま|せんでしたか？失礼。まぁ言い|たい事はあるんだろうがーー=You didn’t like it, Vice-President? My humble apologies.|Well, I’m sure that you all have things you’d like to say, but...
+お前達の理解者である|俺の存在も、結局、|自衛の為でしかない。=The fact that I exist, as someone who understands you is, in the end, purely for self-perseveration.
+自衛…ですか？=Self-preservation?
+お前達は個々に|素晴らしい能力を持ちーー=All of you possess great individual powers...
+とてもじゃないが、|俺達人間が太刀打ちできる|ものではない。=The likes of which would be impossible for us humans to compete with.
+ただ、お前達がここの学園で|過ごすように品行方正であれば|お互い問題のない話だ。=However, if you continue to conduct yourself in a moral way at this academy, then neither of us will have a problem, right?
+現に俺はこの場で|銃をぶっ放す必要がない。|これも友好の証さ。=The fact that I haven’t had to shoot my gun here is further proof of the harmony.
+ここで丸腰なのは、全てに|おいて高貴な存在である皆様方|に敬意を表しているからだ。=The reason I have come here unarmed is to express my respect to you, who are noble in every way.
+お前達ヴァンパイアが人間を|甘く見ずーー=You are vampires who do not underestimate humans...
+はじめからそうやって|大人しくしていれば、|何の問題もなかった話だ。=If you vampires had been pliant like that from the beginning, there would have been no problems.
+意外と弁が立つんですね？|結局、そっちの都合ばかりで話|してるようにも聞こえますが。=You are surprisingly eloquent, aren’t you? Though, it sounds like you’re just saying whatever suits you...
+まあ、そう言うな。=Now, don't say that.
+お前達がお馬鹿な人間共に|うまく合わせてくれるのが、|一番いい。それだけの話だ。=It would be best if you could get along with these foolish humans. That’s all.
+よくわかりましたよ。|あなたがたの立場は。=I can see where you’re coming from.
+でも、議論を交わしても|平行線ですよ。お互いの立場が|あまりに違いすぎる。=But even if we discuss things, we’ll never be able to see eye to eye. Our positions are too different from each other.
+結局は、|僕らにガマンしろとだけ……|僕たちはこの学園でーー=In the end, you’re just telling us to bear with. But at this academy...
+こうして友好関係を保って|いますが、あなたの話は少し|刺激が強いみたいですね。=Although we are maintaining friendly relations, your way of phrasing things is a little too proactive.
+すみませんが、|ここは友好のためにもーー=I don’t mean to be rude, but for the sake of good relations--
+少しお互いに|頭を冷やしたほうが|いいんじゃないでしょうか。=Maybe it’s best if we all cool our heads a little.
+勝手にしろ。=Suit yourself.
 
-# A961C
+# A961C don’t say anything
 結局まやかしながらも、|友好関係を結んだところでーー=
 俺達はタブレットを食べるしか|ないわけですから。=
 いっそのこと大胆な発想に|変えてみるというのは？=
@@ -9243,7 +9243,7 @@ I’m so happy.
 ん、時間だ。=
 さて、僕たちは|寮に戻るとするか。=
 
-# ABB90
+# ABB90 choose to speak after AD604
 あれ？<last><name>。|何してんだ？こんなところで。=
 ずいぶんと荒れてましたね、|藍堂センパイ。=
 そうなんだよ、聞いてよ。=
@@ -9319,30 +9319,30 @@ I’m so happy.
 やめろ<last>！|その呼び名は！！=
 ボケ理事長に零……|あいつら、苦労してんだな……|ハイ、授業再開！=
 
-# A77E0
-あれ？<name>ちゃん。|どうしたの、こんなところで。=
-えーっと、どんな授業を|やってるのかなって思って。=
-フフ…ガーディアンの仕事を|お留守にしてるんだ。|錐生君に怒られちゃうよ。=
-平気ですよ、どうせ零も|さぼってるし。それより何だか|難しい事やってましたね。=
-ああ、そうだね。|挑発的な発言に乗せられ|やすい子が多いからーー=
-ハラハラしちゃったよ。|ま、僕もちょっぴり|のっちゃったんだけど。=
-夜間部のみなさん相手に|あんな風に言って、夜刈先生の|身に危険はないかーー=
-ハラハラしてしまいました…。|先生は強いから、|心配なかったみたいだけど。=
-表立って荒くれようとする者ほ|ど、実は繊細で気が小さかった|りするんだよ、<name>ちゃん。=
-夜刈先生が…|そうなんですか。=
-どうだろうね？|これは一般論だけどーー=
-人間の世界では言うでしょ？|弱い犬ほどよく吠え……=
-ワン！！=
-わっ！=
-悪いね、吠えちゃって。|何しろ弱い犬なもので、|吠えずにいられない。=
-面白いですねえ。それじゃあ、|ついでに、もう一つことわざを|お教えしましょうか？ =
-負け犬の遠吠え！=
-犬が西向きゃ尾は東！=
-じゃあ、私は…|オニのイヌ間に洗濯！=
-それ、犬じゃない！=
-えへへ……=
-<name>ちゃん……|君って……。=
-ハイ、授業再開。|お嬢ちゃんは明日補習決定だ。=
+# A77E0 say something after A961C
+あれ？<name>ちゃん。|どうしたの、こんなところで。=Oh? What are you doing here, <name>?
+えーっと、どんな授業を|やってるのかなって思って。=Well, I was just wondering what kind of classes you have.
+フフ…ガーディアンの仕事を|お留守にしてるんだ。|錐生君に怒られちゃうよ。=Hehe, you’re neglecting your work as a Guardian, I see. Kiryu will be mad~
+平気ですよ、どうせ零も|さぼってるし。それより何だか|難しい事やってましたね。=It’s fine, he’s skipping anyway. More importantly, that looked like it was getting pretty heated.
+ああ、そうだね。|挑発的な発言に乗せられ|やすい子が多いからーー=Yeah, there’s a fair few who get easily worked up by proactive comments, so...
+ハラハラしちゃったよ。|ま、僕もちょっぴり|のっちゃったんだけど。=It was very tense. Plus, I got a little carried away too.
+夜間部のみなさん相手に|あんな風に言って、夜刈先生の|身に危険はないかーー=Isn’t Mr. Yagari putting himself in danger, talking to the Night Class like that?
+ハラハラしてしまいました…。|先生は強いから、|心配なかったみたいだけど。=I was so nervous... But he’s strong, so I guess there’s nothing to worry about.
+表立って荒くれようとする者ほ|ど、実は繊細で気が小さかった|りするんだよ、<name>ちゃん。=The ones who try to look rough on the outside are actually the most sensitive and timid, you know.
+夜刈先生が…|そうなんですか。=Mr. Yagari is...? I see...
+どうだろうね？|これは一般論だけどーー=I wonder. This is just a stereotype, but... 
+人間の世界では言うでしょ？|弱い犬ほどよく吠え……=Isn’t it like that in the human world too? The weaker a dog is, the more it barks.
+ワン！！=Woof!!
+わっ！=Wah!
+悪いね、吠えちゃって。|何しろ弱い犬なもので、|吠えずにいられない。=Sorry for barking. I'm just a weak dog after all, I can't help barking.
+面白いですねえ。それじゃあ、|ついでに、もう一つことわざを|お教えしましょうか？ =They’re interesting, aren’t they? While we’re at it, can I teach you some more idioms?
+負け犬の遠吠え！=You can’t teach an old dog new tricks!#tc More literally Underdogs are always whining?
+犬が西向きゃ尾は東！=It’s a dog-eat-dog world!
+じゃあ、私は…|オニのイヌ間に洗濯！=I, uh... Doggone it!
+それ、犬じゃない！=That’s not about dogs!
+えへへ……=Ehehe...
+<name>ちゃん……|君って……。=<name>... You’re...
+ハイ、授業再開。|お嬢ちゃんは明日補習決定だ。=Alright, it’s about time we resume class. Young lady, I’ll have you take supplementary lessons tomorrow.
 
 # A6EC8
 支葵センパイ、|まじめに授業受けてますか？=
@@ -9580,7 +9580,7 @@ I’m so happy.
 そう……残念だね。|気をつけて行くんだよ、|<name>。=I see... That’s a shame.|Take care on your way, <name>.
 はい！ありがとうございます。=I will! Thank you.
 
-# A5344
+# A5344 Aido comes to the rescue
 あーあ、また助けちゃった。|しかしよく襲われるよな、|お前。=Aaah, I had to come to the rescue again. You sure get attacked a lot, <name><last>.
 藍堂センパイ……！|ありがとうございました、|助けて下さって……=Thank you for saving me, Aido!
 でも、まさか街で|藍堂センパイに会うなんて……|どこかに行くんですか？=I’m surprised to see you here though. Where are you headed?
@@ -9626,7 +9626,7 @@ I’m so happy.
 助けてくれて|本当にありがとう|ございました。=Thank you so much for saving me.
 あっ……ああ、気をつけろよ。=Y...Yeah. Watch how you go.
 
-# A411C
+# A411C Kain comes to the rescue
 大丈夫か、<last>。=Are you okay, <last>?
 架院センパイ……！|ありがとうございました、|助けてくれて……=Kain, you saved me! Thank you.
 でも、まさか街で|架院センパイに会うなんて……|何かご用ですか？=I’m surprised to see you here though. Did you have some things to take care of?
@@ -9654,32 +9654,32 @@ I’m so happy.
 ああ、わかった。|さっきみたいにぼうっと|してるとまた襲われるぞ。=Yeah, no worries. Just don’t start zoning out again, or you’ll be attacked like before.
 あ……気をつけます。|ありがとうございます。=Ah... I’ll be careful! Thank you.
 
-# A3AE0
-危ない所だったね。大丈夫？|ケガはない？<name>ちゃん。=
+# A3AE0 Ichijo comes to the rescue
+危ない所だったね。大丈夫？|ケガはない？<name>ちゃん。=That was too close. Are you okay, <name>? You’re not hurt, are you?
 一条センパイ……！|ありがとうございました、|助けて下さって……=Ichijo, you saved me! Thank you.
 でも、こんなところで|一条センパイに会うなんて……|何かご用ですか？=I’m surprised to see you here though. Did you have some things to take care of?
-あはは、僕、ちょっと|行きたい所があってね。=
-どちらまで？=
-うふっ、と～っても|いいところさ。=
-もしかすると、僕たちの秘密が|ばれてしまう……そんな、|危険なところでもあるんだ。=
-それはまた……大丈夫ですか？=
-うん。大丈夫……かな？|でももし、僕たちの秘密を|知りたければ……=
-知りたければ？=
-君も一緒に行かない？=
-え、そうですか……|えっと……どうしよう……=
+あはは、僕、ちょっと|行きたい所があってね。=Ahaha, there was just somewhere I fancied going.
+どちらまで？=Where might that be?
+うふっ、と～っても|いいところさ。=Hehe, somewhere amazing~
+もしかすると、僕たちの秘密が|ばれてしまう……そんな、|危険なところでもあるんだ。=It’s a dangerous place, where people could even accidentally find out about our secret...
+それはまた……大丈夫ですか？=Is... that really okay?
+うん。大丈夫……かな？|でももし、僕たちの秘密を|知りたければ……=Yeah, it’s fine... probably. But, if you wanted to know our secrets...
+知りたければ？=Then?
+君も一緒に行かない？=Why don’t you come with me?
+え、そうですか……|えっと……どうしよう……=O-Oh... Um...
 
-# A1E70
-それじゃあ、行きます。|秘密を知って……いいですか？=
-フフ、きっと<name>ちゃん、|すごく気に入ると思うよ。|これから行く所！=
-そうなんですか？|ステキな秘密かな？|わあ、楽しみです……！=
-じゃ、行こうか。=
+# A1E70  choose 一緒に行く
+それじゃあ、行きます。|秘密を知って……いいですか？=Okay, I’ll come. Is it okay for me to know your secret, though?
+フフ、きっと<name>ちゃん、|すごく気に入ると思うよ。|これから行く所！=Hehe, I’m sure you’ll like where we’re headed, <name>!
+そうなんですか？|ステキな秘密かな？|わあ、楽しみです……！=Oh? Is it a nice secret, then? Ooh, I’m excited~!
+じゃ、行こうか。=Shall head off, then?
 
-# A195C
-あれっ？残念だなぁ。|どうしてもダメかな。=
-はい。でも、助けてくださって|本当にありがとう|ございました。=
-うん。わかったよ。|じゃ、気をつけてね。=
+# A195C choose 遠慮する
+あれっ？残念だなぁ。|どうしてもダメかな。=Oh? That’s a shame. I guess I couldn’t convince you to change your mind?
+はい。でも、助けてくださって|本当にありがとう|ございました。=I’m afraid not. But, thank you so much for coming to my rescue.
+うん。わかったよ。|じゃ、気をつけてね。=Sure thing. Well, be safe.
 
-# A3664
+# A3664 Shiki comes to the rescue
 危なかった……風紀委員。=Prefect, you could have been killed.
 支葵センパイ……！|ありがとうございました、|助けて下さって……=Shiki, you saved me! Thank you.
 でも、ここで支葵センパイに|会うなんて……|何かご用だったんですか？=I’m surprised to see you here though. Did you have some things to take care of?
@@ -9703,7 +9703,7 @@ I’m so happy.
 そう……？残念。=I understand. Oh well.
 気をつけて行きなよ。=Wherever you’re going, please be careful.
 
-# A2794
+# A2794 Yagari comes to the rescue
 ふう……！|危ねえ所だったな。=
 夜刈先生……！|ありがとうございました、|助けて下さって……=
 でも、まさか街で夜刈先生に|会うなんて……|何かご用ですか？=I’m surprised to see you here though. Where are you headed?
@@ -9891,7 +9891,7 @@ I’m so happy.
 もう……フン！=Honestly...! Hmph!
 なっ……こっちこそフンだ！=Wha--!? I’m the one who should be hmph-ing!
 
-# AD16C
+# AD16C Shopping with Kain
 ここって……=This is...
 そうだ、ビリヤードカフェだ。=Yes, it's a Billiard Cafe.
 へぇ～架院センパイ、|こんなところを|知ってるんですか～。=Wow, you know about all kinds of places~
@@ -9954,57 +9954,57 @@ I’m so happy.
 （まだ胸が|ドキドキしてる……）=(My heart is racing again...)
 （別にそんな、変な質問|されたわけじゃないのに|どうしたんだろう、私？）=(It’s not like what he asked me was such a weird question, right?)
 
-# AC2EC
-うわあ……|たくさん種類がありますね。=
-うん。僕が知ってる限りでは|このお店が一番、品揃え豊富|だよ。=
-でも、一条センパイが、|アロマ好きだなんて、|初めて知りました。=
-（一条センパイが連れて|きてくれたのは、なんと|アロマショップでした）=
-（おしゃれで、スマートな|一条センパイにぴったりの|趣味だよ）=
-好きというか……|他人と接する時の|礼儀の一つだよ、香りはね。=
-礼儀、ですか？=
-そう。もちろん等身大の自分も|大事だけれど、他の誰かと|接するときはーー=
-身なりを整える延長で、|礼儀としての装飾が、|必要だと思うんだ。=
-なるほど……アロマの香りも|一条センパイを包む|空気の装飾、という訳ですね。=
-さすが<name>ちゃん、|理解するのが早いね。|あ、すみません、店員さんーー=
-僕に、いつものやつを。|<name>ちゃんは？|何か欲しい香りはない？=
-あ……たくさんありすぎて|迷っちゃってます。|センパイの香りは何ですか？=
-カモミール･ローマンだよ。|緊張を解きほぐしてリラックス|したい時にすごくいいんだ。=
-あ、いい香り……|これ、私、好きかも|しれません。=
-本当？じゃあ、|１本プレゼントするよ。=
-ええっ！？|そ、そんな、悪いです……！=
-いいんだよ。香りのお洒落に|目覚めた<name>ちゃんへ、|僕からのプレゼント。=
-いつもナイト･クラスのために|頑張ってくれてるお礼も兼ねて|……ね！=
-じゃ、お言葉に甘えて|貰っちゃおうかな……|ありがとうございます！=
-（楽しいな……、|何だか恋人同士の|デートみたい……！）=
-ところで<name>ちゃん、|どこか行きたい場所が|あったんじゃないの？=
-そうなんです、実は骨董市に|行こうと思ってて。|これ、チラシ……見ます？=
-うわあ……すごい！|こんなのやってたんだ、|全然知らなかった。=
-<name>ちゃん、僕も一緒に|いいかな？|行ってみたいな、骨董市！=
-そんな、もちろんですよ！|一人で行くより、二人の方が|楽しいですし。=
-ありがとう。そうと決まれば|早速行こう！今すぐ！|ああ、楽しみだなあ……！=
-（ふふ、一条センパイ、|子供みたいに目がキラキラ|してる……！）=
-どのお店から見ようかな？|フフッ、僕、もう端から端まで|買っちゃいそう！=
-あ、待ってくださいよぉ～。|一条センパイ！=
-ふふ、さっきはアロマで|今度は香水だなんて、|香りづいてるね、僕たち。=
-そうですね！|あ、これ、いいな……|このピンク色のビン。=
-本当だ……甘いけどさっぱり|してて、何か、心が落ち着く|ような……=
-いい香りだね。あんまりきつく|なくて……僕も好きだよ、|こういうの。=
-決めた！これ、頂きます。=
-ふふ、早速いい買い物|しちゃいました！=Hmhm, I had to buy it before someone else snatched it up!
-夢が叶う香水なんて|ロマンティックだね。|僕も少しわけてもらおうかな？=
-後で、アドマイザーに分けて|持っていきます。さっきの|アロマのお礼もかねて。=
-え？本当にくれるの？|言ってみるもんだね。|ありがとう、<name>ちゃん。=
-いいえ。とんでもない。|一条センパイ、他のお店は|回らなくていいんですか？=
-う～ん、でももう、|刀のレプリカ１５本|買っちゃったしなあ……=
-えっ！い、いつの間に！！=
-さっき<name>ちゃんが|お会計すませてる間に、|大人買いしちゃったんだ。=
-あ……でもティーカップとかも|欲しいな。もう少し見て回って|もいい？=
-ええ、いいですけど……=
-（さすがお金持ち……|すごい豪快な買い方するなあ）=
-うわあ、いいねこの壺。|おじさん、ここにあるもの全部|買ったらいくらになる？=
-……って言っても、|物には限度がある！|止めよう！一条センパーイ！！=
+# AC2EC Shopping with Ichijo
+うわあ……|たくさん種類がありますね。=Wow... There’s such a variety!
+うん。僕が知ってる限りでは|このお店が一番、品揃え豊富|だよ。=Yeah. As far as I know, this store has the best selection.
+でも、一条センパイが、|アロマ好きだなんて、|初めて知りました。=I never realized that you liked aromatherapy, Ichijo.
+（一条センパイが連れて|きてくれたのは、なんと|アロマショップでした）=(The place Ichijo had bought me to was an aromatherapy store.)
+（おしゃれで、スマートな|一条センパイにぴったりの|趣味だよ）=(It seems like the perfect hobby for someone as stylish and smart as Ichijo.)
+好きというか……|他人と接する時の|礼儀の一つだよ、香りはね。=It’s not so much that I like it, just that smell is part of the etiquette of dealing with others.
+礼儀、ですか？=Etiquette?
+そう。もちろん等身大の自分も|大事だけれど、他の誰かと|接するときはーー=Yes. Of course, it’s important to be yourself, but when you’re interacting with someone else...
+身なりを整える延長で、|礼儀としての装飾が、|必要だと思うんだ。=I think that as an extension of yourself, making yourself look and smell good is a necessary part of the etiquette.
+なるほど……アロマの香りも|一条センパイを包む|空気の装飾、という訳ですね。=I see... Adorning the air around you with a nice smell is also part of making yourself presentable.
+さすが<name>ちゃん、|理解するのが早いね。|あ、すみません、店員さんーー=You are as quick to catch on as ever, <name>.|Ah, excuse me, Miss--
+僕に、いつものやつを。|<name>ちゃんは？|何か欲しい香りはない？=I’ll have the usual, please. Is there anything you’d like, <name>?
+あ……たくさんありすぎて|迷っちゃってます。|センパイの香りは何ですか？=Oh... There’s so many of them, I have no idea what to pick. What scent did you get, Ichijo?
+カモミール･ローマンだよ。|緊張を解きほぐしてリラックス|したい時にすごくいいんだ。=It’s Chamomile Roman. It’s really good for when you just want to relax and unwind.#I guess normally you’d say Roman Chamomile, but I left it this way to match the VA.
+あ、いい香り……|これ、私、好きかも|しれません。=Oh, that is nice... Maybe I’ll go for that one too.
+本当？じゃあ、|１本プレゼントするよ。=Really? Then I'll give you a bottle.
+ええっ！？|そ、そんな、悪いです……！=Huh!? O-Oh no, you don’t have to go that far--!
+いいんだよ。香りのお洒落に|目覚めた<name>ちゃんへ、|僕からのプレゼント。=It’s fine. It’s a present from me, now that you’ve just come to understand the fashion potential of a good scent.
+いつもナイト･クラスのために|頑張ってくれてるお礼も兼ねて|……ね！=And, it’s also a thank you for all the hard work you do for the Night Class. Okay~?
+じゃ、お言葉に甘えて|貰っちゃおうかな……|ありがとうございます！=Then, I will take you up on your kind offer... Thank you so much!
+（楽しいな……、|何だか恋人同士の|デートみたい……！）=(This is fun. It’s like we’re on a date, or something...!)
+ところで<name>ちゃん、|どこか行きたい場所が|あったんじゃないの？=By the way, <name>, wasn’t there somewhere you wanted to go?
+そうなんです、実は骨董市に|行こうと思ってて。|これ、チラシ……見ます？=Right, I was actually thinking of going to an antique market. This is the flyer...
+うわあ……すごい！|こんなのやってたんだ、|全然知らなかった。=Wow... That’s amazing! I had no idea there were things like this.
+<name>ちゃん、僕も一緒に|いいかな？|行ってみたいな、骨董市！=Do you mind if I come with you, <name>? I’d love to try visiting one of these antique markets!
+そんな、もちろんですよ！|一人で行くより、二人の方が|楽しいですし。=Of course! It’s much more fun going with someone else, anyway.
+ありがとう。そうと決まれば|早速行こう！今すぐ！|ああ、楽しみだなあ……！=Perfect. Well, now that that’s decided, let’s go! No time like the present!|Aah, I can’t wait! 
+（ふふ、一条センパイ、|子供みたいに目がキラキラ|してる……！）=(Hehe, Ichijo’s eyes are sparkling just like a little kid!)
+どのお店から見ようかな？|フフッ、僕、もう端から端まで|買っちゃいそう！=Which store should we look at first? Hehe, I think I might just end up buying everything!
+あ、待ってくださいよぉ～。|一条センパイ！=Ah, wait for me--!
+ふふ、さっきはアロマで|今度は香水だなんて、|香りづいてるね、僕たち。=Heh, we’ve gone from aromatherapy oils to perfumes. Guess we’re all smells today! 
+そうですね！|あ、これ、いいな……|このピンク色のビン。=That’s true, hehe. Oh, this pink bottle is nice...
+本当だ……甘いけどさっぱり|してて、何か、心が落ち着く|ような……=You’re right... It’s sweet but not overpowering, and it’s also kind of calming...
+いい香りだね。あんまりきつく|なくて……僕も好きだよ、|こういうの。=It’s a nice fragrance, not too strong. I like this kind of things too.
+決めた！これ、頂きます。=Then it’s decided! I’ll take this one, please.
+ふふ、早速いい買い物|しちゃいました！=Hehe, I had to buy it before someone else snatched it up!
+夢が叶う香水なんて|ロマンティックだね。|僕も少しわけてもらおうかな？=A perfume that grants wishes... how romantic! Do you think I could have a bit too?
+後で、アドマイザーに分けて|持っていきます。さっきの|アロマのお礼もかねて。=I’ll divide it into two bottles and bring it to you later. It’s my way of saying thanks for the aromatherapy oil, too. 
+え？本当にくれるの？|言ってみるもんだね。|ありがとう、<name>ちゃん。=Huh? You’re really giving me some? I wasn’t being serious but, thank you, <name>.
+いいえ。とんでもない。|一条センパイ、他のお店は|回らなくていいんですか？=No, it’s nothing. So, are you ready to leave yet?
+う～ん、でももう、|刀のレプリカ１５本|買っちゃったしなあ……=Well, I did already buy fifteen replica swords...
+えっ！い、いつの間に！！=Huh!? W-When did that happen?
+さっき<name>ちゃんが|お会計すませてる間に、|大人買いしちゃったんだ。=I went on a shopping spree while you were paying the bill.
+あ……でもティーカップとかも|欲しいな。もう少し見て回って|もいい？=Ah... But I also wanted to get a teacup or something. Can we look around a bit more?
+ええ、いいですけど……=Alright...
+（さすがお金持ち……|すごい豪快な買い方するなあ）=(He has an awfully unfettered way of buying things... I guess that’s rich people for you.)
+うわあ、いいねこの壺。|おじさん、ここにあるもの全部|買ったらいくらになる？=Wow, this is a nice jar. Mister, how much would it be if I bought everything that’s here?
+……って言っても、|物には限度がある！|止めよう！一条センパーイ！！=...Even so, there’s still a limit to how much someone should buy!|Stop it now, Ichijo!
 
-# ABC58
+# ABC58 Shopping with Shiki
 ん～……今日はあんまり|欲しいの、ないな。=Hmm... I’m not really finding anything that I like today.
 （さすがは|モデルの支葵センパイ。）=(Shiki brought me along to his favorite clothing boutique.)#changed order here for flow
 （行きつけのアパレルショップ|に連れてきてくれました。）=(I guess I shouldn’t be surprised since he is a model.)
@@ -10046,7 +10046,7 @@ I’m so happy.
 ううん、これでいい。|一条さんよろこぶかな。=No, this is the one. Ichijo will delighted when he sees it.
 な、なるほど。一条センパイの|考え込む姿が、ちょっと今|目に浮かびました……=I guess you do know him best. I was just imagining Ichijo lost in thought like the cat.
 
-# ACC34
+# ACC34 Shopping with Yagari
 （ここがハンター協会か）=
 （すごく広くて…|だけどなんだか圧迫感が|ある所だな……それに……）=
 （さっきから、周りにいる|ハンターたちが、|じろじろこっちを見てる）=

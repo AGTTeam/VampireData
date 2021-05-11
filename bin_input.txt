@@ -43,8 +43,8 @@
 <ch1>アダ名で呼んでいいですか<00><00><0A><ch2>このアダ名、好きですか<00><01><0A><ch3>本当にワイルドなんですか<00><02>=<ch1>“Can I call you that?”<00><00><0A><ch2>“Do you like that nickname?”<00><01><0A><ch3>“Are you really that wild?”<00><02>
 <ch1>女の子が怖い？<00><04><0A><ch2>枢センパイが怖い？<00><05><0A><ch3>ブラッディローズが怖い？<00><06>=<ch1>“You’re scared of girls?”<00><04><0A><ch2>“You’re scared of Kaname?”<00><05><0A><ch3>“You’re scared of the Bloody Rose?”<00><06>
 <ch1>血が怖い<00><08><0A><ch2>枢センパイが怖い<00><09><0A><ch3>学校のテストが怖い<00><0A>=<ch1>“I’m scared of blood.”<00><08><0A><ch2>“I’m scared of Kaname.”<00><09><0A><ch3>“I’m scared of our exams.”<00>
-<ch1>好きです<00><00><0A><ch2>わかりません<00><01><0A><ch3>嫌いな人もいます<00><02>=
-<ch1>明るくて親しみやすい所<00><04><0A><ch2>二面性がある所<00><05><0A><ch3>高貴で王子様っぽい所<00><06>=
+<ch1>好きです<00><00><0A><ch2>わかりません<00><01><0A><ch3>嫌いな人もいます<00><02>=<ch1>"Yes,I do."<00><00><0A><ch2>"I'm not sure."<00><01><0A><ch3>"I like some of them..."<00><02>
+<ch1>明るくて親しみやすい所<00><04><0A><ch2>二面性がある所<00><05><0A><ch3>高貴で王子様っぽい所<00><06>="You’re cheery and easy to be friends with."<00><04><0A><ch2>"Because there are two sides to you."<00><05><0A><ch3>"You’re like a prince."<00><06>
 <ch1>そうです<00><08><0A><ch2>みなさんが好きです<00><09><0A><ch3>一条センパイが好きです<00><0A>=
 <ch1>モデルのお仕事？<00><00><0A><ch2>女の子の事？<00><01><0A><ch3>学園生活の事？<00><02>=
 <ch1>私でも出来ますか？<00><04><0A><ch2>恥ずかしいです！<00><05><0A><ch3>人気モデルになっちゃう<00><06>=
@@ -5056,46 +5056,48 @@ Sleep well...
 って、あれ……？|あそこにいるのって|もしかして……=Oh...? Over there, isn’t that...?
 
 # A7500
-僕を選んでくれて|ありがとう、<name>ちゃん。|嬉しいよ。=
-あ、ハイ……！=
-僕、肝試しって生まれて|初めてなんだ。|フフッ、わくわくしちゃう。=
-（確かに、一条センパイって|こういうのいかにも|好きそうだなあ）=
-で、何をやるの？|肝試しって。=
-特に私たちは|やることないですよ。=
-コース通りに歩いていくと|お化け役の人達が|脅かしてくれるからーー=
-その恐怖とスリルを|味わえばいいんです。=
-ふ～ん、そういうものなんだ。|あ……でも<name>ちゃんは、|お化けなんて怖くないでしょ？=
-だっていつも、僕たち|ヴァンパイアの前でも、|ひるまず堂々としてるから。=
-きっとあんまり、怖いもの|なんて無いんだろうなって|思ってさ。=
-そ、そうですかね……？=
-（私って、そんな風に|見られてるんだ。|知らなかった……）=
-こっそり僕が横から|脅かしちゃおうかな？|なんてね。はは。=
-あ、護身用の刀。=
-悪いお化けから|<name>ちゃんを守らなきゃ！|って思ってね。=
-あはは……！さすがに|本物のお化けは出ないから|大丈夫ですよ！=
-一条センパイって|いつも明るいし、優しいしーー=
-本当、ヴァンパイアっぽく|ないですね。=
-<name>ちゃんの中では|ヴァンパイアってどんな|イメージなの？=
-う～ん、そうですね……=
-こんな事、僕が聞くのは|ヘンかもしれないけど、|君はヴァンパイア、好き？=
+僕を選んでくれて|ありがとう、<name>ちゃん。|嬉しいよ。=Thanks for choosing me. <name>. 
+I’m so happy.
+あ、ハイ……！=Ah, right...!
+僕、肝試しって生まれて|初めてなんだ。|フフッ、わくわくしちゃう。=It’s my first time taking a test of courage. Hehe, I’m excited. 
+（確かに、一条センパイって|こういうのいかにも|好きそうだなあ）= (I love seeing Ichijo when he’s like this.)
+で、何をやるの？|肝試しって。=So, how do we do this test of courage?
+特に私たちは|やることないですよ。=We don’t do anything in particular.
+コース通りに歩いていくと|お化け役の人達が|脅かしてくれるからーー=As we walk along the course, the people who are playing the monsters will pop out and try to scare us.
+その恐怖とスリルを|味わえばいいんです。=So you can relish the fear and the thrill.
+ふ～ん、そういうものなんだ。|あ……でも<name>ちゃんは、|お化けなんて怖くないでしょ？=Hmm, so that’s what it is. Ah... but <name>, you’re not scared of the monsters, are you?
+えっ？@A7500=Huh?
+だっていつも、僕たち|ヴァンパイアの前でも、|ひるまず堂々としてるから。=I mean, you always stand bold and never falter in the face of us vampires.
+きっとあんまり、怖いもの|なんて無いんだろうなって|思ってさ。=I’ll bet that you’re not afraid of anything.
+そ、そうですかね……？=Y-You think so...?
+（私って、そんな風に|見られてるんだ。|知らなかった……）=(So people see me like that. I had no idea...)
+こっそり僕が横から|脅かしちゃおうかな？|なんてね。はは。=Should I sneakily try to scare you whilst I’m walking next to you? Just kidding, haha. 
+あ、護身用の刀。=Ah, that’s your sword for self-defense.
+悪いお化けから|<name>ちゃんを守らなきゃ！|って思ってね。=I just thought, "I must protect <name> from any bad monsters!"
+あはは……！さすがに|本物のお化けは出ないから|大丈夫ですよ！=Ahaha...! Although, we will be alright because no real ghosts are going to show up!
+一条センパイって|いつも明るいし、優しいしーー=You’re always cheerful and kind, Ichijo...
+本当、ヴァンパイアっぽく|ないですね。=You’re nothing like a vampire.
+<name>ちゃんの中では|ヴァンパイアってどんな|イメージなの？=<name>, what kind of think do you picture when you think of vampires?
+う～ん、そうですね……=Hmm, well...
+こんな事、僕が聞くのは|ヘンかもしれないけど、|君はヴァンパイア、好き？=This might be a weird thing for me to ask but, do you like vampires?
 
 # A192C
-好きです。普通の人は|『ヴァンパイア』って聞いたら|怖いって思うだろうけどーー=
-一条センパイみたいな|優しいヴァンパイアもいる|って、私は、知ってますから。=
-だから、私は好きですよ。|ナイト･クラスの皆さんも|一条センパイも……=
-ありがとう、<name>ちゃん。|そんな風に言って貰えて|嬉しいよ。=
+好きです。普通の人は|『ヴァンパイア』って聞いたら|怖いって思うだろうけどーー=I like them. Normal people might be scared when they hear the word "vampire", but...
+一条センパイみたいな|優しいヴァンパイアもいる|って、私は、知ってますから。=I know that there are some kind vampires, like you, Ichijo.
+だから、私は好きですよ。|ナイト･クラスの皆さんも|一条センパイも……=That’s why I like them. Everyone in the Night Class, and you...
+ありがとう、<name>ちゃん。|そんな風に言って貰えて|嬉しいよ。=Thank you, <name>. It makes me happy to hear that from you.
 
 # A2090
-それは……わかりません。=
-枢センパイや、|一条センパイみたいなーー=
-優しいヴァンパイアもいるって|わかってるんですけどーー=
-でも……やっぱり、|心のどこかで恐れてるのかな|って……思います。=
-うん、そうだよね。|ごめんね、<name>ちゃん。|答えづらい質問しちゃったね。=
-いえ……そんな、|こちらこそ、すみません|気のきいた事、言えなくて。=
+それは……わかりません。=That... I don’t know.
+枢センパイや、|一条センパイみたいなーー=I know that there are gentle vampires out there...
+優しいヴァンパイアもいるって|わかってるんですけどーー=like you and Kaname...
+でも……やっぱり、|心のどこかで恐れてるのかな|って……思います。=But... In the end, I think there’s still some... fear in my heart.
+うん、そうだよね。|ごめんね、<name>ちゃん。|答えづらい質問しちゃったね。=Ah, I see. I’m sorry, <name>. That was a tough question.
+いえ……そんな、|こちらこそ、すみません|気のきいた事、言えなくて。=No, that’s... I feel like I should say sorry too, for not having a better answer.
 
 # A13C8
-そうですね……やっぱり、|ナイト･クラスの中には|苦手な人もいます。=
-一条センパイみたいな|優しい人ばかりじゃ|ありませんし……=
+そうですね……やっぱり、|ナイト･クラスの中には|苦手な人もいます。=Let’s see...well, there are some people in the Night Class who I don’t get on with...
+一条センパイみたいな|優しい人ばかりじゃ|ありませんし……=They’re not all kind people like you, Ichijo...
 
 # A21E0
 苦手な人って、例えば誰？=
@@ -5105,47 +5107,49 @@ Sleep well...
 枢がちゃんと|叱っておいたから。=
 
 # A445C
-ここから先は通さんぞ～！|ニョロー=
-えっ、何、首が伸びてる！？=
-へぇ～、おもしろい手品だね。|ねぇ、君。仕掛けは|どうなってるの？教えてよ。=
-えっ、手品って……|いや、その……いいです、|サヨナラ！=
-にげちゃった。|手品とか言われたのが|ショックだったのかな？=
-な～んだ残念。教えて貰ったら|僕がやって支葵を驚かせよう|かと思ったのに。=
-アハハ……！=
-一条センパイって|本当、面白いですね……！=
-えっ？面白い？僕が？|へ～、意外だなあ。=
-自分の事なんて、|人から指摘して貰わないと|わからないじゃない？=
-そうだ、<name>ちゃん。|僕の良い所ってどこかな。|他にもあったら、教えてよ。=
-そうですね、一条センパイには|良い所がたくさんありますけど|あえて言うなら……=
+ここから先は通さんぞ～！|ニョロー=This is the end of the line for you~!  Slither~
+えっ、何、首が伸びてる！？=Ah- What-- It’s neck is getting longer!?
+へぇ～、おもしろい手品だね。|ねぇ、君。仕掛けは|どうなってるの？教えてよ。=Wow~ That’s an interesting trick. Hey, you. How does it work? Can you show me?
+えっ、手品って……|いや、その……いいです、|サヨナラ！=Huh, the trick...? No, that’s... nevermind-- Goodbye!
+にげちゃった。|手品とか言われたのが|ショックだったのかな？=They ran away. Maybe he was shocked when you called out?
+な～んだ残念。教えて貰ったら|僕がやって支葵を驚かせよう|かと思ったのに。=What a shame. If he told me what it was, I was thinking that I could scare Shiki.
+アハハ……！=Ahaha...!
+一条センパイって|本当、面白いですね……！=Ichijo, you really are a funny one.
+えっ？面白い？僕が？|へ～、意外だなあ。=Huh? Funny? Me? Wow~ I’m surprised.
+そうですか？@A445C=Really?
+自分の事なんて、|人から指摘して貰わないと|わからないじゃない？=How would I know that about myself unless someone else pointed it out?
+そうだ、<name>ちゃん。|僕の良い所ってどこかな。|他にもあったら、教えてよ。=I know, <name>. I want to know if I have any other good points, so tell me what you think.
+そうですね、一条センパイには|良い所がたくさんありますけど|あえて言うなら……=Well, I think you have many good points Ichijo, but if I had to pick...
 
 # A24F4
-明るくて|親しみやすい所かな？=
-へえ～。確かに|ナイト･クラスの中では親しみ|やすい方かも知れないね。=
-そんな一条センパイだから|ナイト･クラスの|みなさんもーー=
-副寮長として慕ってるのかな、|って思います。=
-フフ、やだなあ<name>ちゃん。|そんなにおだててもタブレット|くらいしか出ないよ？=
-いえ……いらないです。=
-でも、ありがとう。|素直に受け取っておくよ、|今の言葉。=
+明るくて|親しみやすい所かな？=I think your best points are the fact you’re always cheerful and people find it easy to make friends with you.
+へえ～。確かに|ナイト･クラスの中では親しみ|やすい方かも知れないね。=Hmm~ I guess that out of the Night Class, I might be the most approachable.
+そんな一条センパイだから|ナイト･クラスの|みなさんもーー=I imagine that you’re well liked in the Night Class...
+副寮長として慕ってるのかな、|って思います。=I mean, being the Vice-President of the Moon Dorm and all.
+フフ、やだなあ<name>ちゃん。|そんなにおだててもタブレット|くらいしか出ないよ？=Hehe, oh stop it <name>~ Even if you flatter me like that, the most I can give you is a Blood Tablet, you know?#tc
+いえ……いらないです。=I... don't want any.
+でも、ありがとう。|素直に受け取っておくよ、|今の言葉。=But, thank you. I’ll take your words onboard.
 
 # A2698
-二面性がある所です。=
-えっ？二面性？|僕、あるかな？そんなの。=
-一条センパイって、|いつもはニコニコしていて|穏やかなのにーー=
-もしかすると厳しい面も|あるのかなって思って。=
-ふ～ん。|<name>ちゃんって|想像力豊かなんだね。=
-そうですか？それで本当の所は|どうなんですか？=
-それは、ナ･イ･ショだね。|<name>ちゃん。=
+二面性がある所です。=It’s that you have two different sides to you.
+えっ？二面性？|僕、あるかな？そんなの。=Huh? Two-faced? Me? No way.
+一条センパイって、|いつもはニコニコしていて|穏やかなのにーー=Ichijo, you’re always smiling and relaxed, but...
+もしかすると厳しい面も|あるのかなって思って。=I think that you also have a tough side.
+ふ～ん。|<name>ちゃんって|想像力豊かなんだね。=Hmm. You have a rich imagination, <name>.
+そうですか？それで本当の所は|どうなんですか？=You think so? Then, what do you think is your best feature?
+それは、ナ･イ･ショだね。|<name>ちゃん。=That’s a se~cr~et, <name>.
 
 # A342C
-王子様っぽい所かな？=
-えっ？|王子様っぽい？僕が？=
-ナイト･クラスの|みなさんの中でも、|特に一条センパイはーー=
-上品というか|高貴な雰囲気が|漂ってる気がします。=
-ああ……それはきっと、|お祖父様に厳しく|育てられたからだよ。=
-礼儀作法から|立ち居振る舞いまで|もう、それはそれは厳しく……=
-ああ……お祖父様の事|思い出したら、何か|胃がキリキリしてきた……！=
-だ、大丈夫ですか？|もしかして私、嫌な事|思い出させちゃいました？=
-ごめんなさい、|一条センパイ……！=
+王子様っぽい所かな？=Maybe that you’re prince-like?
+えっ？|王子様っぽい？僕が？=Huh? Prince-like? Me?
+ナイト･クラスの|みなさんの中でも、|特に一条センパイはーー=Out of everyone in the Night Class, I think you’re the most...
+上品というか|高貴な雰囲気が|漂ってる気がします。=You have an air of elegance and nobility.
+ああ……それはきっと、|お祖父様に厳しく|育てられたからだよ。=Ah...That must be because of my strict upbringing from my grandfather.
+礼儀作法から|立ち居振る舞いまで|もう、それはそれは厳しく……=From etiquette to how to move properly, that’s how intense it was.
+そうなんですか？@A342C=Really?
+ああ……お祖父様の事|思い出したら、何か|胃がキリキリしてきた……！=Yeah...just thinking about my grandfather is giving me butterflies in my stomach...!
+だ、大丈夫ですか？|もしかして私、嫌な事|思い出させちゃいました？=A-Are you okay? Have I made you recall some unpleasant memories?
+ごめんなさい、|一条センパイ……！=I’m sorry, Ichijo...!
 
 # A609C
 ひっ！い、今、目の前を|ぬめっとした緑色の物体が…！=

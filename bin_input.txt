@@ -44,8 +44,8 @@
 <ch1>女の子が怖い？<00><04><0A><ch2>枢センパイが怖い？<00><05><0A><ch3>ブラッディローズが怖い？<00><06>=<ch1>“You’re scared of girls?”<00><04><0A><ch2>“You’re scared of Kaname?”<00><05><0A><ch3>“You’re scared of the Bloody Rose?”<00><06>
 <ch1>血が怖い<00><08><0A><ch2>枢センパイが怖い<00><09><0A><ch3>学校のテストが怖い<00><0A>=<ch1>“I’m scared of blood.”<00><08><0A><ch2>“I’m scared of Kaname.”<00><09><0A><ch3>“I’m scared of our exams.”<00>
 <ch1>好きです<00><00><0A><ch2>わかりません<00><01><0A><ch3>嫌いな人もいます<00><02>=<ch1>"Yes,I do."<00><00><0A><ch2>"I'm not sure."<00><01><0A><ch3>"I like some of them..."<00><02>
-<ch1>明るくて親しみやすい所<00><04><0A><ch2>二面性がある所<00><05><0A><ch3>高貴で王子様っぽい所<00><06>="You’re cheery and easy to be friends with."<00><04><0A><ch2>"Because there are two sides to you."<00><05><0A><ch3>"You’re like a prince."<00><06>
-<ch1>そうです<00><08><0A><ch2>みなさんが好きです<00><09><0A><ch3>一条センパイが好きです<00><0A>=
+<ch1>明るくて親しみやすい所<00><04><0A><ch2>二面性がある所<00><05><0A><ch3>高貴で王子様っぽい所<00><06>=<ch1>"You’re cheery and easy to be friends with."<00><04><0A><ch2>"Because there are two sides to you."<00><05><0A><ch3>"You’re like a prince."<00><06>
+<ch1>そうです<00><08><0A><ch2>みなさんが好きです<00><09><0A><ch3>一条センパイが好きです<00><0A>=<ch1>”That’s right.”<00><08><0A><ch2>”I like everyone.”<00><09><0A><ch3>”I like you, Ichijo.”<00><0A>
 <ch1>モデルのお仕事？<00><00><0A><ch2>女の子の事？<00><01><0A><ch3>学園生活の事？<00><02>=
 <ch1>私でも出来ますか？<00><04><0A><ch2>恥ずかしいです！<00><05><0A><ch3>人気モデルになっちゃう<00><06>=
 <ch1>全然興味ないですか？<00><08><0A><ch2>本当は楽しんでるんじゃ？<00><09><0A><ch3>好きな子と回りたかった？<00><0A>=
@@ -157,7 +157,7 @@
 <ch1>夜刈先生を責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
 <ch1>いいよ……零<00><06><0A><ch2>ちょっと待って……<00><07>=<ch1>“It’s okay, Zero...”<00><06><0A><ch2>“W-Wait a second...”<00><07>
 <ch1>うん<00><09><0A><ch2>やっぱり待って<00><0A>=<ch1>“Yes.”<00><09><0A><ch2>“A-Actually I--”<00><0A>
-<ch1>零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>“Zero!”<00><0C><0A><ch2>“No...　I’m scared...”<00><0D>
+<ch1>零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>“Zero!”<00><0C><0A><ch2>“No... I’m scared...”<00><0D>
 <ch1>何か方法はないかな…<00><03><0A><ch2>どうすればいいの？…零<00><04>=<ch1>“There must be some way to help...”<00><03><0A><ch2>“What should I do...?”<00><04>
 <ch1>タブレットを……<00><06><0A><ch2>私がなんとかする…零<00><07>=<ch1>“Maybe a blood tablet would...”<00><06><0A><ch2>“Maybe I could...”<00><07>
 <ch1>いいんだよ…零<00><09><0A><ch2>こらえて…零<00><0A>=<ch1>“It’s okay, Zero...”<00><09><0A><ch2>“Hang in there, Zero...”<00><0A>
@@ -171,7 +171,7 @@
 <ch1>ちょっと怖いんです…<00><03><0A><ch2>いいですよ。枢センパイなら…<00><04>=<ch1>“I’m a little scared...”<00><03><0A><ch2>“I’m okay. If it’s you, Kaname...”<00><04>
 <ch1>えっ、どうしよう……<00><06><0A><ch2>そんなことしたら……ダメです<00><07>=<ch1>“Huh? What should I...?”<00><06><0A><ch2>“In that case... we should stop.”<00><07>
 <ch1>わかりました|覚悟を決めました<00><09><0A><ch2>やっぱり待って下さい<00><0A>=<ch1>“I understand. I’m ready.”<00><09><0A><ch2>“Please wait a moment...”<00><0A>
-<ch1>枢センパイ！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>“Kaname!”<00><0C><0A><ch2>“No...　I’m scared...”<00><0D>
+<ch1>枢センパイ！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>“Kaname!”<00><0C><0A><ch2>“No... I’m scared...”<00><0D>
 <ch1>何のことでしょうか？<00><7F><0A><ch2>ダメです|ガマン…できませんか？<00><01>=<ch1>“What do you mean?”<00><7F><0A><ch2>“You mustn’t. Can’t you bear with it|a little longer?”<00><01>
 <ch1>本当にダメです…<00><03><0A><ch2>枢センパイの望みなら……<00><04>=<ch1>“We really shouldn’t...”<00><03><0A><ch2>“If it’s what you want...”<00><04>
 <ch1>わかりました……<00><05><0A><ch2>困ります…本当に<00><03>=<ch1>“I understand...”<00><05><0A><ch2>“I don’t think...”<00><03>
@@ -184,7 +184,7 @@
 <ch1>う～ん、じゃあいいです<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay.”<00><07><0A><ch2>“It’s not happening.”<00><08>
 <ch1>ええと……き、決めました<00><0C><0A><ch2>藍堂センパイにお任せします<00><0A>=<ch1>“A-Ah... I’ll choose.”<00><0C><0A><ch2>“I’ll leave it to you.”<00><0A>
 <ch1>藍堂センパイにお任せします<00><0A>=<ch1>“I’ll leave it to you.”<00><0A>
-<ch1>やっぱり……自分で決めます<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>“Actually...　I’ll pick.”<00><0C><0A><ch2>“Actually...　I’ve changed my mind.”<00><0D>
+<ch1>やっぱり……自分で決めます<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>“Actually... I’ll pick.”<00><0C><0A><ch2>“Actually... I’ve changed my mind.”<00><0D>
 <ch1>何がですか？<00><00><0A><ch2>ガマンしてください<00><01>=<ch1>“What are you talking about?”<00><00><0A><ch2>“Please get a hold of yourself.”<00><01>
 <ch1>別にいいですよ<00><03><0A><ch2>いやです<00><04>=<ch1>“Go ahead.”<00><03><0A><ch2>“You can’t.”<00><04>
 <ch1>う～ん、まぁ、いいかな……<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay...”<00><07><0A><ch2>“I’m not going to change my mind.”<00><08>

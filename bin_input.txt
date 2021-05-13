@@ -146,9 +146,9 @@
 <ch1>藍堂センパイに任せます<00><00><0A><ch2>架院センパイに任せます<00><01><0A><ch3>私に任せてください<00><02>=
 <ch1>藍堂センパイ、どうですか？<00><04><0A><ch2>架院センパイ、どうですか？<00><05><0A><ch3>私が味見します！<00><06>=
 <ch1>藍堂に任せる<00><08><0A><ch2>架院に任せる<00><09><0A><ch3>自分で調理する<00><0A>=
-<ch1>一条センパイお願いします<00><00><0A><ch2>支葵センパイお願いします<00><01><0A><ch3>私が作ります<00><02>=
-<ch1>一条センパイに任せる<00><00><0A><ch2>支葵センパイに任せる<00><01><0A><ch3>二人に任せる<00><02>=
-<ch1>一条センパイお願いします<00><08><0A><ch2>支葵センパイお願いします<00><09><0A><ch3>私に任せてください<00><0A>=
+<ch1>一条センパイお願いします<00><00><0A><ch2>支葵センパイお願いします<00><01><0A><ch3>私が作ります<00><02>=<ch1>"Can you do it, Ichijo?"<00><00><0A><ch2>"Can you do it, Shiki?"<00><01><0A><ch3>"Leave it to me."<00><02>
+<ch1>一条センパイに任せる<00><00><0A><ch2>支葵センパイに任せる<00><01><0A><ch3>二人に任せる<00><02>=<ch1>"Could you do it, Ichijo?"<00><00><0A><ch2>"Could you do it, Shiki?"<00><01><0A><ch3>"Could the two of you do it?"<00><02>
+<ch1>一条センパイお願いします<00><08><0A><ch2>支葵センパイお願いします<00><09><0A><ch3>私に任せてください<00><0A>=<ch1>”Will you do it, Ichijo?"<00><08><0A><ch2>”Will you do it, Shiki?"<00><09><0A><ch3><00><0A>
 <ch1>枢センパイを責める<00><00><0A><ch2>零を責める<00><01>=
 <ch1>藍堂センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
 <ch1>架院センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
@@ -11120,41 +11120,41 @@ I’m so happy.
 い、いえ！|何でもありません！=
 
 # A5A88
-タコさん、イカさん、そして|お魚たち。そんな悲しそうな|顔をしたってダメだよ？=
-僕たちはお腹が空いているん|だからね。これから君たちを|食べなくちゃいけないんだ。=
-一条センパイ、|魚介類に話しかけてる……=
-タコやイカに一条さんの情が|移る前に、さっさと始めようよ|風紀委員。=
-……そうですね。|あ、あの、一条センパイ！|そろそろ何か作りませんか？=
-うちの組だけ、出来上がりが|遅れると、みなさんを空腹の|まま待たせてしまうんで……=
-ああ、そうだね<name>ちゃん。|わかったよ。=
-それにしても、この金網、|どうやって手に入れたん|ですか？本格的……=
-島に流れ着いてた|ワイヤーくずで、|一条さんが作った。=
-え……？本当ですか？|すごいです！一条センパイ！=
-ふふ、別にそれくらい|たいした事ないよ。=
-何か、キャンプ場で|バーベキューしている様な|気分になってきました。=
-本当だね。|僕もワクワクして来たよ！|ねえ支葵、楽しいね。=
-とりあえず、おなか空いた。|さっさと作って食べようよ、|一条さん。=
-はいはい、わかったよ。|それじゃ、美味しいごはんの|ために、皆で頑張ろうね。=
-じゃあ、まずは簡単そうな|タコとイカを使って、|何か作りましょうか。=
-三人いっぺんに手を出したら、|ややこしい事になる。=
-言われてみればそうですね。|う～ん、誰に任せよう……？=
+タコさん、イカさん、そして|お魚たち。そんな悲しそうな|顔をしたってダメだよ？=Octor, Squidley, and you too, little Fishins, don't look so sad.
+僕たちはお腹が空いているん|だからね。これから君たちを|食べなくちゃいけないんだ。=I'm sorry, but we're hungry, so we have to eat you now, okay?
+一条センパイ、|魚介類に話しかけてる……=Ichijo, you named them?
+タコやイカに一条さんの情が|移る前に、さっさと始めようよ|風紀委員。=Prefect, let's hurry and get started before Ichijo gets too attached to the seafood.
+……そうですね。|あ、あの、一条センパイ！|そろそろ何か作りませんか？=...Yeah. U-Um, Ichijo! Shouldn't we make something now?
+うちの組だけ、出来上がりが|遅れると、みなさんを空腹の|まま待たせてしまうんで……=We don't want to be the only group to finish late and make everyone wait while they're still hungry.
+ああ、そうだね<name>ちゃん。|わかったよ。=Yes, you're absolutely right, <name>.
+それにしても、この金網、|どうやって手に入れたん|ですか？本格的……=By the way, where'd you get this wire screen? It's like one you would buy at the store.
+島に流れ着いてた|ワイヤーくずで、|一条さんが作った。=Ichijo made it out of some wire that washed up on shore.
+え……？本当ですか？|すごいです！一条センパイ！=Wait, really!? That's amazing, Ichijo!
+ふふ、別にそれくらい|たいした事ないよ。=Hmhmhm, it's nothing really. Anybody could have done it.
+何か、キャンプ場で|バーベキューしている様な|気分になってきました。=It's weird, but it almost feels like we're barbequing at a campsite.
+本当だね。|僕もワクワクして来たよ！|ねえ支葵、楽しいね。=It does, doesn't it? It's exciting! Hey, Shiki, this is fun, isn't it?
+とりあえず、おなか空いた。|さっさと作って食べようよ、|一条さん。=Right now I'm just hungry. Let's cook the food and eat already, Ichijo.
+はいはい、わかったよ。|それじゃ、美味しいごはんの|ために、皆で頑張ろうね。=Alright, alright. Let's get cooking and make something really tasty.
+じゃあ、まずは簡単そうな|タコとイカを使って、|何か作りましょうか。=Okay, let's start with the octopus and the squid first. They seem easier to prepare.
+三人いっぺんに手を出したら、|ややこしい事になる。=It'll be too complicated if we all try to do it at the same time.
+言われてみればそうですね。|う～ん、誰に任せよう……？=You're probably right. Hmm, who should we leave this to?
 
 # A3DB0
-じゃあ、タコとイカの料理は|一条センパイにお願いしても|いいですか？=
-もちろんだよ<name>ちゃん。|僕に任せておいて。|フフ、腕が鳴るよ！=
-（そう言ってニコっと笑うと、|一条センパイは、空高く|タコとイカを放り投げた）=
-わっ……！|い、一条センパイ、何を……？=
-（うわぁ……すごい！|宙に舞ったタコとイカが|一条センパイの包丁でーー）=
-（あっという間に、|キレイな輪切りに|なっちゃった……！）=
-（そして輪切りがそのまま、|網の上に並べられて行く！）=
-す……すごい！|すごいです、一条センパイ！|カッコいい……！=
-うん、すごい。|アクロバットみたい。=
-いやあ、やめてよ二人とも。|照れちゃうよ。=
-枢の作ってくれた、この|石包丁の切れがいいんだよ。=
-うん！|何か、早速いいにおいが|してきましたね……！=
+じゃあ、タコとイカの料理は|一条センパイにお願いしても|いいですか？=Well, could you cook the octopus and the squid, Ichijo?
+もちろんだよ<name>ちゃん。|僕に任せておいて。|フフ、腕が鳴るよ！=You've got it, <name>. I was hoping to do it anyway, hmhm!
+（そう言ってニコっと笑うと、|一条センパイは、空高く|タコとイカを放り投げた）=(Ichijo laughed and smiled as he said that. Then he tossed the octopus and the squid high in the air.)
+わっ……！|い、一条センパイ、何を……？=Waa! I-Ichijo, what're you...?
+（うわぁ……すごい！|宙に舞ったタコとイカが|一条センパイの包丁でーー）=(Wow! That's amazing! The octopus and squid danced and fluttered in the air.)
+（あっという間に、|キレイな輪切りに|なっちゃった……！）=(Ichijo sliced them cleanly with a knife as they hung in the air!)
+（そして輪切りがそのまま、|網の上に並べられて行く！）=(Then the slices fell onto the wire screen in neat rows!)
+す……すごい！|すごいです、一条センパイ！|カッコいい……！=Th-That was incredible, Ichijo! You looked so cool!
+うん、すごい。|アクロバットみたい。=That was impressive, like an acrobat.
+いやあ、やめてよ二人とも。|照れちゃうよ。=Oh, stop it, you two. You're making me blush.
+枢の作ってくれた、この|石包丁の切れがいいんだよ。=This stone knife Kaname made did all the work. It's extremely sharp.
+うん！|何か、早速いいにおいが|してきましたね……！=Hey, that smells good already!
 
 # A5000
-じゃあ、タコとイカの料理は|支葵センパイにお願いしても|いいですか？=
+じゃあ、タコとイカの料理は|支葵センパイにお願いしても|いいですか？=Well, could you cook the octopus and the squid, Shiki?
 んー……わかった。|メンドクサイけど、|やってみる。=
 風紀委員、下がってて。|危ないから。=
 え？危ないから……って、|何をするつもりなんですか？|支葵センパイ……わっ！！=
@@ -11194,21 +11194,21 @@ I’m so happy.
 はい、ありがとうございます、|一条センパイ……！=
 
 # A1464
-さて、次はこのサザエみたいな|大きな貝ですね。=
-これは簡単だよね。|ただ焼くだけで|いいんでしょう？=
-そうですね……|誰に焼いてもらおうかな？=
+さて、次はこのサザエみたいな|大きな貝ですね。=Now, let's do something with this big mollusk-looking thing.
+これは簡単だよね。|ただ焼くだけで|いいんでしょう？=That one's really simple. Just roast it over the fire, and that should do it.
+そうですね……|誰に焼いてもらおうかな？=Okay... So who's going to roast it?
 
 # A38CC
-じゃあ、貝を焼くのは|一条センパイに|お任せしてもいいですか？=
-うん、わかったよ。|<name>ちゃんと支葵は|別の作業してていいからね。=
-よろしくお願いします。|一条センパイ。=
-一条センパイ、|そろそろ焼けましたか……？|って、わっ！=
-な、何で貝が、全部輪切りに|なってるんですか？=
-え？だって、こうした方が|良く火が通ると思ってさ。|生焼けだと危ないでしょう？=
-ああ、つぼ焼きみたいにしたら|美味しそうだったのに……=
-あれ？<name>ちゃんの|そのリアクション……|僕、もしかして失敗した？=
-い、いえ……まだ|わかりませんよ！|食べてみたら意外とーー=
-おいしいかもしれませんし|……ね？=
+じゃあ、貝を焼くのは|一条センパイに|お任せしてもいいですか？=Well, since you know the most about it, could you roast it, Ichijo?
+うん、わかったよ。|<name>ちゃんと支葵は|別の作業してていいからね。=Yeah, no problem. And that way you and Shiki can take care of the other work
+よろしくお願いします。|一条センパイ。=Thanks, Shiki. I don't know what we'd do without you.
+一条センパイ、|そろそろ焼けましたか……？|って、わっ！=Ichijo, are they almost done cooking?|Oh wow...
+な、何で貝が、全部輪切りに|なってるんですか？=Wh-Why did you slice up all the shellfish?
+え？だって、こうした方が|良く火が通ると思ってさ。|生焼けだと危ないでしょう？=Huh? I thought it was better to cook them like this. I'm pretty sure they're dangerous to eat raw.
+ああ、つぼ焼きみたいにしたら|美味しそうだったのに……=Okay. I just think they look so tasty when they're cooked in their shell is all.
+あれ？<name>ちゃんの|そのリアクション……|僕、もしかして失敗した？=Oh no. Seeing your reaction, <name>, are you disappointed?
+い、いえ……まだ|わかりませんよ！|食べてみたら意外とーー=N-No, not at all. I haven't even tasted them yet!
+おいしいかもしれませんし|……ね？=Maybe I'll be surprised and they're even more scrumptious this way... Yeah?
 
 # A3DE0
 じゃあ、貝を焼くのは|支葵センパイに|お任せしてもいいですか？=
@@ -11243,23 +11243,23 @@ I’m so happy.
 一応、|焼いてみましょうか……=
 
 # A2064
-さあ、残るはお魚ですね。|すごい、キスがいっぱい！=
-白身でクセがないから、|どう料理してもきっと|おいしいよね。=
-そうですね。|お刺身でもいいし、|焼いてもいいし……=
-早くそれ、|片付けて終わりにしようよ。|俺、もう飽きた。こういうの。=
-わ、わかりました。|それじゃ、最後の魚料理は……=
+さあ、残るはお魚ですね。|すごい、キスがいっぱい！=Now, all that's left is the fish. Wow, there are so many kissers!
+白身でクセがないから、|どう料理してもきっと|おいしいよね。=It's white meat and there's nothing weird about it, so they should be good no matter how we prepare them.
+そうですね。|お刺身でもいいし、|焼いてもいいし……=So many possibilities. We could eat them raw like sushi or cook them over the fire...
+早くそれ、|片付けて終わりにしようよ。|俺、もう飽きた。こういうの。=Can we speed this up and finish already? I'm losing interest in all this.
+わ、わかりました。|それじゃ、最後の魚料理は……=R-Right. Just one more thing to prepare.
 
 # A34CC
-じゃあ、一条センパイに|お願いしていいですか？=
-うん、任せて。|というか、そこで見ていて。|すぐに終わるから。=
-え？すぐに終わるって|どういう意味……=
-（す、すごい……！あっという|間に、キスが一条センパイの|包丁でさばかれていく……！）=
-はい、出来上がり！|キスのお刺身だよ。|しかも、お頭付き！=
-わぁ～……鮮やかー！|お見事です、一条センパイ！=
-さすが、一条さん。=
-やだなあ……|二人とも、やめてよ！|恥ずかしいよ。=
-でも…もっとほめて。=
-とにかく、|無事に料理が完成して|良かったですね！=
+じゃあ、一条センパイに|お願いしていいですか？=Would you take care of it, Ichijo?
+うん、任せて。|というか、そこで見ていて。|すぐに終わるから。=Yeah, leave me to it. Don't go too far though, it'll be ready in no time.
+え？すぐに終わるって|どういう意味……=Huh? What do you mean it'll be ready in no time?
+（す、すごい……！あっという|間に、キスが一条センパイの|包丁でさばかれていく……！）=(Whoa! Ichijo prepared and fileted the kissers with his knife in an instant!)
+はい、出来上がり！|キスのお刺身だよ。|しかも、お頭付き！=And the fish is served! It's kisser sashimi, served whole even!
+わぁ～……鮮やかー！|お見事です、一条センパイ！=Waa, the presentation is amazing! You could serve this in a fancy restaurant, Ichijo!
+さすが、一条さん。=Impeccable as always, Ichijo.
+やだなあ……|二人とも、やめてよ！|恥ずかしいよ。=It's not so great. You two stop it! You're embarrassing me.
+でも…もっとほめて。=I do appreciate the praise though.
+とにかく、|無事に料理が完成して|良かったですね！=That's it, I guess. We prepared all the food without any problems. What a relief!
 
 # A5040
 じゃあ、支葵センパイ、|お願いします。|私と一条センパイはーー=

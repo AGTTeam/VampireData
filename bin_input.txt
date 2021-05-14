@@ -10,7 +10,7 @@
 <ch1>４章<00><00><0A><ch2>５章<00><01><0A><ch3>７章<00><02>=
 <ch1>高い<00><03><0A><ch2>中ぐらい<00><04><0A><ch3>ひくひくぴゅ～<00><05>=
 <ch1>かくれんぼ<00><7F><0A><ch2>持ち物検査<00><00><0A><ch3>持ち物整理<00><01>=
-<ch1>話しかける<00><00><0A><ch2>話しかけない<00><01>=<ch1>Say something.<00><00><0A><ch2>Don’t say anything.<00><01>
+<ch1>話しかける<00><00><0A><ch2>話しかけない<00><01>=<ch1>Say something to Aido.<00><00><0A><ch2>Don’t say anything.<00><01>
 <ch1>騒がしい声<00><00><0A><ch2>怪しい声<00><01>=<ch1>Rowdy voices.<00><00><0A><ch2>Mysterious voices.<00><01>
 <ch1>零の声<00><00><0A><ch2>女の子の悲鳴<00><01>=<ch1>Zero’s voice.<00><00><0A><ch2>A girl shrieking.<00><01>
 <ch1>はい<00><00><0A><ch2>いいえ<00><01>=<ch1>Yes<00><00><0A><ch2>No<00><01>
@@ -43,12 +43,12 @@
 <ch1>アダ名で呼んでいいですか<00><00><0A><ch2>このアダ名、好きですか<00><01><0A><ch3>本当にワイルドなんですか<00><02>=<ch1>“Can I call you that?”<00><00><0A><ch2>“Do you like that nickname?”<00><01><0A><ch3>“Are you really that wild?”<00><02>
 <ch1>女の子が怖い？<00><04><0A><ch2>枢センパイが怖い？<00><05><0A><ch3>ブラッディローズが怖い？<00><06>=<ch1>“You’re scared of girls?”<00><04><0A><ch2>“You’re scared of Kaname?”<00><05><0A><ch3>“You’re scared of the Bloody Rose?”<00><06>
 <ch1>血が怖い<00><08><0A><ch2>枢センパイが怖い<00><09><0A><ch3>学校のテストが怖い<00><0A>=<ch1>“I’m scared of blood.”<00><08><0A><ch2>“I’m scared of Kaname.”<00><09><0A><ch3>“I’m scared of our exams.”<00>
-<ch1>好きです<00><00><0A><ch2>わかりません<00><01><0A><ch3>嫌いな人もいます<00><02>=<ch1>“Yes,I do."<00><00><0A><ch2>“I'm not sure."<00><01><0A><ch3>“I like some of them..."<00><02>
-<ch1>明るくて親しみやすい所<00><04><0A><ch2>二面性がある所<00><05><0A><ch3>高貴で王子様っぽい所<00><06>=<ch1>“You’re cheery and easy to be friends with."<00><04><0A><ch2>“Because there are two sides to you."<00><05><0A><ch3>“You’re like a prince."<00><06>
-<ch1>そうです<00><08><0A><ch2>みなさんが好きです<00><09><0A><ch3>一条センパイが好きです<00><0A>=<ch1>“That’s right.”<00><08><0A><ch2>“I like everyone.”<00><09><0A><ch3>“I like you, Ichijo.”<00><0A>
-<ch1>モデルのお仕事？<00><00><0A><ch2>女の子の事？<00><01><0A><ch3>学園生活の事？<00><02>=
-<ch1>私でも出来ますか？<00><04><0A><ch2>恥ずかしいです！<00><05><0A><ch3>人気モデルになっちゃう<00><06>=
-<ch1>全然興味ないですか？<00><08><0A><ch2>本当は楽しんでるんじゃ？<00><09><0A><ch3>好きな子と回りたかった？<00><0A>=
+<ch1>好きです<00><00><0A><ch2>わかりません<00><01><0A><ch3>嫌いな人もいます<00><02>=<ch1>"Yes,I do."<00><00><0A><ch2>"I'm not sure."<00><01><0A><ch3>"I like some of them..."<00><02>
+<ch1>明るくて親しみやすい所<00><04><0A><ch2>二面性がある所<00><05><0A><ch3>高貴で王子様っぽい所<00><06>=<ch1>"You’re cheery and easy to be friends with."<00><04><0A><ch2>"Because there are two sides to you."<00><05><0A><ch3>"You’re like a prince."<00><06>
+<ch1>そうです<00><08><0A><ch2>みなさんが好きです<00><09><0A><ch3>一条センパイが好きです<00><0A>=<ch1>”That’s right.”<00><08><0A><ch2>”I like everyone.”<00><09><0A><ch3>”I like you, Ichijo.”<00><0A>
+<ch1>モデルのお仕事？<00><00><0A><ch2>女の子の事？<00><01><0A><ch3>学園生活の事？<00><02>=<ch1>"Your job as a model?"<00><00><0A><ch2>"Girls?"<00><01><0A><ch3>"Life at the Academy?"<00><02>
+<ch1>私でも出来ますか？<00><04><0A><ch2>恥ずかしいです！<00><05><0A><ch3>人気モデルになっちゃう<00><06>=<ch1>"Could I even do such a thing?"<00><04><0A><ch2>"It’s embarrassing!"<00><05><0A><ch3>"Maybe I’d be a popular model."<00><06>
+<ch1>全然興味ないですか？<00><08><0A><ch2>本当は楽しんでるんじゃ？<00><09><0A><ch3>好きな子と回りたかった？<00><0A>=<ch1>"Doesn’t it interest you at all?"<00><08><0A><ch2>"Are you actually enjoying yourself?"<00><09><0A><ch3>"Did you want to go around with someone special?"<00><0A>
 <ch1>お金持ちになりたい<00><00><0A><ch2>キレイになりたい<00><01><0A><ch3>ずっと元気でいたい<00><02>=<ch1>“To have a lot of money.”<00><00><0A><ch2>“To be beautiful.”<00><01><0A><ch3>“To always be well.”<00><02>
 <ch1>キレイになりたい<00><01><0A><ch2>ずっと元気でいたい<00><02>=<ch1>“To be beautiful.”<00><01><0A><ch2>“To always be well.”<00><02>
 <ch1>お金持ちになりたい<00><00><0A><ch2>ずっと元気でいたい<00><02>=<ch1>“To have a lot of money.”<00><00><0A><ch2>“To always be well.”<00><02>
@@ -146,9 +146,9 @@
 <ch1>藍堂センパイに任せます<00><00><0A><ch2>架院センパイに任せます<00><01><0A><ch3>私に任せてください<00><02>=
 <ch1>藍堂センパイ、どうですか？<00><04><0A><ch2>架院センパイ、どうですか？<00><05><0A><ch3>私が味見します！<00><06>=
 <ch1>藍堂に任せる<00><08><0A><ch2>架院に任せる<00><09><0A><ch3>自分で調理する<00><0A>=
-<ch1>一条センパイお願いします<00><00><0A><ch2>支葵センパイお願いします<00><01><0A><ch3>私が作ります<00><02>=<ch1>“Can you do it, Ichijo?"<00><00><0A><ch2>“Can you do it, Shiki?"<00><01><0A><ch3>“Leave it to me."<00><02>
-<ch1>一条センパイに任せる<00><00><0A><ch2>支葵センパイに任せる<00><01><0A><ch3>二人に任せる<00><02>=<ch1>“Could you do it, Ichijo?"<00><00><0A><ch2>“Could you do it, Shiki?"<00><01><0A><ch3>“Could the two of you do it?"<00><02>
-<ch1>一条センパイお願いします<00><08><0A><ch2>支葵センパイお願いします<00><09><0A><ch3>私に任せてください<00><0A>=<ch1>“Will you do it, Ichijo?"<00><08><0A><ch2>“Will you do it, Shiki?"<00><09><0A><ch3><00><0A>
+<ch1>一条センパイお願いします<00><00><0A><ch2>支葵センパイお願いします<00><01><0A><ch3>私が作ります<00><02>=
+<ch1>一条センパイに任せる<00><00><0A><ch2>支葵センパイに任せる<00><01><0A><ch3>二人に任せる<00><02>=
+<ch1>一条センパイお願いします<00><08><0A><ch2>支葵センパイお願いします<00><09><0A><ch3>私に任せてください<00><0A>=
 <ch1>枢センパイを責める<00><00><0A><ch2>零を責める<00><01>=
 <ch1>藍堂センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
 <ch1>架院センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
@@ -2346,10 +2346,10 @@ Save me, Shiki!
 俺の背中に隠れても無駄だよ、|一条さん。はみ出してるし。=There’s no use in hiding behind my back, Ichijo, you stick out.
 だって～！枢のあの顔！|僕も藍堂みたいに|お仕置きされちゃうよ～！=But-! That look on Kaname’s face! I’m going to get punished just like Aido~!
 僕は争いを好まない。|話し合いで解決しよう。|わかるだろう、一条？=I don’t like confrontation. Let’s settle this in a discussion. Understood, Ichijo?
-『話し合い』に深い意味が|含まれてるような気がするのは|僕だけかな……？=Am I the only one who thinks there’s some kind of hidden meaning behind that ‘discussion’...?
+『話し合い』に深い意味が|含まれてるような気がするのは|僕だけかな……？=Am I the only one who thinks there’s some kind of hidden meaning behind that 'discussion’...?
 一条と支葵には僕から|きちんと話して聞かせる。|それでいいよね？錐生くん。=I will have a good word with Ichijo and Shiki. Will that be acceptable, Kiryu?
 俺は無関係なのに……|これがとばっちりってヤツ？=This doesn’t concern me, but...
-Is this what they mean about being a ‘blow-by’?
+Is this what they mean about being a 'blow-by’?
 これで、彼女達から|今夜の記憶は消えた。|もう安心していいよ、<name>。=With this, their memories of tonight have been erased. You can rest assured now, <name>.#dupe
 礼などいらないよ。<name>。=There’s no need to thank me, <name>.
 い、いいえ！|ケガしたのは自分のせいだし|何ともないですから！=N-No! It was my own fault that I got hurt!
@@ -3045,7 +3045,7 @@ Should we get going?
 （私の心の奥を見透かす|ようなその視線がふわりと|揺れて……）=(It’s like his eyes could see directly into my heart...)
 （私は思わず黙り込んで|しまった）=(I instinctively fell silent.)
 
-# A186C if Aido wasn’t given the shop-bought chocolate, after choosing 聖ショコラトル·デー大活躍でしたね?
+# A186C if Aido wasn’t given the shop-bought chocolate, after choosing "聖ショコラトル·デー大活躍でしたね?
 <name>ちゃん、|見回りの最中なんでしょ？|サボってていいわけ？=<name>, you’re in the middle of a patrol, right? Is it okay for you to be slacking off?
 別にサボってるわけじゃ|ありませんって！=I’m not slacking off!
 それじゃあ、何？|僕に何か用でもあるの？=Then, what? Did you want something from me?
@@ -3564,7 +3564,7 @@ Sleep well...
 もしかして、今日って|皆既日食か何か？=Is there a solar eclipse or something today?
 お前……本当に知らないのか？|今日から３日間、３０年に|一度の『極夜』の日だ。=You really don’t know? For the next three days, it’s the “Polar Night", an event that only happens once every thirty years.#'Lengthy Night’ is the official translation on the game’s chapter screen.
 きょく……や？=Polar...?
-（零が言うところによれば、|極夜とは、白夜と真逆の現象|ーー）=(According to Zero’s explanation, ‘Polar Night’ is a phenomenon opposite to the ‘Midnight Sun’.)#'Midnight Sun’ is alternatively known as White Night
+（零が言うところによれば、|極夜とは、白夜と真逆の現象|ーー）=(According to Zero’s explanation, 'Polar Night’ is a phenomenon opposite to the 'Midnight Sun’.)#'Midnight Sun’ is alternatively known as White Night
 （つまり１日中、|陽が昇りきらない|日のことを言うらしい）=(That is to say, it’s a day where the sun doesn’t rise at all.)
 （３０年に一度やってくる|極夜……）=(A long night, which only occurs once in every thirty years...)
 （今日から丸３日間|太陽は昇らず、ずっと|夜の闇が続く……）=(The sun won’t rise for three days from today, and the darkness of the night will go unbroken...)
@@ -3935,7 +3935,7 @@ Sleep well...
 私、何かいけないことを|していますか！？=Is there something wrong with that!?
 ……ふん。まあいいや。|こんな話題で不機嫌に|なっている場合じゃないんだ。=...Hmph. Well, whatever. I guess this isn’t the time to talk about such things and get in a bad mood.
 だって|今日から３日間はずっと夜！=Because for the next three days, it’s going to be an unbroken night...
-ア･デイ･イン･ナイトなんだ|から！=Since it’s ‘a day in night’!
+ア･デイ･イン･ナイトなんだ|から！=Since it’s 'a day in night’!
 （やっぱり、ヴァンパイアに|とって夜が長いってそんなに|嬉しいもんなんだ……）=(So the vampires really are enjoying having this long night...)
 あ～あ、楽しみだなあ！|明日と明後日、|何して過ごそうかな？=Ahh~ I can’t wait! Tomorrow, and the day after that... How should I spend the time~?
 僕もデイ･クラスの授業に|おじゃましちゃおうかな？=I wonder if I should join the Day Class’s lesson too?
@@ -3956,7 +3956,7 @@ Sleep well...
 架院センパイ。|こんばんは。=Good evening, Kain.
 <last><name>……。|こんなところまで……。|俺に何か用か？=<name><last>... Coming all this way... Did you need something from me?
 夜の見回りをしてたら|何となくここまで|来ちゃったんです。=I was on my nightly rounds and somehow ended up coming here.
-いいのか？|風紀委員がなんとなくで。=Is that alright? For a prefect to end up here ‘somehow or another’.
+いいのか？|風紀委員がなんとなくで。=Is that alright? For a prefect to end up here 'somehow or another’.
 そ、そうですよね、|あはは……=Y-Yeah, of course.|Ah ha ha...
 ナイト･クラスには|不用意に近づかない方が|身のためだ。=For your own sake, you shouldn’t carelessly approach the Night Class.
 そうでなくてもあんたは|玖蘭寮長のお気に入り|って事でーー=Even if you are careful, you’re still President Kuran’s favorite...
@@ -3985,7 +3985,7 @@ Sleep well...
 特殊能力も正反対なんですね。|炎と氷、なんて。=Your special powers are also the exact opposite. Fire and ice...
 だからどうした？=And? What of it?
 あ……いえ、その、|いとこ同士だったらーー=Ah... no, just, since you’re cousins...
-使える『力』も同じような|ものなんじゃないかなって|思ったんですけど……=I thought you’d have the same kind of ‘powers’...
+使える『力』も同じような|ものなんじゃないかなって|思ったんですけど……=I thought you’d have the same kind of 'powers’...
 人間の浅はかな考えだな。|上級ヴァンパイアの特殊能力は|計り知れないものがある。=That’s a silly human preconception. The special powers of elite vampires aren’t something you can gauge.
 お前達人間には、|関係のない事だ。=They have nothing to do with you humans.
 （わっ……！どうしよう、|火の輪が、私の周りを|取り囲んでる……！）=(Woah...! I’ve been surrounded by a ring of fire...!)
@@ -4272,7 +4272,7 @@ Sleep well...
 ビッグニュースがあるんだよ。|しかもたった今、|決まったばかりの！=I have big news. And, it was only just decided!
 ビッグニュース？=Big news?
 うふふ、実はねえ……|明日は『極夜』も最終日と|言うことでーー=Hehe, actually... since tomorrow is the last day of the Polar Night, that is to say...
-スペシャルイベント、|デイ･クラス＆ナイト･クラス|合同肝試し大会をーー=It’s a special event. And so, a joint ‘test of courage’ between the Day Class and Night Class...
+スペシャルイベント、|デイ･クラス＆ナイト･クラス|合同肝試し大会をーー=It’s a special event. And so, a joint 'test of courage’ between the Day Class and Night Class...
 開催することに|なりました～！！=is going to be held~!
 きっ、肝試し！？|しかも、ナイト･クラスと|合同で！？=T-Test of courage!? And in conjunction with the Night Class!?
 くだらない。|何でわざわざそんな事を。=Ridiculous. Why should we bother with such a thing?
@@ -4313,7 +4313,7 @@ Sleep well...
 ……だったら最初から|あいつを選べば良かっただろ。=...Then you should have picked him from the outset.
 （あいつ、って枢センパイの事|言ってるのかな）=(By “him", does he mean Kaname?)
 （もしかして、一緒に回る|相手に選ばれたの、|迷惑だったかな？零……）=(Is he annoyed that I chose him to walk around with? Zero...)
-ったく、それにしても|何が肝試しだ。=Sheesh, anyway, what is this ‘test of courage’ supposed to be?
+ったく、それにしても|何が肝試しだ。=Sheesh, anyway, what is this 'test of courage’ supposed to be?
 ナイト･クラスの暇つぶしに|付き合わされるなんて、|こっちはいい迷惑だ。=Having to join in with the Night Class’s play time is a real nuisance.
 いいじゃない、たまには|息抜きも必要だよ。=What’s wrong with it? We all need to have a breather every once in a while.
 ほら、零も！|眉間にシワ寄せてないで、|楽しもうよ、ね？=That includes you too, Zero! Stop furrowing your brow, and let’s go have fun, okay?
@@ -4539,9 +4539,11 @@ Sleep well...
 ふふ……でも確かに|理事長の言う通り|貴重な体験かも。=Hehe... But like the headmaster said, this sure is a day to remember.
 まさかナイト･クラスの|みなさんと一緒に|花火が見られるなんて！=To think we’d be able to enjoy watching the fireworks all together!
 ね、枢センパイ……=Right, Kaname?
+枢センパイ……？@A3CF0=Kaname...?
 あ……|ごめんね、<name>。何？=Ah... Sorry, <name>. What is it?
 いえ、その、|キレイですねって……|それだけです。=Well, I-I was just thinking that it’s so pretty... That’s all.
 そうだね。|<name>との思い出が|また一つ増えて嬉しいよ。=You’re right. It makes me happy to be able to make another memory with you, <name>.
+え、ええ……@A3CF0=M-mm...
 （どうしたんだろう？|枢センパイ、何だか|うかない顔してた……）=(Is something wrong? The face that Kaname was making...)
 （ううん、別にそんなに|気にすることないよね）=(No, I’m probably overthinking things.)
 
@@ -4903,7 +4905,7 @@ Sleep well...
 とにかく、行きましょう。|この先に、お化け役の生徒が|沢山いるらしいですから。=A-Anyway, let’s get going. It looks like there are a lot of spooky students lying in wait.
 （架院センパイとは|あんまりしゃべった事|ないからーー）=(Since I’ve never really spoken that much with Kain before...)
 （この機会に少しでも|仲良くなれたらいいな）=(I hope we can get to know each other a little more.)
-（思い切って、１回|『ワイルド先輩』って|呼んでみようかな？）=(Should I try to go all out call him “Wild"?)
+（思い切って、１回|『ワイルド先輩』って|呼んでみようかな？）=(Should I try to go all out call him "Wild"?)
 あの、わ……わ……=Um.... W...Wi...
 ん？どうした<last>。|変な顔して。=Hm? What’s is it, <last>? You’re making a strange face.
 いえ、その、わ、わ、|ワイルド先輩！！=No, that’s-- W-Wi-Wild!!
@@ -4911,7 +4913,7 @@ Sleep well...
 # A2990 choose このアダ名で呼んでいいです
 これから私も、|架院センパイの事、この|アダ名で呼んでいいですか？=Is it alright if I use your nickname from now on?
 ……別に、<last>の|好きにすればいいだろ。=...You should do as you please, <last>.
-（うわあ……不機嫌そう。|本当は嫌なのかな、|ワイルドって呼ばれるの）=(Wow... He seems a bit grumpy. I guess he really doesn’t like being called ‘Wild’.)
+（うわあ……不機嫌そう。|本当は嫌なのかな、|ワイルドって呼ばれるの）=(Wow... He seems a bit grumpy. I guess he really doesn’t like being called 'Wild’.)
 や、やめます、やっぱり。=I-I’ll stop then.
 何だ？|言ったそばから。=What? You’re the one who brought it up.
 架院センパイ、あんまり|この呼び名、好きじゃない|みたいですし……=I thought it looked like you’re not overly fond of that nickname, Kain.
@@ -5073,7 +5075,7 @@ I’m so happy.
 （私って、そんな風に|見られてるんだ。|知らなかった……）=(So people see me like that. I had no idea...)
 こっそり僕が横から|脅かしちゃおうかな？|なんてね。はは。=Should I sneakily try to scare you whilst I’m walking next to you? Just kidding, haha.
 あ、護身用の刀。=Ah, that’s your sword for self-defense.
-悪いお化けから|<name>ちゃんを守らなきゃ！|って思ってね。=I just thought, “I must protect <name> from any bad monsters!"
+悪いお化けから|<name>ちゃんを守らなきゃ！|って思ってね。=I just thought, "I must protect <name> from any bad monsters!"
 あはは……！さすがに|本物のお化けは出ないから|大丈夫ですよ！=Ahaha...! Although, we will be alright because no real ghosts are going to show up!
 一条センパイって|いつも明るいし、優しいしーー=You’re always cheerful and kind, Ichijo...
 本当、ヴァンパイアっぽく|ないですね。=You’re nothing like a vampire.
@@ -5082,7 +5084,7 @@ I’m so happy.
 こんな事、僕が聞くのは|ヘンかもしれないけど、|君はヴァンパイア、好き？=This might be a weird thing for me to ask but, do you like vampires?
 
 # A192C
-好きです。普通の人は|『ヴァンパイア』って聞いたら|怖いって思うだろうけどーー=I like them. Normal people might be scared when they hear the word “vampire", but...
+好きです。普通の人は|『ヴァンパイア』って聞いたら|怖いって思うだろうけどーー=I like them. Normal people might be scared when they hear the word "vampire", but...
 一条センパイみたいな|優しいヴァンパイアもいる|って、私は、知ってますから。=I know that there are some kind vampires, like you, Ichijo.
 だから、私は好きですよ。|ナイト･クラスの皆さんも|一条センパイも……=That’s why I like them. Everyone in the Night Class, and you...
 ありがとう、<name>ちゃん。|そんな風に言って貰えて|嬉しいよ。=Thank you, <name>. It makes me happy to hear that from you.
@@ -5192,7 +5194,7 @@ I’m so happy.
 えっ……？|今の、どういう意味？=Huh...? What do you mean?
 あ、あの、えっと……|そういうアレじゃなくて……=U-Um, I didn’t mean... not in that way...
 人柄が好きとか、|尊敬できるとか|そういう意味で……=I like your personality, and I respect you...
-そ、そうなんだ……あはは。|すごい勢いで『好きです！』|なんて言うからーー=O-Oh right... Ahaha. You said “I like you" with such vigor, so I...
+そ、そうなんだ……あはは。|すごい勢いで『好きです！』|なんて言うからーー=O-Oh right... Ahaha. You said "I like you" with such vigour, so I...
 ビックリしたよ。|今日の肝試しの中で|多分、一番驚いたかな？=I was surprised. That might have been the most shocking thing from this test of courage!
 す、すみません……@A30B8=I-I’m sorry...
 フフ、でも今の言葉|枢が聞いたら怒るだろうから|僕の胸の中にしまっておくね。=Hehe, but if Kaname heard you say that he’ll get mad at me, so I’ll keep it tucked away in my heart.
@@ -5231,278 +5233,288 @@ I’m so happy.
 二人とも、ケンカはダメだよ。=Don’t fight, you two.
 ふぅ～ん。じゃ、一条さんは|私達といるより風紀委員と|一緒の方が楽しいの？=Hmph. So, Ichijo, you’re having more fun with the prefect than you do with us?
 う～ん、|そういうわけじゃないけど……=Well, I wouldn’t say that, but...
-一条センパイ、さっき|『楽しいね』って言ってくれた|じゃないですか。=Ichijo, you said you were “having fun" earlier, didn’t you?
+一条センパイ、さっき|『楽しいね』って言ってくれた|じゃないですか。=Ichijo, you said you were "having fun" earlier, didn’t you?
 あれは、遠矢センパイが|言うようにーー=Or, is it like Toya was saying...
 我慢して、私に付き合って|くれてただけなんですか……？=You’re just gritting your teeth and going along with my whims...?
 
 # A44C4
 あれ？|一条センパイに、|遠矢センパイ……=I-It’s different, <name>. Aren’t they both equally fun?
 デイ･クラスと|一緒なんて、絶対にイヤ。=Both being with the Day Class...
-他のみんなの気が知れない。|よくデイ･クラスの人間に|あんなに近寄れるよね。=
-支葵は優しいから、|我慢してくれてるのよ。=
-それ、どういう意味ですか？=
-じゃ、一条さんは私達と|いるよりデイ･クラスの人達と|一緒の方が楽しいの？=
-一条センパイ……|いつも私たちに優しく|してくれるじゃないですか。=
-それとも、遠矢センパイが|言うようにーー=
-我慢して優しく接してる|だけなんですか……？=
+他のみんなの気が知れない。|よくデイ･クラスの人間に|あんなに近寄れるよね。=I don’t know what the others were thinking. Getting close to the humans from Day Class like that...
+支葵は優しいから、|我慢してくれてるのよ。=Shiki is gentle, so he can bear with it.
+それ、どういう意味ですか？=What are you suggesting?
+じゃ、一条さんは私達と|いるよりデイ･クラスの人達と|一緒の方が楽しいの？=Ichijo, are you saying that you enjoy being with the Day Class more than being with us?
+一条センパイ……|いつも私たちに優しく|してくれるじゃないですか。=Ichijo... You’re always kind to us.
+それとも、遠矢センパイが|言うようにーー=Or, is it like Toya says...
+我慢して優しく接してる|だけなんですか……？=You’re just gritting your teeth and playing nice...?
 
 # A3454
-ち、違うよ<name>ちゃん。|僕たち、どっちも楽しいよ？=
-デイ･クラスの子と|一緒にいるのもーー=
-ナイト･クラスの|子と一緒にいるのも。|ね？支葵。そうだよね？=
-別に、どっちも同じ。|それより、早く|終わんないかな、肝試し。=
-支葵、どっちも同じって|どういう事？=
-もう、支葵ってば！|こういう時は話を|多少合わせるもんだよ。=
-そうなの？=
-（何か、おおごとに|なっちゃったな……）=
-（ムッとして思わず|反論しちゃったけど、|黙ってれば良かったかな）=
-えっ？|な、何？この音。=
+ち、違うよ<name>ちゃん。|僕たち、どっちも楽しいよ？=I-it’s different, <name>. Aren’t they both equally fun?
+デイ･クラスの子と|一緒にいるのもーー=Both being with the Day Class...
+ナイト･クラスの|子と一緒にいるのも。|ね？支葵。そうだよね？=and with the Night Class. Right, Shiki? Don’t you think so too?
+別に、どっちも同じ。|それより、早く|終わんないかな、肝試し。=It doesn’t matter either way. I’m more interested in when this test of courage will hurry up and end.
+支葵、どっちも同じって|どういう事？=Shiki, what do you mean, "it doesn’t matter either way"?
+もう、支葵ってば！|こういう時は話を|多少合わせるもんだよ。=Jeez, Shiki! At times like this, you’re supposed to support what I’m saying!
+そうなの？=Is that right?
+（何か、おおごとに|なっちゃったな……）=(It somehow turned into a big argument...)
+（ムッとして思わず|反論しちゃったけど、|黙ってれば良かったかな）=(I reflectively answered back in a huff, but maybe it would have been better to keep quiet.)
+えっ？|な、何？この音。=Huh? W-What? This sound...
 
 # A4868
-あの、支葵センパイ。=
-何？=
-もしかして、迷惑でしたか？|一緒に回って下さいって|お願いしたの……=
-そうだね。=
-（ううっ、そうハッキリ|言われると、ちょっと|傷つくな……）=
-（ち、沈黙が辛い……！|支葵センパイ、さっきから|何にもしゃべらないし……！）=
-（よし、こっちから|話をふってみよう）=
-支葵センパイ、ちょっと|聞いても良いですか？=
-どうせダメって言ったって|聞くんでしょ？=
-あ……ははは。|それはそうなんですけど。=
-支葵センパイの中で、今|一番興味のある事って|何ですか？=
+あの、支葵センパイ。=Um, Shiki...
+何？=What?
+もしかして、迷惑でしたか？|一緒に回って下さいって|お願いしたの……=Did I cause you trouble? Asking if we could go around together...
+そうだね。=Yeah.
+（ううっ、そうハッキリ|言われると、ちょっと|傷つくな……）=(Ack, an instant response. That stings...)
+（ち、沈黙が辛い……！|支葵センパイ、さっきから|何にもしゃべらないし……！）=(B-But the silence is worse...! Shiki hasn’t said a word since we got here...!)
+（よし、こっちから|話をふってみよう）=(Alright, let’s start the conversation from here.)
+支葵センパイ、ちょっと|聞いても良いですか？=Shiki, can I ask you something?
+どうせダメって言ったって|聞くんでしょ？=You’re going to even if I say no, right?
+あ……ははは。|それはそうなんですけど。=Ah... ha ha ha. I guess so, but...
+支葵センパイの中で、今|一番興味のある事って|何ですか？=Shiki, what do you find most interesting?
 
 # A0B94
-モデルのお仕事ですか？=
+モデルのお仕事ですか？=Is it your job as a model?
 
 # A2548
-別に。前も言ったけど、|なんとなくやってるだけだし。=
-そ、そうですか。=
-でも、莉磨がまじめに|しなさいっていうし。=
-いろんな所に行ったりするのは|キライじゃない。=
-それは、撮影用のスタジオとか|ロケとかですか？=
-うん。寮の中にばっかり居ても|退屈だから。=
-ふ～ん、なるほど……=
+別に。前も言ったけど、|なんとなくやってるだけだし。=Not really. Like I said before, I just ended up doing it.
+そ、そうですか。=I-I see.
+でも、莉磨がまじめに|しなさいっていうし。=But, Rima tells me that I should take it seriously.
+いろんな所に行ったりするのは|キライじゃない。=I don’t dislike travelling around.
+それは、撮影用のスタジオとか|ロケとかですか？=Do you mean like going to film sets or photo studios?
+うん。寮の中にばっかり居ても|退屈だから。=Yeah. It’s boring just to stay in the dorm.
+ふ～ん、なるほど……=Hmm, interesting...
 
 # A2A10
-女の子の事ですか？|支葵センパイのファン、|いっぱいいますもんね。=
-んー……|そういうのメンドクサイ。=
-デイ･クラスの女子って|ウルサイし……=
-騒がれるのって|あんまり好きじゃない。=
-ふ～ん、そうなんですか。=
-（何か、余計な事聞いて|しらけさせちゃったかな？）=
+女の子の事ですか？|支葵センパイのファン、|いっぱいいますもんね。=Is it girls? Shiki, you certainly have a lot of fans.
+んー……|そういうのメンドクサイ。=Hm... They’re a pain.
+えっ？@A2A10=Huh?
+デイ･クラスの女子って|ウルサイし……=The girls in the Day Class are noisy...
+騒がれるのって|あんまり好きじゃない。=I don’t like it when they make a big uproar.
+ふ～ん、そうなんですか。=Hmm, I think I get it.
+（何か、余計な事聞いて|しらけさせちゃったかな？）=(Is he getting bored of my questioning?)
 
 # A2210
-ナイト･クラスの|みなさんとの学園生活ですか？=
-んー……授業はあんまり|好きじゃない……=
-寮で一条さんたちと一緒に|いるのはキライじゃない。=
-へえ～、そうなんですね。|月の寮って、いつも|どんな感じなんですか？=
-藍堂さんがいつも|みんなに遊ばれてる。=
-あ、藍堂センパイが？|そうなんですか……=
+ナイト･クラスの|みなさんとの学園生活ですか？=Your everyday life with everyone in the Night Class?
+んー……授業はあんまり|好きじゃない……=Hm... I don’t really like the lessons...
+寮で一条さんたちと一緒に|いるのはキライじゃない。=But I don’t dislike being with Ichijo and the others in the dorm.
+へえ～、そうなんですね。|月の寮って、いつも|どんな感じなんですか？=Hmm~ What’s it normally like in the Moon Dorm?
+藍堂さんがいつも|みんなに遊ばれてる。=Aido always messes with everyone.
+あ、藍堂センパイが？|そうなんですか……=Oh, Aido does? I see...
 
 # A851C
-ここから先は通さんぞ～！=
-黒いマントに大きな牙……|えっ？まさかこれ、|ヴァンパイア？=
-お前の生き血を|すすってやる～！=
-わーっ！！わーっ！！|ダメ！それは禁止！！=
-ほら、引っ込んで！|やるなら別のお化けにして|下さい！=
-え～っ？何だよ～！|風紀委員～！=
-（うわぁ……まずい！|あんなベタな|ヴァンパイア見せられてーー）=
-（支葵センパイ、絶対|気を悪くしてるよ……！）=
-ねえ、ゴールまだ？=
-もう飽きた。|早く帰って寝たい。=
-あの……支葵センパイ、|怒ってないんですか？=
-何が？=
-あんなベタなヴァンパイア|出しやがって！みたいな……=
-別に。=
-（全然興味ないって感じ。|マイペースだなあ。|支葵センパイらしいけど）=
-支葵センパイって|撮影現場でも|こんな感じなんですか？=
-こんな感じって、|どんな感じ？=
-例えば、さっきみたいに|クールで、マイペースで、|何事にも動じない、みたいな。=
-クールでマイペース？|よくわかんないけど、|いつも通りやってるだけ。=
-（そういう所がまさに|クールでマイペース|だと思うんだけどな……）=
-でも、楽しそうですよね、|モデルなんて！=
-いろんな服着て、|プロのカメラマンに|写真撮ってもらえるなんて。=
-そうだね。一度、風紀委員も|やってみれば？=
-えっ？で、でも……=
+ここから先は通さんぞ～！=This is the end of the line for you~! 
+黒いマントに大きな牙……|えっ？まさかこれ、|ヴァンパイア？=A black cape and large fangs... huh? No way, a vampire?
+お前の生き血を|すすってやる～！=I’m going to suck out your lifeblood~!
+わーっ！！わーっ！！|ダメ！それは禁止！！=Grr!! Hyah!! Stop! That’s prohibited!!
+ほら、引っ込んで！|やるなら別のお化けにして|下さい！=Go on, crawl back to wherever you came from! If you don’t I’ll turn you into a different kind of monster!
+え～っ？何だよ～！|風紀委員～！=Huh? What the hell~! Miss Disciplinary Committee~?!
+（うわぁ……まずい！|あんなベタな|ヴァンパイア見せられてーー）=(Woah... That’s awful! What a cliche vampire costume...)
+（支葵センパイ、絶対|気を悪くしてるよ……！）=(Shiki is definitely going to be offended...!)
+ねえ、ゴールまだ？=Hey, are we still not at the goal?
+……えっ？@A851C=Huh?
+もう飽きた。|早く帰って寝たい。=I’ve had enough. I want to go home and sleep.
+あの……支葵センパイ、|怒ってないんですか？=Um... Shiki, aren’t you angry?
+何が？=About what?
+あんなベタなヴァンパイア|出しやがって！みたいな……=That such a cliche vampire popped out! That outfit...
+別に。=It doesn’t bother me.
+そ、そうですか。@A851C=I-I see.
+（全然興味ないって感じ。|マイペースだなあ。|支葵センパイらしいけど）=(He doesn’t seem to have any interest in it whatsoever. He’s just doing things his own way. Well, that is like Shiki, but...)
+支葵センパイって|撮影現場でも|こんな感じなんですか？=Do you feel like this when you’re on set for a photo shoot?
+こんな感じって、|どんな感じ？="Like this", being what?
+例えば、さっきみたいに|クールで、マイペースで、|何事にも動じない、みたいな。=Like before, you seemed calm, doing things at your own pace and not being fazed by anything.
+クールでマイペース？|よくわかんないけど、|いつも通りやってるだけ。=Calm and doing things at my own pace? I don’t really get it, I’m just doing what I normally do.
+（そういう所がまさに|クールでマイペース|だと思うんだけどな……）=(Saying stuff like that is the very definition of being chilled and laid-back.)
+でも、楽しそうですよね、|モデルなんて！=But, it looks like fun, being a model!
+いろんな服着て、|プロのカメラマンに|写真撮ってもらえるなんて。=Trying on all kinds of different clothes and having a professional photographer take pictures.
+そうだね。一度、風紀委員も|やってみれば？=Right. Why don’t you try it out once too, Disciplinary Committee Member?
+えっ？で、でも……=Huh? B-But...
 
 # A2484
-私でも出来ますか？=
-出来るんじゃない？=
-私、カメラ向けられても|笑えないですよ？=
-俺も笑ってないけど。=
-でも、カメラマンから|『こっちに笑顔ちょうだ～い』|とか言われないんですか？=
-言われてもやらない。|それに俺、そういう路線で|いいんだって。=
-そうですね……言われてみれば|支葵センパイの笑った顔って|見たことないかも。=
+私でも出来ますか？=Is that really possible for someone like me?
+出来るんじゃない？=You’re not up to it?
+私、カメラ向けられても|笑えないですよ？=Would I have to keep a straight face whilst looking at the camera?
+俺も笑ってないけど。=I don’t laugh either.
+でも、カメラマンから|『こっちに笑顔ちょうだ～い』|とか言われないんですか？=But, doesn’t the camera man ever ask you to "say cheese"?
+言われてもやらない。|それに俺、そういう路線で|いいんだって。=I wouldn’t do it even if I was told to. Besides, I think it’s fine to be like that.#tc
+そうですね……言われてみれば|支葵センパイの笑った顔って|見たことないかも。=Right... Now you mention it, I don’t think I’ve ever seen your smiling face.
 
 # A1D58
-恥ずかしいです！|そんな、たくさんの人に|じろじろ見られるなんて……=
-じゃあ、やるの|やめればいいんじゃない？=
-そ、そりゃそうですけど……=
-ふわぁ……眠い。=
-（会話、終わっちゃった。|本当、絡みづらい人だな）=
+恥ずかしいです！|そんな、たくさんの人に|じろじろ見られるなんて……=It’d be too embarrassing! There’s no way I could cope with having that many people staring at me...
+じゃあ、やるの|やめればいいんじゃない？=Then, why not just give up here?
+そ、そりゃそうですけど……=I-I guess you’re right, but...
+ふわぁ……眠い。=Yawn... I’m sleepy.
+（会話、終わっちゃった。|本当、絡みづらい人だな）=(With that, the conversation is over. He really is a hard person to get to know.)
 
 # A38F8
-人気モデルになっちゃったら|どうしましょう！？=
-もう、サングラスなしじゃ|街を歩けなくなったりして！=
-す、すみません、冗談です。=
-風紀委員って、|意外とあつかましいんだね。=
-うっ……すみません。|ムカつきましたか？=
-いいんじゃない？|人間って、みんなすぐ|謙遜したがるから。=
-そういうの、やだなって|いつも思ってた。=
-じゃあ、もう少し|あつかましくなっても|いいって事ですか？=
-うじうじ引っ込んでるよりは|いいと思うけど。=
-なるほど……=
+人気モデルになっちゃったら|どうしましょう！？=If I became a popular model, what then!?
+もう、サングラスなしじゃ|街を歩けなくなったりして！=I’d never be able to walk through town without wearing sunglasses ever again!
+す、すみません、冗談です。=S-Sorry, it was just a joke.
+風紀委員って、|意外とあつかましいんだね。=I’m surprised to hear a member of the Disciplinary Committee say something so brash.
+うっ……すみません。|ムカつきましたか？=Urk... I’m sorry. Did I offend you?
+いいんじゃない？|人間って、みんなすぐ|謙遜したがるから。=It’s fine, isn’t it? You human beings are always so quick to be humble.
+そういうの、やだなって|いつも思ってた。=So I thought you’d just say you didn’t want to try it.
+じゃあ、もう少し|あつかましくなっても|いいって事ですか？=Then, is it okay for me to be a bit bolder?
+うじうじ引っ込んでるよりは|いいと思うけど。=I think it’s better than being withdrawn.
+なるほど……=I see...
 
 # A5AD0
-うわっ……な、何あれ！|生首！？こっち来る！|きゃっ……！！=
-あ、あれ、一条さんのやつだ。=
-えっ？一条センパイ？=
-昨日の夜、鼻歌歌いながら、|ゴキゲンで作ってた。=
-あのリアルな生首を|ですか……？=
-うわあ……またこっちに来た！=
-ごめん一条さん、ジャマ。=
-わっ……！切り刻んじゃった。=
-いいんですか？|あっちの茂みからーー=
-『ヒドイよ、支葵！』|って、すすり泣く声が|聞こえますけど……=
-大丈夫。|あとでお菓子あげておくから。=
-そんなんでいいんだ……=
-でも、さっきの生首、|なかなかの力作でしたね。|私もかなりビックリしました。=
-そうなんだ。=
-……支葵センパイ、どういう|脅かし方されても|リアクションなしですね。=
-別に、反応しなきゃ|だめってわけでもないでしょ。=
-まあ、そうですけど……=
-支葵センパイ、|こういう肝試しみたいな|イベント事って……=
+うわっ……な、何あれ！|生首！？こっち来る！|きゃっ……！！=Aaah... w-what is that? A severed head!? It’s coming this way! Eeek...!
+あ、あれ、一条さんのやつだ。=Ah, that’s Ichijo’s.
+えっ？一条センパイ？=Huh? Ichijo?
+昨日の夜、鼻歌歌いながら、|ゴキゲンで作ってた。=He made it last night while humming and giggling to himself.
+あのリアルな生首を|ですか……？=He made such a realistic severed head...?
+うわあ……またこっちに来た！=Eeek... It’s coming this way again!
+ごめん一条さん、ジャマ。=Sorry Ichijo, it’s in the way.
+わっ……！切り刻んじゃった。=Wow...! You chopped it into pieces.
+いいんですか？|あっちの茂みからーー=Was that the right thing to do? From the bushes over there...
+『ヒドイよ、支葵！』|って、すすり泣く声が|聞こえますけど……=I thought I heard a sobbing voice say "that was cruel, Shiki!"
+大丈夫。|あとでお菓子あげておくから。=It’s fine. I’ll give him some sweets later.
+そんなんでいいんだ……=I-If you say so...
+でも、さっきの生首、|なかなかの力作でしたね。|私もかなりビックリしました。=But, that severed head from before was quite a work of art. I was really scared.
+そうなんだ。=Right.
+……支葵センパイ、どういう|脅かし方されても|リアクションなしですね。=...Shiki, you don’t show any kind of reaction no matter how someone tries to scare you.
+別に、反応しなきゃ|だめってわけでもないでしょ。=It’s not like I was really trying not to react though.
+まあ、そうですけど……=Well, that might be, but...
+支葵センパイ、|こういう肝試しみたいな|イベント事って……=Shiki, this test of courage...
 
 # A347C
-全然興味ないんですか？=
-興味がないのかどうかも|わからない。=
-う～ん、|それって、やっぱり|興味がないって事ですよ。=
-でも、いつもこう。=
-風紀委員は？楽しい？=
-楽しいですよ！|イベント事は大好きですから。=
-ふーん。|……いいね。=
-ごめんなさい、|何か単細胞っぽくて……=
-何であやまるの？|ほめたんだけど。=
-あ、そうなんですか……？=
+全然興味ないんですか？=Are you completely uninterested in the whole event?
+興味がないのかどうかも|わからない。="Uninterested"? I don’t know.
+う～ん、|それって、やっぱり|興味がないって事ですよ。=Well, saying that is like admitting it.
+でも、いつもこう。=I’m just the same as always.
+風紀委員は？楽しい？=And you, Prefect? Having fun?
+楽しいですよ！|イベント事は大好きですから。=I am! I love things like this!
+ふーん。|……いいね。=Hm... That’s nice.
+ごめんなさい、|何か単細胞っぽくて……=I’m sorry, I guess I must seem kind of childish...
+何であやまるの？|ほめたんだけど。=What are you aplogising for? It was a compliment.
+あ、そうなんですか……？=Oh, really...?
 
 # A2A30
-本当は楽しんでるんでしょう？=
-本当は、ってどういう意味？=
-あ……その、もしかして|支葵センパイ、わざとーー=
-はしゃぎたい気持ちを|ぐっとこらえて|クールに決めてるのかなって。=
-何？それ。そんなことする|意味がわかんない。=
-クールに決めて自分を|かっこよく見せようとか……=
-興味ない、そんなの。=
-そうですか……すみません。=
+本当は楽しんでるんでしょう？=Maybe you’re really having fun?
+本当は、ってどういう意味？=What do you mean by "really"? 
+あ……その、もしかして|支葵センパイ、わざとーー=Ah... um, maybe Shiki, you’re purposefully...
+はしゃぎたい気持ちを|ぐっとこらえて|クールに決めてるのかなって。=trying to resist letting your hair down, because you decided to stay detached.
+何？それ。そんなことする|意味がわかんない。=What? I have no idea what you mean.
+クールに決めて自分を|かっこよく見せようとか……=Wanting to look cool, so choosing to be calm and unfazed.
+興味ない、そんなの。=I’m not interested in things like that.
+そうですか……すみません。=I see... Sorry for suggesting it.
 
 # A34A4
-好きな子と一緒に回ったら、|もっと楽しんでましたか？=
-好きな子って、例えば？=
-そうですね……|いつも仲良くしてる|遠矢センパイとか。=
-莉磨もこういうの|好きじゃないと思う。=
-莉磨と俺とだったら|ずっと黙ってそう。|でも、今日はーー=
-風紀委員がいっぱい|話しかけて来るから、|俺もいつもより話してる。=
-よかった。少しは楽しんで|もらえましたか？肝試し。=
-良くわかんないけど。=
-（でも、いつもより|口数が多いってことは）=
-（少しはテンション|上がってるって事だよね？）=
+好きな子と一緒に回ったら、|もっと楽しんでましたか？=If you were going around with someone you liked, do you think you’d have more fun?
+好きな子って、例えば？="Someone I like"... like who?
+そうですね……|いつも仲良くしてる|遠矢センパイとか。=Well... It seems like you get on well with Toya.
+莉磨もこういうの|好きじゃないと思う。=I don’t think Rima would like this kind of thing.
+莉磨と俺とだったら|ずっと黙ってそう。|でも、今日はーー=If I went round with Rima, I wouldn’t say anything. But today...
+風紀委員がいっぱい|話しかけて来るから、|俺もいつもより話してる。=Because you talk a lot, I’ve been saying more than usual.
+よかった。少しは楽しんで|もらえましたか？肝試し。=I’m glad. Have you enjoyed today’s test of courage, even a little?
+良くわかんないけど。=I don’t really know.
+（でも、いつもより|口数が多いってことは）=(But, he’s done a lot more talking than normal...)
+（少しはテンション|上がってるって事だよね？）=(So maybe he has perked up a little?)
 
 # A4D28
-あー……ゴールまだ？|早く終わらないかな。=
-確かにそろそろ|見えてきてもいい頃ですよね。=
-ウオオオオオーン！！！=
-キャーッ！！|何！？今の！！=
-雄叫び。=
-オオカミ人間の|つもりかな……？=
-架院さんだ。|…………………プ。=
-あれ？支葵センパイ、|今、笑いました？=
-え？笑ってないけど。=
-でもさっき、ちょこっと|微笑んだような気が……=
-笑ってない。=
-（強情だなあ。|でも、支葵センパイの|笑顔なんてーー）=
-（なかなか見れないよね。|そう思ったら、さっきのは|すごい貴重かも！）=
+あー……ゴールまだ？|早く終わらないかな。=Ah... We still haven’t reached the goal? I can’t wait for this to be over.
+確かにそろそろ|見えてきてもいい頃ですよね。=It does feel like it’s about time we reached it.
+ウオオオオオーン！！！=Awoooo!!!
+キャーッ！！|何！？今の！！=Wha-!! What!? Just then--!!
+雄叫び。=A howl.
+ウオオオオオーン！！！@A4D28=Awoooo!!
+オオカミ人間の|つもりかな……？=Is it supposed to be a werewolf...?
+架院さんだ。|…………………プ。=It’s Kain. .............Pfft.
+あれ？支葵センパイ、|今、笑いました？=Hm? Shiki, did you laugh just then...?
+え？笑ってないけど。=Huh? I wasn’t laughing.
+でもさっき、ちょこっと|微笑んだような気が……=But I’m sure I saw you smile for a second...
+笑ってない。=I wasn’t.
+（強情だなあ。|でも、支葵センパイの|笑顔なんてーー）=(He’s being stubborn. But, Shiki’s smiling face...)
+（なかなか見れないよね。|そう思ったら、さっきのは|すごい貴重かも！）=(I couldn’t quite see it. Though, I bet it was really precious!)
+あれ？一条センパイに、遠矢センパイ……@A4D28=Huh? Ichijo, Toya...
+デイ･クラスと一緒なんて、絶対にイヤ。@A4D28=I refused to go with someone from the Day Class.
 
 # AE74C
-（ふう、一時はどうなる事かと|思ったけどーー）=
-（ナイト･クラスの意外な|一面も見れたことだしーー）=
-（楽しかったな、肝試し！）=
-（さてと、それでは|気持ちを切り替えて……）=
-は～い！！|デイ･クラスのみなさ～ん！！=
-盛り上がりたい気持ちは|わかりますけど、|寮に戻る時間です！=
-えーっ！？=
-もう少し|ナイト･クラスの皆様と|おしゃべりした～い！！=
-規則は規則ですから！|はい、戻った戻った！=
-や～ん！|アイドル先輩～！！=
-また、お話してくださいね～？=
-（もう！みんないつもより|興奮してるから、|なかなか寮に戻らないよ！）=
-（しかも、こんな時に限って|零のヤツ、いないし！|仕事放棄？）=
+（ふう、一時はどうなる事かと|思ったけどーー）=(I was worried about how it was going to turn out, but...)
+（ナイト･クラスの意外な|一面も見れたことだしーー）=(I was able to see an unexpected side of the Night Class...)
+（楽しかったな、肝試し！）=(Doing that test of courage was so much fun!)
+（さてと、それでは|気持ちを切り替えて……）=(Okay, time to get my head into gear...)
+は～い！！|デイ･クラスのみなさ～ん！！=Alright!! Day Class!!
+盛り上がりたい気持ちは|わかりますけど、|寮に戻る時間です！=I know you’re all riled up, but it’s time to return to your dorms!
+えーっ！？=Whaaat!?
+もう少し|ナイト･クラスの皆様と|おしゃべりした～い！！=Let us talk to the Night Class a little more~!!
+規則は規則ですから！|はい、戻った戻った！=Rules are rules! Right, it’s time to go, get a move on!
+や～ん！|アイドル先輩～！！=Nooo! Idol~!!
+また、お話してくださいね～？=Please chat with us again sometime, okay~?
+（もう！みんないつもより|興奮してるから、|なかなか寮に戻らないよ！）=(Agh! Everyone is more excited than normal, so it’s even harder to get them to go back to their dorms!)
+（しかも、こんな時に限って|零のヤツ、いないし！|仕事放棄？）=(Plus, when I needed him more than ever, Zero isn’t here! Has he abandoned his job?!)
 しばらく後……=Some time later...
-ふう……やっとみんな|帰ったかな？=
-それにしても零、|どこ行ったんだろう？|……探しに行こうかな。=
-風紀委員さん、ご苦労様。=
-あれ……枢センパイ。|まだ、ここに|いらっしゃったんですか？=
-ちょっときみと話がしたくて。|ねえ、<name>、|今日は、楽しかった？=
-はい！とっても！=
-それなら、良かった。|<name>が楽しければ|それでいいんだ。=
-あ……はは……=
-（そんな事、面と向かって|言われると照れちゃうな）=
-いつも今日の肝試しみたいに|ナイト･クラスの皆さんとーー=
-打ち解けて話せたら、|楽しいですよね。=
-あ……でもそうしたら、|今まで以上に風紀委員の仕事が|大変になっちゃいますね！=
-風紀委員……|もう一人の風紀委員は|どこに行ったのかな？=
-さっきから姿が見えなくて。|どうせまたサボリです、|零のやつ。=
-そう……ねえ、<name>。|彼……錐生君には|気をつけて。=
-（枢センパイは、私に|そうつぶやくと）=
-（憂いを含んだ表情のまま|月の寮へと帰っていった）=
-零に気をつけて……って|一体どういう意味なんだろう？=
-零ー？いないの？|本当、どこ行っちゃったん|だろう……=
-まだ自分の部屋にも|戻ってないみたいだし……=
-ハァ……ハァ……=
-！！|ぜ……零？そこに……いるの？=
-<name>……|こっちに……来るな！|ひとりにしてくれ……！=
-バカ！そんな具合悪そうに|してるのに放っとけるわけ|ないでしょ！？=
-見るな……！！=
-ハァッ……ハァッ……=
-ぜ、零……！？|ちょっ……どうしたの？|放して……！！=
-（え……？|零が、私の首に……|咬み付いてる！？）=
-（な、何……？|なんなの、これは……！！）=
-零っ……！！|やっ……やめて……|いやっ……！！=
-（血色に底光りする瞳ーー）=
-（唇からみだらに|こぼれる牙ーー）=
-（人の形をした猛獣のーー|それが真の姿）=
-どう……して……=
-（零が……ヴァンパイア？）=
-ぜ……零っ……！？=
-ハアッ……ハアッ……=
-（こわい……！零、もしかして|理性を失ってる……？）=
-零っ！やめっ……=
-！？=
-まさかこの銃で|かわいい教え子を始末する|ことになろうとはなぁ。=
-俺を恨みながら逝け。|ヴァンパイア……！=
-師……匠……=
-ま、待って……！|あなたは、誰？=
-ヴァンパイアハンター、|夜刈十牙。零の昔の|師匠サマだ。なあ、零？=
-零を、どうするつもり？=
-決まってるだろう？|理性を失ったヴァンパイアは|……始末する！=
-そこまでーっ！！=
-これだから|ヴァンパイアハンターは|嫌いなんだよ……！=
-銃声が聞こえたから|気になって来てみれば！=
-ほらほら、そんな物騒なもん|引っ込めて！=
-威嚇射撃しただけだ。|そんなにぎゃあぎゃあ|わめくな。=
-ああ……<name>。|大丈夫かい？びっくりしたね？|可哀そうに、こんなに血が……=
-とりあえず、いったん|理事長室に戻ろう？|錐生くんも……ね？=
-（その晩……理事長から私が|初めて聞かされた真実ーー）=
-（人間とヴァンパイアとの|間で繰り返し行われてきた、|その歴史をーー）=
-（私は目の当たりにする事と|なった……）=
-（４年前、|零を襲ったヴァンパイアは、|純血種だったことーー）=
-（純血種の牙にかかった|人間は、ヴァンパイアに|変異することーー）=
-（そして、零のような|元人間のヴァンパイアは|遅かれ早かれーー）=
-（徐々に理性を蝕まれ|『ＬＥＶＥＬ：ＥＮＤ』|限界･破滅へ行き着きーー）=
-（際限なく血に飢え、|手当たり次第人間を|襲うようになるーー）=
-（『レベル：Ｅ』へと|堕ちていく……）=
-（いつか私に襲い掛かった|あのヴァンパイアと|同じようにーー）=
-（零が……|なってしまうっていうの？）=
-（人とヴァンパイアは|やはり相容れないものなの？）=
+ふう……やっとみんな|帰ったかな？=Phew... Is that everyone finally back?
+それにしても零、|どこ行ったんだろう？|……探しに行こうかな。=Still, just where did Zero disappear to? ...I should look for him.
+風紀委員さん、ご苦労様。=Thanks for your hard work, Miss Disciplinary Committee.
+あれ……枢センパイ。|まだ、ここに|いらっしゃったんですか？=Ah... Kaname. What are you doing back here?
+ちょっときみと話がしたくて。|ねえ、<name>、|今日は、楽しかった？=I just wanted to talk to you for a bit. Say, <name>, did you have fun today?
+はい！とっても！=Yes! Loads!
+それなら、良かった。|<name>が楽しければ|それでいいんだ。=I’m glad to hear that. If you had fun, that’s all that matters.
+あ……はは……=Ah...ha ha...
+（そんな事、面と向かって|言われると照れちゃうな）=(I can’t help but feel embarrassed when he says that to my face.)
+いつも今日の肝試しみたいに|ナイト･クラスの皆さんとーー=Whether it’s the test of courage or doing other things, being with the Night Class...
+打ち解けて話せたら、|楽しいですよね。=and talking to them without having to watch what I say is always fun.
+あ……でもそうしたら、|今まで以上に風紀委員の仕事が|大変になっちゃいますね！=Ah... But today, it was even harder to do my job as a prefect!
+風紀委員……|もう一人の風紀委員は|どこに行ったのかな？="As a prefect"... Where has the other one gone?
+さっきから姿が見えなくて。|どうせまたサボリです、|零のやつ。=I haven’t seen him in a while. He’s probably off playing hooky again, that Zero.
+そう……ねえ、<name>。|彼……錐生君には|気をつけて。=Right... Hey, <name>. He... Be careful around Kiryu.
+え……？@AE74C=Huh...?
+（枢センパイは、私に|そうつぶやくと）=(Kaname quietly mumbled to me.)
+（憂いを含んだ表情のまま|月の寮へと帰っていった）=(Then, he headed back to the Moon Dorm with a troubled expression.)
+零に気をつけて……って|一体どういう意味なんだろう？="Be careful around Zero"... What does he mean?
+零ー？いないの？|本当、どこ行っちゃったん|だろう……=Zero? Are you here? Jeez, where on earth could he have got to...
+まだ自分の部屋にも|戻ってないみたいだし……=It looks like he hasn’t been back to his room yet...
+ハァ……ハァ……=Huff... huff...
+！！|ぜ……零？そこに……いるの？=!! Z...Zero? Are you there...?
+<name>……|こっちに……来るな！|ひとりにしてくれ……！=<name>... Don’t come... near me! Leave me alone...!
+バカ！そんな具合悪そうに|してるのに放っとけるわけ|ないでしょ！？=You idiot! Why did you run off if you were in such a bad state!?
+零……！！@AE74C=Zero...!
+見るな……！！=Don’t look...!
+えっ……？@AE74C=Huh...?
+ハァッ……ハァッ……=Haa... haa....
+ぜ、零……！？|ちょっ……どうしたの？|放して……！！=Z-Zero...!? Wha... what are you doing? Let go...!!
+（え……？|零が、私の首に……|咬み付いてる！？）=(Huh...? Zero has... bitten my neck!?)
+（な、何……？|なんなの、これは……！！）=(W-what...? What’s going on...!!?)
+零っ……！！|やっ……やめて……|いやっ……！！=Zero...!! St...Stop... Nooo...!!
+（血色に底光りする瞳ーー）=(Eyes with a blood-coloured lustre...)
+（唇からみだらに|こぼれる牙ーー）=(Fangs protruding obscenely from his lips...)
+（人の形をした猛獣のーー|それが真の姿）=(A beast in human form... This is his true self.)
+<name>...@AE74C=<name>...
+どう……して……=Why...?
+（零が……ヴァンパイア？）=(Zero is... a vampire?)
+ぜ……零っ……！？=Z...Zero...!?
+ハアッ……ハアッ……=Haa... haa....
+（こわい……！零、もしかして|理性を失ってる……？）=(I’m scared...! Has he lost all reason...?)
+零っ！やめっ……=Zero! Stop...
+！？=!?
+まさかこの銃で|かわいい教え子を始末する|ことになろうとはなぁ。=I never thought I’d be killing my dear student with this gun.
+俺を恨みながら逝け。|ヴァンパイア……！=Curse me with your last breath and die, vampire...!
+師……匠……=Mas...ter...
+ま、待って……！|あなたは、誰？=W-Wait a sec...! Just who are you?
+ヴァンパイアハンター、|夜刈十牙。零の昔の|師匠サマだ。なあ、零？=A vampire hunter, name’s Toga Yagari. I’m Zero’s former master. Right Zero?
+零を、どうするつもり？=What do you intend to do to Zero?
+決まってるだろう？|理性を失ったヴァンパイアは|……始末する！=Isn’t that obvious? A vampires that has lost all sense... needs to be taken care of!
+そこまでーっ！！=Hold it right there!!
+これだから|ヴァンパイアハンターは|嫌いなんだよ……！=This is why I hate vampire hunters...!
+銃声が聞こえたから|気になって来てみれば！=I thought I heard gunshots so I came to look!
+ほらほら、そんな物騒なもん|引っ込めて！=Come on, put that dangerous thing away!
+威嚇射撃しただけだ。|そんなにぎゃあぎゃあ|わめくな。=It was just a warning shot. Stop making such a ruckus.
+ああ……<name>。|大丈夫かい？びっくりしたね？|可哀そうに、こんなに血が……=Ah... <name>. Are you okay? Not too shaken up? All this blood, how awful...
+とりあえず、いったん|理事長室に戻ろう？|錐生くんも……ね？=For the time being, why don’t we head back to my office? Kiryu too... okay?
+（その晩……理事長から私が|初めて聞かされた真実ーー）=(That evening... The headmaster told me the truth for the first time...)
+（人間とヴァンパイアとの|間で繰り返し行われてきた、|その歴史をーー）=(The endless cycle between humans and vampires...)
+（私は目の当たりにする事と|なった……）=(A cruel fate that I experienced first-hand...)
+（４年前、|零を襲ったヴァンパイアは、|純血種だったことーー）=(4 years ago, Zero was attacked by a pureblooded vampire...)
+（純血種の牙にかかった|人間は、ヴァンパイアに|変異することーー）=(When a pureblood’s fangs pierce a human, that person is transformed into a vampire.)
+（そして、零のような|元人間のヴァンパイアは|遅かれ早かれーー）=(And, for an former human vampire like Zero, sooner or later...)
+（徐々に理性を蝕まれ|『ＬＥＶＥＬ：ＥＮＤ』|限界･破滅へ行き着きーー）=(they’ll gradually lose their sense, and reach their limits, "Level: END", their destruction.)
+（際限なく血に飢え、|手当たり次第人間を|襲うようになるーー）=(In their endless thirst for blood, they start attacking people indiscriminately.)
+（『レベル：Ｅ』へと|堕ちていく……）=(Falling to "Level: E"...)
+（いつか私に襲い掛かった|あのヴァンパイアと|同じようにーー）=(Like the vampire who attacked me, someday...)
+（零が……|なってしまうっていうの？）=(the same thing will happen to... Zero?)
+（人とヴァンパイアは|やはり相容れないものなの？）=(Are humans and vampires incapable of living in peace after all?)
 
 # AE8A8
 （天気のいい午前中……）=
@@ -7664,7 +7676,7 @@ I’m so happy.
 さっきのって……何？|本気？それともウケねらい？=About earlier... Is it true or were you just aiming for laughs?
 どっちでもないですっ。|あれは誤解なんです。=Neither! It was just a misunderstanding.
 街で偶然迷子の子供に|クライングローズをもらった|後にインタビューされて……=
-ふ～ん、偶然ね。|じゃ、クライングローズの|意味って知ってる？=A coincidence, hm? Well, do you know the significance of the Crying Rose?
+ふ～ん、偶然ね。|じゃ、クライングローズの|意味って知ってる？=A coincidence, hm?. Well, do you know the significance of the Crying Rose?
 いいえ。あのバラ自体|初めて見たから……=No. That was the first time I had ever even seen that rose.
 ホントに知らない？=You really don't know?
 ホントですっ！もう！|支葵センパイって結構|ねちっこいんですね！=How many times do I have to say it!? Rrgh! You're so stubborn, Shiki!
@@ -9185,12 +9197,12 @@ I’m so happy.
 結局まやかしながらも、|友好関係を結んだところでーー=When all’s said and done, we’ve established friendly relations, even if it’s all a sham.
 俺達はタブレットを食べるしか|ないわけですから。=That’s why we only eat blood tablets.
 いっそのこと大胆な発想に|変えてみるというのは？=But, what if we were to try something daring?
-つまり、ある程度の犠牲を|容認する、とか？=In short, accept a certain amount of sacrifices or something?
+つまり、ある程度の犠牲を|容認する、とか？=In short, accept a certain amount of sacrifices or somthing?
 『食べ物の恨みは怖い』|というのはーー=They say that grudges over food are a frightful thing...
 はるか大昔から、|『最近の若い者はなっとらん』|とならんでーー=which is the equivalent of the age-old complaint, “today’s young people have no manners”.
 人間界で|何千年と語り継がれた事だ。=They’re sentiments which have been passed down in human history for hundreds of years.
 結局、食う食われるの|関係の中でーー=In the end, as far as the saying to “eat or be eaten” goes...
-お前らが一方的に本能を抑え|こまれるわけだからなーー=You are the ones who are having to one-sidedly suppress your natural instinct.
+お前らが一方的に本能を抑え|こまれるわけだからなーー=You are the one’s who are having to one-sidedly suppress your natural instinct.
 その事は、同情するよ。|まあ当たり前なんだがな。=I pity you for that. Well, it is only natural, though.
 同情してくださるというなら、|たとえば血を提供してもらえた|ほうがーー=If we are to be pitied then, how about donating your blood, for example?
 喜ぶやつは|多いと思いますがね？=I’m sure there’d be plenty of people who’d be only too pleased to do so, no?
@@ -9232,21 +9244,21 @@ I’m so happy.
 部屋に帰って寝よ……=I’m going to go back to my room and sleep.
 
 # A4F08
-なかなか、物騒な授業ですね。|夜刈先生。=This has been a rather chaotic class, Mr. Yagari.
-そうだな……でも、みんなが|これくらいお互い本音で|ぶつかりあえる様になればーー=I suppose... Still, if you all keep expressing your true feelings openly like this...
-問題定義も広まり、|俺の仕事もやりやすく|なるんじゃないか？=then the number of problem children on my list will increase, and my job will become easier, no?#tc
-驚きました。|先生は本気で、ヴァンパイアの|殲滅を考えているんですね。=I’m surprised. You really are seriously thinking of wiping out all vampires. 
-当たり前だ。|だからココにいる。=Of course. That’s why I’m here.
-ハンターの仕事も所詮は|必要悪であり、やがて無くなる|時代が来ることを願っている。=The work of hunters is a necessary evil, and I hope that one day the time will come when it won’t be needed anymore.
-お前達がいなくなれば|いいだけの話だ。=All you have to do is disappear.
-その必要悪は、誰かがやらなく|ちゃならない。だから俺が|やっている。それだけの話だ。=But someone had to carry out these necessary evils. That’s why I do it. That’s all.
-興味深いお話を聞かせていただ|きました。だが、もうその辺に|なさったほうがいいですよーー=This has been an enlightening conversation. However, I think we’d best leave it at that.
-彼らは意外と|血気盛んなんです。|僕じゃ抑えきれない。=They are remarkably hot-blooded. I have no power to control them.
-純血種の君が|何をおっしゃいますやら。=I don’t know what you’re talking about, Pureblood.
-無意味なコミュニケーションは|必要ないって訳か。=I guess there’s no point in having a meaningless conversation.
-フッ……やれやれ、|本当に口の悪い人だ。=Heh... Goodness me, you really do have a sharp tongue.
-ん、時間だ。=Mn, there’s the bell.
-さて、僕たちは|寮に戻るとするか。=Well, I suppose we should be getting back to our dorms.
+なかなか、物騒な授業ですね。|夜刈先生。=
+そうだな……でも、みんなが|これくらいお互い本音で|ぶつかりあえる様になればーー=
+問題定義も広まり、|俺の仕事もやりやすく|なるんじゃないか？=
+驚きました。|先生は本気で、ヴァンパイアの|殲滅を考えているんですね。=
+当たり前だ。|だからココにいる。=
+ハンターの仕事も所詮は|必要悪であり、やがて無くなる|時代が来ることを願っている。=
+お前達がいなくなれば|いいだけの話だ。=
+その必要悪は、誰かがやらなく|ちゃならない。だから俺が|やっている。それだけの話だ。=
+興味深いお話を聞かせていただ|きました。だが、もうその辺に|なさったほうがいいですよーー=
+彼らは意外と|血気盛んなんです。|僕じゃ抑えきれない。=
+純血種の君が|何をおっしゃいますやら。=
+無意味なコミュニケーションは|必要ないって訳か。=
+フッ……やれやれ、|本当に口の悪い人だ。=
+ん、時間だ。=
+さて、僕たちは|寮に戻るとするか。=
 
 # ABB90 choose to speak after AD604
 あれ？<last><name>。|何してんだ？こんなところで。=Oh? If it isn’t <name><last>. What are you doing here?
@@ -9325,7 +9337,7 @@ I’m so happy.
 やめろ<last>！|その呼び名は！！=Stop it! Don’t call me that, <last>!
 ボケ理事長に零……|あいつら、苦労してんだな……|ハイ、授業再開！=That idiot headmaster and Zero sure have a lot to contend with...|Alright, back to class!
 
-# A77E0 choose to speak after A961C
+# A77E0 say something after A961C
 あれ？<name>ちゃん。|どうしたの、こんなところで。=Oh? What are you doing here, <name>?
 えーっと、どんな授業を|やってるのかなって思って。=Well, I was just wondering what kind of classes you have.
 フフ…ガーディアンの仕事を|お留守にしてるんだ。|錐生君に怒られちゃうよ。=Hehe, you’re neglecting your work as a Guardian, I see. Kiryu will be mad~
@@ -9350,7 +9362,7 @@ I’m so happy.
 <name>ちゃん……|君って……。=<name>... You’re...
 ハイ、授業再開。|お嬢ちゃんは明日補習決定だ。=Alright, it’s about time we resume class. Young lady, I’ll have you take supplementary lessons tomorrow.
 
-# A6EC8 say something after A4ECC
+# A6EC8
 支葵センパイ、|まじめに授業受けてますか？=Shiki, are you really here to study?
 なにそれ…|あまり興味ない……|でも決まりだから。=What...? I’m not interested, but it was decided for me, so...
 夜刈先生の授業って|どうですか？=What do you think of Mr. Yagari’s class?
@@ -9366,66 +9378,66 @@ I’m so happy.
 んん～？？|見間違いかな？|私ちょっと疲れているのかな…=Hm?? Am I hearing things? I guess I am a bit tired...
 風紀委員もあの先生と同じ……|からかうと面白い。=Prefect, you’re just like that teacher... fun to tease.
 失礼です！私にはあんなに、|からかい甲斐はありません！=H-Hey! I don’t think there’s any reason for you to tease me like that!
-誰がからかい甲斐があるって？|小娘、大体、人の授業中に|何やってんだ！=And just who are you suggesting is worth teasing? What are you even doing during someone else’s class, little girl?
+誰がからかい甲斐があるって？|小娘、大体、人の授業中に|何やってんだ！=And just who are you suggesting is worth teasing?|What are you even doing during someone else’s class, little girl?
 す、すみませーん！=I-I’m sorry!
 あーあ、クスッ…=Aah~ Heh...
 笑ってる、|絶対に笑ってるよぉ！=You’re laughing! You’re totally laughing!
 ハイ、授業再開。=Alright, back to class.
 
-# A68E4 choose to speak after A4F08
-授業、終わりましたね。|枢センパイ。=You must be all done for the night now, Kaname.
-<name>。|ずっと授業を見ていたのかい？=Have you been watching us the whole time, <name>?
-すみません、つい……=I’m sorry, I just--
-僕の事を見てくれていたんだ。|うれしいよ。=So you were watching me. I’m happy.
-あ…はい。=Ah...
-なかなか楽しい授業だろう？=It was quite the fun class, wasn’t it?
-え？は、はあ…=Huh? 
-（殺伐としていて全然楽しそう|じゃないんですけど…）=(It was so bloodthirsty, it didn’t look fun at all to me...)
-夜刈先生が来てから、|倫理の時間が楽しくなったよ。=Since Mr. Yagari arrived, Ethics lessons have become much more fun.
-みんなも楽しいって言って|るんだよ。さすが、理事長が|推薦した先生なだけ、あるね。=Everyone has said the same. I’d expect nothing less of a teacher endorsed by the headmaster.
-そ、そうですか。|そういえば皆さん|生き生きとしていましたね。=I-I see. Everyone did seem to be quite lively.
-（確かに生き生きは|しているけど楽しそうって|感じじゃない！）=(They were lively, but I don’t think it’s because they were enjoying themselves!)
-（どっちかっていうと|一触即発って感じだよね）=(It was much more like they were getting geared up for a fight...)
-そうだ、こんど<name>も一緒に|授業をうけてみない？<name>|だったらみんな大歓迎だよ。=I know, why don’t you join us in class next time, <name>? If it’s you, I’m sure everyone would be pleased to welcome you.
-い、いいです。いいです。|倫理は何だか難しいから。=T-That’s alright, thank you. Ethics seems pretty hard.
-そうか…、残念だな。|早速、理事長に|お願いしようかと思ったのに。=I see. That’s too bad... I was thinking that I could go and see the headmaster about it right away.
-あ、ありがとうございます！|それじゃ、見回り続けます！|失礼します！=T-Thank you for your concern! Well, I really ought to get back to my patrol, so please excuse me!
-頼んだよ。|ガーディアンさん。=I’m counting on you, Miss Guardian.
-はい、し、失礼します！=Y-Yes! Goodbye!
-（流石に枢センパイの進言でも|あの授業に参加は…勘弁して|ください！枢センパイ！）=(Even if Kaname suggests it, me joining that class would be... Please forgive me, Kaname!)
+# A68E4
+授業、終わりましたね。|枢センパイ。=
+<name>。|ずっと授業を見ていたのかい？=
+すみません、つい……=
+僕の事を見てくれていたんだ。|うれしいよ。=
+あ…はい。=
+なかなか楽しい授業だろう？=
+え？は、はあ…=
+（殺伐としていて全然楽しそう|じゃないんですけど…）=
+夜刈先生が来てから、|倫理の時間が楽しくなったよ。=
+みんなも楽しいって言って|るんだよ。さすが、理事長が|推薦した先生なだけ、あるね。=
+そ、そうですか。|そういえば皆さん|生き生きとしていましたね。=
+（確かに生き生きは|しているけど楽しそうって|感じじゃない！）=
+（どっちかっていうと|一触即発って感じだよね）=
+そうだ、こんど<name>も一緒に|授業をうけてみない？<name>|だったらみんな大歓迎だよ。=
+い、いいです。いいです。|倫理は何だか難しいから。=
+そうか…、残念だな。|早速、理事長に|お願いしようかと思ったのに。=
+あ、ありがとうございます！|それじゃ、見回り続けます！|失礼します！=
+頼んだよ。|ガーディアンさん。=
+はい、し、失礼します！=
+（流石に枢センパイの進言でも|あの授業に参加は…勘弁して|ください！枢センパイ！）=
 
 # A1CAC
-お疲れ様でした、夜刈先生。|なんだか、ナイト･クラスの|授業って大変ですね。=It must be a lot of hard work, teaching the Night Class’ lessons.
-フン！あのガキ共！|確かに、退屈はしないがな。=Hmph! It’s those brats! I guess it keeps things interesting, though.
-お前も色々大変だろうけど、|まあがんばれよ。小娘。=You seem to have all sorts of hardships too. Well, do your best, little girl.
-小娘じゃないです！|そのうちちゃんと|名前で呼ばせますからね！=I’m not a little girl! One of these days, I’ll have you call me by my actual name!
+お疲れ様でした、夜刈先生。|なんだか、ナイト･クラスの|授業って大変ですね。=
+フン！あのガキ共！|確かに、退屈はしないがな。=
+お前も色々大変だろうけど、|まあがんばれよ。小娘。=
+小娘じゃないです！|そのうちちゃんと|名前で呼ばせますからね！=
 
 # A22A0
-それでは、次回、|レポート提出、忘れない様に。=Don’t forget to submit your reports to me next lesson.
-俺を退屈させるな。|授業は楽しくやりたいからな。=You’d better not bore me. I hope we can have fun in these classes.
-グッドモーニング、|ヴァンパイアども。=Good morning, wretched vampires.
-（……デイ･クラスの授業と|あまりに違うから、びっくり|しちゃった……）=(...It’s so different from the Day Class’ lessons. I’m surprised.)
-（こんな授業、ありえないよ）=(This kind of class is just impossible!)
-（わっ、|夜刈先生がこっちに来るよ……|どうしよう）=(Ah, Mr. Yagari is coming this way. What should I do...?)
+それでは、次回、|レポート提出、忘れない様に。=
+俺を退屈させるな。|授業は楽しくやりたいからな。=
+グッドモーニング、|ヴァンパイアども。=
+（……デイ･クラスの授業と|あまりに違うから、びっくり|しちゃった……）=
+（こんな授業、ありえないよ）=
+（わっ、|夜刈先生がこっちに来るよ……|どうしよう）=
 
 # A5D10
-（終わった、終わった。|あ……すっかり見回りの事を|忘れてた！）=(Ah! I completely forgot about my patrol...!)
-ひえっ！=Eeek!
-ここで何をしている？=What are you doing here?
-なんだぁ～零じゃない。|びっくりしたぁ～。=What, it’s just you Zero? You scared me.
-お前、まさか|ずっとここにいたのか？|見回りはどうしたんだ？=Don’t tell me you’ve been here the whole time. What happened to your patrol?
-えっと……それがその……=Um... That’s...
-しょうがない奴……|まぁいい。=You’re hopeless...|Well, whatever.
-逆にこいつらを見張るの|だって、立派な仕事だ。何か|変わったことはなかったか？=Keeping an eye on them also counts as work. So, was there anything out of the ordinary?
-うーん、|変わっていると言えば|全部変わってたよ。=Mmm, if you’re going to ask me what was weird about it, it all was...
-すごい緊迫感でね、|映画みたいだった。|零の師匠ってやっぱり凄いね。=It was so intense, it was like a movie. Your master is amazing, Zero.
-あの、ナイト･クラスの|みなさん相手に一歩もひけを|とらないんだもん。=He managed to stand his ground against the Night Class.
-ああ、|そんなのいつもの事だ。=Yeah, he’s always been like that.
-とりあえず、|今晩も何事もなく終わった。|帰ろうか。=Anyway, another uneventful night has drawn to a close. Let’s get going.
-うん。|零、平和ってやっぱりいいね。=Yeah. Peace is good isn’t it, Zero?
-どうしたんだ？一体。=What’s up with you?
-うん。いいのいいの。=Mm. It’s good, all’s good.
-（静かにゆっくり眠れる|平和な授業……私の帰るべき|ところは、そこにあるのだ）=(Quiet, peaceful classes where I can nap all I want... That’s the kind of class where I belong.)
+（終わった、終わった。|あ……すっかり見回りの事を|忘れてた！）=
+ひえっ！=
+ここで何をしている？=
+なんだぁ～零じゃない。|びっくりしたぁ～。=
+お前、まさか|ずっとここにいたのか？|見回りはどうしたんだ？=
+えっと……それがその……=
+しょうがない奴……|まぁいい。=
+逆にこいつらを見張るの|だって、立派な仕事だ。何か|変わったことはなかったか？=
+うーん、|変わっていると言えば|全部変わってたよ。=
+すごい緊迫感でね、|映画みたいだった。|零の師匠ってやっぱり凄いね。=
+あの、ナイト･クラスの|みなさん相手に一歩もひけを|とらないんだもん。=
+ああ、|そんなのいつもの事だ。=
+とりあえず、|今晩も何事もなく終わった。|帰ろうか。=
+うん。|零、平和ってやっぱりいいね。=
+どうしたんだ？一体。=
+うん。いいのいいの。=
+（静かにゆっくり眠れる|平和な授業……私の帰るべき|ところは、そこにあるのだ）=
 
 # A5850
 （楽しかったな、舞踏祭。|あの人が、私のこの手を取って|踊ってくれたーー）=(I had such a great time at the ball. He took my hand in his and danced with me.)
@@ -10047,7 +10059,7 @@ I’m so happy.
 香りもいいし、|それだけでもう十分満足です！=And the bottle’s really pretty, and that’s good enough for me!
 あ、そうだ……|一条さんに何か|おみやげ買っていこうかな。=Now that I think about it, I wonder if we should buy a little something for Ichijo.
 一条センパイ、こういうの|好きそうですもんね。|どれがいいですかね……=I bet Ichijo would like these kinds of things. Did you have anything in mind?
-これにする。『考える猫』=This here, the “Pensive Pussycat.”
+これにする。『考える猫』=This here, the "Pensive Pussycat."
 （し、渋い……！|猫がしゃがんで、|考え込んでいる石像！）=(A statuette of a cat in the classic thinker pose? That’s so tacky!)
 もっと若い人向けの物|じゃなくていいんですか？=How about something a little more chic? Maybe that would be better?
 ううん、これでいい。|一条さんよろこぶかな。=No, this is the one. Ichijo will delighted when he sees it.
@@ -11120,41 +11132,41 @@ I’m so happy.
 い、いえ！|何でもありません！=
 
 # A5A88
-タコさん、イカさん、そして|お魚たち。そんな悲しそうな|顔をしたってダメだよ？=Octor, Squidley, and you too, little Fishins, don't look so sad.
-僕たちはお腹が空いているん|だからね。これから君たちを|食べなくちゃいけないんだ。=I'm sorry, but we're hungry, so we have to eat you now, okay?
-一条センパイ、|魚介類に話しかけてる……=Ichijo, you named them?
-タコやイカに一条さんの情が|移る前に、さっさと始めようよ|風紀委員。=Prefect, let's hurry and get started before Ichijo gets too attached to the seafood.
-……そうですね。|あ、あの、一条センパイ！|そろそろ何か作りませんか？=...Yeah. U-Um, Ichijo! Shouldn't we make something now?
-うちの組だけ、出来上がりが|遅れると、みなさんを空腹の|まま待たせてしまうんで……=We don't want to be the only group to finish late and make everyone wait while they're still hungry.
-ああ、そうだね<name>ちゃん。|わかったよ。=Yes, you're absolutely right, <name>.
-それにしても、この金網、|どうやって手に入れたん|ですか？本格的……=By the way, where'd you get this wire screen? It's like one you would buy at the store.
-島に流れ着いてた|ワイヤーくずで、|一条さんが作った。=Ichijo made it out of some wire that washed up on shore.
-え……？本当ですか？|すごいです！一条センパイ！=Wait, really!? That's amazing, Ichijo!
-ふふ、別にそれくらい|たいした事ないよ。=Hmhmhm, it's nothing really. Anybody could have done it.
-何か、キャンプ場で|バーベキューしている様な|気分になってきました。=It's weird, but it almost feels like we're barbequing at a campsite.
-本当だね。|僕もワクワクして来たよ！|ねえ支葵、楽しいね。=It does, doesn't it? It's exciting! Hey, Shiki, this is fun, isn't it?
-とりあえず、おなか空いた。|さっさと作って食べようよ、|一条さん。=Right now I'm just hungry. Let's cook the food and eat already, Ichijo.
-はいはい、わかったよ。|それじゃ、美味しいごはんの|ために、皆で頑張ろうね。=Alright, alright. Let's get cooking and make something really tasty.
-じゃあ、まずは簡単そうな|タコとイカを使って、|何か作りましょうか。=Okay, let's start with the octopus and the squid first. They seem easier to prepare.
-三人いっぺんに手を出したら、|ややこしい事になる。=It'll be too complicated if we all try to do it at the same time.
-言われてみればそうですね。|う～ん、誰に任せよう……？=You're probably right. Hmm, who should we leave this to?
+タコさん、イカさん、そして|お魚たち。そんな悲しそうな|顔をしたってダメだよ？=
+僕たちはお腹が空いているん|だからね。これから君たちを|食べなくちゃいけないんだ。=
+一条センパイ、|魚介類に話しかけてる……=
+タコやイカに一条さんの情が|移る前に、さっさと始めようよ|風紀委員。=
+……そうですね。|あ、あの、一条センパイ！|そろそろ何か作りませんか？=
+うちの組だけ、出来上がりが|遅れると、みなさんを空腹の|まま待たせてしまうんで……=
+ああ、そうだね<name>ちゃん。|わかったよ。=
+それにしても、この金網、|どうやって手に入れたん|ですか？本格的……=
+島に流れ着いてた|ワイヤーくずで、|一条さんが作った。=
+え……？本当ですか？|すごいです！一条センパイ！=
+ふふ、別にそれくらい|たいした事ないよ。=
+何か、キャンプ場で|バーベキューしている様な|気分になってきました。=
+本当だね。|僕もワクワクして来たよ！|ねえ支葵、楽しいね。=
+とりあえず、おなか空いた。|さっさと作って食べようよ、|一条さん。=
+はいはい、わかったよ。|それじゃ、美味しいごはんの|ために、皆で頑張ろうね。=
+じゃあ、まずは簡単そうな|タコとイカを使って、|何か作りましょうか。=
+三人いっぺんに手を出したら、|ややこしい事になる。=
+言われてみればそうですね。|う～ん、誰に任せよう……？=
 
 # A3DB0
-じゃあ、タコとイカの料理は|一条センパイにお願いしても|いいですか？=Well, could you cook the octopus and the squid, Ichijo?
-もちろんだよ<name>ちゃん。|僕に任せておいて。|フフ、腕が鳴るよ！=You've got it, <name>. I was hoping to do it anyway, hmhm!
-（そう言ってニコっと笑うと、|一条センパイは、空高く|タコとイカを放り投げた）=(Ichijo laughed and smiled as he said that. Then he tossed the octopus and the squid high in the air.)
-わっ……！|い、一条センパイ、何を……？=Waa! I-Ichijo, what're you...?
-（うわぁ……すごい！|宙に舞ったタコとイカが|一条センパイの包丁でーー）=(Wow! That's amazing! The octopus and squid danced and fluttered in the air.)
-（あっという間に、|キレイな輪切りに|なっちゃった……！）=(Ichijo sliced them cleanly with a knife as they hung in the air!)
-（そして輪切りがそのまま、|網の上に並べられて行く！）=(Then the slices fell onto the wire screen in neat rows!)
-す……すごい！|すごいです、一条センパイ！|カッコいい……！=Th-That was incredible, Ichijo! You looked so cool!
-うん、すごい。|アクロバットみたい。=That was impressive, like an acrobat.
-いやあ、やめてよ二人とも。|照れちゃうよ。=Oh, stop it, you two. You're making me blush.
-枢の作ってくれた、この|石包丁の切れがいいんだよ。=This stone knife Kaname made did all the work. It's extremely sharp.
-うん！|何か、早速いいにおいが|してきましたね……！=Hey, that smells good already!
+じゃあ、タコとイカの料理は|一条センパイにお願いしても|いいですか？=
+もちろんだよ<name>ちゃん。|僕に任せておいて。|フフ、腕が鳴るよ！=
+（そう言ってニコっと笑うと、|一条センパイは、空高く|タコとイカを放り投げた）=
+わっ……！|い、一条センパイ、何を……？=
+（うわぁ……すごい！|宙に舞ったタコとイカが|一条センパイの包丁でーー）=
+（あっという間に、|キレイな輪切りに|なっちゃった……！）=
+（そして輪切りがそのまま、|網の上に並べられて行く！）=
+す……すごい！|すごいです、一条センパイ！|カッコいい……！=
+うん、すごい。|アクロバットみたい。=
+いやあ、やめてよ二人とも。|照れちゃうよ。=
+枢の作ってくれた、この|石包丁の切れがいいんだよ。=
+うん！|何か、早速いいにおいが|してきましたね……！=
 
 # A5000
-じゃあ、タコとイカの料理は|支葵センパイにお願いしても|いいですか？=Well, could you cook the octopus and the squid, Shiki?
+じゃあ、タコとイカの料理は|支葵センパイにお願いしても|いいですか？=
 んー……わかった。|メンドクサイけど、|やってみる。=
 風紀委員、下がってて。|危ないから。=
 え？危ないから……って、|何をするつもりなんですか？|支葵センパイ……わっ！！=
@@ -11194,21 +11206,21 @@ I’m so happy.
 はい、ありがとうございます、|一条センパイ……！=
 
 # A1464
-さて、次はこのサザエみたいな|大きな貝ですね。=Now, let's do something with this big mollusk-looking thing.
-これは簡単だよね。|ただ焼くだけで|いいんでしょう？=That one's really simple. Just roast it over the fire, and that should do it.
-そうですね……|誰に焼いてもらおうかな？=Okay... So who's going to roast it?
+さて、次はこのサザエみたいな|大きな貝ですね。=
+これは簡単だよね。|ただ焼くだけで|いいんでしょう？=
+そうですね……|誰に焼いてもらおうかな？=
 
 # A38CC
-じゃあ、貝を焼くのは|一条センパイに|お任せしてもいいですか？=Well, since you know the most about it, could you roast it, Ichijo?
-うん、わかったよ。|<name>ちゃんと支葵は|別の作業してていいからね。=Yeah, no problem. And that way you and Shiki can take care of the other work
-よろしくお願いします。|一条センパイ。=Thanks, Shiki. I don't know what we'd do without you.
-一条センパイ、|そろそろ焼けましたか……？|って、わっ！=Ichijo, are they almost done cooking?|Oh wow...
-な、何で貝が、全部輪切りに|なってるんですか？=Wh-Why did you slice up all the shellfish?
-え？だって、こうした方が|良く火が通ると思ってさ。|生焼けだと危ないでしょう？=Huh? I thought it was better to cook them like this. I'm pretty sure they're dangerous to eat raw.
-ああ、つぼ焼きみたいにしたら|美味しそうだったのに……=Okay. I just think they look so tasty when they're cooked in their shell is all.
-あれ？<name>ちゃんの|そのリアクション……|僕、もしかして失敗した？=Oh no. Seeing your reaction, <name>, are you disappointed?
-い、いえ……まだ|わかりませんよ！|食べてみたら意外とーー=N-No, not at all. I haven't even tasted them yet!
-おいしいかもしれませんし|……ね？=Maybe I'll be surprised and they're even more scrumptious this way... Yeah?
+じゃあ、貝を焼くのは|一条センパイに|お任せしてもいいですか？=
+うん、わかったよ。|<name>ちゃんと支葵は|別の作業してていいからね。=
+よろしくお願いします。|一条センパイ。=
+一条センパイ、|そろそろ焼けましたか……？|って、わっ！=
+な、何で貝が、全部輪切りに|なってるんですか？=
+え？だって、こうした方が|良く火が通ると思ってさ。|生焼けだと危ないでしょう？=
+ああ、つぼ焼きみたいにしたら|美味しそうだったのに……=
+あれ？<name>ちゃんの|そのリアクション……|僕、もしかして失敗した？=
+い、いえ……まだ|わかりませんよ！|食べてみたら意外とーー=
+おいしいかもしれませんし|……ね？=
 
 # A3DE0
 じゃあ、貝を焼くのは|支葵センパイに|お任せしてもいいですか？=
@@ -11243,23 +11255,23 @@ I’m so happy.
 一応、|焼いてみましょうか……=
 
 # A2064
-さあ、残るはお魚ですね。|すごい、キスがいっぱい！=Now, all that's left is the fish. Wow, there are so many kissers!
-白身でクセがないから、|どう料理してもきっと|おいしいよね。=It's white meat and there's nothing weird about it, so they should be good no matter how we prepare them.
-そうですね。|お刺身でもいいし、|焼いてもいいし……=So many possibilities. We could eat them raw like sushi or cook them over the fire...
-早くそれ、|片付けて終わりにしようよ。|俺、もう飽きた。こういうの。=Can we speed this up and finish already? I'm losing interest in all this.
-わ、わかりました。|それじゃ、最後の魚料理は……=R-Right. Just one more thing to prepare.
+さあ、残るはお魚ですね。|すごい、キスがいっぱい！=
+白身でクセがないから、|どう料理してもきっと|おいしいよね。=
+そうですね。|お刺身でもいいし、|焼いてもいいし……=
+早くそれ、|片付けて終わりにしようよ。|俺、もう飽きた。こういうの。=
+わ、わかりました。|それじゃ、最後の魚料理は……=
 
 # A34CC
-じゃあ、一条センパイに|お願いしていいですか？=Would you take care of it, Ichijo?
-うん、任せて。|というか、そこで見ていて。|すぐに終わるから。=Yeah, leave me to it. Don't go too far though, it'll be ready in no time.
-え？すぐに終わるって|どういう意味……=Huh? What do you mean it'll be ready in no time?
-（す、すごい……！あっという|間に、キスが一条センパイの|包丁でさばかれていく……！）=(Whoa! Ichijo prepared and fileted the kissers with his knife in an instant!)
-はい、出来上がり！|キスのお刺身だよ。|しかも、お頭付き！=And the fish is served! It's kisser sashimi, served whole even!
-わぁ～……鮮やかー！|お見事です、一条センパイ！=Waa, the presentation is amazing! You could serve this in a fancy restaurant, Ichijo!
-さすが、一条さん。=Impeccable as always, Ichijo.
-やだなあ……|二人とも、やめてよ！|恥ずかしいよ。=It's not so great. You two stop it! You're embarrassing me.
-でも…もっとほめて。=I do appreciate the praise though.
-とにかく、|無事に料理が完成して|良かったですね！=That's it, I guess. We prepared all the food without any problems. What a relief!
+じゃあ、一条センパイに|お願いしていいですか？=
+うん、任せて。|というか、そこで見ていて。|すぐに終わるから。=
+え？すぐに終わるって|どういう意味……=
+（す、すごい……！あっという|間に、キスが一条センパイの|包丁でさばかれていく……！）=
+はい、出来上がり！|キスのお刺身だよ。|しかも、お頭付き！=
+わぁ～……鮮やかー！|お見事です、一条センパイ！=
+さすが、一条さん。=
+やだなあ……|二人とも、やめてよ！|恥ずかしいよ。=
+でも…もっとほめて。=
+とにかく、|無事に料理が完成して|良かったですね！=
 
 # A5040
 じゃあ、支葵センパイ、|お願いします。|私と一条センパイはーー=

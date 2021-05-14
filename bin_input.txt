@@ -11167,21 +11167,21 @@ I’m so happy.
 
 # A5000
 じゃあ、タコとイカの料理は|支葵センパイにお願いしても|いいですか？=Well, could you cook the octopus and the squid, Shiki?
-んー……わかった。|メンドクサイけど、|やってみる。=
-風紀委員、下がってて。|危ないから。=
-え？危ないから……って、|何をするつもりなんですか？|支葵センパイ……わっ！！=
-（支葵センパイ、またさっきの|力を使って、タコとイカを|めった打ちに……！）=
-（あぁ……タコもイカも|原型がなくなる程こま切れ、|というかぐちゃぐちゃに……）=
-あれ。|ちょっとやりすぎたかな。|どう思う？風紀委員。=
-あ、えっと……|た、タタキみたいですね！=
-（こ、これで一応フォローに|なってるかな？）=
-（『何やってるんですか！？』|とか言ったら、支葵センパイ|傷つきそうだし……）=
-これで終わり。=
-えっ！？このまま！？|焼いたりとか、何かに混ぜたり|とかしないんですか？=
-タタキなら、|普通に食べられる。|そういう料理。=
-で、でも、正直言うと|これはタタキというより|離乳食っぽいというか……=
-って、支葵センパイ、|聞いてないよ！もう向こうに|行っちゃってるし……！=
-う～ん……大丈夫かな？これ。=
+んー……わかった。|メンドクサイけど、|やってみる。=Yeah, alright. I'd rather not, but I'll do it.
+風紀委員、下がってて。|危ないから。=Prefect, duck. I don't want you to get hurt.
+え？危ないから……って、|何をするつもりなんですか？|支葵センパイ……わっ！！=Huh? What do you mean? What are you going to do? Shiki, waa!!
+（支葵センパイ、またさっきの|力を使って、タコとイカを|めった打ちに……！）=(Shiki used his same power again, this time to strike the octopus and squid a million different ways.)
+（あぁ……タコもイカも|原型がなくなる程こま切れ、|というかぐちゃぐちゃに……）=(He beat them up into a million tiny pieces. I couldn't even tell what they used to be.)
+あれ。|ちょっとやりすぎたかな。|どう思う？風紀委員。=Oh, I might have overdone it a little. What do you think, Prefect?
+あ、えっと……|た、タタキみたいですね！=Oh, well... I-It looks like flaked tuna, doesn't it!?
+（こ、これで一応フォローに|なってるかな？）=(What does he plan on doing next?)
+（『何やってるんですか！？』|とか言ったら、支葵センパイ|傷つきそうだし……）=(I wonder if he would feel hurt if I questioned his method...)
+これで終わり。=I'm done.
+えっ！？このまま！？|焼いたりとか、何かに混ぜたり|とかしないんですか？=What!? You're leaving it like that? You're not going to cook it or mix it with anything? Nothing at all?
+タタキなら、|普通に食べられる。|そういう料理。=People eat flaked tuna this way, so it's fine.
+で、でも、正直言うと|これはタタキというより|離乳食っぽいというか……=Y-Yeah, but, to be honest, this looks more like baby food than flaked tuna.
+って、支葵センパイ、|聞いてないよ！もう向こうに|行っちゃってるし……！=Hey, Shiki, you're not even listening! Hmph, he's already gone...
+う～ん……大丈夫かな？これ。=Hmm... Will this really be okay to eat?
 
 # A7E40
 じゃあ、|ここは私に任せてください！=
@@ -11223,16 +11223,16 @@ I’m so happy.
 おいしいかもしれませんし|……ね？=Maybe I'll be surprised and they're even more scrumptious this way... Yeah?
 
 # A3DE0
-じゃあ、貝を焼くのは|支葵センパイに|お任せしてもいいですか？=
-これってただ焼くだけ？=
-支葵、シンプルな料理ほど|ちゃんと気を配って作らなきゃ|いけないんだよ。=
-あはは……普通に焼けば|大丈夫ですよ。じゃ、後は|よろしくお願いしますね。=
-支葵センパイ、|貝の焼き具合はどうですか？=
-よくわからない……、|貝の中から変な汁が出てきた。=
-いいんですよ。つぼ焼きって|そういうものですから。=
-うわぁ……おいしそう。|先につまみ食いしたく|なっちゃいました。=
-そういう|行儀の悪いことすると、|一条さんに怒られる。=
-あ……あはは、冗談です！|後で、みんなで|一緒に食べましょう。=
+じゃあ、貝を焼くのは|支葵センパイに|お任せしてもいいですか？=Shiki, can you roast it for us?
+これってただ焼くだけ？=All I do is cook it?
+支葵、シンプルな料理ほど|ちゃんと気を配って作らなきゃ|いけないんだよ。=Don't underestimate it, Shiki. The simpler the food, the more carefully you have to prepare it.
+あはは……普通に焼けば|大丈夫ですよ。じゃ、後は|よろしくお願いしますね。=Ahaha, just cook it like anything else, and it should be fine. Well, we'll leave you to it.
+支葵センパイ、|貝の焼き具合はどうですか？=Shiki, how's the cooking coming on those shellfish?
+よくわからない……、|貝の中から変な汁が出てきた。=I don't have a clue. This weird juice started coming out of the shell.
+いいんですよ。つぼ焼きって|そういうものですから。=That's perfect. That's normal when you cook it in its shell.
+うわぁ……おいしそう。|先につまみ食いしたく|なっちゃいました。=Wow! That looks delicious. I'm tempted to taste one right now.
+そういう|行儀の悪いことすると、|一条さんに怒られる。=Ichijo gets upset when people are ill-mannered like that.
+あ……あはは、冗談です！|後で、みんなで|一緒に食べましょう。=I... Ahaha, it was just a joke! I'll wait until later, so we can all try them together.
 
 # A5B18
 じゃあ……お二人に任せます。|私、次の料理の下準備して|おきますね。=
@@ -11274,22 +11274,22 @@ I’m so happy.
 とにかく、|無事に料理が完成して|良かったですね！=That's it, I guess. We prepared all the food without any problems. What a relief!
 
 # A5040
-じゃあ、支葵センパイ、|お願いします。|私と一条センパイはーー=
-あっちで、|出来上がったものを、|運ぶ準備しておきますから。=
-頑張ってね、支葵。=
-あ、行っちゃった、二人とも…|とりあえず……=
-細かく切ればいいのかな。=
-皮だけになった。|身がなくなった……=
-支葵センパイ、どうですか？|具合は……あ、あれ？|何ですかそれ？=
-キス……の皮。|うろこのおかげで皮になった。=
-肝心の、食べる部分は？|白身の所……=
-刻んでるうちになくなった。=
-本当だ……|キレイに皮だけ残ってる。|はぁあ……=
-風紀委員、|何でうなだれてるの。=
-い、いえ、何でもありません。|とりあえず、皮に塩ふって|焼いてみましょうか。=
-北京ダックみたい……=
-あ……なるほど。|シャケも皮の部分が一番好き|って言う人もいるしーー=
-意外と|いけるかもしれませんね。|キスの皮焼き。=
+じゃあ、支葵センパイ、|お願いします。|私と一条センパイはーー=We'll let you handle it, Shiki.
+あっちで、|出来上がったものを、|運ぶ準備しておきますから。=Ichijo and I will start bringing the rest of the food over to the others.
+頑張ってね、支葵。=Good luck, Shiki.
+あ、行っちゃった、二人とも…|とりあえず……=And they're gone... Where do I begin?
+細かく切ればいいのかな。=I guess I could cut them into little pieces first.
+皮だけになった。|身がなくなった……=All that's left is the skin. There's no meat.
+支葵センパイ、どうですか？|具合は……あ、あれ？|何ですかそれ？=Shiki, how's it going? How are the fi-- Wh-What is that?
+キス……の皮。|うろこのおかげで皮になった。=The skin from the kissers. This is what was left after removing all the scales.
+肝心の、食べる部分は？|白身の所……=And the edible part? Where's the meat?
+刻んでるうちになくなった。=I lost it while I was slicing the fish.
+本当だ……|キレイに皮だけ残ってる。|はぁあ……=Well... the skin looks really nice. *Sigh*
+風紀委員、|何でうなだれてるの。=Why do you feel so disheartened, Prefect?
+い、いえ、何でもありません。|とりあえず、皮に塩ふって|焼いてみましょうか。=Oh, I don't. Really. Anyway, why don't we go ahead and sprinkle some salt on the skin and bake it?
+北京ダックみたい……=Like Peking duck...
+あ……なるほど。|シャケも皮の部分が一番好き|って言う人もいるしーー=Y-Yeah. Some people do say the skin is their favorite part of a salmon.
+意外と|いけるかもしれませんね。|キスの皮焼き。=Grilled kisser skin might be better than expected.
 
 # A48A0
 じゃあ、お魚は私が焼きます。|任せてください。=
@@ -11308,34 +11308,34 @@ I’m so happy.
 おいしいですよ！|あ……いいにおいがしてきた。|ふふ、楽しみだな！=
 
 # A6180
-……というわけで、|無事、料理が完成しました～！=
-みなさん、|本当にお疲れ様でした、|ありがとうございました！=
-おい、本当に食えるのか？|この、いかにも怪しい料理|どもは……=
-大丈夫だよ！きっと……|多分……うん。=
-ムチャクチャ歯切れ悪いぞ、|お前……=
-良くないね、錐生君。|せっかく<name>も協力して|作ってくれたのにーー=
-そんなひどいことを言う|なんて。=
-……じゃあ、玖蘭先輩は、|この怪しげなモノを、|全部たいらげるって事ですね。=
-もちろん、そのつもりだよ。|<name>の作ってくれたものは|ーー=
-僕にとっては|フルコースだもの。=
-ありがとうございます、|枢センパイ……！=
-あーあ……疲れた。|余計な体力使っちゃった。|早く食べて、寝たい。=
-フン、まさかこの僕がこんな|庶民的な物を口にするなんて、|思ってもみなかったよ。=
-まあ、そう言うな、英。|今は、食べるものがあるだけで|ありがたいと思え。=
-ふふ……僕は楽しいな！|こんなサバイバルな食事、|めったに体験できないからね。=
-それじゃ、冷めないうちに|食べちゃいましょうか！|いただきま～す！=
-いただきま～す！=
+……というわけで、|無事、料理が完成しました～！=All in all, everything went well. Nobody got hurt, and there's lots of yummy food to eat～!
+みなさん、|本当にお疲れ様でした、|ありがとうございました！=You were all amazing! Thanks so much!
+おい、本当に食えるのか？|この、いかにも怪しい料理|どもは……=Hey, is this really safe to eat? I'm not so sure about some of this food.
+大丈夫だよ！きっと……|多分……うん。=Of course it's safe! Definitely... Probably... Yeah.
+ムチャクチャ歯切れ悪いぞ、|お前……=You don't sound too sure yourself.
+良くないね、錐生君。|せっかく<name>も協力して|作ってくれたのにーー=<name> worked hard to help make it, so please be kind, Kiryu.
+そんなひどいことを言う|なんて。=Please refrain from saying things which will hurt her feelings.
+……じゃあ、玖蘭先輩は、|この怪しげなモノを、|全部たいらげるって事ですね。=Alright, Kuran. You can help yourself to all this questionable-looking food then.
+もちろん、そのつもりだよ。|<name>の作ってくれたものは|ーー=Yes, that is what I intend to do.
+僕にとっては|フルコースだもの。=<name> was kind enough to make this, so I won't let a single morsel go to waste.
+ありがとうございます、|枢センパイ……！=That's so nice, Kaname!
+あーあ……疲れた。|余計な体力使っちゃった。|早く食べて、寝たい。=*Sigh* I'm tired. I've used too much of my strength. What are we waiting for? I'm going to eat and go to sleep.
+フン、まさかこの僕がこんな|庶民的な物を口にするなんて、|思ってもみなかったよ。=Hmph, I never thought I would end up eating something so unsophisticated like this.
+まあ、そう言うな、英。|今は、食べるものがあるだけで|ありがたいと思え。=Well, don't think of it like that, Hanabusa. Just be grateful that you have something to eat at all.
+ふふ……僕は楽しいな！|こんなサバイバルな食事、|めったに体験できないからね。=Hmhm, I'm honestly having fun! Scrounging for food in a survival situation, it's not an experience that everyone has.
+それじゃ、冷めないうちに|食べちゃいましょうか！|いただきま～す！=Well, let's eat up before it all gets cold! Dig in～!
+いただきま～す！=Let's eat!
 
 # A2F74
-……お、おいしい！=
-本当だ、うまい。=
-あれだけの材料で、|この深い味が出せるなんて……|素晴らしいね。=
-良かった～！|正直、どんな出来上がりか、|不安だったんですけど……=
-結果よければ全てよし、|ですね！=
-ん……何？|今、後ろで誰かが|動いたような……=
-俺にも食わせろーーー！！！=
-キャーーーッ！！！|で、出たーーーっ！！！=
-ああ……私……|獣に食べられちゃうの？|誰か……助けて……！！=
+……お、おいしい！=It's so good!
+本当だ、うまい。=You're right. It's not half bad.
+あれだけの材料で、|この深い味が出せるなんて……|素晴らしいね。=Impressive. To think you can get such full flavor with so few ingredients.
+良かった～！|正直、どんな出来上がりか、|不安だったんですけど……=I'm so glad you like it! Honestly, I was a little worried about how it would turn it.
+結果よければ全てよし、|ですね！=In the end, everything turned out really good though, huh!?
+ん……何？|今、後ろで誰かが|動いたような……=Hm? What? I could have sworn something moved behind me just now...
+俺にも食わせろーーー！！！=Looks like I've found my next meal!!!
+キャーーーッ！！！|で、出たーーーっ！！！=Aaaaaah!!! It's coming for me!!!
+ああ……私……|獣に食べられちゃうの？|誰か……助けて……！！=A beast... It's... It's going to eat me. Somebody... Help!!
 
 # A14E8
 ぺーーーっ！！！|マズーーーイっ！！！=
@@ -11343,26 +11343,26 @@ I’m so happy.
 どうしよう、|くらくらしてきた……|誰か……助けて……！！=
 
 # A6754
-……おい！|しっかりしろ！=
-……う……うう……=
-おい！|いい加減に起きろ、小娘！=
-あ…………キャァアーーー！！|獣が！お願い、食べないで！=
-誰が獣だ！|しっかりしろ、|ちゃんと俺を見ろ！=
-あ……れ？夜刈先生……？|ここは……理事長室の前？=
-通りかかったら、|どういうわけかあんたが|廊下にぶっ倒れてたんだ。=
-せっかく助けてやったのに、|獣呼ばわりするとは、|とんだご挨拶だな……！=
-す、すみません……！|ちょっと変な夢見てて……|あれ？でも私ーー=
-確か、自分の部屋に|いたはずなのに……|どうしてここに？=
-そんなことは知らないな。|さあ、小娘はさっさと|部屋に戻って寝るんだな。=
-あ……はい、夜刈先生……|ありがとうございました。|おやすみなさい。=
-私、ここで香水をかいで|倒れて……そこまでは|覚えてるんだけど……=
-香水……|ベッドサイドに置かれてる。|フタもちゃんと閉まってる。=
-あれ……？|この薔薇……|誰が置いたんだろう？=
-もしかして、|この香水を使って誰かが私に、|何かをしようとした……？=
-……まさかね。|考えすぎだよね。=
-それにしても、|面白い夢だったな。零や、|ナイト･クラスの皆さんとーー=
-無人島でサバイバルなんて！|明日、零に話してみようかな？|枢センパイにも……！=
-多分、笑われて終わりかも|しれないけどね！=
+……おい！|しっかりしろ！=Hey! Get a grip!
+……う……うう……=Ugh... Nnngh...
+おい！|いい加減に起きろ、小娘！=Hey, snap out of it! Girl!
+あ…………キャァアーーー！！|獣が！お願い、食べないで！=Ah! Aaaaaaah!! Please, Mr. Beastman! Please don't eat me!
+誰が獣だ！|しっかりしろ、|ちゃんと俺を見ろ！=What beastman!? Calm down! Look at me!
+あ……れ？夜刈先生……？|ここは……理事長室の前？=M-Mr. Yagari? Why are we in front of the Headmaster's office?
+通りかかったら、|どういうわけかあんたが|廊下にぶっ倒れてたんだ。=I was passing by and found you collapsed on the floor in the hallway.
+せっかく助けてやったのに、|獣呼ばわりするとは、|とんだご挨拶だな……！=I go through the trouble of helping you, and you call me a beast. You should work on your greetings.
+す、すみません……！|ちょっと変な夢見てて……|あれ？でも私ーー=I-I'm sorry. I was having a weird dream... Wait, I...
+確か、自分の部屋に|いたはずなのに……|どうしてここに？=I should have been in my room, so what am I doing here?
+そんなことは知らないな。|さあ、小娘はさっさと|部屋に戻って寝るんだな。=That I don't know. Now, why don't you hurry back to your room and get to sleep, little girl?
+あ……はい、夜刈先生……|ありがとうございました。|おやすみなさい。=I-I will, Mr. Yagari. Thank you. Good night.
+私、ここで香水をかいで|倒れて……そこまでは|覚えてるんだけど……=I was here when I smelled the perfume and passed out, but that's as much as I remember.
+香水……|ベッドサイドに置かれてる。|フタもちゃんと閉まってる。=The perfume... It's there on my nightstand, and the lid is closed.
+あれ……？|この薔薇……|誰が置いたんだろう？=Huh? A rose? Somebody must have put this here. 
+もしかして、|この香水を使って誰かが私に、|何かをしようとした……？=Was someone trying to use this perfume to do something to me?
+……まさかね。|考えすぎだよね。=...Nah. I'm just being paranoid.
+それにしても、|面白い夢だったな。零や、|ナイト･クラスの皆さんとーー=Anyway, it was an interesting dream. Zero and the Night Class trying to survive on a deserted island.
+無人島でサバイバルなんて！|明日、零に話してみようかな？|枢センパイにも……！=I should try telling Zero about it tomorrow! Oh, and Kaname too!
+多分、笑われて終わりかも|しれないけどね！=They'll probably just end up laughing at me!
 
 # AFF68
 （私の恩人の枢センパイは、|私に生きるための喜びと、|命をくれたーー）=

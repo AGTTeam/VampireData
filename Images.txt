@@ -1,39 +1,48 @@
 ﻿==OP_CHR==
-036_00: 錐生 零=Zero Kiryu
+036_00
+錐生 零=Zero Kiryu
 宮野 真守=Mamoru Miyano
 
-037_00: 玖蘭 枢=Kaname Kuran
+037_00
+玖蘭 枢=Kaname Kuran
 岸尾 だいすけ=Daisuke Kishio
 
-038_00: 藍堂 英=Hanabusa Aido
+038_00
+藍堂 英=Hanabusa Aido
 福山 潤=Jun Fukuyama
 
-039_00: 架院 暁=Akatsuki Kain
+039_00
+架院 暁=Akatsuki Kain
 諏訪部 順一=Junichi Suwabe
 
-040_00: 一条 拓麻=Takuma Ichijo
+040_00
+一条 拓麻=Takuma Ichijo
 千葉 進歩=Susumu Chiba
 
-041_00: 支葵 千里=Senri Shiki
+041_00
+支葵 千里=Senri Shiki
 保志 総一朗=Soichiro Hoshi
 
-042_00: 夜刈十牙=Toga Yagari
+042_00
+夜刈十牙=Toga Yagari
 安元 洋貴=Hiroki Yasumoto
 黒主灰閻=Kaien Cross
 郷田 ほづみ=Hozumi Goda
 
-055_00: 原作=Original Work
+055_00
+原作=Original Work
 樋野 まつり=Matsuri Hino 
 「ヴァンパイア騎士」=Vampire Knight
 月刊LaLa (自泉社)=LaLa Monthly (Hakusensha)
 
-056_00: 出演=Starring
+056_00
+出演=Starring
 【錐生 零】=Zero Kiryu
 宮野 真守=Mamoru Miyano
 【玖蘭 枢】=Kaname Kuran
 岸尾 だいすけ=Daisuke Kishio
 
-057_00:
+057_00
 【藍堂 英】=Hanabusa Aido
 福山 潤=Jun Fukuyama
 【架院 暁】=Akatsuki Kain
@@ -41,7 +50,7 @@
 【一条 拓麻】=Takuma Ichijo
 千葉 進歩=Susumu Chiba
 
-058_00:
+058_00
 【支葵 千里】=Senri Shiki
 保志 総一朗=Soichiro Hoshi
 【夜刈十牙】=Toga Yagari
@@ -193,5 +202,184 @@ NAS=NAS
 伊藤 裕二=Yuji Ito
 
 072_00
-©樋野 まつり・白泉社/「ヴァンパイア騎士」 会=Matsuri Hino ・ Hakusensha/Vampire Knight Production Comittee
+©樋野 まつり・白泉社/「ヴァンパイア騎士」 製作委員会=Matsuri Hino・Hakusensha/Vampire Knight Production Comittee
 ©D3 PUBLISHER=©D3 PUBLISHER
+
+==ADV==
+003
+ゲームを終了してタイトルニ戻りますよろしいですか？=Do you wish to exit the game and return to the title screen?
+
+==BD_MATERIAL==
+000
+彼と血の証を結ぶ場所にタッチ=Touch the place where he and his blood are bound. #i think that this one doesn't make sense out of context
+
+==CHAR==
+007
+玖蘭 枢　　藍堂 英　　架院 暁　　一条拓麻　　支葵千里　　錐生 零=Kaname Kuran  Hanabusa Aido  Akatsuki Kain  Takama Ichijo  Senri Shiki  Zero Kiryu
+
+==COMMON==
+004
+バックアップデータが依れています。データを全て初期化してよろしいですか？=Backup data is in use. Are you sure you want to reset all data?
+電源を切って、カードを差し込み直して下さい。=Please turn off the power and reinsert the card.
+バックアップデータを初期化しました。=Backup data has been reset.
+
+005
+バックアップデータの書き込みに失敗しました。電源を切って、カードを差し込み直して下さい。=Failed to save backup data. Please turn off the power and reinsert the card.
+
+006
+バックアップデータが依れています。選択したデータを削除します。=Backup data is in use. Delete the selected data.
+選択したデータを削除しました。=The selected data has been deleted.
+
+007
+バックアップデータの読み込みに失敗しました。電源を切って、カードを差し込み直して下さい。=Failed to load backup data. Please turn off the power and reinsert the card.
+
+008
+データを全て初期化してよろしいですか？=Are you sure you want to reset all data?
+
+==DATESL==
+006
+このセーブデータに上書きしますよろしいですか？=This save slot is already in use, overwrite?
+
+==ENTRY==
+002
+苗字を入力してください=Please enter a last name.
+
+004
+かな=Hiragana
+カナ=Katakana
+漢字=Kanji
+英数=English
+
+==GALLERY==
+008
+黒主学園ナイトクラス=Cross Academy Night Class
+貰ってやってもいいぞ=You can have it.
+新記録更新!=New Record!
+もう我慢できない=I can't take it anymore.
+よく頑張ったな=You did a good job.
+・・・まずい。=...Not good.
+はい、あ～ん♪=Yes, ahh♪
+きゃっ！す、滑った！=Kyah! I slipped!
+ヴァンパイアの最期=Vampire's Last Stand
+相合傘=Umbrella Sharing
+ヴァンパイアハンターの男=Vampire Hunter
+
+010
+モデルのお仕事=Working as a Model
+彼女の夢=Her Dream
+因縁のバケツ=Bucket of Fate
+ナイト・レイン=Night Rain
+かけられた疑惑=Suspicions
+バカヤロウ！=Idiot!
+俺を頼って=You can count on me.
+僕と踊っていただけますか？=May I have this dance?
+枢先輩と旋律=Kaname and Senri
+ダイヤモンド･ダスト=Diamond Dust
+抗えない衝動=Irresistible Urges
+
+012
+純血種の業=Pureblood Work
+恍惚のご馳走=Feast of Ecstasy
+足元に跪いて=Keel at my feet.
+少し我慢してね=Just be patient, okay?
+・・・おいしい。=...Delicious.
+図書館では静かに=Quiet in the library.
+ショッピングデー=Shopping Day
+ハンター協会にて=At the Vampire Hunter Association
+連れて行ってやる=I'll take you there.
+君の媚薬=Your Love Potion
+たまには甘えたい=I'd like to be spoiled every once in a while.
+
+014
+キスは好き？=Do you like to kiss? #i think this is a reference to the reoccurring fish pun
+料理をしよう！枢＆零=Let's Cook! (Kaname & Zero)
+料理をしよう！藍堂＆架院=Let's Cook! (Aido & Kain)
+料理をしよう！一条＆支葵=Let's Cook! (Ichijo & Shiki)
+くぞ、リリィ！=Come on, Lily!
+くすぐったい。That tickles!
+危機一髪=Close Call
+久しぶりの感覚=A Feeling of Long Ago
+よ、よしよし、チビちゃん！=Alright, Chibi!
+一条センパイとタマ？=Ichijo and Tama? #is tama the cat?
+僕がすべて受け止めてあげる=I'll take care of everything.
+
+016
+チビの思い出と零の気持ち=Chibi's Memories and Zero's Feelings
+本当は好きだった=I really liked that dog. #given the context i'm assuming it's talking about chibi, but i could be wrong
+チビを忘れない=I won't forget Chibi.
+チビの分まで生きるんだ=I'll live on, for Chibi.
+ホントにチビが好きだった=I really liked Chibi.
+ラスト･ダンス　零=Last Dance (Zero)
+ラスト･ダンス　枢=Last Dance (Kaname)
+ラスト･ダンス　藍堂=Last Dance (Aido)
+ラスト･ダンス　架院=Last Dance (Kain)
+ラスト･ダンス　一条=Last Dance (Ichijo)
+ラスト･ダンス　支葵=Last Dance (Shiki)
+
+018
+ラスト･ダンス　夜刈=Last Dance (Yagari)
+背徳と欲望と=Immortality and Desire
+まだ、できない=I can't yet.
+アイス･ブルーの契り=Vow of an Icy Blue
+灼熱の焔との契り=Vow of a Scorching Flame
+あなたに捧げる契り=My Promise to You
+極上のデザート=A Fantastic Desert
+幼馴染はもういい=My childhood friend is enough.
+さあ、僕達の時間を始めよう=Let's begin our time together.
+僕は君のことが=My only desire is you.
+いつまでも見守っている=I will always be watching over you.
+
+020
+ナイショだよ=That's a secret.
+私にだけの笑顔=A Smile Only for Me
+２人の物語=A Tale of Two
+ＴＨＥ ＥＮＤ=The End
+
+==GL_TITLE== #i have no idea what these even are so some might be weird out of context
+001
+みんなでおめでとう！=Congratulations everyone!
+
+002
+あの大切な出会い=That Precious Encounter
+
+003
+特別なー冊=A Special Book
+
+004
+アニメ化！
+
+==MAIN==
+006
+ヴァンパイア騎士DS=Vampire Knight DS
+©樋野 まつり・白泉社/「ヴァンパイア騎士」 製作委員会=Matsuri Hino・Hakusensha/Vampire Knight Production Comittee
+©D3 PUBLISHER=©D3 PUBLISHER
+
+==MG1==
+012
+パーティを抜けますか？=Do you want to leave the party?
+
+==V_GALLERY==
+004
+玖蘭 枢 cv. 岸尾 だいすけ=Kaname Kuran cv. Daisuke Kishio
+錐生 零 cv. 宮野 真守=Zero Kiryu cv. Mamoru Miyano
+藍堂 英 cv. 福山 潤=Hanabusa Aido cv. Jun Fukuyama
+架院 暁 cv. 諏訪部 順一=Akatsuki Kain cv. Junichi Suwabe
+一条 拓麻 cv. 千葉 進歩=Takuma Ichijo cv. Susumu Chiba
+支葵 千里 cv. 保志 総一朗=Senri Shiki cv. Soichiro Hoshi
+夜刈 十牙 cv. 安元 洋貴=Toga Yagari cv. Hiroki Yasumoto
+
+==VKGM03==
+000_00
+支葵=Shiki
+一条=Ichijo
+玖蘭=Kuran
+藍堂=Aido
+架院=Kain
+
+==WC==
+000 #all of the translations are below the japanese phrases in the image
+睡眠=Rest
+占い=Fortune
+装飾=Decorate
+風紀=Gaurdian
+学習=Study

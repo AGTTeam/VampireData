@@ -133,8 +133,8 @@
 <ch1>一緒に行く<00><0B><0A><ch2>遠慮する<00><0C>=<ch1>Go together.<00><0B><0A><ch2>Decline.<00><0C>
 <ch1>一緒に行く<00><0D><0A><ch2>遠慮する<00><0E>=<ch1>Go together.<00><0D><0A><ch2>Decline.<00><0E>
 <ch1>一緒に行く<00><0F><0A><ch2>遠慮する<00><10>=<ch1>Go together.<00><0F><0A><ch2>Decline.<00><10>
-<ch1>洞窟を出る<00><00><0A><ch2>このまま<00><01>=
-<ch1>行きます<00><00><0A><ch2>行きません<00><01>=
+<ch1>洞窟を出る<00><00><0A><ch2>このまま<00><01>=<ch1>Leave the cave.<00><00><0A><ch2>Stay.<00><01>
+<ch1>行きます<00><00><0A><ch2>行きません<00><01>=<ch1>Go.<00><00><0A><ch2>Don’t go.<00><01>
 <ch1>恥ずかしいです<00><00><0A><ch2>ふざけないで下さい！<00><01>=
 <ch1>そうですね<00><00><0A><ch2>もう、行きましょう<00><01>=
 <ch1>はい……<00><7F><0A><ch2>それはチョット<00><01>=
@@ -163,10 +163,10 @@
 <ch1>いいんだよ…零<00><09><0A><ch2>こらえて…零<00><0A>=<ch1>“It’s okay, Zero...”<00><09><0A><ch2>“Hang in there, Zero...”<00><0A>
 <ch1>私の血を吸って……<00><0C><0A><ch2>タブレットを早く！<00><0D>=<ch1>“Drink my blood...”<00><0C><0A><ch2>“Take a blood tablet.”<00><0D>
 <ch1>待って<00><7F><0A><ch2>…………<00><01>=<ch1>“Wait.”<00><7F><0A><ch2>“......”<00><01>
-<ch1>ひどい！<00><7F><0A><ch2>ゴメン……<00><04>=
-<ch1>いいんだよ……零<00><06><0A><ch2>そうだね……零<00><07>=
-<ch1>私の血を吸って……零<00><09><0A><ch2>やっぱり待って……零<00><0A>=
-<ch1>うん……零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=
+<ch1>ひどい！<00><7F><0A><ch2>ゴメン……<00><04>=<ch1>“You’re so mean!”<00><7F><0A><ch2>“I’m sorry...”<00><04>
+<ch1>いいんだよ……零<00><06><0A><ch2>そうだね……零<00><07>=<ch1>“It’s fine, Zero...”<00><06><0A><ch2>“No, I...”<00><07>
+<ch1>私の血を吸って……零<00><09><0A><ch2>やっぱり待って……零<00><0A>=<ch1>“Drink my blood.”<00><09><0A><ch2>“I don’t think I--”<00><0A>
+<ch1>うん……零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>“Yes!”<00><0C><0A><ch2>“No... I’m scared...”<00><0D>
 <ch1>何ですか…？<00><00><0A><ch2>まだ心の準備が…<00><01>=<ch1>“What is it...?”<00><00><0A><ch2>“I’m not sure my heart is ready...”<00><01>
 <ch1>ちょっと怖いんです…<00><03><0A><ch2>いいですよ。枢センパイなら…<00><04>=<ch1>“I’m a little scared...”<00><03><0A><ch2>“I’m okay. If it’s you, Kaname...”<00><04>
 <ch1>えっ、どうしよう……<00><06><0A><ch2>そんなことしたら……ダメです<00><07>=<ch1>“Huh? What should I...?”<00><06><0A><ch2>“In that case... we should stop.”<00><07>
@@ -5301,7 +5301,7 @@ Sleep well...
 あ、藍堂センパイが？|そうなんですか……=Oh, Aido does? I see...
 
 # A851C
-ここから先は通さんぞ～！=This is the end of the line for you~! 
+ここから先は通さんぞ～！=This is the end of the line for you~!
 黒いマントに大きな牙……|えっ？まさかこれ、|ヴァンパイア？=A black cape and large fangs... huh? No way, a vampire?
 お前の生き血を|すすってやる～！=I’m going to suck out your lifeblood~!
 わーっ！！わーっ！！|ダメ！それは禁止！！=Grr!! Hyah!! Stop! That’s prohibited!!
@@ -5388,7 +5388,7 @@ Sleep well...
 
 # A2A30
 本当は楽しんでるんでしょう？=Maybe you’re really having fun?
-本当は、ってどういう意味？=What do you mean by “really"? 
+本当は、ってどういう意味？=What do you mean by “really"?
 あ……その、もしかして|支葵センパイ、わざとーー=Ah... um, maybe Shiki, you’re purposefully...
 はしゃぎたい気持ちを|ぐっとこらえて|クールに決めてるのかなって。=trying to resist letting your hair down, because you decided to stay detached.
 何？それ。そんなことする|意味がわかんない。=What? I have no idea what you mean.
@@ -10161,124 +10161,124 @@ Sleep well...
 あ、あれっ？いつの間にか、|みんな居なくなっちゃった。|行動するの、早いなあ……=Huh? And everyone’s gone just like that. They’re quick to action.
 よし、私もみなさんの|お手伝いしに行こう！=Okay! Time for me to go lend them all a hand!
 
-# AA604
-（あ……零だ。|じっと海を見つめて……|どうしたんだろう？）=
-零ー……ぜーろーー！=
-ん……？|ああ……<name>か。=
-零、何してたの？|そんなに真剣に、|海を見つめちゃって。=
-あ……もしかして、|魚を釣るのに潮の流れを|読んでたとか？=
-別に、何もしてない。|ただ、ぼーっとしてただけだ。=
-えっ！？何もしてないって……|もう、零ってば！=
-魚釣るとか、海草取るとか|とにかく何かしなさいよ！=
-今頃、ナイト･クラスの|センパイ達は、ちゃんと食料|集めてるよ！=
-そう。どうせあいつらが|採ってくるだろう。|俺が何かしなくても。=
-（ああもう……零ってば|サバイバルを最初から|放棄してる……！）=
-もうっ！|枢センパイは魚釣りなんて|した事ないのにーー=
-何か捕まえようとして|頑張ってくれてるんだよ？|零も少しは見習ってよ！=
-……俺だって、|した事ないけどな。|道具なしの魚釣りなんて。=
-う……まあ、|そうだろうけど……=
-ふん……=
-（そっぽ向いちゃった……|ちょっと言い過ぎたかな、|私……）=
-あ、零！どこ行くのよ！=
-えっと、零。さっきここに|入っていったよね。|うう……暗い……。=
-あ、あの……零……=
-……いつも、そうやって……=
-え？な、何……？=
-お前はいつもそうやって、|何かと言えば玖蘭枢、|玖蘭枢……！=
-そんなに、あいつの事が|好きなのか？=
-なっ……何！？それ、|今聞くような話じゃない|じゃない！=
-……そ、そうですよーだ！|枢センパイは、私の命の|恩人でーー=
-昔から私に優しくしてくれて、|すごく大切な人だよ！|大好きなんだから！=
-違う……！|俺が言ってる『好き』は|そういう意味じゃない……！=
-そうじゃなくて……|ああ、もうっ……！|ちくしょう、何なんだ……！=
-ぜ、零？どうしたの？|何だか、いつもと違うよ……？=
-（零が……私の方に近づいて|来る……何だろう、怖い顔|して……）=
-ちょっ……ぜ、零！？|何するの……！？=
-（零に……両方の手首、|掴まれた……）=
-は、離してよ！|そんなに力いっぱい掴んだら、|痛いよ……！=
-（すごい力……|ふりほどけない！）=
-ごめん……|もう我慢できない。=
-やっ、ぜ、零っ……！？=
+# AA604 Zero island
+（あ……零だ。|じっと海を見つめて……|どうしたんだろう？）=(Zero’s just staring out at the ocean... I wonder what he’s up to?)
+零ー……ぜーろーー！=Zero! ...Zeeeroooo!!
+ん……？|ああ……<name>か。=Hm...?|Oh... It’s just you <name>.
+零、何してたの？|そんなに真剣に、|海を見つめちゃって。=What’s up? You were staring so intently at the water...
+あ……もしかして、|魚を釣るのに潮の流れを|読んでたとか？=Oh... Were you trying to read the tide to catch a fish, or something?
+別に、何もしてない。|ただ、ぼーっとしてただけだ。=I wasn’t doing anything. Just staring into space.
+えっ！？何もしてないって……|もう、零ってば！=You weren’t doing anything...? Zero!!
+魚釣るとか、海草取るとか|とにかく何かしなさいよ！=You should be doing something like catching fish or collecting seaweed!
+今頃、ナイト･クラスの|センパイ達は、ちゃんと食料|集めてるよ！=Right now, the Night Class are working hard to gather food!
+そう。どうせあいつらが|採ってくるだろう。|俺が何かしなくても。=Yeah. I’m sure they’ll find something so I don’t need to bother.
+（ああもう……零ってば|サバイバルを最初から|放棄してる……！）=(Geez...! Zero just gave up from the start...!)
+もうっ！|枢センパイは魚釣りなんて|した事ないのにーー=Honestly! I’m sure that Kaname has never done something like fishing before...
+何か捕まえようとして|頑張ってくれてるんだよ？|零も少しは見習ってよ！=but he’s giving it his best shot, you know! You could stand to learn something from him!
+……俺だって、|した事ないけどな。|道具なしの魚釣りなんて。=...I’ve never done it before either. Not fishing without any tools.
+う……まあ、|そうだろうけど……=Ngh... I guess that’s true.
+ふん……=Hmph.
+（そっぽ向いちゃった……|ちょっと言い過ぎたかな、|私……）=(He’s turned away... I said too much...)
+あ、零！どこ行くのよ！=Ah, Zero! Where are you going?
+えっと、零。さっきここに|入っていったよね。|うう……暗い……。=(Zero...? He went in here didn’t he... Ngh, it’s dark...)
+あ、あの……零……=H-Hey, Zero...
+……いつも、そうやって……=...You always...
+え？な、何……？=Huh? W-What?
+お前はいつもそうやって、|何かと言えば玖蘭枢、|玖蘭枢……！=You’re always going on about Kaname Kuran this and Kaname Kuran that--!
+そんなに、あいつの事が|好きなのか？=Do you really like him that much?
+なっ……何！？それ、|今聞くような話じゃない|じゃない！=W-What!? Are you really asking me that now!?
+……そ、そうですよーだ！|枢センパイは、私の命の|恩人でーー=...R-Right! Kaname saved my life...
+昔から私に優しくしてくれて、|すごく大切な人だよ！|大好きなんだから！=He’s always been so nice, and he’s a very important person to me! I love him!
+違う……！|俺が言ってる『好き』は|そういう意味じゃない……！=That’s not what I meant. I don’t mean that kind of “love”...
+そうじゃなくて……|ああ、もうっ……！|ちくしょう、何なんだ……！=I meant... Agh, jeez... damn it all...!
+ぜ、零？どうしたの？|何だか、いつもと違うよ……？=Z-Zero? What’s wrong? You’re acting weird...
+（零が……私の方に近づいて|来る……何だろう、怖い顔|して……）=(Zero’s coming closer... He’s making a scary face...)
+ちょっ……ぜ、零！？|何するの……！？=Wait, Z-Zero! What are you doing!?
+（零に……両方の手首、|掴まれた……）=(He grabbed hold of both of my wrists...)
+は、離してよ！|そんなに力いっぱい掴んだら、|痛いよ……！=L-Let me go! You’re hurting me!
+（すごい力……|ふりほどけない！）=(His grip is so strong... I can’t break free!)
+ごめん……|もう我慢できない。=I’m sorry... I’m at my limit.
+やっ、ぜ、零っ……！？=S-Stop, Zero...!
 
-# A10D8
-こんなのイヤだよ！=
-<name>！！=
+# A10D8 choose 洞窟を出る
+こんなのイヤだよ！=No!
+<name>！！=<name>!!
 
-# A2870
-（血色に底光りする|零の瞳が……私を見てる）=
-（目が……そらせない……）=
-ハアッ……ハァッ……=
-零……どんな……味がするの？|私の血……=
-そんな事……知って、|どうする……？=
-血……止まったか？=
-うん……一応ね。=
+# A2870 if bitten
+（血色に底光りする|零の瞳が……私を見てる）=(Zero’s blood-red, glowing eyes are... watching me.)
+（目が……そらせない……）=(I can’t look away...)
+ハアッ……ハァッ……=*Haa... haa...*
+零……どんな……味がするの？|私の血……=Zero... What does my blood taste like?
+そんな事……知って、|どうする……？=Why do you want to know that...?
+血……止まったか？=Has the bleeding stopped?
+うん……一応ね。=Yeah... For the time being.
 
 # A3BA0
-さっきはすまなかった。|無理やりお前を……=
-いいんだよ、零。|そんな、気にしないで。=
-（良かった……|やっといつもの零に|戻ってくれた）=
-ずっとここでこうしてても|仕方ないし、元いた場所に|戻ってみようか？=
-もう、誰かが何か採ってきて|くれてるかもしれないし！=
-ああ……そうだな。|足元、気をつけろよ。|岩がごろごろしてるから……=
-きゃっ……！！=
-って、言ってる側から|お前は……！=
-……<name>、大丈夫か？=
-（零が、転びそうになった|私の身体を抱きとめてくれた）=
-（どうしよう、と、とりあえず|離れなきゃ……）=
+さっきはすまなかった。|無理やりお前を……=I’m sorry about before. Pressuring you...
+いいんだよ、零。|そんな、気にしないで。=It’s fine, Zero. Don’t worry about it.
+（良かった……|やっといつもの零に|戻ってくれた）=(I’m glad... He’s finally back to his normal self.)
+ずっとここでこうしてても|仕方ないし、元いた場所に|戻ってみようか？=Well there’s no point in just hanging around here forever, so why don’t we go back to where we came from?
+もう、誰かが何か採ってきて|くれてるかもしれないし！=One of the others might have already caught something for us!
+ああ……そうだな。|足元、気をつけろよ。|岩がごろごろしてるから……=Yeah... You’re right. Just watch your step, there’s rocks all over the place.
+きゃっ……！！=Eeeek!
+って、言ってる側から|お前は……！=What did I just say!?
+……<name>、大丈夫か？=...Are you okay, <name>?
+（零が、転びそうになった|私の身体を抱きとめてくれた）=(Zero caught me as I was just about to fall.)
+（どうしよう、と、とりあえず|離れなきゃ……）=(W-What should I do? I need to put some space between us...)
 
 # A20D8
-（零の顔が、近い……！|さっきの事もあるし……何か、|変に意識しちゃう）=
-あっ、ありがとうね、零！|大丈夫、一人で歩けるよ！=
-危なっかしいやつだな|いや…足元がフラつくのか…|俺が血を、奪いすぎて。=
-わ、わかってるってば！=
-ん……？|ねえ零、あそこに佇んで、|こっちをじっと見てる人影……=
-あれ、誰だろう？|もしかして……=
+（零の顔が、近い……！|さっきの事もあるし……何か、|変に意識しちゃう）=(Zero’s face is so close...! After what just happened, I feel weirdly self-conscious around him...)
+あっ、ありがとうね、零！|大丈夫、一人で歩けるよ！=T-Thank you, Zero! I’m alright, I can walk by myself!#not sure how to access these lines
+危なっかしいやつだな|いや…足元がフラつくのか…|俺が血を、奪いすぎて。=You’re always so clumsy. No... I don’t know if it’s because the ground here is bad, or that I drank too much...
+わ、わかってるってば！=I-It’s fine, already!
+ん……？|ねえ零、あそこに佇んで、|こっちをじっと見てる人影……=Hm? Hey Zero, there’s someone over there, staring at us...
+あれ、誰だろう？|もしかして……=Who could it be?
 
-# A9D40
-（あれ……？枢センパイ、|何してるんだろう……）=
+# A9D40 Kaname island
+（あれ……？枢センパイ、|何してるんだろう……）=(Hm... I wonder what he’s doing...)
 （海をじっと眺めながら、|静かに佇んでるだけ……？）=(Why is he just silently staring out at the ocean?)
 ！！！=!!!
-（な、何！？海が突然|盛り上がったと思ったら……）=
-（魚たちが宙を舞って、|浜辺にひゅんひゅん|飛んで来る！！）=
-（そして、ピラミッドみたいに|積み上げられていく！）=
-（枢センパイ……指一本、|魚に触れてないのに……！）=
-ん？よく見ると、何かキラキラ|宙で光ってる……糸だ！=
-凄い！枢センパイ！たぶん|糸と針だけで、魚を次々と|釣り上げているんだ！？=
-……そこにいるのは、誰？|<name>かい？=
-は、はい！|枢センパイ……私です。=
-あの……今の凄い技ですね！=
-ふふ、見られちゃったか。|魚ぐらいこの僕にも捕れるよ。=
-これぐらい何ともないこと|だからね。=
-（枢センパイのあまりの|凄技に、ドキドキする……）=
-ねえ<name>。|きれいな……海だね。=
-こうして、<name>と二人で|海を見ながら佇んでる……|いいね。穏やかな時間だ……=
-いつまでも、こうして|いられたらいいのに。|きみと……=
-（静かになればなるほど|緊張しちゃうし、|恥ずかしいな……）=
-ねえ、<name>。|どうしてそんなに|緊張しているのかな。=
-もしかして、|僕と二人っきりは、嫌？=
-えっ！？|そ、そんな事ありません……|ただ、その……=
-ドキドキしてしまって……|す、すみません……！=
-ふふ、正直だね、<name>は……|心臓の高鳴りがここまで|聞こえてきそうだよ。=
-……近くにおいで。|そんな離れた所にいないで、|僕の、手の届く所まで……=
-で、でも……=
-ふふ……きみが来ないなら、|僕がそっちに行くよ？=
-あっ、でも、枢センパイ……！=
-もう遅いよ……つかまえた、|<name>。=
-（わ、私……枢センパイの|腕の中に、すっぽり|収まっちゃった……！）=
-さっき、誰にも見つからない、|良い場所をみつけたんだ。=
-そこへ行かない？=
+（な、何！？海が突然|盛り上がったと思ったら……）=(W-What!? It seems like the ocean is suddenly really lively...)
+（魚たちが宙を舞って、|浜辺にひゅんひゅん|飛んで来る！！）=(Fish are flying through the air and onto the beach!)
+（そして、ピラミッドみたいに|積み上げられていく！）=(And they’re all piling up on top of each other like a pyramid!)
+（枢センパイ……指一本、|魚に触れてないのに……！）=(Kaname... Without even touching a single fish...!)
+ん？よく見ると、何かキラキラ|宙で光ってる……糸だ！=Hm? If I look closer, I can see something shining in the air... It’s a line!
+凄い！枢センパイ！たぶん|糸と針だけで、魚を次々と|釣り上げているんだ！？=That’s amazing, Kaname! With just a line and a hook, you’ve caught so many fishes one after another!
+……そこにいるのは、誰？|<name>かい？=...Who’s there? <name>?
+は、はい！|枢センパイ……私です。=Y-Yes! It’s me, Kaname...
+あの……今の凄い技ですね！=Um... That was an amazing technique!
+ふふ、見られちゃったか。|魚ぐらいこの僕にも捕れるよ。=Heheh, you saw? Even I can catch fish.
+これぐらい何ともないこと|だからね。=Something like this is no problem.
+（枢センパイのあまりの|凄技に、ドキドキする……）=(My heart is racing from just watching him.)
+ねえ<name>。|きれいな……海だね。=Yes, <name>.|It’s a beautiful sight... the ocean.
+こうして、<name>と二人で|海を見ながら佇んでる……|いいね。穏やかな時間だ……=Standing here, watching the ocean with you is nice. It’s so peaceful...
+いつまでも、こうして|いられたらいいのに。|きみと……=I wish we could stay like this forever. Together...
+（静かになればなるほど|緊張しちゃうし、|恥ずかしいな……）=(As the silence grows, so do my nerves...)
+ねえ、<name>。|どうしてそんなに|緊張しているのかな。=Say, <name>, I can’t help but wonder why you seem to be so nervous.
+もしかして、|僕と二人っきりは、嫌？=Do you dislike being alone with me?
+えっ！？|そ、そんな事ありません……|ただ、その……=H-Huh!? That’s not it--! I just...
+ドキドキしてしまって……|す、すみません……！=I-I’m sorry, my heart just started pounding--!
+ふふ、正直だね、<name>は……|心臓の高鳴りがここまで|聞こえてきそうだよ。=Heheh, you’re so honest, <name>. I can hear your heartbeat even from here.
+……近くにおいで。|そんな離れた所にいないで、|僕の、手の届く所まで……=...Come closer. Don’t stay so far away, come where I can reach...
+で、でも……=B-But...
+ふふ……きみが来ないなら、|僕がそっちに行くよ？=Heheh... If you won’t come here, should I go there?
+あっ、でも、枢センパイ……！=Ah, but, Kaname...!
+もう遅いよ……つかまえた、|<name>。=It’s too late... I’ve caught you, <name>.
+（わ、私……枢センパイの|腕の中に、すっぽり|収まっちゃった……！）=(K-Kaname’s arms are wrapped around me...!)
+さっき、誰にも見つからない、|良い場所をみつけたんだ。=I came across a good spot where no one will be able to find us a little while ago.
+そこへ行かない？=Why don’t we head there?
 
 # A0FB8
-暗いから、足下気をつけてね。=
+暗いから、足下気をつけてね。=Watch your step, it’s dark.
 
-# A5E3C
-図書館で出来なかったコトを|しよう。=
-（えっ？じゃあ、これは|夢じゃないの？……|それとも、全てが夢？）=
-（どうしよう……こんなに|近かったら、心臓の音が、|センパイに聞こえちゃう……）=
-<name>の髪……風になびいて|すごく良い香りだよ。|触れても……いい？=
-潮風で少し、濡れているね……=
-（枢センパイのしなやかな指が|私の髪をすいていく）=
-（ずっと、|こうしてて欲しい……なんて、|何考えてるんだろう、私）=
+# A5E3C choose 行きます
+図書館で出来なかったコトを|しよう。=Let’s do what we couldn’t do at the library.
+（えっ？じゃあ、これは|夢じゃないの？……|それとも、全てが夢？）=(Huh? You mean, this isn’t a dream? ...Or is it all a dream?)
+（どうしよう……こんなに|近かったら、心臓の音が、|センパイに聞こえちゃう……）=(What should I do...? If we’re this close, he’s going to be able to hear my heart pounding...)
+<name>の髪……風になびいて|すごく良い香りだよ。|触れても……いい？=Your hair... It smells lovely, fluttering in the wind. May I touch it...?
+潮風で少し、濡れているね……=It's a little wet from the ocean breeze...
+（枢センパイのしなやかな指が|私の髪をすいていく）=(Kaname’s slender fingers ran through my hair.)
+（ずっと、|こうしてて欲しい……なんて、|何考えてるんだろう、私）=(I wish we could stay like this forever... No, what am I even thinking!?)
 <name>……きみはいつから|そんなに大人っぽい表情を|するようになったの？=
 えっ……？|大人っぽいだなんて、|全然そんな……=
 自覚なし……か。ねえ<name>、|こんな表情、僕以外の誰にも|見せてはいけないよ……=
@@ -10612,39 +10612,39 @@ Sleep well...
 ああっ、くそっ。|俺は一体いつになったら|メシが食えるんだ！=
 
 # A9998
-やあ……錐生くん。|手ぶらという事は、|何も収穫なしかい？残念だね。=
-俺がやらなくても、玖蘭先輩が|何とかしてくれると思ったんで。=
-その、得体の知れない力で|どうとでもなるでしょう？=
-（い、いきなり険悪ムード……|二人の間に見えない火花が|バチバチと散ってる……！）=
-あ、あのっ！|とにかくこの魚、|持って行きませんか？=
-そうだね、<name>の|言うとおりだ。|錐生くん、運んでくれないか？=
-どうして俺が。|元はと言えばあんたが|獲ったものでしょう？=
-僕に獲らせただけじゃなく、|運べというのかい？一体|どこまで図々しいんだろうね。=
-だったら始めっから|獲らなきゃいいだろうが……！=
-<name>を空腹にさせておく|なんて、僕には出来ないよ。|それにーー=
-何の収穫もなかった君に|言われたくないね。|そんな、偉そうな事は……=
-（ああっ、また……！|一触即発な雰囲気に！）=
-もう、二人とも、|やめて下さい……！=
-ねっ、零！お願い、|一緒に運んで？|私も手伝うからさ。=
-枢センパイは獲る係、|私たちは運ぶ係、って事に|すればいいじゃない？=
-……わかった。お前がそう言う|なら……<name>、俺が運ぶ。|お前は何もしなくていい。=
-で、でも、零……=
-いいから。|これぐらい一人で持てる。=
-やっと、協力する気になって|くれたみたいだね。|ありがとう、錐生くん。=
-…………ふん。=
-さあ<name>、僕たちも戻ろう。|フフ……何を作ろうか？|<name>の好きなものがいいね。=
-気持ちは嬉しいですけど|とりあえず、今ある材料で|出来るものでいいです。=
-そんな贅沢、言ってる場合じゃ|ありませんし……=
-もっと僕を信じて欲しいな。|僕にできないことは|ないんだよ。=
-できないことはない、か。|そもそもナイト･クラスの|お坊ちゃん連中にーー=
-料理なんて出来るのか？|聞いてあきれる。=
-何か言ったかい？|錐生くん。=
-別に。ただの独り言ですよ、|玖蘭先輩。=
-ふうん。きみの独り言は|ずいぶんと大きいんだね。=
-…………フン。=
-（もう！みんなで|力を合わせてサバイバル|しなきゃならない時にーー）=
-（どうしてこう、|仲が悪いかな、|この二人は……！）=
-（ああ……早く|一条センパイたちと合流して|場を和ませて貰いたい……！）=
+やあ……錐生くん。|手ぶらという事は、|何も収穫なしかい？残念だね。=Hello, Kiryu. By the fact that you’re stood around empty-handed, I presume you didn’t find anything? That’s a shame.
+俺がやらなくても、玖蘭先輩が|何とかしてくれると思ったんで。=I figured that you’d be able to take care of it without me, Kuran.
+その、得体の知れない力で|どうとでもなるでしょう？=You can do anything with those weird powers of yours, right?
+（い、いきなり険悪ムード……|二人の間に見えない火花が|バチバチと散ってる……！）=(T-The mood has suddenly turned so sour... It’s like invisible sparks are flying between them...)
+あ、あのっ！|とにかくこの魚、|持って行きませんか？=U-Um, anyway, how about we take that fish?
+そうだね、<name>の|言うとおりだ。|錐生くん、運んでくれないか？=Yes, <name> is right. Kiryu, would you carry it for me?
+どうして俺が。|元はと言えばあんたが|獲ったものでしょう？=Why me? You’re the one who caught it, right?
+僕に獲らせただけじゃなく、|運べというのかい？一体|どこまで図々しいんだろうね。=So you want to make me not only catch it, but carry it too? I see your impudence has no end.
+だったら始めっから|獲らなきゃいいだろうが……！=If you’re going to act like that, then why even catch it in the first place!?
+<name>を空腹にさせておく|なんて、僕には出来ないよ。|それにーー=I couldn’t just sit by and let <name> go hungry. Besides...
+何の収穫もなかった君に|言われたくないね。|そんな、偉そうな事は……=I don’t want to hear such arrogance coming from you, who didn’t catch a single thing.
+（ああっ、また……！|一触即発な雰囲気に！）=(Aaah, not again! The air is so tense...!)
+もう、二人とも、|やめて下さい……！=Come on now, stop it you two.
+ねっ、零！お願い、|一緒に運んで？|私も手伝うからさ。=Okay, Zero? Please, let’s just carry it together. I’ll help you.
+枢センパイは獲る係、|私たちは運ぶ係、って事に|すればいいじゃない？=Kaname caught it, and we’ll carry it back. That sounds fair, right?
+……わかった。お前がそう言う|なら……<name>、俺が運ぶ。|お前は何もしなくていい。=...Alright, if you’re so fussed about it... <name>, I’ll carry it. You don’t have to do anything.
+で、でも、零……=B-But, I--
+いいから。|これぐらい一人で持てる。=It’s fine. I can carry it by myself.
+やっと、協力する気になって|くれたみたいだね。|ありがとう、錐生くん。=It seems you’re finally willing to cooperate. Thank you, Kiryu.
+…………ふん。=...Hmph.
+さあ<name>、僕たちも戻ろう。|フフ……何を作ろうか？|<name>の好きなものがいいね。=Now then, we should be getting back. Heh... What shall we make? Whatever <name> likes would be good.
+気持ちは嬉しいですけど|とりあえず、今ある材料で|出来るものでいいです。=I appreciate the thought, but I think we’d be better sticking with what we can make from the ingredients we already have.
+そんな贅沢、言ってる場合じゃ|ありませんし……=Now’s not the time to be going all out...
+もっと僕を信じて欲しいな。|僕にできないことは|ないんだよ。=I wish you would have more faith in me. There’s nothing I can’t do.
+できないことはない、か。|そもそもナイト･クラスの|お坊ちゃん連中にーー=Nothing you can’t do, huh? Actually, can the privileged lords of the Night Class--
+料理なんて出来るのか？|聞いてあきれる。=even cook? It beggars belief.
+何か言ったかい？|錐生くん。=Is there something you want to say, Kiryu?
+別に。ただの独り言ですよ、|玖蘭先輩。=Not really. I was just talking to myself, Kuran.
+ふうん。きみの独り言は|ずいぶんと大きいんだね。=Hmm, your self-talk is rather loud.
+…………フン。=...Hmph.
+（もう！みんなで|力を合わせてサバイバル|しなきゃならない時にーー）=(Geez! At a time when we all need to work together to survive...)
+（どうしてこう、|仲が悪いかな、|この二人は……！）=(Why can they do nothing but fight...!?)
+（ああ……早く|一条センパイたちと合流して|場を和ませて貰いたい……！）=(Aaah... I can’t wait to get back to Ichijo and the others who can ease the mood...)
 
 # A7DDC
 暁、どうだ、採れたのか？|ちょっと見せてみろよ。=
@@ -11350,7 +11350,7 @@ Sleep well...
 あ……はい、夜刈先生……|ありがとうございました。|おやすみなさい。=I-I will, Mr. Yagari. Thank you. Good night.
 私、ここで香水をかいで|倒れて……そこまでは|覚えてるんだけど……=I was here when I smelled the perfume and passed out, but that's as much as I remember.
 香水……|ベッドサイドに置かれてる。|フタもちゃんと閉まってる。=The perfume... It's there on my nightstand, and the lid is closed.
-あれ……？|この薔薇……|誰が置いたんだろう？=Huh? A rose? Somebody must have put this here. 
+あれ……？|この薔薇……|誰が置いたんだろう？=Huh? A rose? Somebody must have put this here.
 もしかして、|この香水を使って誰かが私に、|何かをしようとした……？=Was someone trying to use this perfume to do something to me?
 ……まさかね。|考えすぎだよね。=...Nah. I'm just being paranoid.
 それにしても、|面白い夢だったな。零や、|ナイト･クラスの皆さんとーー=Anyway, it was an interesting dream. Zero and the Night Class trying to survive on a deserted island.
@@ -15332,7 +15332,7 @@ Sleep well...
 # A0C34
 俺は…最低だ…=I’m... the worst...
 
-# A1404 Zero high intimacy bloodlust
+# A1404 Zero high intimacy bloodlust chapter 3
 零…、顔が真っ青だよ。=Zero... You’ve gone white.
 大丈夫…？=Are you okay...?
 
@@ -15378,60 +15378,60 @@ Sleep well...
 # A0A08
 俺は…けだものだな…。=I’m... nothing more than a beast...
 
-# A17E8
-零の為だから……|覚悟は出来ているよ。=
-いいのか？俺はもう……|お前を気遣うことはできない|かもしれない。=
-じゃあ……=
+# A17E8 Zero bloodlust chapter 5
+零の為だから……|覚悟は出来ているよ。=If you need my blood... I’ve made my choice.
+いいのか？俺はもう……|お前を気遣うことはできない|かもしれない。=Are you sure? I... I don’t know if I’ll be able to watch how much I take.
+じゃあ……=Well...
 
-# A0C3C
-どうした…？=
+# A0C3C choose 待って
+どうした…？=What’s wrong?
 
-# A0B44
-そんなに怯えて……=
+# A0B44 choose …………
+そんなに怯えて……=You’re that scared...
 
 # A0A84
-馬鹿じゃねーの？覚悟できて|いないのはお前の方だろ？=
+馬鹿じゃねーの？覚悟できて|いないのはお前の方だろ？=Are you some kind of idiot? You’re not really okay with this, are you?
 
-# A1A3C
-ひどい！試したのね？零。=
-覚悟もないのに簡単に|言うからだ。=
-………。=
-悪かった……本当に|覚悟しないといけないのは、|俺の方だ。=
+# A1A3C　choose ひどい！
+ひどい！試したのね？零。=You’re so mean! Are you testing me, Zero?
+覚悟もないのに簡単に|言うからだ。=Because you don’t think twice about saying you’re ready even if you’re not.
+………。=...
+悪かった……本当に|覚悟しないといけないのは、|俺の方だ。=I’m sorry... I’m the one who needs to mentally prepare.
 
-# A15CC
-ゴメンね……零。=
-謝るのは俺の方だ……=
-お前に対して何もしてやれない|のに……そんな……=
+# A15CC　choose ゴメン……
+ゴメンね……零。=I’m sorry... Zero...
+謝るのは俺の方だ……=I’m the one who should be apologizing.
+お前に対して何もしてやれない|のに……そんな……=I can never do anything for you, and yet...
 
-# A1148
-私は、零の苦しみを少しでも|和らげてあげたい……=
-いいのか？本当に？=
+# A1148 choose いいんだよ……零
+私は、零の苦しみを少しでも|和らげてあげたい……=I want to ease your suffering...
+いいのか？本当に？=Are you sure? Absolutely?
 
-# A1434
-私も無理しちゃったかな……=
-いいんだ。おまえが気にする|ことじゃない。=
-零……私の覚悟は……=
+# A1434 choose そうだね……零
+私も無理しちゃったかな……=I think I probably said too much...
+いいんだ。おまえが気にする|ことじゃない。=It’s fine. There’s nothing for you worry about.
+零……私の覚悟は……=Zero... I--
 
-# A0BD8
-もう……|俺は戻れない気がする……=
+# A0BD8 choose 私の血を吸って……零
+もう……|俺は戻れない気がする……=I’m... past the point of no return...
 
-# A10B0
-そうだな……すまなかった。|もういいんだ。=
+# A10B0 choose やっぱり待って……零
+そうだな……すまなかった。|もういいんだ。=Yeah... I’m sorry. It’s fine already.
 
 # A1030
-……欲しくて…たまらない…=
+……欲しくて…たまらない…=I want it so bad... I can’t stand it...
 
 # A0B4C
-もう……戻れないな……=
+もう……戻れないな……=There’s no going back now...
 
 # A0E68
-逃げないよ……|もうお前から逃げない。=
+逃げないよ……|もうお前から逃げない。=I won’t run... I won’t run away from you anymore.
 
 # A0D20
-そんな顔してると、|また吸いたくなる…=
+そんな顔してると、|また吸いたくなる…=When I see you make that face, it just makes me want to drink more...
 
 # A0CBC
-俺たち……これからどこへ|行くんだろうな……=
+俺たち……これからどこへ|行くんだろうな……=I wonder what future lies in wait for us now...
 
 # A0FD4 Kaname low intimacy bloodlust
 僕のワガママを、聞いてくれる|かな？=Will you listen to my selfish request?

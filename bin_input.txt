@@ -135,7 +135,7 @@
 <ch1>一緒に行く<00><0F><0A><ch2>遠慮する<00><10>=<ch1>Go together.<00><0F><0A><ch2>Decline.<00><10>
 <ch1>洞窟を出る<00><00><0A><ch2>このまま<00><01>=<ch1>Leave the cave.<00><00><0A><ch2>Stay.<00><01>
 <ch1>行きます<00><00><0A><ch2>行きません<00><01>=<ch1>Go.<00><00><0A><ch2>Don’t go.<00><01>
-<ch1>恥ずかしいです<00><00><0A><ch2>ふざけないで下さい！<00><01>=
+<ch1>恥ずかしいです<00><00><0A><ch2>ふざけないで下さい！<00><01>=<ch1>“That was so embarrassing.”<00><00><0A><ch2>“Please stop messing around!”<00><01>
 <ch1>そうですね<00><00><0A><ch2>もう、行きましょう<00><01>=
 <ch1>はい……<00><7F><0A><ch2>それはチョット<00><01>=
 <ch1>洞窟に行く<00><7F><0A><ch2>洞窟に行かない<00><01>=<ch1>Go to the cave.<00><7F><0A><ch2>Don't go to the cave.<00><01>
@@ -177,8 +177,8 @@
 <ch1>わかりました……<00><05><0A><ch2>困ります…本当に<00><03>=<ch1>“I understand...”<00><05><0A><ch2>“I don’t think...”<00><03>
 <ch1>おまかせします…|枢センパイ<00><08><0A><ch2>決めて良いですか？|…枢センパイ<00><09>=<ch1>“You decide.”<00><08><0A><ch2>“Is it... alright if I pick?”<00><09>
 <ch1>枢センパイ…決めて下さい<00><0B><0A><ch2>私が決めます<00><0C>=<ch1>“Please pick for me.”<00><0B><0A><ch2>“I’ll choose.”<00><0C>
-<ch1>私も……<00><00><0A><ch2>何がですか？<00><01>=
-<ch1>ちょっと待ってください<00><03><0A><ch2>やっぱりダメです<00><04>=
+<ch1>私も……<00><00><0A><ch2>何がですか？<00><01>=<ch1>“Me too...”<00><00><0A><ch2>“What do you mean?”<00><01>
+<ch1>ちょっと待ってください<00><03><0A><ch2>やっぱりダメです<00><04>=<ch1>“Please wait.”<00><03><0A><ch2>“We shouldn’t.”<00><04>
 <ch1>いいですよ<00><7F><0A><ch2>いやです<00><01>=<ch1>“You may.”<00><7F><0A><ch2>“No.”<00><01>
 <ch1>別にいいですよ<00><03><0A><ch2>そんなのいやです<00><04>=<ch1>“I don’t mind.”<00><03><0A><ch2>“Y-You can’t!”<00><04>
 <ch1>う～ん、じゃあいいです<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay.”<00><07><0A><ch2>“It’s not happening.”<00><08>
@@ -10279,94 +10279,94 @@ Sleep well...
 潮風で少し、濡れているね……=It's a little wet from the ocean breeze...
 （枢センパイのしなやかな指が|私の髪をすいていく）=(Kaname’s slender fingers ran through my hair.)
 （ずっと、|こうしてて欲しい……なんて、|何考えてるんだろう、私）=(I wish we could stay like this forever... No, what am I even thinking!?)
-<name>……きみはいつから|そんなに大人っぽい表情を|するようになったの？=
-えっ……？|大人っぽいだなんて、|全然そんな……=
-自覚なし……か。ねえ<name>、|こんな表情、僕以外の誰にも|見せてはいけないよ……=
-表情だけじゃない。<name>の|この髪も、声も、身体も……|誰にも見せたくない。=
-本当は、<name>を独り占め|したいぐらいだよ。|欲の強い男だと、笑うかい？=
-笑うだなんて、そんなこと……|するはずありません……！=
-いい子だね。<name>……=
-えっ……？|枢……センパイ……？=
-（枢センパイの顔が|近づいて来る……）=
-（え……？もしかして、私、|キス……される？）=
+<name>……きみはいつから|そんなに大人っぽい表情を|するようになったの？=<name>... I wonder when you started making such grownup expressions.
+えっ……？|大人っぽいだなんて、|全然そんな……=Huh...? Grownup? I’m not at all...
+自覚なし……か。ねえ<name>、|こんな表情、僕以外の誰にも|見せてはいけないよ……=You didn’t know? ...Hey, <name>, don’t ever show this kind of expression to anyone else.
+表情だけじゃない。<name>の|この髪も、声も、身体も……|誰にも見せたくない。=Not just your expressions... I don’t want anyone else to know your hair, your voice, your body...
+本当は、<name>を独り占め|したいぐらいだよ。|欲の強い男だと、笑うかい？=I wish I could have you all for myself. Are you going to laugh at me, for being so greedy?
+笑うだなんて、そんなこと……|するはずありません……！=I would never laugh--!
+いい子だね。<name>……=You’re a good girl, <name>...
+えっ……？|枢……センパイ……？=Huh? Ka...name...?
+（枢センパイの顔が|近づいて来る……）=(Kaname’s face is getting closer...)
+（え……？もしかして、私、|キス……される？）=(It can’t be... Is he going to kiss me...?)
 
 # A2318
-……ねえ、<name>。|そんなに怯えないで。|大丈夫、何もしないよ。=
-は……はい……=
-ちょっと悪ふざけが|過ぎてしまったかな……|ごめんね、<name>。=
-（そう言うと、枢センパイは|腕の力をするりと抜いて、|私の身体を開放した……）=
-（はあ……|心臓が止まるかと思った！）=
-（でも、もう少しあのままで|いたかった様な気もする……|何だろう、複雑……）=
+……ねえ、<name>。|そんなに怯えないで。|大丈夫、何もしないよ。=...<name>, you don’t need to be so frightened. Don’t worry, I won’t do anything.
+は……はい……=R-Right...
+ちょっと悪ふざけが|過ぎてしまったかな……|ごめんね、<name>。=It seems I might have taken my prank a little too far... I’m sorry, <name>.
+（そう言うと、枢センパイは|腕の力をするりと抜いて、|私の身体を開放した……）=(As he said that, Kaname released his grip on me...)
+（はあ……|心臓が止まるかと思った！）=(Aaah... I thought my heart was going to stop!)
+（でも、もう少しあのままで|いたかった様な気もする……|何だろう、複雑……）=(But, I kind of wanted to stay like that a little longer too... It’s complicated...!)
 
 # A27B0
-あっ……|すっかり忘れてた、魚のこと。=
-とりあえず、浜辺に|上がってる分は運ばないと、|ですね。=
-そうだね。|でも結構な量だから……|運ぶとなると大変だね。=
-両手で抱えきれるかな？|誰かに手伝ってもらえると|助かるんだけどなあ……=
-……ん？|今、あそこの岩場で|チラッと見えたのって……=
-……錐生くんだね。|あんな所で|何をしているのかな。=
-ちょうどいいや、|これ運ぶの手伝って|もらいましょう！=
-お～い、零～～！！|こっちこっち～～！！|ちょっとこっち来て～～！=
+あっ……|すっかり忘れてた、魚のこと。=Ah... I completely forgot about the fish.
+とりあえず、浜辺に|上がってる分は運ばないと、|ですね。=I think I had better take the ones that are on the beach back with me.
+そうだね。|でも結構な量だから……|運ぶとなると大変だね。=Quite. But there is rather a lot, so it might be hard to carry.
+両手で抱えきれるかな？|誰かに手伝ってもらえると|助かるんだけどなあ……=I think I might be able to manage with both hands? Though, it would be great if someone could help...
+……ん？|今、あそこの岩場で|チラッと見えたのって……=...Hm? I thought I just saw a glimpse of something behind that rock...
+……錐生くんだね。|あんな所で|何をしているのかな。=...It’s Kiryu. I wonder what he’s doing over there.
+ちょうどいいや、|これ運ぶの手伝って|もらいましょう！=Perfect, I’ll make him help me carry these!
+お～い、零～～！！|こっちこっち～～！！|ちょっとこっち来て～～！=Hey, Zero~! Come here a sec! Hey, don’t walk away--!
 
-# AAF80
-（誰かいる……あれは……|藍堂センパイ？）=
-フ～ン♪フフ～ン♪=
-（何か、すごい楽しそう。|鼻歌なんか歌っちゃって……）=
-ああ、もう！またツタが|足に絡まってきた！|本当、邪魔だな……！=
-あの……藍堂センパイ。|足のツタ、取るの|手伝いましょうか？=
-ん？<last><name>、いたんだ。|フン、お前の手助けなんて|必要ないよ。=
-わっ……凍りついてパリパリに|砕けちゃった。ツタが……=
-まあ、ざっとこんなものさ。|ところでお前は、何しに|来たんだ？=
-えっと、一応、食料調達の|お手伝いに……=
-おあいにく様。|君の手なんか借りなくても|平気だよ。=
-ほら見ろよ！美しいキノコが|こんなにたくさん！ふふん、|全部、僕が見つけたんだ！=
-あ……はあ……そうですか……=
-（うわぁ……オレンジ色に|ピンク色のキノコ……|いかにも毒持ってそう……）=
-ああ、あれもすごく美しいな。|傘の色がまるで血のように|赤い……=
-あ、あの、こっちの方が|いいんじゃないですか？|形も色もシイタケみたいで。=
-フン、地味でつまらないよ。|そんな茶色くて薄汚れたキノコ|なんて。=
-（地味とか派手とかじゃなくて|食べられるかどうかの方が問題|だと思うけど……）=
-このキノコもいいね。|淡い黄色の傘……|グラデーションがまた美しい。=
-あ、藍堂センパイ！|あまり綺麗なキノコは|採るのやめませんか？=
-きっと毒がありますよ！=
-ああ、そうか。|人間はこんな毒でも|すぐ死んでしまうからな。=
-わかったよ。|やめればいいんだろ。あ～あ、|何だか疲れちゃったよ。=
-あっ、あそこに洞窟らしきもの|があるよ。ちょっと、暗い所で|休みたいんだけどいいか？=
-やっぱり暗いところは|落ち着くなあ。それでさっきの|続きだけど……=
-まあ、お前の言う事も|一理あるな。綺麗なものには|毒がある……=
-女の子でいうと、|瑠佳あたりかな。ククッ。=
-駄目ですよ、|そんな事言っちゃ。=
-（確かに瑠佳さんは綺麗だし、|芯が強そうだけど……）=
-ふ……ん。|お前は……毒はなさそうだな。=
-そうですね……って、|藍堂センパイ！|どういう意味ですか！？=
-うう……どうせ私は毒なんか|ありませんよ、綺麗じゃない|ですからね！=
-ウソだよ、ウソ！お前だって|本当は…それなりにいい線|いってると思うぞ。=
-今更フォローされても|嬉しくないです……！=
-じゃあ、こういうのはどうだ？|<last><name>は、毒はないけど|別のものを持っている……=
-何ですか？別のものって。|どうせロクなものじゃ|ないんでしょうけど……=
-ふふ……蝞薬さ。|男の本能をかきたてる……|フェロモンみたいの。=
-えっ……そ、そんなもの|あるわけないじゃない|ですか……！=
-さあ……どうかな。|自分で気付いてないだけ|じゃない？=
-<name>ちゃんは|お子様だからね。フフッ。=
-私は……お子様なんかじゃ|ありません。そんな風に|言わないで下さい……！=
-じゃあ、試させてくれる？|君の中にある蝞薬を……|この僕に……！=
-あ……藍堂センパイ！？|や、やめて下さい！|離して……！=
-（どうしよう……|藍堂センパイの顔がすごい、|近くにある……）=
-（キス……される！？）=
-…………フフッ。|な～んてね。冗談だよ、冗談。=
+# AAF80 Aido island
+（誰かいる……あれは……|藍堂センパイ？）=(Someone’s there... Aido?)
+フ～ン♪フフ～ン♪=Hmm♪ Hmmm♪
+（何か、すごい楽しそう。|鼻歌なんか歌っちゃって……）=(He seems to be having fun, humming so happily...)
+ああ、もう！またツタが|足に絡まってきた！|本当、邪魔だな……！=Agh, come on! My feet are all tangled in ivy again! This is getting really annoying...
+あの……藍堂センパイ。|足のツタ、取るの|手伝いましょうか？=Um, Aido... Shall I help you with that?
+ん？<last><name>、いたんだ。|フン、お前の手助けなんて|必要ないよ。=Hm? You were here, <name><last>? Hmph, I don’t need your help.
+わっ……凍りついてパリパリに|砕けちゃった。ツタが……=Wow... The ivy froze and broke into pieces.
+まあ、ざっとこんなものさ。|ところでお前は、何しに|来たんだ？=Well, that’s how it goes. Anyway, what are you doing here?
+えっと、一応、食料調達の|お手伝いに……=Um, I thought I could help gather food...
+おあいにく様。|君の手なんか借りなくても|平気だよ。=Sorry to disappoint, but I have no need of you.
+ほら見ろよ！美しいキノコが|こんなにたくさん！ふふん、|全部、僕が見つけたんだ！=Just look at all these pretty mushrooms! Hehehe, I found them all myself!
+あ……はあ……そうですか……=Ah... wow...
+（うわぁ……オレンジ色に|ピンク色のキノコ……|いかにも毒持ってそう……）=(Woah, there’s orange and pink mushrooms... They look poisonous.)
+ああ、あれもすごく美しいな。|傘の色がまるで血のように|赤い……=Aah, this one is a stunner too. The cap is as red as blood...
+あ、あの、こっちの方が|いいんじゃないですか？|形も色もシイタケみたいで。=U-Um, maybe this one would be better? It’s shape and color look just like shiitake mushrooms.
+フン、地味でつまらないよ。|そんな茶色くて薄汚れたキノコ|なんて。=Hmph, it's so plain and boring. Who’d want a brown, dirty mushroom?
+（地味とか派手とかじゃなくて|食べられるかどうかの方が問題|だと思うけど……）=(I don’t think it’s so much a question of what’s plain or fancy as much as what’s actually edible, though...)
+このキノコもいいね。|淡い黄色の傘……|グラデーションがまた美しい。=This mushroom is also nice. This light yellow cap... It has a lovely gradient.
+あ、藍堂センパイ！|あまり綺麗なキノコは|採るのやめませんか？=A-Aido! You should stop picking those colorful mushrooms!
+きっと毒がありますよ！=They’re probably poisonous!
+ああ、そうか。|人間はこんな毒でも|すぐ死んでしまうからな。=Oh, right. Humans are quick to die from poison, aren’t they?
+わかったよ。|やめればいいんだろ。あ～あ、|何だか疲れちゃったよ。=I get it, I’ll stop. Nngh, I’m tired.
+あっ、あそこに洞窟らしきもの|があるよ。ちょっと、暗い所で|休みたいんだけどいいか？=Ah, that looks like a cave over there. There’s no harm in me taking a break somewhere dark, is there?
+やっぱり暗いところは|落ち着くなあ。それでさっきの|続きだけど……=I feel much more at ease in the dark. So, to continue where we left off...
+まあ、お前の言う事も|一理あるな。綺麗なものには|毒がある……=Well, I guess you do have a point. Pretty things are often poisonous...
+女の子でいうと、|瑠佳あたりかな。ククッ。=Kind of like Ruka, hehe.
+駄目ですよ、|そんな事言っちゃ。=You mustn’t say things like that!
+（確かに瑠佳さんは綺麗だし、|芯が強そうだけど……）=(Although she is beautiful, and strong-willed...)
+ふ……ん。|お前は……毒はなさそうだな。=Hm... You don’t appear to be poisonous.
+そうですね……って、|藍堂センパイ！|どういう意味ですか！？=Right. ...Wait, Aido, what are you talking about!?
+うう……どうせ私は毒なんか|ありませんよ、綺麗じゃない|ですからね！=I’m not poisonous, nor am I pretty!
+ウソだよ、ウソ！お前だって|本当は…それなりにいい線|いってると思うぞ。=You’re lying. In your own way, you’re... actually, close enough.
+今更フォローされても|嬉しくないです……！=You don’t have to agree with me!
+じゃあ、こういうのはどうだ？|<last><name>は、毒はないけど|別のものを持っている……=Then, how about this? You’re not poisonous <name><last>, but you do possess something else.
+何ですか？別のものって。|どうせロクなものじゃ|ないんでしょうけど……=What’s that? ...Though, I’m sure it’s nothing good.
+ふふ……媚薬さ。|男の本能をかきたてる……|フェロモンみたいの。=Hehe... An aphrodisiac. Something that stirs up a man’s instincts, like a pheromone.
+えっ……そ、そんなもの|あるわけないじゃない|ですか……！=Wha-- There’s no way that can be right...!
+さあ……どうかな。|自分で気付いてないだけ|じゃない？=Well, I wonder~ Maybe you just haven’t realized?
+<name>ちゃんは|お子様だからね。フフッ。=You are just a child, after all. Heheh.
+私は……お子様なんかじゃ|ありません。そんな風に|言わないで下さい……！=I’m not a child! Please don’t treat me like one.
+じゃあ、試させてくれる？|君の中にある媚薬を……|この僕に……！=Then, why don’t we test it? The aphrodisiac you hold... on me...!
+あ……藍堂センパイ！？|や、やめて下さい！|離して……！=A-Aido!? C-Cut it out! Let go of me--!
+（どうしよう……|藍堂センパイの顔がすごい、|近くにある……）=(What should I do...? His face is so close...)
+（キス……される！？）=(Is he going to kiss me...!?)
+…………フフッ。|な～んてね。冗談だよ、冗談。=...Hehe. I’m just kidding. It was a joke.
 
-# A0B04
-もっとハズカシイ事……する？=
+# A0B04 choose 恥ずかしいです
+もっとハズカシイ事……する？=Should we do something... even more embarrassing?
 
-# A0A2C
-え……？じょ、冗談ですよ|ね！？もうっ！藍堂センパイ！|ふざけないで下さい！=
+# A0A2C choose choose ふざけないで下さい！
+え……？じょ、冗談ですよ|ね！？もうっ！藍堂センパイ！|ふざけないで下さい！=Huh...? Y-You were joking? Geez, Aido! Please don’t mess with me!
 
 # A1D94
-いったん、元いた場所に|戻りましょう？=
-フフッ……<name>ちゃん、|何でそんなに赤い顔して|早口になっちゃってるの？=
-わ、私の事は|気にしないで下さい……！|ほら、戻りましょう！=
-ふーん。ま、いいか。|これだけ採れれば十分かな、|確かに。=
-……あれ？あそこにいる|人影ってもしかして……=
+いったん、元いた場所に|戻りましょう？=Let’s just go back to where we came from, okay?
+フフッ……<name>ちゃん、|何でそんなに赤い顔して|早口になっちゃってるの？=Hehe... <name>, why are you mumbling so fast with such a red face?
+わ、私の事は|気にしないで下さい……！|ほら、戻りましょう！=D-Don’t mind me! Come on, let’s just go back!
+ふーん。ま、いいか。|これだけ採れれば十分かな、|確かに。=Hmm... Alright. This is probably enough, anyway.
+……あれ？あそこにいる|人影ってもしかして……=...Oh? Could that figure over there be...
 
 # AC4B4
 （あっ……架院センパイだ。|何かたくさん、木の実とか|山菜とか採ってる）=
@@ -10612,7 +10612,7 @@ Sleep well...
 ああっ、くそっ。|俺は一体いつになったら|メシが食えるんだ！=
 
 # A9998
-やあ……錐生くん。|手ぶらという事は、|何も収穫なしかい？残念だね。=Hello, Kiryu. By the fact that you’re stood around empty-handed, I presume you didn’t find anything? That’s a shame.
+やあ……錐生くん。|手ぶらという事は、|何も収穫なしかい？残念だね。=Hello, Kiryu. By the fact that you’re empty-handed, I presume you didn’t find anything? That’s a shame.
 俺がやらなくても、玖蘭先輩が|何とかしてくれると思ったんで。=I figured that you’d be able to take care of it without me, Kuran.
 その、得体の知れない力で|どうとでもなるでしょう？=You can do anything with those weird powers of yours, right?
 （い、いきなり険悪ムード……|二人の間に見えない火花が|バチバチと散ってる……！）=(T-The mood has suddenly turned so sour... It’s like invisible sparks are flying between them...)
@@ -10647,31 +10647,31 @@ Sleep well...
 （ああ……早く|一条センパイたちと合流して|場を和ませて貰いたい……！）=(Aaah... I can’t wait to get back to Ichijo and the others who can ease the mood...)
 
 # A7DDC
-暁、どうだ、採れたのか？|ちょっと見せてみろよ。=
-ああ……|まあ、こんなもんだ。=
-ふーん、|そっちは山菜を中心に|採ったのか……ん？=
-（あれ？藍堂センパイが、|架院センパイの顔を|じろじろ覗き込んでる）=
-（どうしたんだろう？）=
-ふふん……暁。|お前、道に迷ったな？=
-えっ……？そ、そんな事は|ないはずだが…。=
-隠してもムダだ。|暁がそんな疲れたような|顔してる時はーー=
-だいたい、道に迷って|歩き続けた後なんだ。|僕は知ってるぞ。=
-……まあ、どちらにせよ|これだけ沢山、採れたんだから|いいだろ。=
-確かに、|お二人のを合わせると、|量は沢山ありますね。ただ……=
-おい英、|この毒々しい色のキノコは|本当に食べられるのか？=
-私もいま、|そう思ってた所です……=
-うるさいな、二人とも。|口に入る物にも、美的センスに|こだわりたいんだ、僕は。=
-美的センス……ねえ。=
-さあ、元いた場所に戻るぞ。|早く枢様に、この美しい|キノコをご覧いただくんだ。=
-（あっ……！藍堂センパイ、|変な色のキノコをーー）=
-（架院センパイの採ったものと|混ぜちゃった……！）=
-おい、まずいんじゃないのか、|一緒にしたら。少なくともその|赤いのとかオレンジのは……=
-へーき、へーき！|心配性だな、暁は！=
-だ、大丈夫かなー……|何か、不安です……=
-だよなあ……さすがになあ……=
-ほら、二人とも！|さっさと戻るぞ！=
-（ご機嫌の藍堂センパイを|よそに、私と架院センパイは|一抹の不安を抱えながらーー）=
-（集合場所へと向かって|いった）=
+暁、どうだ、採れたのか？|ちょっと見せてみろよ。=Oh, Akatsuki, is that what you’ve found? Let me see.
+ああ……|まあ、こんなもんだ。=Yeah... This is all I got.
+ふーん、|そっちは山菜を中心に|採ったのか……ん？=Hmm, it’s mostly wild vegetables... Hm?
+（あれ？藍堂センパイが、|架院センパイの顔を|じろじろ覗き込んでる）=(Huh? Aido is staring hard at Kain’s face.)
+（どうしたんだろう？）=(What’s going on?)
+ふふん……暁。|お前、道に迷ったな？=Ho-ho... Akatsuki, did you get lost?
+えっ……？そ、そんな事は|ないはずだが…。=Huh...? A-As if...
+隠してもムダだ。|暁がそんな疲れたような|顔してる時はーー=There’s no point in hiding it. Whenever you have that tired look on your face...
+だいたい、道に迷って|歩き続けた後なんだ。|僕は知ってるぞ。=It’s normally because you got lost and just kept on walking. I know these things.
+……まあ、どちらにせよ|これだけ沢山、採れたんだから|いいだろ。=...Well, I managed to find a lot anyway, so what does it matter?
+確かに、|お二人のを合わせると、|量は沢山ありますね。ただ……=That’s true. Even with just us, we have a lot. Though...
+おい英、|この毒々しい色のキノコは|本当に食べられるのか？=Oi Hanabusa, are these poisonous-looking mushrooms even edible?
+私もいま、|そう思ってた所です……=I’ve been thinking the same thing...
+うるさいな、二人とも。|口に入る物にも、美的センスに|こだわりたいんだ、僕は。=Shut it, both of you. I’m very particular about aesthetic sense, even when it comes to things to put in my mouth.
+美的センス……ねえ。=Aesthetic sense... huh?
+さあ、元いた場所に戻るぞ。|早く枢様に、この美しい|キノコをご覧いただくんだ。=Come on, let’s go back to where we came from. I can’t wait for Lord Kaname to see these gorgeous mushrooms.
+（あっ……！藍堂センパイ、|変な色のキノコをーー）=(Ah! Aido’s weird mushrooms--)
+（架院センパイの採ったものと|混ぜちゃった……！）=(got mixed in with the things Kain picked...!)
+おい、まずいんじゃないのか、|一緒にしたら。少なくともその|赤いのとかオレンジのは……=Oi, that’s no good, putting them together. Not least, these red and orange ones--
+へーき、へーき！|心配性だな、暁は！=It’s fine, it’s fine! You’re such a worrier, Akatsuki!
+だ、大丈夫かなー……|何か、不安です……=W-Will it really be okay? I’m kind of worried...
+だよなあ……さすがになあ……=Yeah. Me too...
+ほら、二人とも！|さっさと戻るぞ！=Come on, you two! Let’s go!
+（ご機嫌の藍堂センパイを|よそに、私と架院センパイは|一抹の不安を抱えながらーー）=(In spite of Aido’s high spirits, filled with a sense of dread...)
+（集合場所へと向かって|いった）=(we headed back to the meeting spot.)
 
 # A2450
 これ全部一条さんが獲ったの？=You caught all of this, Ichijo?
@@ -10711,7 +10711,7 @@ Sleep well...
 何だ？|この赤だのオレンジだの|毒々しい色のキノコは……=They're bright red and orange. I don't know. These mushrooms look poisonous to me.
 何だとは何だ！この芸術的な|色合い……鮮やかで、|美味しそうじゃないか。=What do you mean!? That bright color means they're fresh and tasty.
 本当に食えるのか？これ。=Are these really safe to eat?
-（私も今、|それを思っていた所……）=(I was starting to wonder the same thing...)
+（私も今、|それを思っていた所……）=(I was wondering about that too...)
 ああもう、うるさいぞ！|万が一毒があったとしても、|僕が後でちゃんとーー=Oh, just shut up already! There's no way they're poisonous!
 解毒剤を開発してやるから|安心しろ！=But even if they are somehow, I'll make an antidote, so don't worry so much!
 後でじゃ遅すぎるぞ。英……=It would already be too late, Hanabusa.
@@ -15544,53 +15544,53 @@ Sleep well...
 # A0964
 僕たちだけの秘密だよ。|誰にも気づかれないでね。=This will be our little secret. No one else must find out.
 
-# A1470
+# A1470 Kaname bloodlust chapter 5
 僕たちを邪魔する者なんて、|この世界に誰もいない。=There’s no one in the world who can stand in our way.
 覚悟は…できている？=Are you ready?
-ホシイ…んだ…。=Y...Yes.
+ホシイ…んだ…。=I... want you.
 
-# A13F0
-そうなの？くすっ……|オトナになったんだね……=
-そうだね、僕に咬まれるという|ことの特別な意味も、きみは|もう、しっているんだもの。=
+# A13F0 choose 私も……
+そうなの？くすっ……|オトナになったんだね……=Is that true? Heheh... You really have become an adult...
+そうだね、僕に咬まれるという|ことの特別な意味も、きみは|もう、しっているんだもの。=You are aware of the significance of being bitten by me, aren’t you?
 
-# A1288
-躊躇するのはわかるよ。|だけど…止められないんだ。=
-わかっているよ。|きみも僕と同じように感じて|くれているって…=
+# A1288 choose 何ですか？
+躊躇するのはわかるよ。|だけど…止められないんだ。=I understand that you’re hesitant, but... I can’t stop anymore.
+わかっているよ。|きみも僕と同じように感じて|くれているって…=I know you feel the same way as I do.
 
 # A0A38
-大丈夫。なにも、怖くない…=
+大丈夫。なにも、怖くない…=Don’t worry. There’s nothing to be afraid of...
 
-# A1704
-どうしたの？恥ずかしい？=
-きみがいいと言うまで|待っているから……=
-ありがとうございます…。|もう…大丈夫です。=
+# A1704 choose ちょっと待ってください
+どうしたの？恥ずかしい？=What’s wrong? Are you embarrassed?
+きみがいいと言うまで|待っているから……=I won’t do anything until you say it’s okay to.
+ありがとうございます…。|もう…大丈夫です。=Thank you.|I’m... okay now.
 
-# A1BBC
-そうなの？|……僕はただ、きみとずっと|一緒にいたい…それだけだよ。=
-怒ったふりなんかしても、|無駄だよ。=
-すみません…。|もう、覚悟を決めました…。=
-そう……いい子だ。|僕の咬みあとをどこに|初めにつけようか？=
+# A1BBC choose やっぱりダメです
+そうなの？|……僕はただ、きみとずっと|一緒にいたい…それだけだよ。=Is that so? ...I only want to be with you forever.
+怒ったふりなんかしても、|無駄だよ。=There’s no point in pretending to be upset.
+すみません…。|もう、覚悟を決めました…。=I’m sorry... I’ve made up my mind.
+そう……いい子だ。|僕の咬みあとをどこに|初めにつけようか？=I see... You’re a good girl. I wonder where to place my first bite mark?
 
 # A0D04
-じゃあ、目を閉じて……=
+じゃあ、目を閉じて……=Close your eyes...
 
 # A1A7C
-大丈夫…。僕たちはきっと|ずっと一緒にいられる…=
-ずっとずっと、このときを|待っていたよ…=
-錐生くんを殺したかった。|だってそうだろう？=
-僕こそが、きみの首筋に牙を…|立てたかったのだから。=
+大丈夫…。僕たちはきっと|ずっと一緒にいられる…=It’s okay... We’ll be together forever.
+ずっとずっと、このときを|待っていたよ…=I have been waiting for this moment for a long, long time...
+錐生くんを殺したかった。|だってそうだろう？=I wanted to kill Kiryu, you know?
+僕こそが、きみの首筋に牙を…|立てたかったのだから。=I wanted to be the one to sink my fangs into your neck...
 
 # A0998
-そんなに震えて……くすっ……|安心して、何もしないよ。=
+そんなに震えて……くすっ……|安心して、何もしないよ。=You’re shaking so much... Heh... Don’t worry, I won’t do anything.
 
 # A0DA4
-ありがとう……|その気持ちだけ受け取って|おくよ。何もしないよ。=
+ありがとう……|その気持ちだけ受け取って|おくよ。何もしないよ。=Thank you... Those feelings alone are enough for me. I won’t do anything.
 
 # A0A7C
-いたずらが過ぎたかな？|ゴメンね……大事なきみを|傷つけたりはしないよ。=
+いたずらが過ぎたかな？|ゴメンね……大事なきみを|傷つけたりはしないよ。=Did I take the joke too far? I’m sorry... I would never hurt my dear girl.
 
 # A09AC
-きみは僕に心配ばかりかける|から……イケナイ子への|おしおきだよ。=
+きみは僕に心配ばかりかける|から……イケナイ子への|おしおきだよ。=This is your punishment for worrying me all the time...
 
 # A0D18 Aido low intimacy bloodlust
 ちょっといいかな？=Can I ask you something?

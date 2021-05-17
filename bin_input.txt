@@ -11177,26 +11177,26 @@ Sleep well...
 う～ん……大丈夫かな？これ。=Hmm... Will this really be okay to eat?
 
 # A7E40
-じゃあ、|ここは私に任せてください！=
-大丈夫なの？|<name>ちゃん一人で……=
-風紀委員だって|コドモじゃないんだから。|一条さん、心配しすぎ。=
-大丈夫です。|ここはどーんと大船に|乗ったつもりでいてください。=
-えっと、まずは|足を切り落として、|それから輪切りにして……=
-わ……！ツルっと滑って|イカが飛んだ……！キャッ！|タコの吸盤が、腕に……！！=
-い、痛い！すごい|タコに吸い付かれてる……！=
-大船に乗ったつもりでいろって|言ったばっかりなのに……=
-もう、<name>ちゃん。|危なっかしくて|見ていられないよ。=
-ここは僕に任せて？ね？=
-は、ハイ……ごめんなさい、|役に立たなくて……=
-いいんだよ。|そんなに気にしないで。=
-（そう言ってニコっと笑うと、|一条センパイは、空高くタコと|イカを放り投げた）=
-す……すごい！|すごいです、一条センパイ！|思わず、見とれちゃいました！=
-フフ、やめてよ<name>ちゃん。|そんなに誉められると、|照れちゃうよ。=
-最初から一条さんに任せれば|よかったんじゃない。=
-は、はい……|すみません……=
-こら、支葵。|そういう言い方しちゃ|だめだよ。=
-<name>ちゃん、あんまり|一人で頑張ろうとしないで、|僕や支葵に声かけてね。=
-はい、ありがとうございます、|一条センパイ……！=
+じゃあ、|ここは私に任せてください！=Just leave this to me, okay?
+大丈夫なの？|<name>ちゃん一人で……=Are you sure, <name>? Will you be alright by yourself?
+風紀委員だって|コドモじゃないんだから。|一条さん、心配しすぎ。=You worry too much, Ichijo. She's not a child.
+大丈夫です。|ここはどーんと大船に|乗ったつもりでいてください。=I'm sure. Just sit back and relax. I've got this all under control.
+えっと、まずは|足を切り落として、|それから輪切りにして……=Now, first I cut off the tentacles and then cut them into slices...
+わ……！ツルっと滑って|イカが飛んだ……！キャッ！|タコの吸盤が、腕に……！！=Waa! The squid's all slippery and it flew out of my hand! Ah! The octopus's suckers are stuck to my arm!!
+い、痛い！すごい|タコに吸い付かれてる……！=Ow! That hurt. Those octopus suckers really stick on good!
+大船に乗ったつもりでいろって|言ったばっかりなのに……=Weren't you just saying you had everything under control?
+もう、<name>ちゃん。|危なっかしくて|見ていられないよ。=<name>, you're going to hurt yourself.
+ここは僕に任せて？ね？=Why don't you let me handle it from here?
+は、ハイ……ごめんなさい、|役に立たなくて……=O-Okay... Sorry for being so useless.
+いいんだよ。|そんなに気にしないで。=That's quite alright. Don't worry about it.
+（そう言ってニコっと笑うと、|一条センパイは、空高くタコと|イカを放り投げた）=(Ichijo laughed and smiled as he said that. Then he tossed the octopus and the squid high in the air.)
+す……すごい！|すごいです、一条センパイ！|思わず、見とれちゃいました！=Th-That was incredible, Ichijo! I was totally mesmerized!
+フフ、やめてよ<name>ちゃん。|そんなに誉められると、|照れちゃうよ。=Hmhm, stop, <name>. All the praise is making me blush.
+最初から一条さんに任せれば|よかったんじゃない。=We should have just left it to Ichijo from the start.
+は、はい……|すみません……=Y-Yeah... Sorry about that.
+こら、支葵。|そういう言い方しちゃ|だめだよ。=Shiki, that's not nice. There's no reason to be so harsh.
+<name>ちゃん、あんまり|一人で頑張ろうとしないで、|僕や支葵に声かけてね。=And you don't have to try to do everything yourself, <name>. You can count on us.
+はい、ありがとうございます、|一条センパイ……！=Alright. Thanks, Ichijo!
 
 # A1464
 さて、次はこのサザエみたいな|大きな貝ですね。=Now, let's do something with this big mollusk-looking thing.
@@ -11228,24 +11228,24 @@ Sleep well...
 あ……あはは、冗談です！|後で、みんなで|一緒に食べましょう。=I... Ahaha, it was just a joke! I'll wait until later, so we can all try them together.
 
 # A5B18
-じゃあ……お二人に任せます。|私、次の料理の下準備して|おきますね。=
-うん、わかったよ、|<name>ちゃん。|さ、支葵、焼くよ。=
-どうやって焼くの？=
-このままじゃ、中まで|火が通りにくいだろう？何せ、|固い殻に覆われてるんだから。=
-だから、|なるべく小さくした方が、|良く焼けるんじゃないかな。=
-ふーん……なるほど。=
-そうだ、|お二人に言い忘れてたん|ですけど……=
-貝、焼き終わったら、これ|お皿代わりに使って下さい……|って、えっ！？=
-一条センパイ、|貝を空中に放り投げて……|ま、まさか！=
-わーっ！|な、何やってるんですか！|一条センパイ！=
-何って、小さく切った方が|良く火が通ると思って……|あれ？いけなかった？=
-ああいう貝は、|そのまま網に乗せて焼くだけで|いいんですよ……！=
-えっ！？うそ？大変……！|支葵、ストーップ！=
-ああ……|支葵センパイの鞭さばきで、|殻も中身も粉々に……！=
-何？なんか言った？風紀委員。|一条さんも。=
-あーあ、遅かったか……=
-で、これどうするの？|焼けばいいの？粉々だけど。=
-一応、|焼いてみましょうか……=
+じゃあ……お二人に任せます。|私、次の料理の下準備して|おきますね。=I'll let you two take care of this one while I get stuff ready for the next dish.
+うん、わかったよ、|<name>ちゃん。|さ、支葵、焼くよ。=You got it, <name>. Come on, Shiki. Let's get cooking.
+どうやって焼くの？=Cook it how?
+このままじゃ、中まで|火が通りにくいだろう？何せ、|固い殻に覆われてるんだから。=Well, it probably won't cook very thoroughly like this due to its hard shell.
+だから、|なるべく小さくした方が、|良く焼けるんじゃないかな。=I bet it will cook better if we break into smaller pieces. What do you think?
+ふーん……なるほど。=Yeah, that makes sense.
+そうだ、|お二人に言い忘れてたん|ですけど……=By the way, you two, I forgot to tell you earlier.
+貝、焼き終わったら、これ|お皿代わりに使って下さい……|って、えっ！？=Once it's cooked, you should serve it in its own shell, so... Wh-What-re you...!?
+一条センパイ、|貝を空中に放り投げて……|ま、まさか！=Ichijo, why'd he toss it in the air like that? Don't tell me!
+わーっ！|な、何やってるんですか！|一条センパイ！=Waah! Ichijo, what are you two doing!?
+何って、小さく切った方が|良く火が通ると思って……|あれ？いけなかった？=I thought it would cook better if we broke it into smaller pieces. Why? Is that bad?
+ああいう貝は、|そのまま網に乗せて焼くだけで|いいんですよ……！=You can just put shellfish like that on the screen and cook it directly on the fire!
+えっ！？うそ？大変……！|支葵、ストーップ！=What!? Really? Oh no! Shiki, stop!
+ああ……|支葵センパイの鞭さばきで、|殻も中身も粉々に……！=*Sigh* Too late. Shiki's already smashed it into a zillion pieces with his whip.
+何？なんか言った？風紀委員。|一条さんも。=What? Did somebody say something?
+あーあ、遅かったか……=Darn. We didn't get his attention soon enough.
+で、これどうするの？|焼けばいいの？粉々だけど。=I smashed it into little pieces, so what now? Should we cook it?
+一応、|焼いてみましょうか……=Yeah, we can still try to cook it.
 
 # A2064
 さあ、残るはお魚ですね。|すごい、キスがいっぱい！=Now, all that's left is the fish. Wow, there are so many kissers!
@@ -11285,20 +11285,20 @@ Sleep well...
 意外と|いけるかもしれませんね。|キスの皮焼き。=Grilled kisser skin might be better than expected.
 
 # A48A0
-じゃあ、お魚は私が焼きます。|任せてください。=
-うん、わかったよ、|<name>ちゃん……って|何やってるの？=
-長い木の枝、|何本も持ってる……=
-この枝を|串代わりにして……と。|えいっ！=
-わっ……！<name>ちゃん、|何してるの？|魚の口に枝なんか刺して！=
-風紀委員、けっこう残酷……=
-あれ？|一条センパイも支葵センパイも|見たことありませんか？=
-こうやって、魚を串刺しにして|それから、塩をふって、|火の回りにこう並べて……=
-ああ……！|確か本で読んだ事がある。でも|実物を見たのは初めてだよ。=
-魚の顔、ちょっとコワイ……|で、どうやって食べるの？|これ。=
-焼きあがったら、このまま|がぶっとかぶりつくんですよ。=
-なんか、原始的……=
-へえ～。シンプルだけど、|美味しそうだね。=
-おいしいですよ！|あ……いいにおいがしてきた。|ふふ、楽しみだな！=
+じゃあ、お魚は私が焼きます。|任せてください。=Okay. I'll cook the fish, so just leave this to me.
+うん、わかったよ、|<name>ちゃん……って|何やってるの？=As you wish, <name>.|...Wh-What are you doing?
+長い木の枝、|何本も持ってる……=Are you going to do something with all those branches?
+この枝を|串代わりにして……と。|えいっ！=I don't have any skewers, so I'll have to make do with these branches... Perfect!
+わっ……！<name>ちゃん、|何してるの？|魚の口に枝なんか刺して！=Wha--! <name>, why are you stabbing them into the fish's mouths!?
+風紀委員、けっこう残酷……=That seems rather cruel, Prefect.
+あれ？|一条センパイも支葵センパイも|見たことありませんか？=Huh? Have you two never seen this before?
+こうやって、魚を串刺しにして|それから、塩をふって、|火の回りにこう並べて……=You skewer the fish like this, add salt, and stick them up around the fire.
+ああ……！|確か本で読んだ事がある。でも|実物を見たのは初めてだよ。=Of course! I've read about it in books, but it's my first time seeing it for real.
+魚の顔、ちょっとコワイ……|で、どうやって食べるの？|これ。=They look kind of scary with their heads still on. How am I supposed to eat them like that?
+焼きあがったら、このまま|がぶっとかぶりつくんですよ。=You cook it like this, then you take a big ol' bite!
+なんか、原始的……=How primitive...
+へえ～。シンプルだけど、|美味しそうだね。=Wow. It's simple, but it does look tasty.
+おいしいですよ！|あ……いいにおいがしてきた。|ふふ、楽しみだな！=Oh it is! Ah, it's already smelling nice. Hmhm, I can't wait!
 
 # A6180
 ……というわけで、|無事、料理が完成しました～！=All in all, everything went well. Nobody got hurt, and there's lots of yummy food to eat～!
@@ -11331,9 +11331,9 @@ Sleep well...
 ああ……私……|獣に食べられちゃうの？|誰か……助けて……！！=A beast... It's... It's going to eat me. Somebody... Help!!
 
 # A14E8
-ぺーーーっ！！！|マズーーーイっ！！！=
-な、何これ……ひどい！|マズすぎる……！=
-どうしよう、|くらくらしてきた……|誰か……助けて……！！=
+ぺーーーっ！！！|マズーーーイっ！！！=Yuck!!! That's disgusting!!!
+な、何これ……ひどい！|マズすぎる……！=What? It's terrible! It's so bad!
+どうしよう、|くらくらしてきた……|誰か……助けて……！！=I'm starting to feel dizzy. I might be sick. Somebody... Help...
 
 # A6754
 ……おい！|しっかりしろ！=Hey! Get a grip!

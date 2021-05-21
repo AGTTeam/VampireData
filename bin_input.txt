@@ -136,8 +136,8 @@
 <ch1>洞窟を出る<00><00><0A><ch2>このまま<00><01>=<ch1>Leave the cave.<00><00><0A><ch2>Stay.<00><01>
 <ch1>行きます<00><00><0A><ch2>行きません<00><01>=<ch1>Go.<00><00><0A><ch2>Don’t go.<00><01>
 <ch1>恥ずかしいです<00><00><0A><ch2>ふざけないで下さい！<00><01>=<ch1>“That was so embarrassing.”<00><00><0A><ch2>“Please stop messing around!”<00><01>
-<ch1>そうですね<00><00><0A><ch2>もう、行きましょう<00><01>=
-<ch1>はい……<00><7F><0A><ch2>それはチョット<00><01>=
+<ch1>そうですね<00><00><0A><ch2>もう、行きましょう<00><01>=<ch1>“Yeah...”<00><00><0A><ch2>“We should probably go.”<00><01>
+<ch1>はい……<00><7F><0A><ch2>それはチョット<00><01>=<ch1>“Okay...”<00><7F><0A><ch2>“That’s a bit...”<00><01>
 <ch1>洞窟に行く<00><7F><0A><ch2>洞窟に行かない<00><01>=<ch1>Go to the cave.<00><7F><0A><ch2>Don't go to the cave.<00><01>
 <ch1>枢＆零ペア<00><17><0A><ch2>藍堂＆架院ペア<00><18><0A><ch3>一条＆支葵ペア<00><19>=<ch1>Kaname and Zero<00><17><0A><ch2>Aido and Kain<00><18><0A><ch3>Ichijo and Shiki<00><19>
 <ch1>零に任せるよ<00><00><0A><ch2>枢センパイに任せます<00><01><0A><ch3>二人で協力して下さい<00><02>=
@@ -192,10 +192,10 @@
 <ch1>自分できめます<00><09><0A><ch2>藍堂センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
 <ch1>自分できめます<00><09>=<ch1>“I’ll pick...”<00><09>
 <ch1>はい……<00><7F><0A><ch2>やっぱり……いやです<00><0D>=<ch1>“Yes...”<00><7F><0A><ch2>“I... I can’t go through with it.”<00><0D>
-<ch1>何がですか？<00><7F><0A><ch2>私もあげたい……<00><01>=
-<ch1>あわてないでください<00><03><0A><ch2>ダメ<00><04>=
-<ch1>落ち着きのないのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
-<ch1>落ち着きのないのはいやです<00><06>=
+<ch1>何がですか？<00><7F><0A><ch2>私もあげたい……<00><01>=<ch1>“What are you talking about?”<00><7F><0A><ch2>“I want you to have it...”<00><01>
+<ch1>あわてないでください<00><03><0A><ch2>ダメ<00><04>=<ch1>“Don’t be in such a hurry.”<00><03><0A><ch2>“You can’t.”<00><04>
+<ch1>落ち着きのないのはいやです<00><06><0A><ch2>本当にダメ<00><07>=<ch1>“If you’re going to be in such a|rush then I don’t want to.”<00><06><0A><ch2>“You really mustn’t.”<00><07>
+<ch1>落ち着きのないのはいやです<00><06>=<ch1>“I don’t want to do it if you’re going to be in such a rush.”<00><06>
 <ch1>やっぱりやめます<00><09><0A><ch2>ここです<00><0A>=
 <ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><04>=<ch1>“I don’t mind.”<00><7F><0A><ch2>“I’d rather you didn’t.”<00><04>
 <ch1>う～ん、じゃあいいです<00><07>=<ch1>“Well, I guess it’s okay.”<00><07>
@@ -206,20 +206,20 @@
 <ch1>別にいいですよ<00><7F><0A><ch2>いやです<00><04>=<ch1>“Go ahead.”<00><7F><0A><ch2>“You can’t.”<00><04>
 <ch1>う～ん、まぁ、いいかな……<00><06><0A><ch2>絶対にいやです<00><07>=<ch1>“Well, I guess it’s okay.”<00><06><0A><ch2>“I’m not going to change my mind.”<00><07>
 <ch1>う～ん、まぁ、いいかな……<00><06>=<ch1>“Well, I guess that would be okay.”<00><06>
-<ch1>あわてないで<00><03><0A><ch2>ダメ<00><04>=
-<ch1>やっぱりダメです<00><09><0A><ch2>ここです<00><0A>=
+<ch1>あわてないで<00><03><0A><ch2>ダメ<00><04>=<ch1>“Don’t be in such a hurry.”<00><03><0A><ch2>“You can’t.”<00><04>
+<ch1>やっぱりダメです<00><09><0A><ch2>ここです<00><0A>=<ch1>“I don’t think I can go through with|this.”<00><09><0A><ch2> “Here.”<00><0A>
 <ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><01>=<ch1>“I don’t mind.”<00><7F><0A><ch2>“I’d rather you didn’t.”<00><01>
 <ch1>う～ん、じゃあいいです<00><03><0A><ch2>絶対にいやです<00><04>=<ch1>“Well, I guess it’s okay.”<00><03><0A><ch2>“I’m not going to change my mind.”<00><04>
 <ch1>う～ん、じゃあいいです<00><03>=<ch1>“Well, I guess that would be okay.”<00><03>
-<ch1>そんなの決められません<00><06><0A><ch2>一条センパイにお任せします<00><07>=<ch1>“I’m nt...”<00><06><0A><ch2>“I’ll leave it to you.”<00><07>
+<ch1>そんなの決められません<00><06><0A><ch2>一条センパイにお任せします<00><07>=<ch1>“I’m not...”<00><06><0A><ch2>“I’ll leave it to you.”<00><07>
 <ch1>はい……<00><09><0A><ch2>やっぱり……いやです<00><0A>=<ch1>“I’m sure...”<00><09><0A><ch2>“I... I can’t go through with it.”<00><0A>
 <ch1>う～ん、まぁ、いいかな<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay.”<00><07><0A><ch2>“Not a single drop.”<00><08>
 <ch1>う～ん、まぁ、いいかな<00><07>=<ch1>“Well, I guess that would be okay...”<00><07>
 <ch1>自分で決めます<00><09><0A><ch2>一条センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
-<ch1>慌てないでください<00><03><0A><ch2>ダメ<00><04>=
-<ch1>あせるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
-<ch1>あせるのはいやです<00><06>=
-<ch1>やっぱりイヤです<00><09><0A><ch2>ここです<00><0A>=
+<ch1>慌てないでください<00><03><0A><ch2>ダメ<00><04>=<ch1>“Please don’t be so hasty.”<00><03><0A><ch2>“You can’t.”<00><04>
+<ch1>あせるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=<ch1>“I don’t want to do it if you’re in such a rush.”<00><06><0A><ch2>“You really mustn’t.”<00><07>
+<ch1>あせるのはいやです<00><06>=<ch1>“I don’t want to do it if you’re in such a rush.”<00><06>
+<ch1>やっぱりイヤです<00><09><0A><ch2>ここです<00><0A>=<ch1>“I don’t think I can go through with|this after all.”<00><09><0A><ch2>“Here.”<00><0A>
 <ch1>いいですよ<00><7F><0A><ch2>いやです<00><02>=<ch1>“It’s fine.”<00><7F><0A><ch2> <ch1>いいですよ<00><7F><0A><ch2>いやです<00><02>“I don’t...”<00><02>
 <ch1>別にいいですよ<00><03>=<ch1>“Go ahead.”<00><03>
 <ch1>う～ん、じゃあいいです<00><06><0A><ch2>絶対にいやです<00><07>=<ch1>“Well, I guess it’d be okay.”<00><06><0A><ch2>“I’m not going to change my mind.”<00><07>
@@ -227,9 +227,9 @@
 <ch1>私が決めます……<00><09><0A><ch2>支葵センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
 <ch1>私が決めます……<00><09>=<ch1>I’ll pick...<00><09>
 <ch1>自分で決めます<00><09><0A><ch2>お任せします<00><0A>=<ch1>“I’ll decide.”<00><09><0A><ch2>“I’ll let you decide.”<00><0A>
-<ch1>何がですか？<00><7F><0A><ch2>私もあげたい<00><01>=
-<ch1>あわてるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=
-<ch1>あわてるのはいやです<00><06>=
+<ch1>何がですか？<00><7F><0A><ch2>私もあげたい<00><01>=<ch1>“What are you talking about?”<00><7F><0A><ch2>“I want to give it to you.”<00><01>
+<ch1>あわてるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=<ch1>“I don’t want to do it if you’re in such a rush.”<00><06><0A><ch2>“You really mustn’t.”<00><07>
+<ch1>あわてるのはいやです<00><06>=<ch1>“I don’t want to do it if you’re in such a rush.”<00><06>
 <ch1>はい、どうぞ<00><09><0A><ch2>やっぱりダメです<00><0A>=
 
 # AFA14
@@ -8954,7 +8954,7 @@ Sleep well...
 # A830C
 ……いいよ。無事だったし。=It’s fine. You’re safe.
 いいって、言った。=I said it’s fine.
-すみません……=Sorry...
+すみません……@A830C=Sorry...
 （うっ……|会話がつながらないよっ）=(Oh no! I can’t think of anything to say!)
 （でも、ここを離れないって|ことは、私と一緒にいるのが|イヤじゃないってことかな？）=(But he’s not leaving. Does that mean he doesn’t mind being with me?)
 ……イヤじゃない。=... I don’t mind.
@@ -10251,6 +10251,7 @@ Sleep well...
 これぐらい何ともないこと|だからね。=Something like this is no problem.
 （枢センパイのあまりの|凄技に、ドキドキする……）=(My heart is racing from just watching him.)
 ねえ<name>。|きれいな……海だね。=Yes, <name>.|It’s a beautiful sight... the ocean.
+そうですね……@A9D40=You’re right...
 こうして、<name>と二人で|海を見ながら佇んでる……|いいね。穏やかな時間だ……=Standing here, watching the ocean with you is nice. It’s so peaceful...
 いつまでも、こうして|いられたらいいのに。|きみと……=I wish we could stay like this forever. Together...
 （静かになればなるほど|緊張しちゃうし、|恥ずかしいな……）=(As the silence grows, so do my nerves...)
@@ -10362,149 +10363,150 @@ Sleep well...
 え……？じょ、冗談ですよ|ね！？もうっ！藍堂センパイ！|ふざけないで下さい！=Huh...? Y-You were joking? Geez, Aido! Please don’t mess with me!
 
 # A1D94
-いったん、元いた場所に|戻りましょう？=Let’s just go back to where we came from, okay?
+いったん、元いた場所に|戻りましょう？=Let’s go back to where we came from, okay?
 フフッ……<name>ちゃん、|何でそんなに赤い顔して|早口になっちゃってるの？=Hehe... <name>, why are you mumbling so fast with such a red face?
-わ、私の事は|気にしないで下さい……！|ほら、戻りましょう！=D-Don’t mind me! Come on, let’s just go back!
+わ、私の事は|気にしないで下さい……！|ほら、戻りましょう！=D-Don’t mind me!|Come on, let’s just go back!
 ふーん。ま、いいか。|これだけ採れれば十分かな、|確かに。=Hmm... Alright. This is probably enough, anyway.
-……あれ？あそこにいる|人影ってもしかして……=...Oh? Could that figure over there be...
+……あれ？あそこにいる|人影ってもしかして……=...Oh? Could that figure over there be--
 
-# AC4B4
-（あっ……架院センパイだ。|何かたくさん、木の実とか|山菜とか採ってる）=
-これも、いけそうだな。=
-（さすが、|採り方もワイルド……）=
-さてと、どうするかな……=
-（あれ……？|何だろう、架院センパイ、|うかない顔してる……）=
-（あんなに順調に、|いろんな物が採れて|食料調達はバッチリなのに）=
-はぁ……参ったな。=
-（ん……？架院センパイ、|さっきから、同じ所、|行ったり来たりしてない？）=
-あ、あの……|架院センパイ……？=
-<last>……！いい所に来た。=
-いい所にって……|どうかしたんですか？=
-ああ、実は……その……|助けてくれ。道に迷った。=
-ええっ！？|か、架院センパイに限って|迷子だなんて……！=
-俺もそう思うんだが、|さっきからどうも同じところを|まわっているような‥=
-（知らなかった……|架院センパイって|方向音痴なのかな……）=
-<last>は、どうなんだ？|見たところ、迷ってるわけでは|なさそうだが‥=
-ええ、何となくですけど……|でも、それだけじゃ不安なので|自分の通って来た道にーー=
-浜辺で拾った白い小石を|置いてきました。=
-なるほど、置石か。|<last>って、結構しっかり|してるな。=
-そりゃ……ワガママが服を着て|歩いてるような人たちばかり|毎日、相手にしてますからね。=
-ふっ……ワガママが|服を着て、か。|上手い事言うじゃないか。=
-もう、笑い事じゃないですよ。=
-悪い悪い。でも<last>は、|いつもデイ･クラスを|まとめたりーー=
-ナイト･クラスを|フォローしたりして……多分、|面倒見がいいんだろうな。=
-そうですか？|自分では|意識した事ないですけど……=
-何だかんだ言って、結構|甘えられるのが好きなんじゃ|ないのか？=
-え……？と、突然、|何を言い出すんですか？=
-いや……もし<last>がいいって|言ったら、俺も「甘え」という|ヤツを実行してみたい、とか。=
-か、架院センパイ？|あの……えっと……=
-ダメか？=
-（そ、そんな目で|見つめられたら、|ダメなんて言えないよ……）=
-じゃあ……ど、どうぞ。|甘えて下さい。|私でよければ……=
-（あ……架院センパイに、|手、握られちゃった……）=
-（大きくて、骨っぽくて……|男の人の手って感じがする）=
-あ、あの……甘えるって、|これだけでいいんですか？|手をつなぐだけで……=
-ああ……普段うるさい英と|一緒のせいか、いささか心細く|なったらしい。=
-だから、しばらくこうしていて|もらえると助かる。=
-<last>の手、たまには人間の|感触も悪くないな……=
-（何か……|普段の架院センパイからは|想像もつかないな……）=
-（いつもは、|すごく大人っぽくて、|男らしい人なのに……）=
-ふう、暑くて明るいところに|長くいたせいか思ったより|体力が消耗してるな。=
-ちょうど、|あそこに洞窟があるから|一休みしようぜ。=
-ん……？どうした？=
-っ……！！=
-（今、ギュッて、|強く握り締められた、手……|ドキドキしちゃうよ……）=
-い、いえ、何でも|ありません……=
-あのな、<last>……|俺がこんな事したのは、|他のやつには秘密にしてくれ。=
-特に英には、な。|あいつに知られたら、|どれだけからかわれるか。=
-はい……わかりました、|誰にも言いません、私。=
-（もしかして、照れてる？|ちょっと可愛い……！）=
-このまま、２人で沈黙を|過ごすのも悪くはないんだが。=
+# AC4B4 Kain island
+（あっ……架院センパイだ。|何かたくさん、木の実とか|山菜とか採ってる）=(Hm... That’s a lot of fruit and vegetables he has.)
+これも、いけそうだな。=This looks good, too.
+（さすが、|採り方もワイルド……）=(Even the way he picks things is wild...)
+さてと、どうするかな……=Now what...?
+（あれ……？|何だろう、架院センパイ、|うかない顔してる……）=(Oh? He looks a little down for some reason.)
+（あんなに順調に、|いろんな物が採れて|食料調達はバッチリなのに）=(But he’s been doing so well, collecting all sorts of ingredients. I would have said it was going great.)
+はぁ……参ったな。=*Sigh*|I give up...
+（ん……？架院センパイ、|さっきから、同じ所、|行ったり来たりしてない？）=(Hm, isn’t that the direction he just came from? Why’s he going that way?)
+あ、あの……|架院センパイ……？=U-Um, Kain...?
+<last>……！いい所に来た。=<last>! You came at a good time.
+いい所にって……|どうかしたんですか？=What’s happened?
+ああ、実は……その……|助けてくれ。道に迷った。=Ah, well... the truth is... I need your help. I’m lost.
+ええっ！？|か、架院センパイに限って|迷子だなんて……！=Huh!? You, getting lost just seems so...
+俺もそう思うんだが、|さっきからどうも同じところを|まわっているような‥=I thought the same, but it appears I’ve wandering in circles for a while now.
+（知らなかった……|架院センパイって|方向音痴なのかな……）=(Kain’s bad at directions? I had no idea...)
+<last>は、どうなんだ？|見たところ、迷ってるわけでは|なさそうだが‥=What is it, <last>? You don’t look like you’re lost to me, but...
+ええ、何となくですけど……|でも、それだけじゃ不安なので|自分の通って来た道にーー=Yes, I think I just about know where we are. I was worried about it, so as I was walking here...
+浜辺で拾った白い小石を|置いてきました。=I left little white stones that I found on the beach along the route.
+なるほど、置石か。|<last>って、結構しっかり|してるな。=I see, stones to mark the path... You sure have it together, <last>.
+そりゃ……ワガママが服を着て|歩いてるような人たちばかり|毎日、相手にしてますからね。=Well, that’s because I’m always having to deal with people who just selfishly wear clothes and go wandering.#tc not really sure how this connects. They get hot and discard the clothes, maybe?
+ふっ……ワガママが|服を着て、か。|上手い事言うじゃないか。=Heh, people who selfishly wear clothes? That’s a good one.
+もう、笑い事じゃないですよ。=It’s no laughing matter.
+悪い悪い。でも<last>は、|いつもデイ･クラスを|まとめたりーー=Sorry, sorry. But you’re always rounding up the Day Class...
+ナイト･クラスを|フォローしたりして……多分、|面倒見がいいんだろうな。=and following the Night Class. You must be good at looking after people.
+そうですか？|自分では|意識した事ないですけど……=Do you think so? I’ve never really thought about it like that...
+何だかんだ言って、結構|甘えられるのが好きなんじゃ|ないのか？=You say that, but I’m sure you probably like to be looked after, right?
+え……？と、突然、|何を言い出すんですか？=Huh...? W-What are you asking me, all of the sudden?
+いや……もし<last>がいいって|言ったら、俺も「甘え」という|ヤツを実行してみたい、とか。=Well, just... If you’re okay with it, I wouldn’t mind trying this ‘being spoilt’ thing, I guess.
+か、架院センパイ？|あの……えっと……=K-Kain? That’s... um...
+ダメか？=No good?
+（そ、そんな目で|見つめられたら、|ダメなんて言えないよ……）=(H-How can I say no with him giving me such puppy eyes!?)
+じゃあ……ど、どうぞ。|甘えて下さい。|私でよければ……=Well... If you’re fine with it being me then, please let me take care of you.
+（あ……架院センパイに、|手、握られちゃった……）=(Ah... Kain’s holding my hand.)
+（大きくて、骨っぽくて……|男の人の手って感じがする）=(His hand is so big and bony... It feels like a man’s hand.)
+あ、あの……甘えるって、|これだけでいいんですか？|手をつなぐだけで……=U-Um, is this enough? Just holding hands...
+ああ……普段うるさい英と|一緒のせいか、いささか心細く|なったらしい。=Yeah... Since I’m normally with Hanabusa who is so loud, I just felt a bit lonely.
+だから、しばらくこうしていて|もらえると助かる。=That’s why I just want to stay like this for a bit.
+<last>の手、たまには人間の|感触も悪くないな……=Your hand... Some human-contact once in a while isn’t so bad.
+（何か……|普段の架院センパイからは|想像もつかないな……）=(I never would have imagined the usual-Kain doing something like this.)
+（いつもは、|すごく大人っぽくて、|男らしい人なのに……）=(He’s always so mature and manly...)
+ふう、暑くて明るいところに|長くいたせいか思ったより|体力が消耗してるな。=Phew. Maybe it’s because I’ve been out all day in this hot sun, but I’m feeling more drained than I thought.
+ちょうど、|あそこに洞窟があるから|一休みしようぜ。=Oh, perfect. Let’s rest for a bit in that cave over there.
+そうですね。@AC4B4=Right.
+ん……？どうした？=Hm... What’s wrong?
+っ……！！=Nn...!!
+（今、ギュッて、|強く握り締められた、手……|ドキドキしちゃうよ……）=(With Kain squeezing my hand so tightly, my heart’s pounding...)
+い、いえ、何でも|ありません……=N-Nothing’s wrong.
+あのな、<last>……|俺がこんな事したのは、|他のやつには秘密にしてくれ。=Hey <last>... Please keep this a secret from everyone.
+特に英には、な。|あいつに知られたら、|どれだけからかわれるか。=Especially Hanabusa. If he finds out, I’ll never hear the end of it.
+はい……わかりました、|誰にも言いません、私。=I understand. I won’t tell anyone.
+（もしかして、照れてる？|ちょっと可愛い……！）=(Is he embarrassed? That’s so cute...!)
+このまま、２人で沈黙を|過ごすのも悪くはないんだが。=It’s not so bad, just sitting here quietly with you.
 
 # A3070
-ところで……|さっきから気になってるんだが|道……これで合ってるのか？=
-はい、だって、白い小石が|ちゃんと置いてありますし……=
-ああっ！と、鳥が……|小石をくわえて飛んでいく！=
-あっちの鳥は、別の所に石、|置いていったぞ。=
-あああ……もしかして、道、|間違ってるかもしれません！=
-私たち、どうやって|帰ればいいんでしょう？=
-本当だな……=
-ん……？あれ？|あそこに誰か居ませんか？|人影が見える……=
+ところで……|さっきから気になってるんだが|道……これで合ってるのか？=By the way, I’ve been wondering about this for a while, but... is this really the right road?
+はい、だって、白い小石が|ちゃんと置いてありますし……=Yes. Look, there are little white stones there, and--
+ああっ！と、鳥が……|小石をくわえて飛んでいく！=Aah! T-That bird! It’s carrying a white stone while it’s flying around!
+あっちの鳥は、別の所に石、|置いていったぞ。=That bird’s leaving stones in different places.
+あああ……もしかして、道、|間違ってるかもしれません！=Aaaah...! We might have been following the wrong path!
+私たち、どうやって|帰ればいいんでしょう？=How are we ever going to get back!?
+本当だな……=Good point...
+ん……？あれ？|あそこに誰か居ませんか？|人影が見える……=Hm...? Oh? I think I see something... Is someone there?
 
-# ACD34
-……もう行きませんか？=
-そうだな……=
-（ん……？あそこにいるのは|一条センパイ……）=
-（あれ？|何か引っ張っているよ？）=
-んー……こんな感じかな？=
-（網だ！）=
-ふう……これでいいかな？=
-（そして、放網……！！|何か、本格的……！）=
-……ん？|そこにいるのは<name>ちゃん？=
-あ、は、はい！|お疲れ様です、一条センパイ！=
-結果はこれからだけどね。=
-すごいですね！|いつの間に網なんか……=
-いいでしょ？|島に流れ着いたワイヤーくずを|使ったんだ。=
-どうせやるなら本格的にって、|投網を編んでみたんだ……|あ、ひいてる。=
-わあ～……すごい！大漁～！|貝も魚もいっぱいかかってる！=
-いろんな種類がいますね。|これ、何て魚だろう……|一条センパイ、わかります？=
-（あれ？無視された。|心なしか、目がぼんやりして|いるような……）=
-（さすがの一条センパイも|この日差しじゃきついの|かな？）=
-……ねえ、<name>ちゃん。|ここだけの話だけど、|キスって、好き？=
-え……！？|な、何ですか！！突然！！|一条センパイってば……！=
-<name>ちゃんはどうなのかな？|好き？きらい？=
-それは……その……=
-（そんな風にじっと|見つめられたら……|か、顔が熱い……！）=
-そ、それは……|私だって女の子ですから、|あこがれるって言うか……=
-好きかきらいかって|言われたら……|好きですけど……=
-へえ～、そうなんだ。|<name>ちゃんは好きなんだ……=
-あ、あの……|そんな意味深な言い方、|しないでもらえますか？=
-どうしてって……|恥ずかしいから……！=
-恥ずかしい？|どうしてそう思うの。|僕も好きだよ、キス。=
-え……？|一条センパイも……？=
-（一条センパイが|こっちに近づいて来る……|どうしよう……？）=
-そんなに好きなら、|僕からあげるよ。目を閉じて。=
-ええっ……！！|ちょ、ちょっと待っ……|い、一条センパイ！！=
-早く、目、閉じて……|じゃないとあげないよ。=
-（いいの……？私。でも|もう、目、閉じちゃった……）=
-いい？いくよ……？=
-（ううっ……ドキドキしすぎて|心臓が破裂しそう……！！）=
-（あっ、今……|何かが唇に触れた……）=
-（ひんやりしてて、|少し濡れててーー）=
-（何か、生臭いっていうか|ちょっとザラザラしてて魚の|ウロコっぽいっていうか……）=
-（ん……？魚のウロコ……？）=
-それじゃ入んないよ、|<name>ちゃん。|もっと口、大きく開けて。=
-モゴッ……！！あうぅ……！！|ケホッ……ケホッ……！！=
-い、一条センパイ！|何やってるんですか！|人の口に魚なんか突っ込んで！=
-え？……<name>ちゃんが|好きだって言うから|食べさせてあげたのに。=
-へ……？=
-これ。キス。=
-あ、ああ……|魚のキス、ですか……=
-１匹くらい|<name>ちゃんがつまみ食い|しても、多分大丈夫。=
-キス、|結構いっぱい獲れてるから。|だから遠慮なく食べてよね。=
-生のままでなんか|食べられませんよ！=
-だって、すごい好きみたい|だから、そのままでもいける|のかなって思ったんだ。=
-もうっ……！ひどいです！|一条センパイ！=
-あれ……？もしかして、|違うほうのキスだと思った？=
-なっ……！|そ、そんな事は……=
-クスッ。=
-もう！知りません！！|一条センパイなんて！！=
-えー……勘違いしたのは|<name>ちゃんじゃない。=
-まあ……|それはそうですけど……=
-それじゃあ。もうひとつの|キスなんかどうかな？=
-えっ……急にそんな。=
-大丈夫、だれもいないし、|なんなら、あそこの洞窟に|場所を変えようか？=
+# ACD34 Ichijo isladn
+……もう行きませんか？=...Maybe we should get going?#these two lines are from Kain’s route, not sure why they appear here
+そうだな……=You’re right...
+（ん……？あそこにいるのは|一条センパイ……）=(It’s Ichijo...)
+（あれ？|何か引っ張っているよ？）=(Hm? He’s pulling on something?)
+んー……こんな感じかな？=Mnn... Something like this?
+（網だ！）=(A net!)
+ふう……これでいいかな？=Phew... This should be okay.
+（そして、放網……！！|何か、本格的……！）=(Plus that net... it’s huge!)
+……ん？|そこにいるのは<name>ちゃん？=...Hm? Is that you, <name>?
+あ、は、はい！|お疲れ様です、一条センパイ！=Ah y-yes! You’ve been working hard, Ichijo!
+結果はこれからだけどね。=We’ve yet to see the result, though.
+すごいですね！|いつの間に網なんか……=That’s amazing! Making a net in no time...
+いいでしょ？|島に流れ着いたワイヤーくずを|使ったんだ。=It’s pretty nifty, right? I used some scraps of wire that had washed up on the island.
+どうせやるなら本格的にって、|投網を編んでみたんだ……|あ、ひいてる。=I figured if I was going to do this, I should do it properly, so I wove together a throw net.|Ah, it’s pulling.
+わあ～……すごい！大漁～！|貝も魚もいっぱいかかってる！=Wow~ It’s a great catch! There are so many fish and shell fish!
+いろんな種類がいますね。|これ、何て魚だろう……|一条センパイ、わかります？=There’s all sorts of things. I wonder what kind of fish this is... Do you have any idea, Ichijo?
+（あれ？無視された。|心なしか、目がぼんやりして|いるような……）=(Oh? He ignored me. Maybe I’m just imagining things, but he looks kind of tired...)
+（さすがの一条センパイも|この日差しじゃきついの|かな？）=(I guess even for Ichijo, being out in this bright sunlight must be hard.)
+……ねえ、<name>ちゃん。|ここだけの話だけど、|キスって、好き？=...Hey, <name>. Between you and me, do you like Kissers?
+え……！？|な、何ですか！！突然！！|一条センパイってば……！=Huh...!? W-What are you asking me all of the sudden!? Ichijo!!
+<name>ちゃんはどうなのかな？|好き？きらい？=Well? Do you like them? Do you hate them?
+それは……その……=I...
+（そんな風にじっと|見つめられたら……|か、顔が熱い……！）=(If he keeps staring at me like that... M-My face is getting hot!)
+そ、それは……|私だって女の子ですから、|あこがれるって言うか……=W-Well... I am a girl, so if you ask me that...
+好きかきらいかって|言われたら……|好きですけど……=If it’s a question of liking or disliking them... I like them, but...
+へえ～、そうなんだ。|<name>ちゃんは好きなんだ……=Heh~ I see. So you like them, <name>...
+あ、あの……|そんな意味深な言い方、|しないでもらえますか？=U-Um... Could we stop with this deep talk?
+どうしてって……|恥ずかしいから……！=Why? B-Because it’s so embarrassing, that’s why!
+恥ずかしい？|どうしてそう思うの。|僕も好きだよ、キス。=Embarrassing? What makes you think that? I like them too, Kissers.
+え……？|一条センパイも……？=Huh...? You do, Ichijo?
+（一条センパイが|こっちに近づいて来る……|どうしよう……？）=(Ichijo is coming towards me... What should I do...?)
+そんなに好きなら、|僕からあげるよ。目を閉じて。=If you like them that much, I’ll give you one. Close your eyes.
+ええっ……！！|ちょ、ちょっと待っ……|い、一条センパイ！！=Huh!? W-Wait, I-Ichijo--!!
+早く、目、閉じて……|じゃないとあげないよ。=Come on, close your eyes. If you don’t, you won’t get anything.
+（いいの……？私。でも|もう、目、閉じちゃった……）=(Should I be doing this...? But, I’ve already closed my eyes...)
+いい？いくよ……？=Okay? Here it comes...
+（ううっ……ドキドキしすぎて|心臓が破裂しそう……！！）=(Ngh... My heart is pounding so fast it feels like it’s going to burst!)
+（あっ、今……|何かが唇に触れた……）=(Ah-- Something just touched my mouth...)
+（ひんやりしてて、|少し濡れててーー）=(It was cold, and a little wet...)
+（何か、生臭いっていうか|ちょっとザラザラしてて魚の|ウロコっぽいっていうか……）=(Plus, it was rough and smelt kind of fishy, like fish scales or...)
+（ん……？魚のウロコ……？）=(Huh...? Fish scales?)
+それじゃ入んないよ、|<name>ちゃん。|もっと口、大きく開けて。=It won’t fit with that, <name>. Open your mouth wider.
+モゴッ……！！あうぅ……！！|ケホッ……ケホッ……！！=*Cough!!* Augh...!|*Cough, cough!!*
+い、一条センパイ！|何やってるんですか！|人の口に魚なんか突っ込んで！=I-Ichijo! What are you doing!? Shoving a fish in someone's mouth!
+え？……<name>ちゃんが|好きだって言うから|食べさせてあげたのに。=Huh...? But you said you liked it so I was going to let you eat one.
+へ……？=What...?
+これ。キス。=Here. A Kisser.
+あ、ああ……|魚のキス、ですか……=O-Oh... You meant Kissing Fish.
+１匹くらい|<name>ちゃんがつまみ食い|しても、多分大丈夫。=It’s probably fine even if you have one before dinner.
+キス、|結構いっぱい獲れてるから。|だから遠慮なく食べてよね。=I caught a lot of Kissers, so you don’t have to hold back.
+生のままでなんか|食べられませんよ！=I can’t eat it raw!
+だって、すごい好きみたい|だから、そのままでもいける|のかなって思ったんだ。=Well, you seem to like them a lot, so I thought it might be fine to have as is.
+もうっ……！ひどいです！|一条センパイ！=Ngh...! You’re awful, Ichijo!
+あれ……？もしかして、|違うほうのキスだと思った？=Huh...? Were you thinking of another kind of Kissers?
+なっ……！|そ、そんな事は……=Wha--? T-That’s--!
+クスッ。=Hehe.
+もう！知りません！！|一条センパイなんて！！=Honestly! I’m not even going to answer that!
+えー……勘違いしたのは|<name>ちゃんじゃない。=Eh~ But wasn’t it just a misunderstanding on your half, <name>?
+まあ……|それはそうですけど……=Well... I guess that’s true...
+それじゃあ。もうひとつの|キスなんかどうかな？=Then how about a different kind of kiss?
+えっ……急にそんな。=Huh...? So suddenly--
+大丈夫、だれもいないし、|なんなら、あそこの洞窟に|場所を変えようか？=It’s fine, no one’s around, but if you want, we could move to that cave over there?
 
 # A2138
-と、とりあえずこの魚を持って|元いた所に戻りましょう。=
-こんなにたくさん、|どうやって持っていこうかな？=
-さっきの、|網みたいなやつに入れて、|運ぶのはどうですか？=
-うーん、２人で持っても、|引きずっちゃって。せっかくの|魚が傷ついちゃうね。=
-そもそも<name>ちゃんに|そんな仕事させたくないし。=
-あれ……？|向こうから歩いてくる|あの人影って、もしかして……=
+と、とりあえずこの魚を持って|元いた所に戻りましょう。=I-I think we’d better take this fish back with us first.
+こんなにたくさん、|どうやって持っていこうかな？=I wonder how to carry this much fish.
+さっきの、|網みたいなやつに入れて、|運ぶのはどうですか？=Why don’t we put them in the net you were using and carry them like that?
+うーん、２人で持っても、|引きずっちゃって。せっかくの|魚が傷ついちゃうね。=Mmm. Even if the two of us hold it, we’d still have to drag it. The fish will be ruined.
+そもそも<name>ちゃんに|そんな仕事させたくないし。=Besides, I don’t want to make you do that kind of work, <name>.
+あれ……？|向こうから歩いてくる|あの人影って、もしかして……=Huh...? There’s someone walking over here. Is that--?
 
 # A0C6C
-と、とりあえず|元いた所に戻りましょう。=
+と、とりあえず|元いた所に戻りましょう。=W-We should head back to where we came from.
 
 # AAC0C
 あそこにいるのって……|やっぱり、支葵センパイだ。|支葵センパ～イ！=That looks like Shiki over there.|Shiki! Hey!
@@ -10682,10 +10684,10 @@ Sleep well...
 好きかも。|美味しいから。キス。=I suppose so. I like the taste of kissers.
 
 # A6AD8
-（そんなに、キス、キスって|連呼しないで欲しいな……|さっきの事、思い出しちゃう）=
-<name>ちゃん。|何、さっきから|ひとりで赤くなってるの？=
-え……？いいえ、|別に何でもありません！=
-（もう、一条センパイってば！|絶対わかってて言ってるよ、|あれ……）=
+（そんなに、キス、キスって|連呼しないで欲しいな……|さっきの事、思い出しちゃう）=(I wish they would stop talking about kissers... It makes me think about what happened earlier.)
+<name>ちゃん。|何、さっきから|ひとりで赤くなってるの？=<name>, what are you blushing about?
+え……？いいえ、|別に何でもありません！=Huh...? I-It’s nothing!
+（もう、一条センパイってば！|絶対わかってて言ってるよ、|あれ……）=(Ichijo...! He asked me already knowing the answer--!)
 一条さん。ご苦労様。|沢山獲ってくれてありがとう。|運ぶのは僕に任せて。=Ichijo, you must be tired after catching all these. Let me help you carry them.
 うわ……す……すごい！=Whoa! Amazing!
 （支葵センパイの血の鞭が|縦横無尽に網を裁断し）=(Shiki's blood whip flitted back and forth slicing the net.)
@@ -15682,53 +15684,53 @@ Sleep well...
 # A0B3C
 僕たちだけの秘密だね。=This’ll be our little secret, right?
 
-# A0E04
-いいよね？=It’s fine, right?
+# A0E04 Aido chapter 5 bloodlust
+いいよね？=Is it okay?
 
-# A13E8
-わかってるくせに……|いいだろ？=I think you can guess, but... May I?
-きみの血が欲しい……|この想いを、満たしたいんだ…=I want your blood...  To satisfy this longing...
+# A13E8 choose 何がですか
+わかってるくせに……|いいだろ？=Even though you already know... You don’t mind, right?
+きみの血が欲しい……|この想いを、満たしたいんだ…=I want your blood... To satisfy this longing...
 
-# A1338
+# A1338 choose 私もあげたい
 うれしいよ。僕たちは吸血で…|想いを満たすんだ。=I’m happy. We vampires... fulfill our desires with blood.
 
 # A0B14
 もう咬んでもいい?=Can I bite you now?
 
-# A0FC0
-そんな……ちぇ…。=
+# A0FC0 choose あわてないでください
+そんな……ちぇ…。=That’s-- Tch.
 
-# A0EA0
-だめって……どうして？=
+# A0EA0 choose ダメ
+だめって……どうして？=No? Why not?
 
-# A159C
-怒らせてわるかったよ。|…ゴメン。=
-クスッ……|じゃあ……いいですよ。=
-そうこなくちゃ！=
+# A159C choose 落ち着きのないのはいやです
+怒らせてわるかったよ。|…ゴメン。=I didn’t mean to upset you. I’m sorry...
+クスッ……|じゃあ……いいですよ。=Hehe... Alright, it’s okay.
+そうこなくちゃ！=Now you’re talking!
 
-# A0A98
-本当にダメなんだ？|どうして？=
+# A0A98 choose 本当にダメ
+本当にダメなんだ？|どうして？=I really can’t? Why?
 
 # A0F48
-どこにする？=
+どこにする？= Where should I bite?
 
-# A1280
-こんなのいやだなぁ。|…あきらめたくないよ。=
+# A1280 choose やっぱりダメです
+こんなのいやだなぁ。|…あきらめたくないよ。=I hate this. I don’t want to let it go...
 
-# A0DB0
-そこなんだ。へぇ…=
+# A0DB0 choose ここです
+そこなんだ。へぇ…=There? Heh...
 
 # A0AFC
-君の気持ち、味わったから。=
+君の気持ち、味わったから。=I know how you feel. I’ve tasted it.
 
 # A0D08
-もう枢様に、バレたっていい。=
+もう枢様に、バレたっていい。=I don’t even care if Lord Kaname finds out about this.
 
 # A0B8C
-もう錐生に撃たれたっていい。=
+もう錐生に撃たれたっていい。=I don’t even care if Kiryu shoots me.
 
 # A0954
-僕たちだけの秘密は永遠さ。=
+僕たちだけの秘密は永遠さ。=This’ll be our little secret, to the end of time.
 
 # A168C Kain low intimacy bloodlust
 何か話…しようか？=Can we... talk?
@@ -15824,50 +15826,50 @@ Sleep well...
 # A0CEC
 俺たちだけの最高機密だな。=This is top secret, just between the two of us.
 
-# A1350
+# A1350 Kain chapter 5 bloodlust
 いいよな？=It’s okay, right?
 欲しいんだ……。=I want it bad...
 
-# A091C
-わかってるだろう……|じらしてるつもりか？=
+# A091C choose 何がですか？
+わかってるだろう……|じらしてるつもりか？=You must know... Are you trying to tease me?
 
-# A1410
-ふっ…さすがだな。=
-うれしいぜ。俺達、考えている|ことは一緒だな。=
-じゃあ、早速……=
+# A1410　choose 私もあげたい……
+ふっ…さすがだな。=Heh... That’s so you.
+うれしいぜ。俺達、考えている|ことは一緒だな。=I’m happy. We both think alike.
+じゃあ、早速……=So, without any further ado...
 
-# A0C0C
-おい、今さら……|イジワルするなよ。=
+# A0C0C choose あわてないで
+おい、今さら……|イジワルするなよ。=After all this time... Don’t be mean.
 
-# A0F5C
-だめって……どうしてだ？=
+# A0F5C choose ダメ
+だめって……どうしてだ？=I can’t...? Why?
 
-# A16BC
-俺はいつでも落ち着いてるぞ。=
-ふふっ、そうでしたね。=
-どこにすればいい？=
+# A16BC　choose 落ち着きのないのはいやです
+俺はいつでも落ち着いてるぞ。=I’m always calm.
+ふふっ、そうでしたね。=Hehehe, is that so?
+どこにすればいい？=Where would be good?
 
-# A13B8
-本当にダメなのか？|どうしてだ？=
-怒らせてわるかったな。悪い。=
+# A13B8 choose 本当にダメ
+本当にダメなのか？|どうしてだ？=I really can’t? Why?
+怒らせてわるかったな。悪い。=You must be mad. I’m sorry.
 
-# A1500
-……さすがの俺も、|あきらめきれない……=
+# A1500 choose やっぱりダメです
+……さすがの俺も、|あきらめきれない……=...As expected, I just can’t give up...
 
 # A0A8C
-そこを…？おまえ大胆だな…=
+そこを…？おまえ大胆だな…=There? You’re awfully bold...
 
 # A0A74
-俺達、もう戻れないな……=
+俺達、もう戻れないな……=We can never go back...
 
 # A0EE4
-みんなが知ったら、|どうなるかな。=
+みんなが知ったら、|どうなるかな。=I wonder what would happen if everyone were to find out out about this.
 
 # A0AC8
-錐生に撃たれたっていい。=
+錐生に撃たれたっていい。=I don’t care even if Kiryu shoots me.
 
 # A0FC4
-なぁ…足りないって言ったら|怒るか？=
+なぁ…足りないって言ったら|怒るか？=Hey... Would you be mad if I told you I want more?
 
 # A17DC Ichijo low intimacy bloodlust
 ちょっとお願いがあるんだ。=I have a favor to ask...
@@ -15910,7 +15912,7 @@ Sleep well...
 # A0EDC
 こんな事になるなんて……|なんだかドキドキする。=
 
-# A16E0 Ichijo high intimacy bloodlust
+# A16E0 Ichijo high intimacy bloodlust chapter 3
 手、握っていいかな？=Can I hold your hand?
 ふぅ……ガマンできないかも=*Sigh...* I’m not sure if I can take it.
 
@@ -15952,52 +15954,53 @@ Sleep well...
 # A0BC4
 錐生君と…枢には、|知られたくないね。=I hope Kiryu... and Kaname don’t find out about this
 
-# A1650
-本当はこんなこと、|思っちゃいけないことだけど…=We’re doing the unthinkable...
+# A1650 Ichijo chapter 5 bloodlust
+本当はこんなこと、|思っちゃいけないことだけど…=I know I shouldn’t even be thinking about this, but...
+欲しいんだ……。@A1650=I want it...
 
 # A0D0C
-イジワルだね、君は。|いいでしょ？=
+イジワルだね、君は。|いいでしょ？=You’re so mean, you know.|You don’t mind, do you?
 
-# A1118
-本当に？そうなんだ。=
-うれしいな。|僕達は、いつも一緒のことを|考えているのかな。=
+# A1118 choose 私もあげたい
+本当に？そうなんだ。=Really? I see.
+うれしいな。|僕達は、いつも一緒のことを|考えているのかな。=I’m so happy. I wonder if we were thinking the same thing all along.
 
-# A0EB8
-もう……待てない……=
+# A0EB8 choose 何がですか
+もう……待てない……=I can’t wait any longer...
 
-# A0E38
-ホント、イジワルなんだ……|……初めてなんだよ。ここまで|欲しいと感じるのは。=
+# A0E38 choose 慌てないでください
+ホント、イジワルなんだ……|……初めてなんだよ。ここまで|欲しいと感じるのは。=You really are mean... This is the first time I’ve ever wanted something so bad.
 
-# A0B1C
-だめって……どうして？！=
+# A0B1C ダメ
+だめって……どうして？！=I can’t...? Why?
 
-# A0B80
-そうだね。大丈夫、|僕、落ち着いているよ。=
+# A0B80 choose あせるのはいやです
+そうだね。大丈夫、|僕、落ち着いているよ。=I see. Don’t worry, I’m calm.
 
 # A1800
-怒らせちゃった……ごめんね？|機嫌直してくれると嬉しいな。=
+怒らせちゃった……ごめんね？|機嫌直してくれると嬉しいな。=I made you upset... I’m sorry, okay? Please don’t be mad.
 
 # A0C14
-どこからにしようか？=
+どこからにしようか？=Where should I start?
 
-# A1290
-ええ？本当にダメなんだ……|ショック……でも、仕方ない|よね。うぅ、諦めるんだ、僕…=
+# A1290 choose 本当にダメ
+ええ？本当にダメなんだ……|ショック……でも、仕方ない|よね。うぅ、諦めるんだ、僕…=Huh? I really can’t? I’m shocked... But I guess it can’t be helped. Ngh... I’ll give up.
 
 # A1190
-そこなんだ。いいの？=
-はい……一条センパイ……=
+そこなんだ。いいの？=There? Are you sure?
+はい……一条センパイ……=Yes... Ichijo...
 
 # A0D40
-ふぅ…なんだか、|ものすごく満足。=
+ふぅ…なんだか、|ものすごく満足。=*Sigh*|I feel so satisfied now.
 
 # A0C24
-もうみんなに、バレたっていい|って思っちゃうね。=
+もうみんなに、バレたっていい|って思っちゃうね。=I accidentally started thinking that I wouldn’t mind even if everyone found out.
 
 # A0D60
-枢が知ったら…殺され|ちゃうな。でも、それでも|いいかもって思えちゃうよ…。=
+枢が知ったら…殺され|ちゃうな。でも、それでも|いいかもって思えちゃうよ…。=If Kaname knew about this... He’d kill me. But I think I’d be okay with that...
 
 # A0DA8
-わかってる？これって…|イケナイことなんだよ？|僕たちだけの秘密だからね。=
+わかってる？これって…|イケナイことなんだよ？|僕たちだけの秘密だからね。=You get it, right? This is... a forbidden act. That’s why we have to keep it a secret, just between us.
 
 # A14A0 Shiki low intimacy bloodlust
 いい？=Can I?

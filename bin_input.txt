@@ -140,10 +140,10 @@
 <ch1>はい……<00><7F><0A><ch2>それはチョット<00><01>=<ch1>“Okay...”<00><7F><0A><ch2>“That’s a bit...”<00><01>
 <ch1>洞窟に行く<00><7F><0A><ch2>洞窟に行かない<00><01>=<ch1>Go to the cave.<00><7F><0A><ch2>Don't go to the cave.<00><01>
 <ch1>枢＆零ペア<00><17><0A><ch2>藍堂＆架院ペア<00><18><0A><ch3>一条＆支葵ペア<00><19>=<ch1>Kaname and Zero<00><17><0A><ch2>Aido and Kain<00><18><0A><ch3>Ichijo and Shiki<00><19>
-<ch1>零に任せるよ<00><00><0A><ch2>枢センパイに任せます<00><01><0A><ch3>二人で協力して下さい<00><02>=
-<ch1>零に任せるよ<00><04><0A><ch2>枢センパイに任せます<00><05><0A><ch3>二人で協力して下さい<00><06>=
-<ch1>零に任せるよ<00><08><0A><ch2>枢センパイに任せます<00><09><0A><ch3>私に任せてください<00><0A>=
-<ch1>藍堂センパイに任せます<00><00><0A><ch2>架院センパイに任せます<00><01><0A><ch3>私に任せてください<00><02>=
+<ch1>零に任せるよ<00><00><0A><ch2>枢センパイに任せます<00><01><0A><ch3>二人で協力して下さい<00><02>=<ch1>“I’ll leave it to you, Zero.”<00><00><0A><ch2>“Would you take care of it,|Kaname?”<00><01><0A><ch3>“The two of you should work|together.”<00><02>
+<ch1>零に任せるよ<00><04><0A><ch2>枢センパイに任せます<00><05><0A><ch3>二人で協力して下さい<00><06>=<ch1>“I’ll leave it to you, Zero.”<00><04><0A><ch2>“Would you take care of it,|Kaname?”<00><05><0A><ch3>“The two of you should work|together.”<00><06>
+<ch1>零に任せるよ<00><08><0A><ch2>枢センパイに任せます<00><09><0A><ch3>私に任せてください<00><0A>=<ch1>“I’ll leave it to you, Zero.”<00><08><0A><ch2>“Would you take care of it,|Kaname?”<00><09><0A><ch3>“Leave it to me."<00><0A>
+<ch1>藍堂センパイに任せます<00><00><0A><ch2>架院センパイに任せます<00><01><0A><ch3>私に任せてください<00><02>=<00><01><0A><ch3>“Leave it to me."<00><02>
 <ch1>藍堂センパイ、どうですか？<00><04><0A><ch2>架院センパイ、どうですか？<00><05><0A><ch3>私が味見します！<00><06>=
 <ch1>藍堂に任せる<00><08><0A><ch2>架院に任せる<00><09><0A><ch3>自分で調理する<00><0A>=
 <ch1>一条センパイお願いします<00><00><0A><ch2>支葵センパイお願いします<00><01><0A><ch3>私が作ります<00><02>=<ch1>“Can you do it, Ichijo?"<00><00><0A><ch2>“Can you do it, Shiki?"<00><01><0A><ch3>“Leave it to me."<00><02>
@@ -5475,7 +5475,7 @@ Sleep well...
 どう……して……=Why...?
 （零が……ヴァンパイア？）=(Zero is... a vampire?)
 ぜ……零っ……！？=Z...Zero...!?
-ハアッ……ハアッ……=Haa... haa....
+ハアッ……ハアッ……=*Haa... haa....*
 （こわい……！零、もしかして|理性を失ってる……？）=(I’m scared...! Has he lost all reason...?)
 零っ！やめっ……=Zero! Stop...
 ！？=!?
@@ -10588,30 +10588,31 @@ Sleep well...
 ごめん…………フッ。=Sorry... Hmph.
 今、支葵センパイ|笑いましたね？=You just laughed, didn't you?
 知らない。=I don't know.
-ハァ……ハァ……|ちくしょう……=
-たった一人、|この島に流れ着いて|もう何日目だ？=
-いや、そもそも|どうして俺はこんな所に|来ちまったんだ？=
-くそっ……今は、|そんな事はどうでもいい！|とにかく腹が減った！！=
-鳥か？！=
-ああ、俺は何をやっている|んだ。対ヴァンパイア用の銃で|撃っても仕方ないだろうが。=
-こうなったら、|ヴァンパイアを追って|旅してきた俺の本領発揮だな。=
-ギャア！ギャア！=
-チッ！逃がすか！|こうなったら手取りだ！=
-みんな、|どこまで食料調達に|行ったんだろう……=
-ん？そこにいるのは、誰……？|おーい……もしもーし？=
-うおおおお～～～っ！！=
-キャアアアァアアア！！|何！？獣！？助けて～～！！=
-くそ、案外すばやいな……！|３日ぶりにメシが食えると|思ったのに……！！=
-くっそ、腹が減った！=
-ああ、怖かった……|さっきのあの雄叫び、|何だったんだろう？=
-クマとか、トラとか？|いや、もっと|得体の知れない生物かも……=
-ひゃっ……こ、今度は何！？=
-空がダメなら、海ってことだ！|よし！|今日は刺身三昧といくか！=
-キャアアアァアアア！！|う、海坊主？=
-イテッ！こらっ！|誰だ、石投げたやつは。=
-イヤ～～！！|誰か助けて～～！！=
-……おい、何てこった。|せっかく取った魚、|逃がしちまった……=
-ああっ、くそっ。|俺は一体いつになったら|メシが食えるんだ！=
+#Yagari island
+ハァ……ハァ……|ちくしょう……=*Huff... huff...*|Damn it...
+たった一人、|この島に流れ着いて|もう何日目だ？=How many days has it been since I washed up on this island?
+いや、そもそも|どうして俺はこんな所に|来ちまったんだ？=How did I even end up here in the first place?
+くそっ……今は、|そんな事はどうでもいい！|とにかく腹が減った！！=Damn... None of that matters right now! All I know is that I’m hungry!
+鳥か？！=A bird?
+ああ、俺は何をやっている|んだ。対ヴァンパイア用の銃で|撃っても仕方ないだろうが。=Yeah, what am I doing? I could just shoot it with my anti-vampire gun.
+こうなったら、|ヴァンパイアを追って|旅してきた俺の本領発揮だな。=This kind of thing is my specialty, given all the time I spend traveling around chasing after vampires.
+ギャア！ギャア！=Caw! Caw!
+チッ！逃がすか！|こうなったら手取りだ！=Tch! Trying to get away from me? I’ll have to pull out all the stops!
+みんな、|どこまで食料調達に|行ったんだろう……=How far could they all have gone in search of food?
+ん？そこにいるのは、誰……？|おーい……もしもーし？=Hm? Who’s that over there...?|Hey! ...Hello?
+うおおおお～～～っ！！=Uoooogh!!
+キャアアアァアアア！！|何！？獣！？助けて～～！！=Eeeeek!! A-A bear!?|Heeeeelp!!!
+くそ、案外すばやいな……！|３日ぶりにメシが食えると|思ったのに……！！=Damn, that bugger’s surprisingly fast. And here I thought I could finally eat something for the first time in three days--!
+くっそ、腹が減った！=Ugh, I’m so hungry!
+ああ、怖かった……|さっきのあの雄叫び、|何だったんだろう？=Aah, that was so scary... What in the world was that noise I heard earlier?
+クマとか、トラとか？|いや、もっと|得体の知れない生物かも……=A bear... or a tiger? No, maybe it was something more exotic...
+ひゃっ……こ、今度は何！？=Waagh! W-What now!?
+空がダメなら、海ってことだ！|よし！|今日は刺身三昧といくか！=If the sky is no good, then the ocean will have to do! Alright, I’m going to have an all-you-can eat sashimi feast!
+キャアアアァアアア！！|う、海坊主？=Gyaaaaaaaaah!!|A-A sea monster!?
+イテッ！こらっ！|誰だ、石投げたやつは。=Ow! Hey! Who threw this rock at me!?
+イヤ～～！！|誰か助けて～～！！=Noooo!! Someone save me!!!!
+……おい、何てこった。|せっかく取った魚、|逃がしちまった……=For crying out loud... The fish I caught got away.
+ああっ、くそっ。|俺は一体いつになったら|メシが食えるんだ！=Aaah, damn it all. When the hell am I going to be able to eat again!?
 
 # A9998
 やあ……錐生くん。|手ぶらという事は、|何も収穫なしかい？残念だね。=Hello, Kiryu. By the fact that you’re empty-handed, I presume you didn’t find anything? That’s a shame.
@@ -10725,7 +10726,7 @@ Sleep well...
 手の荒れるような事は|させたくないのだけれど、|状況が状況だからね。=It will be so rough on your hands, but I suppose the situation calls for it.
 は、はい！頑張ります！|せっかく皆さんが獲ってきて|下さった食材ですからーー=Don't worry, Kaname. I'm happy to help!
 とびっきり美味しいごはんに|しましょうね！=Everyone worked so hard gathering all this food, so let's make something super yummy!
-聖ショコラトル･デーの|チョコ作りに失敗した奴が|良く言う……モゴッ！=So says the person who screwed up trying to make chocolate for St. Xocolatl's mmngh--
+聖ショコラトル･デーの|チョコ作りに失敗した奴が|良く言う……モゴッ！=So says the person who screwed up trying to make chocolate for St. Xocolatl's-- Mmngh!
 零っ！シーッ！|な、何でもありませんよ。|みなさん……あはは。=Zero! Shh! Don't listen to him you guys. He was just kidding, ahaha...
 おい！|いきなり人の口を塞ぐな！=Hey! Don't go covering people's mouths like that!
 だって零が|余計なこと言い出すから……！=But you were about to say too much!
@@ -10746,194 +10747,194 @@ Sleep well...
 ぜひ、錐生くんのお手並みを|拝見したいんだけど……|どうかな？=I'd be all too interested to see what you can do. What do you say?
 ……俺は別に、|構いませんけど。=I really couldn't care less who I partner up with.
 じゃあ、決まりだ。|僕は、錐生くんと|ペアを組むよ。=It's decided then. Kiryu and I will be pairing up.
-あ……じゃあ、私はどこかの|ペアに入れて下さい。|お手伝いします。=Oh, let me pair up too. I want to help.
+あ……じゃあ、私はどこかの|ペアに入れて下さい。|お手伝いします。=Oh, let me join a pair too. I want to help.
 ああ、頼むよ、<name>。|どの組に入るの？きみは……=Yes, of course, <name>. Which group would you like to join?
 ええっと……そうですね……|どこにしようかな？=Well... Hmm... Who should I help out?
 
-# AA958
-<name>と一緒に料理を|作るなんて、楽しいね。=
-一緒に暮らしたら毎日こうして|るんだろうね。=
-か……枢センパイ……=
-（恥ずかしいな……|耳元で、そんな言葉|ささやかれると……）=
-（ん？何か、|背中に突き刺さるような|視線を感じる……）=
-……一応、|俺もここにいるんだがな。=
-（わあっ！ぜ、零……！|目が、怖すぎるよ……！）=
-ああ、ごめん。|すっかり忘れていたよ、|錐生くんの存在を。=
-すみませんね、玖蘭先輩。|『一緒に暮らしてる』気分を|ぶち壊して。=
-わかっているなら、|遠慮してくれても|いいんじゃないかな。=
-<name>が危険ですから。|ヴァンパイアの親玉と|二人だけにさせるなんて。=
-僕なんかより、錐生くんと|二人っきりになる方が|よっぽど危険だと思うけど。=
-っつ…………！=
-ああ、もう……|落ち着いて、零！|枢センパイも……！=
-今は、仲間割れしてる場合じゃ|ありませんよ。=
-とにかく、何か作りましょう？|３人で、力を合わせて！=
-ちっ…………=
-そうだね<name>。|きみの言うとおりだ。=
-（ふ～……この二人ってば|ちょっと油断するとすぐ|不穏な空気になるんだから）=
-じゃ、まずは材料の確認。|わかめ、貝、魚。それに|海水を乾かして作った塩。=
-あとは、ウニがこんなに沢山！|贅沢だよね。=
-あっ！でも、良く考えて|みたら、包丁がない……|魚とか、どうやって切る？=
-一条センパイの刀、|借りてこようか……？=
-それには及ばないよ、<name>。|これを、使えばいい。=
-えっ……？|すごい、サバイバルナイフ！|こっちは石鍋……！=
-枢センパイ、|これ、どうしたんですか？|まさか持ってきてたとか……？=
-言っただろう？|僕にできないことは|ないんだよ。=
-あの力で、|岩をくり抜いたって訳ですか？=
-さあ……|それは錐生くんの|ご想像にお任せするよ。=
-<unk1>っ…………=
-ぜ、零……？今はそんな、|枢センパイに突っかかってる|場合じゃないよ。=
-とにかく、|何か作って食べないと|体がもたないよ？=
-枢センパイ、|ありがとうございます。|早速使わせてもらいますね。=
-そうだね。|お喋りはこれ位にして、|そろそろ作り始めないと。=
-メインは魚料理……|どんなソースで|味付けをしようか？=
-あとはパスタと……|それにデザートも忘れては|いけないね。=
-この材料で、どうやって作る|つもりなんだ。|そんなメニュー……！=
-錐生くん。きみには|失望したよ。さっきから|文句ばかりじゃないか。=
-ま、まあ……|希望は希望で|置いとくとして……=
-じゃあ、まずはワカメ！|これから調理しましょう。|一番簡単そうだし。=
-だれが、どうやって|調理するんだ？=
-えーっと……そうだな……=
+# AA958 Kaname and Zero pair
+<name>と一緒に料理を|作るなんて、楽しいね。=I’m looking forward to cooking with you, <name>.
+一緒に暮らしたら毎日こうして|るんだろうね。=If we lived together, we could do something like this every day.
+か……枢センパイ……=K-Kaname...
+（恥ずかしいな……|耳元で、そんな言葉|ささやかれると……）=(Whispering something like that in my ear...!)
+（ん？何か、|背中に突き刺さるような|視線を感じる……）=(Hm? Why do I feel like someone is shooting daggers at my back?)
+……一応、|俺もここにいるんだがな。=I’m here too, you know.
+（わあっ！ぜ、零……！|目が、怖すぎるよ……！）=(Wah! Z-Zero! He’s making such a scary face...!)
+ああ、ごめん。|すっかり忘れていたよ、|錐生くんの存在を。=Ah, sorry. I completely forgot you even existed, Kiryu.
+すみませんね、玖蘭先輩。|『一緒に暮らしてる』気分を|ぶち壊して。=Sorry, Kaname. I’m going to have to spoil your plans of ‘living together’.
+わかっているなら、|遠慮してくれても|いいんじゃないかな。=If you understand my feelings, then can’t you let it go?
+<name>が危険ですから。|ヴァンパイアの親玉と|二人だけにさせるなんて。=It’d put <name> in danger. I can’t let her be alone with the head vampire.
+僕なんかより、錐生くんと|二人っきりになる方が|よっぽど危険だと思うけど。=I think that her being alone with you would be much more dangerous, though.
+っつ…………！=Ngh...!
+ああ、もう……|落ち着いて、零！|枢センパイも……！=Agh, come on! Cool it, Zero, Kaname!
+今は、仲間割れしてる場合じゃ|ありませんよ。=Now’s not the time to be falling out.
+とにかく、何か作りましょう？|３人で、力を合わせて！=Anyway, we should get started. The three of us, putting our skills together!
+ちっ…………=Tch...
+そうだね<name>。|きみの言うとおりだ。=Quite right, <name>. It’s just as you say.
+（ふ～……この二人ってば|ちょっと油断するとすぐ|不穏な空気になるんだから）=(Phew... If I let down my guard around these two for even a second, things start spiraling out of control.)
+じゃ、まずは材料の確認。|わかめ、貝、魚。それに|海水を乾かして作った塩。=Okay, let’s start by seeing what we have. There’s seaweed, shellfish, fish, salt made by evaporating the seawater...
+あとは、ウニがこんなに沢山！|贅沢だよね。=Plus, a mountain of sea urchins! It’s like a 5-star restaurant!
+あっ！でも、良く考えて|みたら、包丁がない……|魚とか、どうやって切る？=Ah! But now that I think about it, we don’t have a knife... How are we going to cut the fish?
+一条センパイの刀、|借りてこようか……？=Maybe we could borrow Ichijo’s sword?
+それには及ばないよ、<name>。|これを、使えばいい。=There’s no need for that, <name>. We can use these.
+えっ……？|すごい、サバイバルナイフ！|こっちは石鍋……！=Huh?|Oh wow, a survival knife! And that’s... a stone pot!?
+枢センパイ、|これ、どうしたんですか？|まさか持ってきてたとか……？=How did you get these, Kaname? Don’t tell me... you were carrying them all along?
+言っただろう？|僕にできないことは|ないんだよ。=I told you, there’s nothing I can’t do.
+あの力で、|岩をくり抜いたって訳ですか？=Even drawing water from a stone?#this isn’t an exact translation, but it seemed appropriate.
+さあ……|それは錐生くんの|ご想像にお任せするよ。=Well... I’ll leave that one to your imagination, Kiryu.
+<unk1>っ…………=<unk1>Hn...
+ぜ、零……？今はそんな、|枢センパイに突っかかってる|場合じゃないよ。=Z-Zero? Now’s not the time to be picking fights with Kaname.
+とにかく、|何か作って食べないと|体がもたないよ？=I’m not sure my body will last much longer if we don’t make something to eat, you know?
+枢センパイ、|ありがとうございます。|早速使わせてもらいますね。=Thank you, Kaname. I’ll get started with these.
+そうだね。|お喋りはこれ位にして、|そろそろ作り始めないと。=Good point. We should leave the chitchat at that for now and start cooking.
+メインは魚料理……|どんなソースで|味付けをしようか？=The main course will be the fish... What sauce should we put with it?
+あとはパスタと……|それにデザートも忘れては|いけないね。=Then there’s also pasta... and of course, we mustn’t forget dessert.
+この材料で、どうやって作る|つもりなんだ。|そんなメニュー……！=How do you plan to make that menu, using these ingredients?
+錐生くん。きみには|失望したよ。さっきから|文句ばかりじゃないか。=I’m disappointed in you, Kiryu. You’ve done nothing but complain this whole time.
+ま、まあ……|希望は希望で|置いとくとして……=W-Well... Putting that aside...
+じゃあ、まずはワカメ！|これから調理しましょう。|一番簡単そうだし。=Let’s start with the seaweed! It seems like the easiest thing to make.
+だれが、どうやって|調理するんだ？=Who’s going to cook it, and how?
+えーっと……そうだな……=Um... right...
 
-# A2E30
-じゃあ、|ワカメは零に任せるよ。|好きなものを作って。=
-ああ。わかった。=
-（ん……？|零、ワカメの根っこの部分を|わけてる……）=
-ねえ、零。|何を作るつもりなの？=
-わかめスープだ。|一応、貝でダシは|取るつもりだがーー=
-わかめの根の部分には、|独特の風味があるから|それを生かそうと思ってな。=
-なるほど～……|さすが零だね。=
-お前……|人を誉めるのもいいけど、|ちゃんと手伝えよな。=
-わ、わかってるよ！|これから|活躍するつもりだもん……！=
+# A2E30 choose 零に任せるよ
+じゃあ、|ワカメは零に任せるよ。|好きなものを作って。=I’ll leave the seaweed to you, Zero. You can make whatever you’d like.
+ああ。わかった。=Alright.
+（ん……？|零、ワカメの根っこの部分を|わけてる……）=(Hm? He’s chopping up the roots...)
+ねえ、零。|何を作るつもりなの？=Hey, Zero. What are you planning to make?
+わかめスープだ。|一応、貝でダシは|取るつもりだがーー=Seaweed soup. I was thinking of using the shellfish to make the broth, but...
+わかめの根の部分には、|独特の風味があるから|それを生かそうと思ってな。=The root of this seaweed has a unique flavor, so I thought I’d use that.
+なるほど～……|さすが零だね。=I see~ You really know a lot about cooking, Zero.
+お前……|人を誉めるのもいいけど、|ちゃんと手伝えよな。=You... Instead of praising me, how about helping?
+わ、わかってるよ！|これから|活躍するつもりだもん……！=I-I know! I was planning on getting involved...
 
-# A2E54
-じゃあ、ワカメは枢センパイに|お任せします。|好きなものを作って下さい。=
-わかったよ、<name>。=
-（あれ……？|枢センパイ、いつのまにか|ワカメが粉々になってる……）=
-あの……枢センパイ、|何を作ってるんですか？=
-もちろん、|ワカメを使ったデザートだよ。=
-えっ！|で、デザート？ワカメで……？=
-ワカメのジュレだよ。|ゼラチンがないけれど|何とか固まりそうだよね。=
-問題は甘みをどうするか。|後で森へ、蜂蜜を探しに|行ってみようかな？=
-（ワカメのジュレ……|食べた事ないけど、|どんな味なのかな？）=
+# A2E54 choose 枢センパイに任せます
+じゃあ、ワカメは枢センパイに|お任せします。|好きなものを作って下さい。=Then, I’ll leave the seaweed to you, Kaname. Please use it however you see fit.
+わかったよ、<name>。=I understand, <name>.
+（あれ……？|枢センパイ、いつのまにか|ワカメが粉々になってる……）=(Huh...? How in the world has he managed to chop it all up already...?)
+あの……枢センパイ、|何を作ってるんですか？=Um... Kaname, what are you making?
+もちろん、|ワカメを使ったデザートだよ。=A seaweed-based dessert, naturally.
+えっ！|で、デザート？ワカメで……？=What!? A d-dessert? Using the seaweed...?
+ワカメのジュレだよ。|ゼラチンがないけれど|何とか固まりそうだよね。=Seaweed jelly. I don’t have any gelatin, but I'm sure I can get it to set somehow.
+問題は甘みをどうするか。|後で森へ、蜂蜜を探しに|行ってみようかな？=The question is how to sweeten it. I think I might go into forest later to look for some honey.
+（ワカメのジュレ……|食べた事ないけど、|どんな味なのかな？）=(Seaweed jelly... I’ve never had it before. I wonder how it tastes?)
 
-# A28F0
-じゃあ、零と枢センパイ、|二人でアイデア出し合って|作ってみて下さい。=
-じゃあ、ワカメを使って|デザートを作ろうか。|例えば、ジュレとかね。=
-何考えてるんだ！|無難にスープか何かに|した方がいい！=
-わ、私もそう思います……=
-ふうん、二人とも冒険心が|ないね。じゃあ、面白みは|ないけどスープにする？=
-こんな状況で、|冒険心も面白みもあるか……！=
-（結局、ワカメは|スープになる事に……）=
-（零の言うとおり、|ここは無難にしておいた方が|いいのかも）=
+# A28F0 choose 二人で協力して下さい
+じゃあ、零と枢センパイ、|二人でアイデア出し合って|作ってみて下さい。=I’d like the two of you to come up with an idea and make it together.
+じゃあ、ワカメを使って|デザートを作ろうか。|例えば、ジュレとかね。=All right then, let’s make a dessert using the seaweed. Maybe jelly, for example.
+何考えてるんだ！|無難にスープか何かに|した方がいい！=What are you thinking!? It’d be better to make a low-risk option like soup or something.
+わ、私もそう思います……=I-I was thinking the same...
+ふうん、二人とも冒険心が|ないね。じゃあ、面白みは|ないけどスープにする？=Hmm, you’re not very adventurous. Okay, boring soup it is then.
+こんな状況で、|冒険心も面白みもあるか……！=How can you think of being adventurous or exciting in this situation...!?
+（結局、ワカメは|スープになる事に……）=(In the end, we went with the seaweed soup.)
+（零の言うとおり、|ここは無難にしておいた方が|いいのかも）=(It’s probably best to play things on the safe side, like Zero said.)
 
 # A174C
-じゃあ、次はこのお魚たち。|キスがたくさん。あとは|カレイとか、カサゴとか。=
-白身魚が多いね。|だれが調理しようか？=
-あ、はい……そうですね……=
+じゃあ、次はこのお魚たち。|キスがたくさん。あとは|カレイとか、カサゴとか。=Okay, next up we have... fish. That’s a lot of Kissers. And there’s also Flounder and Scorpionfish...
+白身魚が多いね。|だれが調理しようか？=That is a lot of white fish. Who should cook it?
+あ、はい……そうですね……=Ah, right. Let’s see...
 
-# A32C4
-零、魚料理お願いしていい？|好きなように作って。|任せるよ。=
-ああ、わかった。よし……|男の料理の、腕の見せ所だな。=
-きっちりさばいて、|活きのいいお造りを……ん？=
-やっぱり、|使い慣れた包丁じゃないと、|なかなか難しいか……=
-くそっ……カサゴ！|トゲが邪魔で|上手くさばけない……！=
-零、どう？お魚は。=
-ああ、良い具合に|焼き上がったぞ。|どうだ？この香ばしい香り。=
-あれ？|お造りじゃなかったっけ……=
-<name>『発想の転換』という|言葉を知っているか？師匠から|教わった生き抜く術の一つだ。=
+# A32C4 choose 零に任せるよ
+零、魚料理お願いしていい？|好きなように作って。|任せるよ。=Zero, would you mind taking care of the fish? You can do what you want with it.
+ああ、わかった。よし……|男の料理の、腕の見せ所だな。=Ah, sure. Alright... This is a good chance to show off what real men can do.
+きっちりさばいて、|活きのいいお造りを……ん？=I’ll debone this and make some fresh sashimi... Hm?
+やっぱり、|使い慣れた包丁じゃないと、|なかなか難しいか……=It’s pretty hard using a knife that I’m not used to...
+くそっ……カサゴ！|トゲが邪魔で|上手くさばけない……！=Damn...! This scorpionfish! The spines are in the way, so I can’t cut it well--
+零、どう？お魚は。=How’s the fish coming along, Zero?
+ああ、良い具合に|焼き上がったぞ。|どうだ？この香ばしい香り。=Yeah, it’s grilling well. Well? Smells good, doesn’t it?
+あれ？|お造りじゃなかったっけ……=Huh? I thought you were making sashimi...
+<name>『発想の転換』という|言葉を知っているか？師匠から|教わった生き抜く術の一つだ。=Have you never heard of “having a change of heart”? It’s a life lesson I learned from my master.
 
-# A3D20
-枢センパイ、魚で|何か作ってみてもらえますか？|好きなようにしていいので……=
-ああ、わかったよ、<name>。|僕に任せて。=
-（枢センパイ……あれは、|魚をすり身にしてるの？|そして、固めてる……）=
-センパイ、|何を作ってるんですか？|お鍋の具みたいですね。=
-ふふ。そうじゃないよ。|これは、魚のプリン。=
-えっ！？|さ、魚でプリン？=
-やはり、|デザートなしの食事なんて、|考えられないからね。=
-あの、それって|美味しいんですか……？=
-白身魚は|味に癖がないし、きっと|大丈夫なんじゃないかな？=
-な、なるほど。|枢センパイがそこまで|自信を持って言うのならーー=
-何だか、大丈夫そうな|気がしてきました！=
-ふふ……<name>は、|いい子だね。=
+# A3D20 choose 枢センパイに任せます
+枢センパイ、魚で|何か作ってみてもらえますか？|好きなようにしていいので……=Kaname, would you mind taking care of the fish? You can make whatever you’d like with it...
+ああ、わかったよ、<name>。|僕に任せて。=I understand, <name>. Leave it with me.
+（枢センパイ……あれは、|魚をすり身にしてるの？|そして、固めてる……）=(Kaname... Is he making it into a paste?)
+センパイ、|何を作ってるんですか？|お鍋の具みたいですね。=What are you making? It looks like the ingredients for a hot pot.
+ふふ。そうじゃないよ。|これは、魚のプリン。=Heheh, not quite. This is fish pudding.
+えっ！？|さ、魚でプリン？=Huh!? A pudding made from f-fish?
+やはり、|デザートなしの食事なんて、|考えられないからね。=I just couldn’t imagine having a meal without dessert at the end.
+あの、それって|美味しいんですか……？=Um... Is it any good?
+白身魚は|味に癖がないし、きっと|大丈夫なんじゃないかな？=White fish doesn’t have a strong taste, so I'm sure it will be fine.
+な、なるほど。|枢センパイがそこまで|自信を持って言うのならーー=I-I see. Well, if you say so Kaname...
+何だか、大丈夫そうな|気がしてきました！=Then I’m sure it’ll be okay!
+ふふ……<name>は、|いい子だね。=Heheh... You’re a good girl, <name>.
 
-# A6614
-じゃあ、二人で協力して|何か作るのはどうですか？|枢センパイと零のコラボ……=
-おい、何がコラボだ。|誰がこんな奴と|好きこのんで……！=
-ぜ、零っ！|失礼な事言わないの！=
-『こんな奴』で悪かったね、|錐生くん。=
-あれ……枢センパイ、|何を作ってるんですか？=
-魚の身をすって、|麺風にしてみたんだよ。|ほら、茹でればパスタになる。=
-わぁ……すごいです、|枢センパイ！|まさかパスタが出来るなんて！=
-錐生くんも、|人を『こんな奴』呼ばわり|してないでーー=
-口を動かす前に|手を動かしたら？=
-……わかりましたよ。|パスタのソースは|俺が作ります。=
-ソースも、|もう僕が作り始めているよ。|残った魚のワタを使ってね。=
-ワタ…？|ずいぶん大人の味付けですね。=
-俺はいいですけど、|<name>、|苦手なんじゃないのか？=
-え、あ、あの、食べられない|ことはないですけど…う～ん…|味覚がコドモでゴメンナサイ…=
-え……そう、いいんだよ、|<name>。気にしないで……=
-<name>が苦手なものを|作る意味なんてないからね。|もちろんやめておこう。=
-じゃあ、きみがソースを作れば|いいさ。代わりに何でソースを|作るつもり？錐生くんは……=
-まだ、貝もウニも|たくさん余っているから、|こいつを使えばいいだろう。=
-ふーん、なるほどね。|それでは、錐生くんの|お手並み拝見と行こうか。=
-少なくとも、あんたの|ワタソースよりは、|美味いと思うけどな。=
+# A6614 choose 二人で協力して下さい
+じゃあ、二人で協力して|何か作るのはどうですか？|枢センパイと零のコラボ……=Well, what if the two of you worked together to make something? A collaboration...
+おい、何がコラボだ。|誰がこんな奴と|好きこのんで……！=What “collaboration”? Who the hell would want to work with someone like him by choice?
+ぜ、零っ！|失礼な事言わないの！=Z-Zero! Don’t be so rude!
+『こんな奴』で悪かったね、|錐生くん。=I’m sorry for being “someone like me”, Kiryu.
+あれ……枢センパイ、|何を作ってるんですか？=Oh... Kaname, what are you making?
+魚の身をすって、|麺風にしてみたんだよ。|ほら、茹でればパスタになる。=I made a paste from the fish and rolled it into noodles. You see, if we boil this, it’ll make pasta.
+わぁ……すごいです、|枢センパイ！|まさかパスタが出来るなんて！=Wow... That’s amazing, Kaname! I never would have thought you could turn fish into pasta!
+錐生くんも、|人を『こんな奴』呼ばわり|してないでーー=Well Kiryu? Instead of calling people this and that...
+口を動かす前に|手を動かしたら？=Why don’t you move your hands and not your mouth?
+……わかりましたよ。|パスタのソースは|俺が作ります。=...Alright, already. I’ll make a sauce for the pasta.
+ソースも、|もう僕が作り始めているよ。|残った魚のワタを使ってね。=I've already started making the sauce, using the leftover fish guts.
+ワタ…？|ずいぶん大人の味付けですね。=The guts...? That’s an acquired taste.
+俺はいいですけど、|<name>、|苦手なんじゃないのか？=I don’t mind it, but you can’t stand the stuff can you, <name>?
+え、あ、あの、食べられない|ことはないですけど…う～ん…|味覚がコドモでゴメンナサイ…=Ah, y-yeah. It’s not that I can’t eat it, but for my palate it’s a bit...
+え……そう、いいんだよ、|<name>。気にしないで……=Ah... I see. It’s fine, <name>. Don’t worry about it.
+<name>が苦手なものを|作る意味なんてないからね。|もちろんやめておこう。=There’s no point in making something that you don’t like. I’ll scrap it.
+じゃあ、きみがソースを作れば|いいさ。代わりに何でソースを|作るつもり？錐生くんは……=You make the sauce, Kiryu. What were you thinking of making to replace it?
+まだ、貝もウニも|たくさん余っているから、|こいつを使えばいいだろう。=We still have a lot of shellfish and sea urchin left over, so I think it’d be good to use those.
+ふーん、なるほどね。|それでは、錐生くんの|お手並み拝見と行こうか。=Hmmm, quite. Then, let’s see what you have to offer, shall we?
+少なくとも、あんたの|ワタソースよりは、|美味いと思うけどな。=I think it’ll taste better than your gut-sauce, at least.
 
 # A11B0
-ワカメも、魚も貝も順調に|料理になって行ってますね！=
-でも、ウニばかり沢山|残っちゃった、勿体無い……|せっかくだから何か作ろう。=
+ワカメも、魚も貝も順調に|料理になって行ってますね！=The seaweed, fish and shellfish are all coming together!
+でも、ウニばかり沢山|残っちゃった、勿体無い……|せっかくだから何か作ろう。=But, we still have so many sea urchin left. It seems like a waste... Let’s make something with it!
 
-# A81D4
-残りの食材、|ここはひとつ零に任せたよ。|料理上手の零の本領発揮だね！=
-ああ、わかった。任せろ。|まずはトゲを何とかしないと|……いてっ！=
-零……|血が出てるよ？=
-っつ……くっ……！=
-（零……血を見た途端、|落ち着きがなくなってる。|大丈夫かな……）=
-（まさか……血の匂いで|『飢え』が呼び覚まされて|いるんじゃ……）=
-（枢センパイの目の前で|私の血を吸わせてあげる|わけにはいかない……）=
-（お願い、耐えて、|頑張って、零……！）=
-錐生くん……|指先の血、拭かないの？=
-それとも、|もしかして僕にふるまって|くれるとか？きみの血を……=
-ふっ、ふざけた事を|言うな……！俺は、ただ……=
-（その瞬間、私は零の手を|掴んで、血の出た指先を|自分の口に含んだ）=
-あはは……わ、私が|吸っちゃった！ごめんなさい、|枢センパイ！=
-ほら、血が止まるまで|ちょっと休んでたら？ね？=
-（零がひとまずその場を|去った後……枢センパイが|私の頭をそっと撫でた）=
-<name>は、優しい子だね……=
-え？な、何がですか？=
-そんなに、僕や錐生くんに|気を使わなくても|いいんだよ。=
-（結局、零が突然あんな具合に|なったものだからウニ料理は|全然進まなかった）=
-（ううん、でも、|料理なんかより|零の方が心配だな、私……）=
+# A81D4 choose 零に任せるよ
+残りの食材、|ここはひとつ零に任せたよ。|料理上手の零の本領発揮だね！=Zero, can I leave the remaining ingredients to you? I’m sure you’ll be able to show off your skills as a cook!
+ああ、わかった。任せろ。|まずはトゲを何とかしないと|……いてっ！=Yeah, alright. Leave it to me.|First, I need to do something about these spikes-- Agh!
+零……|血が出てるよ？=Zero... Did you cut yourself?
+っつ……くっ……！=Ngh... Damn--!
+（零……血を見た途端、|落ち着きがなくなってる。|大丈夫かな……）=(Zero... The moment he sees blood, he loses all composure. Will he be okay...?)
+（まさか……血の匂いで|『飢え』が呼び覚まされて|いるんじゃ……）=(Don’t tell me... the smell of blood is awakening his hunger...!?)
+（枢センパイの目の前で|私の血を吸わせてあげる|わけにはいかない……）=(There’s no way I could give him my blood with Kaname watching...!)
+（お願い、耐えて、|頑張って、零……！）=(Please, endure it and keep calm, Zero...!)
+錐生くん……|指先の血、拭かないの？=Kiryu... Aren’t you going to clean the blood off your fingertip?
+それとも、|もしかして僕にふるまって|くれるとか？きみの血を……=Or, are you going to offer it to me? Your blood...
+ふっ、ふざけた事を|言うな……！俺は、ただ……=D-Don’t talk crap! I’m just...
+（その瞬間、私は零の手を|掴んで、血の出た指先を|自分の口に含んだ）=(In that moment, I grabbed Zero’s hand and put his bloody fingertip in my mouth.)
+あはは……わ、私が|吸っちゃった！ごめんなさい、|枢センパイ！=Ahaha... I-I drank it! Sorry, Kaname!
+ほら、血が止まるまで|ちょっと休んでたら？ね？=Why don’t you take a break until it stops bleeding? Okay?
+（零がひとまずその場を|去った後……枢センパイが|私の頭をそっと撫でた）=(After Zero left for some air, Kaname gently stroked my head.)
+<name>は、優しい子だね……=You’re very kind, <name>.
+え？な、何がですか？=Huh? W-What do you mean?
+そんなに、僕や錐生くんに|気を使わなくても|いいんだよ。=You don’t need to fret over us so much.
+（結局、零が突然あんな具合に|なったものだからウニ料理は|全然進まなかった）=(In the end, given what happened with Zero, the sea urchins never came to much.)
+（ううん、でも、|料理なんかより|零の方が心配だな、私……）=(No, never mind the food, I’m much more worried about Zero...)
 
-# A2910
-じゃあ……最後はやっぱり|枢センパイにお任せします！|何を作りますか？ウニで……=
-ああ、これだけ沢山|あるのなら、もちろん、|ウニケーキだね。決まりだよ。=
-ウ、ウニケーキ！？=
-もしかして<name>、|スポンジケーキみたいなものを|想像した？=
-え？違うんですか？|お菓子のケーキじゃ|ないんですか？=
-ふふ……ウニの中身を|固めて焼く、シンプルだけど|贅沢な料理だよ。=
-なるほど……|ウニを固めて焼く……|おいしそうですね！=
-出来上がるのを|楽しみに待っているといいよ、|<name>。=
+# A2910 choose 枢センパイに任せます
+じゃあ……最後はやっぱり|枢センパイにお任せします！|何を作りますか？ウニで……=Then... I’ll leave the rest to you, Kaname! What are you going to make?
+ああ、これだけ沢山|あるのなら、もちろん、|ウニケーキだね。決まりだよ。=Well, seeing as there are so many of them, the obvious thing would be urchin cake.
+ウ、ウニケーキ！？=U-Urchin cake!?
+もしかして<name>、|スポンジケーキみたいなものを|想像した？=Oh, were you thinking of something like a sponge cake, <name>?
+え？違うんですか？|お菓子のケーキじゃ|ないんですか？=Huh? Is that not it? You weren’t talking about a sweet cake?
+ふふ……ウニの中身を|固めて焼く、シンプルだけど|贅沢な料理だよ。=Hehe... It’s a simple but sumptuous dish made of grilled sea urchin paste cakes.
+なるほど……|ウニを固めて焼く……|おいしそうですね！=I see... You mold the paste and then grill it... It sounds good!
+出来上がるのを|楽しみに待っているといいよ、|<name>。=I hope you’ll look forward to it, <name>.
 
-# A6B80
-すみません、今まで|見ているだけで……最後くらい|私に任せてください！=
-おい、<name>。|大丈夫なのか？本当に……=
-な、何？零。|その不安そうなまなざしは……=
-<name>……頑張るのはいいけど|ウニのトゲに気をつけて。=
-もし、指を突いてケガでも|しようものなら……例え僕でも|理性が危うくなってしまう。=
-大切な子の血の匂いなんて……|ねえ、錐生くん。=
-あ、あの……気をつけます！|ケガしないように！|じゃ、ちょっと行ってきます！=
-行くって、どこへだ？|あいつ、残ったウニ|全部持って……=
-お待たせしました～！=
-おい、どこへ行ってた。|こいつと二人残されて|いい迷惑だ。=
-僕は、楽しかったけどね。|殺気立った錐生くんと二人きり|無言で立ち尽くすなんて。=
-あ、あの……|これを作ってきました。|ウニのお刺身！=
-はあ？|たったそれだけの作業なら、|ここでやれば良かっただろう？=
-でも、ウニの中身は海水で|洗ったほうが美味しいって……=
-誰かの話で|聞いた事があったから……|だから浅瀬に行って剥いたの。=
-ありがとう、<name>。|きみの作ってくれた料理だ。|ありがたく頂くよ。=
-あ……はい。|こんなものですみません、|枢センパイ。=
-ただ中身をくり出して|海水で洗っただけ……|料理って言えるのか？これ。=
-あはは……確かにそうだけど、|シンプルでも美味しければ|それでいいじゃない、ね？=
+# A6B80 choose 私に任せてください
+すみません、今まで|見ているだけで……最後くらい|私に任せてください！=I’m sorry, I’ve done nothing but watch all this time... Please leave this last bit up to me!
+おい、<name>。|大丈夫なのか？本当に……=Oi, <name>, are you really sure that’s okay?
+な、何？零。|その不安そうなまなざしは……=W-What? You don’t have to look so worried...
+<name>……頑張るのはいいけど|ウニのトゲに気をつけて。=<name>... I’m glad that you’re trying so hard, but do be careful not to hurt yourself on the urchin’s spines.
+もし、指を突いてケガでも|しようものなら……例え僕でも|理性が危うくなってしまう。=If you catch your finger and hurt yourself... Even I would be in danger of losing all sense of reason.
+大切な子の血の匂いなんて……|ねえ、錐生くん。=The smell of my dear girl’s blood... Right, Kiryu?
+あ、あの……気をつけます！|ケガしないように！|じゃ、ちょっと行ってきます！=U-Um... I’ll be careful so I don’t get hurt! Well, I’m going to head off for a bit!
+行くって、どこへだ？|あいつ、残ったウニ|全部持って……=Where are you going?|...She’s taken all of the leftover urchins with her...
+お待たせしました～！=Thanks for watching!
+おい、どこへ行ってた。|こいつと二人残されて|いい迷惑だ。=Oi, where did you go off to? Being left alone with him is a real pain in my ass.
+僕は、楽しかったけどね。|殺気立った錐生くんと二人きり|無言で立ち尽くすなんて。=I rather enjoyed it, though. The two of us, standing in silence as you tried to hold back the desire to kill me.
+あ、あの……|これを作ってきました。|ウニのお刺身！=U-Um... This is what I made. Sea urchin sashimi!
+はあ？|たったそれだけの作業なら、|ここでやれば良かっただろう？=Huh? If that was all, then why didn’t you just do it here?
+でも、ウニの中身は海水で|洗ったほうが美味しいって……=I heard that urchins taste better when they’re washed in seawater...
+誰かの話で|聞いた事があったから……|だから浅瀬に行って剥いたの。=So I went to the shallows to cut them open.
+ありがとう、<name>。|きみの作ってくれた料理だ。|ありがたく頂くよ。=Thank you, <name>. I’d be glad to accept the food you’ve prepared.
+あ……はい。|こんなものですみません、|枢センパイ。=Ah... I’m sorry it’s so boring, Kaname.
+ただ中身をくり出して|海水で洗っただけ……|料理って言えるのか？これ。=All I did was scoop it out and wash it in the water. I’m not sure if it really qualifies as cooking.
+あはは……確かにそうだけど、|シンプルでも美味しければ|それでいいじゃない、ね？=Ahaha... That might be true, but if it tastes good, it doesn’t matter if it’s simple, right?
 
 # AA390
 ハァ……まさかこの僕が|こんな原始的な料理をする|なんて思わなかったよ。=
@@ -11148,7 +11149,7 @@ Sleep well...
 
 # A3DB0
 じゃあ、タコとイカの料理は|一条センパイにお願いしても|いいですか？=Well, could you cook the octopus and the squid, Ichijo?
-もちろんだよ<name>ちゃん。|僕に任せておいて。|フフ、腕が鳴るよ！=You've got it, <name>. I was hoping to do it anyway, hmhm!
+もちろんだよ<name>ちゃん。|僕に任せておいて。|フフ、腕が鳴るよ！=You've got it, <name>. I was hoping to do it anyway, hehe!
 （そう言ってニコっと笑うと、|一条センパイは、空高く|タコとイカを放り投げた）=(Ichijo laughed and smiled as he said that. Then he tossed the octopus and the squid high in the air.)
 わっ……！|い、一条センパイ、何を……？=Waa! I-Ichijo, what're you...?
 （うわぁ……すごい！|宙に舞ったタコとイカが|一条センパイの包丁でーー）=(Wow! That's amazing! The octopus and squid danced and fluttered in the air.)

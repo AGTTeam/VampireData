@@ -143,9 +143,9 @@
 <ch1>零に任せるよ<00><00><0A><ch2>枢センパイに任せます<00><01><0A><ch3>二人で協力して下さい<00><02>=<ch1>“I’ll leave it to you, Zero.”<00><00><0A><ch2>“Would you take care of it,|Kaname?”<00><01><0A><ch3>“The two of you should work|together.”<00><02>
 <ch1>零に任せるよ<00><04><0A><ch2>枢センパイに任せます<00><05><0A><ch3>二人で協力して下さい<00><06>=<ch1>“I’ll leave it to you, Zero.”<00><04><0A><ch2>“Would you take care of it,|Kaname?”<00><05><0A><ch3>“The two of you should work|together.”<00><06>
 <ch1>零に任せるよ<00><08><0A><ch2>枢センパイに任せます<00><09><0A><ch3>私に任せてください<00><0A>=<ch1>“I’ll leave it to you, Zero.”<00><08><0A><ch2>“Would you take care of it,|Kaname?”<00><09><0A><ch3>“Leave it to me."<00><0A>
-<ch1>藍堂センパイに任せます<00><00><0A><ch2>架院センパイに任せます<00><01><0A><ch3>私に任せてください<00><02>=<00><01><0A><ch3>“Leave it to me."<00><02>
-<ch1>藍堂センパイ、どうですか？<00><04><0A><ch2>架院センパイ、どうですか？<00><05><0A><ch3>私が味見します！<00><06>=
-<ch1>藍堂に任せる<00><08><0A><ch2>架院に任せる<00><09><0A><ch3>自分で調理する<00><0A>=
+<ch1>藍堂センパイに任せます<00><00><0A><ch2>架院センパイに任せます<00><01><0A><ch3>私に任せてください<00><02>=<ch1>“Can you do it, Aido?”<00><00><0A><ch2>“Can you do it, Kain?"<00><01><0A><ch3>“Leave it to me."<00><02>
+<ch1>藍堂センパイ、どうですか？<00><04><0A><ch2>架院センパイ、どうですか？<00><05><0A><ch3>私が味見します！<00><06>=<ch1>“What about you, Aido?”<00><04><0A><ch2>“What about you, Kain?”<00><05><0A><ch3>“I-I’ll do it!”<00><06>
+<ch1>藍堂に任せる<00><08><0A><ch2>架院に任せる<00><09><0A><ch3>自分で調理する<00><0A>=<ch1>“I’ll leave it to you, Aido.”<00><08><0A><ch2>“I’ll leave it to you, Kain.”<00><09><0A><ch3>“I’ll make something myself.”<00><0A>
 <ch1>一条センパイお願いします<00><00><0A><ch2>支葵センパイお願いします<00><01><0A><ch3>私が作ります<00><02>=<ch1>“Can you do it, Ichijo?"<00><00><0A><ch2>“Can you do it, Shiki?"<00><01><0A><ch3>“Leave it to me."<00><02>
 <ch1>一条センパイに任せる<00><00><0A><ch2>支葵センパイに任せる<00><01><0A><ch3>二人に任せる<00><02>=<ch1>“Could you do it, Ichijo?"<00><00><0A><ch2>“Could you do it, Shiki?"<00><01><0A><ch3>“Could the two of you do it?"<00><02>
 <ch1>一条センパイお願いします<00><08><0A><ch2>支葵センパイお願いします<00><09><0A><ch3>私に任せてください<00><0A>=<ch1>“Will you do it, Ichijo?"<00><08><0A><ch2>“Will you do it, Shiki?"<00><09><0A><ch3><00><0A>
@@ -10751,7 +10751,7 @@ Sleep well...
 ああ、頼むよ、<name>。|どの組に入るの？きみは……=Yes, of course, <name>. Which group would you like to join?
 ええっと……そうですね……|どこにしようかな？=Well... Hmm... Who should I help out?
 
-# AA958 Kaname and Zero pair
+# AA958 Kaname and Zero cooking
 <name>と一緒に料理を|作るなんて、楽しいね。=I’m looking forward to cooking with you, <name>.
 一緒に暮らしたら毎日こうして|るんだろうね。=If we lived together, we could do something like this every day.
 か……枢センパイ……=K-Kaname...
@@ -10936,198 +10936,198 @@ Sleep well...
 ただ中身をくり出して|海水で洗っただけ……|料理って言えるのか？これ。=All I did was scoop it out and wash it in the water. I’m not sure if it really qualifies as cooking.
 あはは……確かにそうだけど、|シンプルでも美味しければ|それでいいじゃない、ね？=Ahaha... That might be true, but if it tastes good, it doesn’t matter if it’s simple, right?
 
-# AA390
-ハァ……まさかこの僕が|こんな原始的な料理をする|なんて思わなかったよ。=
-まあな……俺だってそうさ。|でも今は状況が状況だからな。|仕方ない。=
-それにしても玖蘭寮長が|ある程度の調理道具を|作ってくれて助かったぜ。=
-岩を砕いて作ったナイフと|煮炊き用の石鍋……こっちは|木の幹で作ったまな板ですね。=
-枢センパイ、いつの間に|こんな精巧なナイフなんか|作ったんでしょうね？=
-それはもう、あのお方の|類い稀なるお力をもって|すれば、たやすい事さ。=
-お前がそうやって、まな板で|山菜の根を切り落とす事が|出来るのも、枢様のお陰さ……=
-感謝するんだな。|<last><name>。=
-（って、偉そうに言ってるけど|さっきから食材切ってるのは|私だよ……！）=
-架院センパイ、出来ました。|山菜は切りそろえて|キノコは石つきを取りました。=
-ああ、すまないな<last>。|悪かったな、|一人でやらせてしまって。=
-俺も英も、どう切ったらいいか|わからなかったんだ。|キノコや山菜なんて。=
-いえ、そんな。|これ位……=
-フン、なかなか上出来だな。|こういう女の子らしい所は|皆無だと思ってたのに。=
-もうっ、ひどいですよ、|藍堂センパ……え……？|あ、藍堂センパイ？=
-（何の前触れもなしに、|藍堂センパイが私の手首を、|ぎゅっと掴んで引き寄せた）=
-あーあ、間違えてナイフで指先|切っちゃえば良かったのに。|そうしたらお前のーー=
-あの美味しい血に|ありつけたのにさ……=
-ちょっ……藍堂センパイ！|離して下さい！=
-おい英、やめろ。|悪ふざけしてる場合じゃ|ないだろ。=
-フン、何だよ。暁だって|本当は味わってみたいくせに。|<name>ちゃんの血をさ……！=
-バカ言うな、英。|俺は、そんな……=
-あの……そろそろ|料理始めませんか？ほら、|他のチームの所から煙が……=
-ここの料理だけ出来上がりが|遅れたら、枢センパイに|怒られちゃいませんか？=
-ふん……仕方ない。料理、|始めようか。<name>ちゃん、|この続きはまた今度ね。=
-（藍堂センパイはそう言うと|チュッと手の甲にキスをして|私の手首を開放した）=
-（もう……！こんな状況で|ふざけないで欲しい……！|架院センパイも呆れてるよ）=
-いい香りですね～……松茸！|一本焼きだなんて豪華……！=
-藍堂センパイ、こんなに沢山|松茸採って来てたんですね。|本当にスゴイです！=
-フフ、まあね。僕って何でも|天才的に出来ちゃうからさあ、|たまに自分が怖くなるよ。=
-しかし、驚いたな……|まさかあの赤や黄色のキノコの|山の中からーー=
-松茸がこんなに出てくるなんて|思ってもみなかったぜ。|奥の方に埋もれてたんだな。=
-私も、思いました……|藍堂センパイ、変なキノコしか|取ってないものだと……=
-<last><name>、何か言った？=
-い、いえ、別に……|あ、あはは……=
-よし、これを焼くのは|誰か一人に任せて、他のやつは|別の料理作りに取り掛かるか。=
-そうですね。|じゃあ、松茸の一本焼きは|誰に任せましょうか……？=
+# AA390 Aido and Kain cooking
+ハァ……まさかこの僕が|こんな原始的な料理をする|なんて思わなかったよ。=*Sigh* ...Never did I think that I’d be subject to doing something so primitive as cooking.
+まあな……俺だってそうさ。|でも今は状況が状況だからな。|仕方ない。=Yeah, me neither. But, it is what it is. We don’t have a choice.
+それにしても玖蘭寮長が|ある程度の調理道具を|作ってくれて助かったぜ。=Still, it’s great that President Kuran was able to make all this equipment for us.
+岩を砕いて作ったナイフと|煮炊き用の石鍋……こっちは|木の幹で作ったまな板ですね。=He made a knife carved from rock, a stone cooking pot and even a wooden chopping board.
+枢センパイ、いつの間に|こんな精巧なナイフなんか|作ったんでしょうね？=When in the world did Kaname have time to make such an elaborate knife, I wonder?
+それはもう、あのお方の|類い稀なるお力をもって|すれば、たやすい事さ。=When you have exceptional powers like he has, that kind of thing is a piece of cake.
+お前がそうやって、まな板で|山菜の根を切り落とす事が|出来るのも、枢様のお陰さ……=It’s thanks to Lord Kaname that you have a chopping board to cut the roots off those wild vegetables.
+感謝するんだな。|<last><name>。=You should be grateful, <name><last>.
+（って、偉そうに言ってるけど|さっきから食材切ってるのは|私だよ……！）=(Well sure I am, but I’m the one who’s been chopping vegetables this whole time here...!)
+架院センパイ、出来ました。|山菜は切りそろえて|キノコは石つきを取りました。=I’m done, Kain. I’ve chopped up the veg and removed all the stones from the mushrooms.
+ああ、すまないな<last>。|悪かったな、|一人でやらせてしまって。=Ah, thanks <last>. Sorry you had to do it all yourself.
+俺も英も、どう切ったらいいか|わからなかったんだ。|キノコや山菜なんて。=Both Hanabusa and I know nothing about how to chop up vegetables or anything.
+いえ、そんな。|これ位……=It’s no problem.
+フン、なかなか上出来だな。|こういう女の子らしい所は|皆無だと思ってたのに。=Hm, not bad. I didn’t think you had any womanly traits about you.
+もうっ、ひどいですよ、|藍堂センパ……え……？|あ、藍堂センパイ？=Hey! That’s so mean, Aido-- Huh? A-Aido?
+（何の前触れもなしに、|藍堂センパイが私の手首を、|ぎゅっと掴んで引き寄せた）=(Without any warning, Aido tightly grabbed my wrist and pulled it towards him.)
+あーあ、間違えてナイフで指先|切っちゃえば良かったのに。|そうしたらお前のーー=Aaah, if only you’d accidentally cut your finger with the knife.
+あの美味しい血に|ありつけたのにさ……=That way, I could have had a sample of your delicious blood...
+ちょっ……藍堂センパイ！|離して下さい！=Wha-- Aido! Let go of me!
+おい英、やめろ。|悪ふざけしてる場合じゃ|ないだろ。=Oi, knock it off, Hanabusa. Now’s not the time for your little jokes.
+フン、何だよ。暁だって|本当は味わってみたいくせに。|<name>ちゃんの血をさ……！=Hmph, what’s up with that? Even though you want to try it too, Akatsuki. <name>’s blood...!
+バカ言うな、英。|俺は、そんな……=Don’t talk nonsense. I... ...
+あの……そろそろ|料理始めませんか？ほら、|他のチームの所から煙が……=Um... We should probably start cooking soon. I can see smoke coming from where the other teams are...
+ここの料理だけ出来上がりが|遅れたら、枢センパイに|怒られちゃいませんか？=If we’re the only one’s late at getting everything ready, Kaname will be mad at us.
+ふん……仕方ない。料理、|始めようか。<name>ちゃん、|この続きはまた今度ね。=Hmph... Guess you’re right. Let’s get started then.|We’ll continue this conversation later, <name>.
+（藍堂センパイはそう言うと|チュッと手の甲にキスをして|私の手首を開放した）=(As he said that, Aido kissed the back of my hand before letting go of my wrist.)
+（もう……！こんな状況で|ふざけないで欲しい……！|架院センパイも呆れてるよ）=(Geez...! I really wish he wouldn’t play around at a time like this--! Even Kain looks appalled.)
+いい香りですね～……松茸！|一本焼きだなんて豪華……！=This smell~ ...Wait, these are pine mushrooms! Even just a single one is really expensive!
+藍堂センパイ、こんなに沢山|松茸採って来てたんですね。|本当にスゴイです！=Finding this many in one go... You’re amazing, Aido!
+フフ、まあね。僕って何でも|天才的に出来ちゃうからさあ、|たまに自分が怖くなるよ。=Hehehe, pretty much. Even I get scared of my own brilliance sometimes.
+しかし、驚いたな……|まさかあの赤や黄色のキノコの|山の中からーー=That’s surprising. I never thought that in this mountain of red and yellow mushrooms...
+松茸がこんなに出てくるなんて|思ってもみなかったぜ。|奥の方に埋もれてたんだな。=there’d be so many pine mushrooms. They must have been buried quite deep.
+私も、思いました……|藍堂センパイ、変なキノコしか|取ってないものだと……=I’m shocked too. I just thought that all Aido had gathered was weird mushrooms...
+<last><name>、何か言った？=Did you just say something, <name><last>?
+い、いえ、別に……|あ、あはは……=N-No, it was nothing... Ahaha...ha...
+よし、これを焼くのは|誰か一人に任せて、他のやつは|別の料理作りに取り掛かるか。=Alright, we should divide this up so while one of us grills these, the others can get on with something else.
+そうですね。|じゃあ、松茸の一本焼きは|誰に任せましょうか……？=That’s a good point. So, who’s going to take care of the mushrooms...?
 
-# A267C
-藍堂センパイにお任せします。|焼き加減を見て、程よい所で|火を消してもらえますか？=
-いいだろう。引き受けるよ、|その役目。見事な焼き加減で|二人を驚かせてやるよ。=
-じゃあ、お願いしますね。|藍堂センパイ。=
-う～ん、香りもいいし、表面に|うっすら水分が浮いて来てる。|もういいんじゃないか？=
-あれ？いつの間にか火が|消えてる。藍堂センパイ、|もう焼き終わったんですか？=
-見ての通りだよ。ほら、|この素晴らしい焼き加減。|まるで芸術だ。=
-（本当だ……見た目はすごく|美味しそう。でも、ちゃんと|中まで火が通ってるのかな？）=
+# A267C choose 藍堂センパイに任せします
+藍堂センパイにお任せします。|焼き加減を見て、程よい所で|火を消してもらえますか？=I’ll leave it to you, Aido. Once they’ve finished cooking, will you put out the fire?
+いいだろう。引き受けるよ、|その役目。見事な焼き加減で|二人を驚かせてやるよ。=Alright, I’ll be the mushroom griller. I’m going to surprise you by how well they’re cooked.
+じゃあ、お願いしますね。|藍堂センパイ。=We’re counting on it, Aido!
+う～ん、香りもいいし、表面に|うっすら水分が浮いて来てる。|もういいんじゃないか？=Mmm, they smell good, and there’s a moisture on the surface. They’re probably ready, right?
+あれ？いつの間にか火が|消えてる。藍堂センパイ、|もう焼き終わったんですか？=Huh? When did the fire go out? Are you already finished grilling the mushrooms, Aido?
+見ての通りだよ。ほら、|この素晴らしい焼き加減。|まるで芸術だ。=As you can see, they’re done. Just look at this wonderful degree of browning. It’s like an art form.
+（本当だ……見た目はすごく|美味しそう。でも、ちゃんと|中まで火が通ってるのかな？）=(He’s right... They do look delicious. But, I’m kind of worried they’re not cooked all the way through.)
 
-# A333C
-架院センパイにお任せします。|焼き加減を見て、程よい所で|火を消してもらえますか？=
-ああ、わかった。=
-（うん、架院センパイなら|しっかりしてそうだし、|任せても安心だな！）=
-じゃあ、お願いしますね。|架院センパイ。=
-いい香りだな。ん？……|表面にうっすら水滴が。|まだ、生焼けなのか？=
-中まで火が通ってないと|危なさそうだな……=
-架院センパイ、|焼け具合はどうですか……|って、何ですかこの火柱！=
-いや……生焼けだと危ないなと|思ったんだが。心配するな、|この火は俺の意思で消せる。=
-（火柱がすごくて、|よく見えなかったけど……|松茸、大丈夫なのかな？）=
+# A333C choose 架院センパイにお任せします
+架院センパイにお任せします。|焼き加減を見て、程よい所で|火を消してもらえますか？=I’ll leave it to you, Aido. Once they’ve finished cooking, will you put out the fire?
+ああ、わかった。=Yeah, sure.
+（うん、架院センパイなら|しっかりしてそうだし、|任せても安心だな！）=(Kain is so reliable, I’m not worried about leaving it to him at all.)
+じゃあ、お願いしますね。|架院センパイ。=Okay, then I’m coming on you, Kain!
+いい香りだな。ん？……|表面にうっすら水滴が。|まだ、生焼けなのか？=It smells good... Hm? The surface looks slightly wet. Are they still raw?
+中まで火が通ってないと|危なさそうだな……=It’s probably dangerous if they’re not cooked all the way through.
+架院センパイ、|焼け具合はどうですか……|って、何ですかこの火柱！=How’s the food doing, Kai--!? W-What’s with this pillar of flame!?
+いや……生焼けだと危ないなと|思ったんだが。心配するな、|この火は俺の意思で消せる。=Well... I thought it’d be dangerous if they were undercooked. Don’t worry, I can put out the fire with ease.
+（火柱がすごくて、|よく見えなかったけど……|松茸、大丈夫なのかな？）=(The fire is so intense, I can’t see anything... I wonder if the mushrooms will be okay...?)
 
-# A338C
-じゃあ、ここは私が見てます|から、お二人は次の料理に|取り掛かって下さい。=
-ああ、わかった。|さてと……どうする？英。=
-後はキノコと山菜か……あっ、|この木の実キレイだな！|お前が取ってきたのか？暁。=
-トッピングに使おう。料理は|見た目がまず美しくないと|いけないからな。=
-好きにしろ。ただ、頼むから|美的感覚よりも、食べられるか|どうかを優先してくれよな。=
-（ふふ……あの二人、さすが|いとこ同士だけあって、|髪の毛のクセなんかはーー）=
-（すごく似てるけど、中身は|まるで正反対なんだよね。|だけどすごく仲良くてーー）=
-（何だか見ててほのぼのする|と言うか……微笑ましいな！|すごくいいコンビだと思う）=
-あっ！し、しまった……|あの二人を見てたら、|ちょっと焦がしちゃった……！=
-うう……|表面、黒くなっちゃった。|大丈夫かなあ……？=
+# A338C choose 私に任せてください
+じゃあ、ここは私が見てます|から、お二人は次の料理に|取り掛かって下さい。=Okay, I’ll handle this part, so would the two of you please get on with the next thing?
+ああ、わかった。|さてと……どうする？英。=Sure thing.|Alright... What should we do, Hanabusa?
+後はキノコと山菜か……あっ、|この木の実キレイだな！|お前が取ってきたのか？暁。=Well, there’s the mushrooms and the wild vegetables... Ah, these berries are so pretty! Did you pick them, Akatsuki?
+トッピングに使おう。料理は|見た目がまず美しくないと|いけないからな。=Let’s use them as a topping. Food ought to look beautiful, after all.
+好きにしろ。ただ、頼むから|美的感覚よりも、食べられるか|どうかを優先してくれよな。=Do what you want. Just, please don’t put the aesthetics above whether something’s edible or not.
+（ふふ……あの二人、さすが|いとこ同士だけあって、|髪の毛のクセなんかはーー）=(Hehe... They really are cousins. Even their hair is similar...)
+（すごく似てるけど、中身は|まるで正反対なんだよね。|だけどすごく仲良くてーー）=(But on the inside they’re completely different. And yet, they still get along so well.)
+（何だか見ててほのぼのする|と言うか……微笑ましいな！|すごくいいコンビだと思う）=(It’s kind of heartwarming to watch... They make a great pair!)
+あっ！し、しまった……|あの二人を見てたら、|ちょっと焦がしちゃった……！=Agh, oh no! I was so focused on them, I burnt the mushrooms--!
+うう……|表面、黒くなっちゃった。|大丈夫かなあ……？=Ngh... They’re completely black. Are they going to be any good...?
 
 # A47F8
-さてと。そうこうしている|うちに、スープの準備は|出来上がっているよ。=
-あとは鍋の中にこの|色とりどりのキノコたちを|入れれば完成だ。=
-（で、出た……！|問題の毒キノコ……！）=
-フフ……オレンジや黄色の|キノコのお陰で、まるで|ニンジンやかぼちゃがーー=
-入っているように見える。|二人とも、僕のこの、|物を選ぶ審美眼に感謝しろよ？=
-（するとその時、|架院センパイがコソコソと|私の耳元でささやいた）=
-おい<last>……あのキノコ|大丈夫だと思うか？=
-いいえ……正直、|あれを食べた皆さんの健康が|心配です……自分も含めて。=
-……おい英。このキノコは|俺たちも<last>も、|一度も食べた事がない。=
-どんな風味のキノコなのか……|調理する前に味見をした方が|いいんじゃないか？=
-まあ……そんな事しなくても|美味しいのは想像が付くけど|一応した方がいいかもね。=
-枢様のお口に|合わなかったら大変だ。|でも、誰が味見するんだ？=
-そ、そうですねえ……=
+さてと。そうこうしている|うちに、スープの準備は|出来上がっているよ。=Alright, whilst that was going on, the preparations for the soup are ready.
+あとは鍋の中にこの|色とりどりのキノコたちを|入れれば完成だ。=All that’s left to do is add these colorful mushrooms to the pot and then we’ll be done.
+（で、出た……！|問題の毒キノコ……！）=(H-Here it is! The problem of the poisonous mushrooms--!)
+フフ……オレンジや黄色の|キノコのお陰で、まるで|ニンジンやかぼちゃがーー=Heheh... Thanks to these orange and yellow mushrooms, it’ll make it look like there are carrots and pumpkins in there.
+入っているように見える。|二人とも、僕のこの、|物を選ぶ審美眼に感謝しろよ？=The two of you must be glad for my excellent taste in choosing things, right?
+（するとその時、|架院センパイがコソコソと|私の耳元でささやいた）=(Just then, Kain whispered something in my ear.)
+おい<last>……あのキノコ|大丈夫だと思うか？=Hey <last>, do you think those mushrooms are really going to be okay?
+いいえ……正直、|あれを食べた皆さんの健康が|心配です……自分も含めて。=No... To be honest, I’m worried about everyone eating them... Myself included.
+……おい英。このキノコは|俺たちも<last>も、|一度も食べた事がない。=Oi, Hanabusa. <last> and I have never had this kind of mushroom before.
+どんな風味のキノコなのか……|調理する前に味見をした方が|いいんじゃないか？=What does it taste like? Shouldn't we taste it before putting it in something?
+まあ……そんな事しなくても|美味しいのは想像が付くけど|一応した方がいいかもね。=Well... I can just imagine how delicious they’ll be without tasting it but, maybe it is a good idea to try one just in case.
+枢様のお口に|合わなかったら大変だ。|でも、誰が味見するんだ？=It’d be terrible if Lord Kaname didn’t like them. But, who’s going to taste it?
+そ、そうですねえ……=R-Right...
 
-# A2EC0
-やっぱりここは、採った|ご本人である、藍堂センパイが|味見をしたらどうでしょう？=
-ふん……まあ、|そう来ると思ったよ。じゃあ、|僕が味見させてもらう。=
-（き、緊張する……！もし|食べた途端、藍堂センパイが|ひっくり返ったらどうしよう）=
-（架院センパイも、|額にうっすら汗かいてる……|心配してるんだ……）=
-……やっぱり、やーめた！|食べてからの|お楽しみにしよう！=
-（ええ～～っ！）=
-ど、どうしましょう、|架院センパイ……=
-仕方がない。|後は運を天に任せるのみだ。=
-そ、そんなあ……=
+# A2EC0 choose 藍堂センパイ、どうですか？
+やっぱりここは、採った|ご本人である、藍堂センパイが|味見をしたらどうでしょう？=Well, it’d make sense for person who collected them to be the one to try it. What do you think, Aido?
+ふん……まあ、|そう来ると思ったよ。じゃあ、|僕が味見させてもらう。=Hm... I figured it’d come to that. Okay, I’ll taste one then.
+（き、緊張する……！もし|食べた途端、藍堂センパイが|ひっくり返ったらどうしよう）=(I-I’m scared! What if Aido keels over the moment he eats it--!?)
+（架院センパイも、|額にうっすら汗かいてる……|心配してるんだ……）=(Even Kain’s sweating a little... He looks worried.)
+……やっぱり、やーめた！|食べてからの|お楽しみにしよう！=...Actually, never mind. I want to look forward to trying it later!
+（ええ～～っ！）=(Whaaaat!!?)
+ど、どうしましょう、|架院センパイ……=W-What should we do, Kain?
+仕方がない。|後は運を天に任せるのみだ。=There’s nothing we can do. We’ll just have to leave the rest up to chance.
+そ、そんなあ……=N-No way...
 
-# A54DC
-架院センパイ、どうですか？|客観的な立場で、|どんな味がするか意見を……=
-えっ……俺？=
-そうだな。|味見した方がいいって|言い出したのは暁だし。=
-そうか……わ、わかった……|俺が、食べてみる。=
-（か、架院センパイ、|ごめんなさい……！私、|逃げてしまいました……！）=
-（架院センパイ、赤いキノコを|手にしたまま、動かない……|顔も、真っ青だ……）=
-あ……そ、そうだ、英。|このキノコ、熱通した方が|いいんじゃないのか？=
-えっ？平気だろう？|どうせスープにするとき|煮込むんだから。=
-いや……でも、自然のものは|良く火を通した方がいい。=
-わっ……！！|ひ、火柱……！！=
-ああっ！！|僕の集めた、色鮮やかな|キノコたちが……！！=
-すまない、英。|力加減を間違えた。|ああ、全部焦げてしまったな。=
-ひどいぞ、暁！|後で覚えてろよ！=
-まあ、でもキノコはまだ|沢山残っている。こっちを|使ってスープを作ろう。=
-え～……？|こんな地味な色の|キノコでぇ～……？=
-仕方ないですよ、|藍堂センパイ！気を取り直して|作りましょう？ね？=
-（架院センパイ……！|本当にありがとう|ございます……！）=
+# A54DC choose 架院センパイ、どうですか？
+架院センパイ、どうですか？|客観的な立場で、|どんな味がするか意見を……=What do you think, Kain? You could give us an objective opinion on what it tastes like...
+えっ……俺？=Huh? Me...?
+そうだな。|味見した方がいいって|言い出したのは暁だし。=Exactly. You’re the one who suggested we try it.
+そうか……わ、わかった……|俺が、食べてみる。=That’s true... A-Alright. I’ll eat it...
+（か、架院センパイ、|ごめんなさい……！私、|逃げてしまいました……！）=(I-I’m sorry, Kain! I’m a coward...!)
+（架院センパイ、赤いキノコを|手にしたまま、動かない……|顔も、真っ青だ……）=(Kain’s just stood there, holding a red mushroom in his hand... His face has gone red too...)
+あ……そ、そうだ、英。|このキノコ、熱通した方が|いいんじゃないのか？=Ah... I-I know, Hanabusa, wouldn’t it be better to heat these first instead?
+えっ？平気だろう？|どうせスープにするとき|煮込むんだから。=Huh? They’ll be fine. They’re going to be cooked in the soup anyway.
+いや……でも、自然のものは|良く火を通した方がいい。=Well... I just think it’s better to cook raw things.
+わっ……！！|ひ、火柱……！！=Woah...! A pillar of flames--!
+ああっ！！|僕の集めた、色鮮やかな|キノコたちが……！！=Aaah!! The pretty colorful mushroom I gathered--!
+すまない、英。|力加減を間違えた。|ああ、全部焦げてしまったな。=Sorry, Hanabusa. I miscalculated. Aaah, they’re all burnt.
+ひどいぞ、暁！|後で覚えてろよ！=You’re terrible, Akatsuki! You’re going to regret this!
+まあ、でもキノコはまだ|沢山残っている。こっちを|使ってスープを作ろう。=Well, there’s still plenty of mushrooms left. Let’s use those to make the soup.
+え～……？|こんな地味な色の|キノコでぇ～……？=Huuuh? With these plain mushrooms?
+仕方ないですよ、|藍堂センパイ！気を取り直して|作りましょう？ね？=There’s nothing else for it, Aido. Pull yourself together and let’s get cooking, okay?
+（架院センパイ……！|本当にありがとう|ございます……！）=(Kain...! Thank you!)
 
-# A79BC
-じゃあ……|私が味見します！=
-えっ……？|いいのか？<last>。=
-だ、大丈夫です！=
-じゃ、任せたよ<last><name>。|味見したら、鍋の中に|入れるんだぞ、キノコ。=
-僕はその間に、暁が取ってきた|木の実で、トッピングを作って|いるからさ。じゃあね。=
-（あっ……行っちゃった|藍堂センパイ。残されたのは|私と架院センパイだけ……）=
-お前、本当に大丈夫か……。|勇気はかうが、|これ、ピンク色だぞ。=
-うう……本当は怖かったです。|今もまだ、ちょっと涙目です。=
-そうだよな……仕方ない、|後は俺に任せろ。=
-あれ？|不思議な事もあるものですね、|架院センパイ！=
-ああ。本当に不思議だな。=
-どうしたんだ？二人とも。|変な声出して……ああっ！|これは……=
-おい、<last><name>！|僕の採った、あの美しい|キノコはどこへやったんだ？=
-どうして、鍋の中に|こんな地味な色のキノコしか|入っていないんだ！？=
-落ち着け英。それが|不思議な事に、火を通したら|こんな色になったんだ。=
-そっ、そうなんです！|加熱すると、変色する|キノコだったみたいで……！=
-そうか、なら仕方がないな。|ああ、枢様にあの美しい色の|まま差し上げたかったな……！=
-（ごめんなさい、|色が変わったなんてウソです、|藍堂センパイ……）=
-（あの色鮮やかなキノコは|架院センパイが|全部燃やしちゃいました……）=
-（鍋の中に入れたのは、|最初から普通の色の|キノコたちです……）=
-（ちょっと罪の意識を感じて|いる私に、架院センパイが|そっと耳打ちした）=
-いいんだ、<last>。|こうでもしないと、|英は頑として引かないからな。=
-は、はい……でもとにかく|良かったです、あれを食べる|羽目にならなくて。=
+# A79BC choose 私が味見します！
+じゃあ……|私が味見します！=Alright... I’ll try it!
+えっ……？|いいのか？<last>。=Huh? Are you sure, <last>?
+だ、大丈夫です！=I-It’ll be okay.
+じゃ、任せたよ<last><name>。|味見したら、鍋の中に|入れるんだぞ、キノコ。=Alright, I’ll leave it to you then, <name><last>. Once you’ve tried them, you can put the mushrooms in the pot.
+僕はその間に、暁が取ってきた|木の実で、トッピングを作って|いるからさ。じゃあね。=In the meantime, I’ll make a topping with the berries that Akatsuki picked. See ya.
+（あっ……行っちゃった|藍堂センパイ。残されたのは|私と架院センパイだけ……）=(Ah... He left. It’s just me and Kain...)
+お前、本当に大丈夫か……。|勇気はかうが、|これ、ピンク色だぞ。=Hey, are you sure it’s okay? You’re brave but... these things are pink.
+うう……本当は怖かったです。|今もまだ、ちょっと涙目です。=Nngh, I’m actually really scared. I thought I was going to cry...
+そうだよな……仕方ない、|後は俺に任せろ。=I see... Alright, leave the rest to me.
+あれ？|不思議な事もあるものですね、|架院センパイ！=Huh? Who would have thought it, Kain!
+ああ。本当に不思議だな。=Yeah. It really is strange.
+どうしたんだ？二人とも。|変な声出して……ああっ！|これは……=What’s going on? You’re being weird... Ah! T-That’s--!
+おい、<last><name>！|僕の採った、あの美しい|キノコはどこへやったんだ？=Oi, <name><last>! What have you done with those pretty mushrooms I picked?
+どうして、鍋の中に|こんな地味な色のキノコしか|入っていないんだ！？=Why are there only these plain mushrooms in the pot?
+落ち着け英。それが|不思議な事に、火を通したら|こんな色になったんだ。=Calm down, Hanabusa. That’s the weird thing, after I cooked them, they turned this color.
+そっ、そうなんです！|加熱すると、変色する|キノコだったみたいで……！=R-Right! It looks like these mushrooms turn color when they’re cooked!
+そうか、なら仕方がないな。|ああ、枢様にあの美しい色の|まま差し上げたかったな……！=Oh, I guess that’s that then. Aaah, I wish I could have served them to Lord Kaname in their colorful glory, though!
+（ごめんなさい、|色が変わったなんてウソです、|藍堂センパイ……）=(I’m sorry, Aido. The part about them changing color was just a lie...)
+（あの色鮮やかなキノコは|架院センパイが|全部燃やしちゃいました……）=(Kain burnt all of the suspect mushrooms.)
+（鍋の中に入れたのは、|最初から普通の色の|キノコたちです……）=(He just used normal mushrooms from the start...)
+（ちょっと罪の意識を感じて|いる私に、架院センパイが|そっと耳打ちした）=(As I sat there feeling guilty, Kain softly whispered in my ear.)
+いいんだ、<last>。|こうでもしないと、|英は頑として引かないからな。=It’s okay, <last>. If we hadn’t done this, Hanabusa would never have budged.
+は、はい……でもとにかく|良かったです、あれを食べる|羽目にならなくて。=R-Right... Still, I’m really glad I didn’t end up having to eat any.
 
 # A24D8
-さてと……あとは|山菜を調理するだけですね。|何を作りましょうか？=
-フフ……すごくいい事|思いついちゃった。|今までのものは全部ーー=
-火を使った料理ばかりだから、|ちょっと趣向を変えないか？=
-趣向を……？一体|何をするつもりなんだ？英。=
-まあ、僕に任せてよ。|<last><name>、ちょっと|その山菜、ちょうだい。=
-（大丈夫かな……|藍堂センパイは、|キノコの前科があるし……）=
-（でも、|何か自信がありそうだし、|任せても大丈夫かな？）=
+さてと……あとは|山菜を調理するだけですね。|何を作りましょうか？=Alright... All that’s left is just the wild vegetables. What should we make?
+フフ……すごくいい事|思いついちゃった。|今までのものは全部ーー=Hehe... I've got a really good idea. Everything we've made so far...
+火を使った料理ばかりだから、|ちょっと趣向を変えないか？=was cooked with fire, so why don’t we try something else for a change?
+趣向を……？一体|何をするつもりなんだ？英。=Something else? ...What are you thinking, Hanabusa?
+まあ、僕に任せてよ。|<last><name>、ちょっと|その山菜、ちょうだい。=Just leave it to me. Pass me the vegetables won’t you, <name><last>?
+（大丈夫かな……|藍堂センパイは、|キノコの前科があるし……）=(Is that wise...? Aido’s already committed one offense, with those mushrooms...)
+（でも、|何か自信がありそうだし、|任せても大丈夫かな？）=(But, he seems pretty confident, so maybe it’ll be okay?)
 
-# A2F2C
-じゃあ……藍堂センパイ、|お願いします。=
-<last><name>。その山菜、|僕の掌に置いてくれる？=
-あ、はい……こうですか？=
-わぁ……すごい……！|山菜に霜が張っていく……！=
-ふふん、山菜シャーベットだ。|味は勿論、シャキっとした|食感も楽しめるというわけさ。=
-本当……！|これは美味しそうです。=
-今までの経緯からして、どんな|ものが出来上がるんだろうって|すごく心配だったけど……=
-ん？何か言った？|<last><name>。=
-い、いえ、別に……！=
+# A2F2C choose 藍堂に任せる
+じゃあ……藍堂センパイ、|お願いします。=Alright... Then, if you’d please, Aido.
+<last><name>。その山菜、|僕の掌に置いてくれる？=<name><last>, will you put that one in my palm?
+あ、はい……こうですか？=Ah, sure... Like this?
+わぁ……すごい……！|山菜に霜が張っていく……！=Woah, that’s incredible...! The veg has been covered with frost!
+ふふん、山菜シャーベットだ。|味は勿論、シャキっとした|食感も楽しめるというわけさ。=Heheheh, it’s veggie-sherbet. It’s not only tasty, but has a pleasant crisp texture too.
+本当……！|これは美味しそうです。=Really? It looks good...
+今までの経緯からして、どんな|ものが出来上がるんだろうって|すごく心配だったけど……=I have to say, I was worried about what you were going to make considering everything else, but...
+ん？何か言った？|<last><name>。=Hm? What was that, <name><last>?
+い、いえ、別に……！=N-No, it’s nothing--!
 
-# A4830
-やっぱり、|これを採った人である、|架院センパイにお任せします。=
-ちぇっ、せっかく|いい案が浮かんだのに……=
-悪いな、英。じゃあ、|この山菜は俺が何とかする。=
-とは言ったものの、山菜なんて|料理した事ないしな……|とりあえず、火を通せばーー=
-何でも食べられるだろうから、|焼いてみるか。=
-ん……？山菜っていうのは|随分火の通りがいいんだな。|もう焼けた……=
-というか、燃えてる……？=
-架院センパイ、どうですか？|山菜料理の方は。=
-って、あれ……？|何ですか？この黒い綴じ紐|みたいなのは……=
-ああ、山菜だ。=
-ちょっと火加減を間違えた……|かもしれない。=
-（ちょっとどころか、|明らかに焦げてる……|これ、食べられるかな？）=
+# A4830　choose 架院に任せる
+やっぱり、|これを採った人である、|架院センパイにお任せします。=I think the person who picked them should decide what to do.
+ちぇっ、せっかく|いい案が浮かんだのに……=Tch. Just when I had a good idea, too...
+悪いな、英。じゃあ、|この山菜は俺が何とかする。=Sorry, Hanabusa. Okay, I’ll think of something.
+とは言ったものの、山菜なんて|料理した事ないしな……|とりあえず、火を通せばーー=So I said, but I’ve never cooked anything like wild vegetables before... I guess if I just heat them...
+何でも食べられるだろうから、|焼いてみるか。=At least it’ll be edible. I’ll try grilling them.
+ん……？山菜っていうのは|随分火の通りがいいんだな。|もう焼けた……=Hm? Wild vegetables seem to do quite well on an open flame. They’re already cooked...
+というか、燃えてる……？=Or... maybe they’re burning?
+架院センパイ、どうですか？|山菜料理の方は。=How’s the veg coming along, Kain?
+って、あれ……？|何ですか？この黒い綴じ紐|みたいなのは……=H-Huh? What’s that? That black, kitchen twine-like thing?
+ああ、山菜だ。=The wild vegetables.
+ちょっと火加減を間違えた……|かもしれない。=I think I may have overcooked them a little...
+（ちょっとどころか、|明らかに焦げてる……|これ、食べられるかな？）=(Not just a little... they’re quite clearly burnt. Will they even be edible?)
 
-# A59F8
-じゃあ……|ここは私に任せてください。=
-最後くらい、女の子らしい所を|頑張って見せたいと思います！=
-ああ。|じゃあ、頼んだぞ。|<last>。=
-とは言ったものの、|山菜料理か……ゆがいて|おひたしにでもする？=
-でも、味付けは海水から取れた|塩しかないし……|美味しくなるかなあ……=
-<name>ちゃん、そんなに|悩む位なら、最初から僕の案に|乗れば良かったじゃない。=
-あ、藍堂センパイ……=
-ねえ、|騁されたと思って、その山菜、|僕の掌に置いてみて？=
-え……？|こ、こうですか？=
-本当、美味しそう……！|ありがとうございます、|藍堂センパイ！=
-だから、最初から僕に任せて|おけばよかったのに。|ねえ、<last><name>？=
-あはは……すみません。|何か、キノコの一件があるから|怖くて……=
-ん？何か言った？=
-い、いえ！|何でもありません！=
+# A59F8 choose 自分で調理する
+じゃあ……|ここは私に任せてください。=Leave this to me.
+最後くらい、女の子らしい所を|頑張って見せたいと思います！=I want to do my best to show you my womanly side, one last time!
+ああ。|じゃあ、頼んだぞ。|<last>。=Alright. We’re counting on you, <last>.
+とは言ったものの、|山菜料理か……ゆがいて|おひたしにでもする？=Having said that, what to do...? Maybe I’ll make boiled veg?
+でも、味付けは海水から取れた|塩しかないし……|美味しくなるかなあ……=All I have for seasoning is the salt we got from the seawater though... I wonder if it’ll taste okay...
+<name>ちゃん、そんなに|悩む位なら、最初から僕の案に|乗れば良かったじゃない。=If you’re going to fret over it that much, why didn’t you just go for my idea from the start?
+あ、藍堂センパイ……=A-Aido...
+ねえ、|騁されたと思って、その山菜、|僕の掌に置いてみて？=Trust me on this. Try putting that veg in my palm.
+え……？|こ、こうですか？=Huh...? L-Like this?
+本当、美味しそう……！|ありがとうございます、|藍堂センパイ！=It looks really good! Thank you, Aido!
+だから、最初から僕に任せて|おけばよかったのに。|ねえ、<last><name>？=See, you should have let me handle it from the get go. Right, <name><last>?
+あはは……すみません。|何か、キノコの一件があるから|怖くて……=Ahaha... Sorry. I was just a bit scared because of the mushroom thing--
+ん？何か言った？=Hm? What was that?
+い、いえ！|何でもありません！=N-No! It’s nothing!
 
-# A5A88
+# A5A88 Ichijo and Shiki cooking
 タコさん、イカさん、そして|お魚たち。そんな悲しそうな|顔をしたってダメだよ？=Octor, Squidley, and you too, little Fishins, don't look so sad.
 僕たちはお腹が空いているん|だからね。これから君たちを|食べなくちゃいけないんだ。=I'm sorry, but we're hungry, so we have to eat you now, okay?
 一条センパイ、|魚介類に話しかけてる……=Ichijo, you named them?
@@ -11138,7 +11138,7 @@ Sleep well...
 それにしても、この金網、|どうやって手に入れたん|ですか？本格的……=By the way, where'd you get this wire screen? It's like one you would buy at the store.
 島に流れ着いてた|ワイヤーくずで、|一条さんが作った。=Ichijo made it out of some wire that washed up on shore.
 え……？本当ですか？|すごいです！一条センパイ！=Wait, really!? That's amazing, Ichijo!
-ふふ、別にそれくらい|たいした事ないよ。=Hmhmhm, it's nothing really. Anybody could have done it.
+ふふ、別にそれくらい|たいした事ないよ。=Hehehe, it's nothing really. Anybody could have done it.
 何か、キャンプ場で|バーベキューしている様な|気分になってきました。=It's weird, but it almost feels like we're barbequing at a campsite.
 本当だね。|僕もワクワクして来たよ！|ねえ支葵、楽しいね。=It does, doesn't it? It's exciting! Hey, Shiki, this is fun, isn't it?
 とりあえず、おなか空いた。|さっさと作って食べようよ、|一条さん。=Right now I'm just hungry. Let's cook the food and eat already, Ichijo.
@@ -11194,7 +11194,7 @@ Sleep well...
 いいんだよ。|そんなに気にしないで。=That's quite alright. Don't worry about it.
 （そう言ってニコっと笑うと、|一条センパイは、空高くタコと|イカを放り投げた）=(Ichijo laughed and smiled as he said that. Then he tossed the octopus and the squid high in the air.)
 す……すごい！|すごいです、一条センパイ！|思わず、見とれちゃいました！=Th-That was incredible, Ichijo! I was totally mesmerized!
-フフ、やめてよ<name>ちゃん。|そんなに誉められると、|照れちゃうよ。=Hmhm, stop, <name>. All the praise is making me blush.
+フフ、やめてよ<name>ちゃん。|そんなに誉められると、|照れちゃうよ。=Hehe, stop, <name>. All the praise is making me blush.
 最初から一条さんに任せれば|よかったんじゃない。=We should have just left it to Ichijo from the start.
 は、はい……|すみません……=Y-Yeah... Sorry about that.
 こら、支葵。|そういう言い方しちゃ|だめだよ。=Shiki, that's not nice. There's no reason to be so harsh.
@@ -11301,7 +11301,7 @@ Sleep well...
 焼きあがったら、このまま|がぶっとかぶりつくんですよ。=You cook it like this, then you take a big ol' bite!
 なんか、原始的……=How primitive...
 へえ～。シンプルだけど、|美味しそうだね。=Wow. It's simple, but it does look tasty.
-おいしいですよ！|あ……いいにおいがしてきた。|ふふ、楽しみだな！=Oh it is! Ah, it's already smelling nice. Hmhm, I can't wait!
+おいしいですよ！|あ……いいにおいがしてきた。|ふふ、楽しみだな！=Oh it is! Ah, it's already smelling nice. Hehe, I can't wait!
 
 # A6180
 ……というわけで、|無事、料理が完成しました～！=All in all, everything went well. Nobody got hurt, and there's lots of yummy food to eat～!
@@ -11318,7 +11318,7 @@ Sleep well...
 あーあ……疲れた。|余計な体力使っちゃった。|早く食べて、寝たい。=*Sigh* I'm tired. I've used too much of my strength. What are we waiting for? I'm going to eat and go to sleep.
 フン、まさかこの僕がこんな|庶民的な物を口にするなんて、|思ってもみなかったよ。=Hmph, I never thought I would end up eating something so unsophisticated like this.
 まあ、そう言うな、英。|今は、食べるものがあるだけで|ありがたいと思え。=Well, don't think of it like that, Hanabusa. Just be grateful that you have something to eat at all.
-ふふ……僕は楽しいな！|こんなサバイバルな食事、|めったに体験できないからね。=Hmhm, I'm honestly having fun! Scrounging for food in a survival situation, it's not an experience that everyone has.
+ふふ……僕は楽しいな！|こんなサバイバルな食事、|めったに体験できないからね。=Hehe, I'm honestly having fun! Scrounging for food in a survival situation, it's not an experience that everyone has.
 それじゃ、冷めないうちに|食べちゃいましょうか！|いただきま～す！=Well, let's eat up before it all gets cold! Dig in～!
 いただきま～す！=Let's eat!
 
@@ -11358,9 +11358,9 @@ Sleep well...
 ……まさかね。|考えすぎだよね。=...Nah. I'm just being paranoid.
 それにしても、|面白い夢だったな。零や、|ナイト･クラスの皆さんとーー=Anyway, it was an interesting dream. Zero and the Night Class trying to survive on a deserted island.
 無人島でサバイバルなんて！|明日、零に話してみようかな？|枢センパイにも……！=I should try telling Zero about it tomorrow! Oh, and Kaname too!
-多分、笑われて終わりかも|しれないけどね！=They'll probably just end up laughing at me!
+多分、笑われて終わりかも|しれないけどね！=They'll probably just end up laughing at me, though...!
 
-# AFF68
+# AFF68 chapter 6
 （私の恩人の枢センパイは、|私に生きるための喜びと、|命をくれたーー）=
 （私の育ての親の理事長は、|私に人間としての生活と、|名前をくれたーー）=
 （そしてーー）=

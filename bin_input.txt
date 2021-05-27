@@ -1688,7 +1688,7 @@ vk_se6_010=
 はいはい|下がって下がって～！=Alright, alright! Step back!
 デイ･クラスの皆さんは、|もう門限ですから自分の寮に|帰ってくださ～い！=It’s already past curfew for everyone in the Day Class, so please go back to your dorm!
 （私の名前は<last><name>）=(My name is <name><last>.)
-（黒主学園の普通科１年であり|学園の秩序を守る風紀委員だ）=(I’m a first-year student and a prefect, fighting to protect the peace.)
+（黒主学園の普通科１年であり|学園の秩序を守る風紀委員だ）=(I’m a first-year student and a Prefect, fighting to protect the peace.)
 邪魔よ！|風紀委員！=Get out of the way, Prefect!
 ちょっと押さないで！=Hey! Stop pushing me!
 早く出て来て|くれないかしら～。=I hope they come out soon~
@@ -1735,7 +1735,7 @@ vk_se6_010=
 （枢センパイの左手はーー|私の相棒の右手に阻まれた）=(Kaname’s left hand was blocked by my partner’s right hand.)
 授業が始まりますよ、|玖蘭先輩。=Class has started, Kuran.
 （こいつは錐生零）=(This is Zero Kiryu.)
-（私と同じくデイ･クラスの|１年で一緒にコンビを組む|風紀委員だ）=(He’s a first-year in the Day Class with me, and we’re both prefects.)
+（私と同じくデイ･クラスの|１年で一緒にコンビを組む|風紀委員だ）=(He’s a first-year in the Day Class with me, and we’re both Prefects.)
 恐いね、風紀委員さん。=You’re scary... Mr. Prefect.
 玖蘭先輩ほどの人が|恐いですか？|皮肉も大概にしてください。=You’re afraid of me, Kuran? Even sarcasm has its limits.
 （一触即発の雰囲気！）=(You could cut the atmosphere with a knife!)
@@ -1760,12 +1760,12 @@ vk_se6_010=
 い、いってらっしゃい！ =E-Enjoy your class!
 （ナイト･クラスの|生徒達の姿が消えると）=(Once the Night Class left...)
 （デイ･クラスの生徒達も|それぞれの寮へ帰っていった）=(the students from the Day Class also returned to their dormitories.)
-俺達も帰るぞ、<name>|理事長が呼んでる。=<name>, we should head back too. The headmaster was calling for us.
-理事長が？どうして？=The headmaster? Why?
+俺達も帰るぞ、<name>|理事長が呼んでる。=<name>, we should head back too. The Headmaster was calling for us.
+理事長が？どうして？=The Headmaster? Why?
 行けばわかる。=You’ll find out when we get there.
 （素っ気なく言うと|零は歩き出した）=(And as bluntly as that, Zero started to walk away.)
 待ってよ、零！|遅刻したくせに|一言謝るとかないわけ！？=Wait, Zero! You’re not even going to apologize for showing up late!?
-（風紀委員である零と私には|隠された使命があるーー）=(Zero and I are prefects, but that’s not our true mission...)
+（風紀委員である零と私には|隠された使命があるーー）=(Zero and I are Prefects, but that’s not our true mission...)
 （デイ･クラスの生徒達には|決して知られてはならない）=(There’s something that the Day Class must never find out.)
 （黒主学園の|秘密を守り抜くーー）=(The secret of Cross Academy we protect...)
 （ガーディアンとしての|使命だーー）=(Our mission as guardians of the school.)
@@ -1793,7 +1793,7 @@ vk_se6_010=
 いや～毎夕毎夕ご苦労様。|だけどね、ガーディアンの任務|は君達にしか任せられない。=Now, now~ Thank you for all your hard work. You’re the only people I can entrust with this job as guardians.
 （ヴァンパイアとの平和的|共存を目指しーー）=(In order to keep this peaceful coexistence with vampires...)
 （学園の夜間部に|ヴァンパイアを|受け入れた事実）=(The fact that the academy admits vampires at night...)
-（その秘密を知るのは、|理事長と、私|そして、零の３人だけだ）=(is a secret that only I, the headmaster and Zero know.)
+（その秘密を知るのは、|理事長と、私|そして、零の３人だけだ）=(is a secret that only I, the Headmaster and Zero know.)
 デイ･クラスと|ナイト･クラスを|共存させるため。そして……=It’s all for the sake the coexistence between the Day Class and Night Class. Plus...
 大昔から密かに続いてきた|人間対ヴァンパイアの争いに|終止符を打つためにも……=I want to put an end to the war between humans and vampires that has secretly been waged since ancient times...
 わかってます。|それに私は協力できて|嬉しいです！=I know. And, I’m happy to help out!
@@ -1836,7 +1836,7 @@ vk_se6_010=
 責任？|俺にどうして欲しいって|いうんだ。=Responsibility? What would you have me do?
 ど、どうして欲しいって……|それは……=W-What would I want...? Well...
 （口を開きかけたその時ーー）=(Just as I was about to open my mouth--)
-風紀委員が来ない内に|早く忍び込んじゃおう。=Let’s hurry up and sneak inside before the prefects come.
+風紀委員が来ない内に|早く忍び込んじゃおう。=Let’s hurry up and sneak inside before the Prefects come.
 もう少しで手が届きそう。=Stretch your arm down a bit further. I can’t reach--
 何だろう？|今、何か聞こえた……=What was that? I thought I heard something...
 （慌てて聞き耳を立てた|すると、聞こえてきたのは|ーー）=(If I strain my ears, I can hear--)
@@ -1963,7 +1963,7 @@ It’s because your blood makes me feel like behaving badly...
 ふっ……|今夜も元気だね、<name>。=Heh... You’re full of life tonight too, <name>.
 僕はここだよ、<name>。=I’m over here, <name>.
 （夜の闇のその奥へと|目をこらすと、そこに|枢センパイの姿がーー！）=(As I peered into the depths of the dark night, Kaname appeared--!)
-枢センパイ！|こ、こんばんは！=Kaname! G-good evening!
+枢センパイ！|こ、こんばんは！=Kaname! G-Good evening!
 くすっ……こんばんは。|きみは僕の前だと|すぐにかしこまってしまう。=Heh... Good evening. You seem to stand to attention as soon as you see me.
 すいませんっ……=I’m sorry...
 （だって……こんな形で|枢センパイに会えると思って|なかったから……）=(Well... because I wasn’t expecting to bump into him like this...)
@@ -1994,7 +1994,7 @@ It’d be terrible if something happened to you.
 （零の手には照準を定めた|ブラッディローズが……！）=(In his hand, Zero’s Bloody Rose had already locked on to its target...!)
 いったい何が起きたの……？=What on earth happened here...?
 どうやら彼女達は月の寮に|忍び込もうとして|塀から落ちちゃったみたい。=It seems they fell off the wall whilst trying to sneak into the Moon Dorm.
-で、たまたま通りかかった|俺達が助けようとしたら|いきなり銃を向けられた。=We just happened to be passing by so went to help, when all of the sudden we had a gun pointed at us.
+で、たまたま通りかかった|俺達が助けようとしたら|いきなり銃を向けられた。=We just happened to be passing by so we went to help, when all of the sudden we had a gun pointed at us.
 たまたま……ですか？|はっ…血の匂いに誘われて|さまよい出たんじゃ？=You just happened to be around? Heh... You mean you weren’t lured here by the smell of blood?
 と、とにかく|銃を下ろして！零！=A-Anyway, lower your gun! Zero!
 断る。|こいつらが立ち去るまで|この銃は下ろさない。=No thanks. I’m not putting this gun down until they leave.
@@ -2040,7 +2040,7 @@ Please clear up this misunderstanding with Kiryu!
 （その目は笑っていなかった）=(But, his eyes weren’t smiling.)
 さっきから、ジャマ。|引っ込んでて。=You’ve been in our way for a while now. Back off.
 レディを睨まないの、支葵。|<name>ちゃんは僕達のために|頑張ってくれてるんだから。=Shiki, don’t glare at the lady. <name> is being so insistent for our sake.
-風紀委員……|がんばりすぎ……=The prefects... are too insistent...
+風紀委員……|がんばりすぎ……=The Prefects... are too insistent...
 そんなっ……=That’s--!
 
 # A198C intro cont.
@@ -2060,7 +2060,7 @@ Please clear up this misunderstanding with Kiryu!
 （二人組の女生徒が|月の寮に忍び込もうと|塀をよじ上っていた）=(Two female students were scaling the wall trying to sneak into the Moon Dorm.)
 デイ･クラスの夜歩きさん|発見！！=Day Class rulebreakers spotted!!
 夜間の外出は校則違反です！|夜は危ないわ、|速やかに寮にお帰りなさい！=Going out at night is against the rules! It’s dangerous here, so go back to your dorms quickly!
-やばい！風紀委員だ！=Oh no! The prefects!
+やばい！風紀委員だ！=Oh no! The Prefects!
 きゃっ！|急に手を離さないでよ！|あっ……！=Eeek! Don’t suddenly let go of my hand!|Ack--!
 危ない！=Watch out!
 大変！大丈夫？|今そっちに行くから！=That looked bad! Are you alright?
@@ -2071,7 +2071,7 @@ I’ll be down in a second!
 まずい……！血が出てる……|早く寮に帰さなきゃ！=You’re bleeding...? Not good! Hurry! Get back to the dorm!
 な、何なの？|そんなに押さなくても。=W-What? There’s no need to be so pushy.
 私はケガ人なんだから|優しくしてよっ。=I’m injured, so you should be nicer to me.
-（ナイト･クラスに|血の匂いを嗅ぎ付けられたら|大変なことになる！）=(If the Night Class get wind of the scent of blood, it’s going to be a disaster!)
+（ナイト･クラスに|血の匂いを嗅ぎ付けられたら|大変なことになる！）=(If the Night Class gets wind of the scent of blood, it’s going to be a disaster!)
 ケガの治療は寮でするから|今は一刻も早く|この場を立ち去らないと！=I’ll take a look at your injuries in the dormitory, so we have to get out of here right now!
 （二人を抱え込むようにして|中庭を出ようとしたその時|背後にある気配を感じた）=(As we picked the girl up and made our way back, I suddenly felt the presence of something behind us.)
 （その気配とはーー）=(That feeling was--)
@@ -2084,7 +2084,7 @@ I’ll be down in a second!
 架院センパイ！！=Kain!!
 さすが理事長仕込み|一瞬ひやっとしたな。=The Headmaster has trained you well.
 （いたって無表情で|私を見つめる架院センパイ）=(He looked at me with a blank expression,)
-（時折不敵な笑顔を浮かべて|面白がっているように見えた）=(before his lips curled into bold smile, as if he’d just thought of something amusing.)
+（時折不敵な笑顔を浮かべて|面白がっているように見えた）=(before his lips curled into a bold smile, as if he’d just thought of something amusing.)
 こ、ここで何してるんですか？=W-What are you doing here?
 偶然通りかかっただけだ。|偶然ね……=I just happened to be passing by. Just a stroke of fate...
 （きっと血の匂いに誘われて|やって来たに違いない）=(He must have been lured here by the smell of blood.)
@@ -2117,7 +2117,7 @@ I’ll be down in a second!
 （痕が残りそうなほど|握りしめられて|私は身動きが取れない……）=(I can’t even move because he’s grabbing me so tightly that it feels like it’ll leave a mark.)
 （プツリ……と微かな音を|立てて私の手に鋭い牙が|食い込んだ）=(There was a faint sound as his sharp fangs bore into my hand.)
 （なぜか抵抗できなかった。|藍堂センパイの瞳に見つめられ|金縛りにあったようだった。）=(I couldn’t fight back. It’s like staring into Aido’s eyes had paralyzed my body.)#dupe
-そのくらいにしておけ、英。|……なんて言ってもムダか。|まったく、世話が焼ける。=That’s enough, Hanabusa. ...Why am I wasting my breath when you never listen? Good grief, you really are troublesome.#dupe
+そのくらいにしておけ、英。|……なんて言ってもムダか。|まったく、世話が焼ける。=That’s enough, Hanabusa...Why am I wasting my breath when you never listen? Good grief, you really are troublesome.#dupe
 （私の血を吸って赤く|濡れた唇がゆっくりと|首筋に近付いていく）=(He lapped up the last of my blood, and slowly moved towards my neck.)#dupe
 
 # A8D14
@@ -2135,7 +2135,7 @@ I’ll be down in a second!
 （藍堂センパイにゆっくりと|照準を合わせる零）=(Zero casually cocked the gun, making sure Aido was in his sight.)
 やり過ぎだ、風紀委員。|英にしては抑えた方だぜ|銃を下ろすんだ。=You’re going too far, Prefect. You’ve already stopped Hanabusa. Put the gun down.
 （零と藍堂センパイの間に|割って入ろうとする|架院センパイだったけど……=(Kain tried to split them up by stepping in...)
-風紀委員、銃をおろせ！=You damn prefect, drop your gun!
+風紀委員、銃をおろせ！=You damn Prefect, drop your gun!
 断る。=I refuse.
 何だと？うぉ……！|貴様、何しやがる！=What did you say?|Ugh--! Bastard, what are you doing?!
 （近付いて来た架院センパイを|零はあろうことか……一気に|背負い投げをしたのだ！）=(As Kain tried to get closer... Zero threw him over his shoulder in one fell swoop!)
@@ -2175,7 +2175,7 @@ I’ll be down in a second!
 藍堂、こっちに来なさい。=Aido, come here.
 か、枢様！|ど、どうかお許しを！=L-Lord Kaname! P-Please forgive me!
 うぅ……痛い……|でも、これも愛のムチだ……！=Ngh... It hurts... But this too just shows how much he cares...!
-この痴れ者は僕が預かって|理事長のお沙汰を待つ。|いいよね？錐生くん。=I will hold on to this fool and wait for the headmaster’s instructions. Is that acceptable, Kiryu?
+この痴れ者は僕が預かって|理事長のお沙汰を待つ。|いいよね？錐生くん。=I will hold on to this fool and wait for the Headmaster’s instructions. Is that acceptable, Kiryu?
 とっとと連れて行って下さい、|玖蘭先輩。=Hurry up and take him away, Kuran.
 僕と顔を突き合わせるのが|よっぽど嫌いみたいだね。|だが、その前に……=I guess you must really hate seeing my face. But, before that...
 （枢センパイはいつの間にか|失神してしまった女子生徒に|そっと近付いた）=(Kaname quietly approached the girls who had fainted at some point earlier...)
@@ -2192,7 +2192,7 @@ Goodnight, <name>.
 （その背中が夜の闇に|消えて見えなくなるまで|私は見つめ続けた……）=(I watched their backs fade into the dark sky.)
 （枢センパイはやっぱり違う…|余裕があってカッコ良くて…|それに優しい……）=(Kaname really is different... He never loses his composure... And he’s so gentle...)
 何、ニヤニヤしてるんだ？=What’s that huge grin for?
-べ、別にしてないし！|ていうか、零来るの遅すぎ！|またサボってたんでしょ？=N-nothing! Nevermind that, Zero, you were late! Were you playing hooky again?
+べ、別にしてないし！|ていうか、零来るの遅すぎ！|またサボってたんでしょ？=N-Nothing! Nevermind that, Zero, you were late! Were you playing hooky again?
 （私の問いかけを断ち切る|ように零がふっと目を伏せる）=(Zero avoided my gaze, cutting my question short.)#the next few lines are duplicated in ACF40
 （だけど、次の瞬間|ちらっと私を睨み付けて……）=(But then he suddenly glared at me...)
 何よ？=What is it?
@@ -2207,7 +2207,7 @@ Goodnight, <name>.
 （だって、そうでもしないと|間が持たなくて……）=(But I didn’t really know what else to say...)
 （包帯のようにネクタイが|巻かれていく様子を|ずっと見つめていた）=(It felt like a long time passed as I watched him wind the necktie around my hand.)
 （少しでも視線を上げたら|零とバチって目が合ってしまい|そうで……）=(Whenever I looked up at Zero, he instantly averted his gaze...)#dupe
-とりあえずの応急処置だ。|後で理事長に手当てして|もらえ。=That should work as first-aid for now. You should go and get it seen to by the headmaster later.
+とりあえずの応急処置だ。|後で理事長に手当てして|もらえ。=That should work as first-aid for now. You should go and get it seen to by the Headmaster later.
 わかった……=Alright.
 （不器用ながら|零なりに一生懸命|傷の手当をしてくれた）=(I guess that’s what I get for being so clumsy.)
 （零の優しさに何か一言、|言葉をかけたくなった）=(I had to say something in exchange for his kindness--)
@@ -2229,7 +2229,7 @@ Goodnight, <name>.
 （素直に優しさを表現する|零が珍しくて思えてーー）=(I thought about how rare it was to see Zero being openly kind--)
 意外と優しいじゃん。=That was unexpectedly nice of you.
 （零は無言で私を睨むとーー）=(Zero silently glared at me...)
-ちょ、ちょっと！|せっかく巻いたネクタイ|ほどかないでよ！=H-Hang on a minute! After went to the trouble of using your necktie, why are you trying to untie it?!
+ちょ、ちょっと！|せっかく巻いたネクタイ|ほどかないでよ！=H-Hang on a minute! After you went to the trouble of using your necktie, why are you trying to untie it?!
 可愛げないこと言うから|カチンときた。=Anyone would be mad after hearing you say something so uncute.
 ご、ごめん！|だからほどかないでー！！=I-I’m sorry! So, don’t untie it--!!
 
@@ -2271,7 +2271,7 @@ Goodnight, <name>.
 （支葵センパイの背後から|現れる）=(A cheerful Ichijo appeared from behind Shiki.)
 （その優しい微笑みにほっと|肩の力が抜けそうになる）=(His tender smile made me drop my shoulders in relief.)
 イケナイっイケナイっ！=No, no, no!
-（この笑顔に絆されてちゃ|風紀委員は務まらない！）=(It’d be irresponsible of me as a prefect to let myself be swept up in that smile.)
+（この笑顔に絆されてちゃ|風紀委員は務まらない！）=(It’d be irresponsible of me as a Prefect to let myself be swept up in that smile.)
 どうしたの、<name>ちゃん？|百面相なんかして。=What’s wrong, <name>? You keep pulling strange faces.
 き、気にしないでください！|それより早く月の寮に|帰ってください！=D-Don’t mind me! More importantly, please return to your dorm quickly!
 キャー！！|支葵先輩に一条先輩も！=Squee!! Shiki and Ichijo!
@@ -2314,22 +2314,22 @@ Goodnight, <name>.
 とにかく|一条センパイ達に落ち度は|ないから誤解しないで。=Anyway, they’re not the ones at fault.
 （緊張感に張っていた|零の瞳がふっと揺らいだ……|その瞬間ーー）=(Zero’s eyes were flickering back and forth as he mulled it over... At that moment--)
 錐生くん、隙アリ！=Kiryu’s open!
-（緊張から解き放たれた|零の隙をついてーー）=(Caught up in his thoughts, Zero had revealed a chink in his armour--)
-（一条センパイは雷光の速さで|零に近づき、守護係の腕章を|取り上げた）=(Ichijo approached Zero at lighting speed, and snatched his prefect armband.)
+（緊張から解き放たれた|零の隙をついてーー）=(Caught up in his thoughts, Zero had revealed a chink in his armor--)
+（一条センパイは雷光の速さで|零に近づき、守護係の腕章を|取り上げた）=(Ichijo approached Zero at lighting speed, and snatched his Prefect armband.)
 一条センパイ！いつの間に？=Ichijo! When did you--?
 速い。さすが一条さん。=You’re fast. Not that I’d expect anything less, Ichijo.
 ごめんね、錐生くん！=Sorry, Kiryu!
-その様子じゃ守護係の仕事を|まっとうしているとは|言えないかな？なんてね。=Does this mean you can no longer say you work as a prefect? I’m teasing.
+その様子じゃ守護係の仕事を|まっとうしているとは|言えないかな？なんてね。=Does this mean you can no longer say you work as a Prefect? I’m teasing.
 なんてね……じゃ|済まされませんよ……=Toying around with me... You think this is over?
 これは宣戦布告としか|受け取れませんね、一条先輩。=That can only be taken as a declaration of war, Ichijo.
 （再び一条センパイに|ゆっくりとブラッディローズの|照準を合わせる零）=(Zero picked up his Bloody Rose once again, aiming it at Ichijo.)
 もう～何でこうなるの～！|零！ダメだからね！|引き金を引いちゃ絶対ダメ！=Jeez... How did things turn out like this!? Zero! You have to stop! Don’t pull the trigger!
 ヴァンパイアを始末することに|戸惑いを覚える気はない。=I never learned to show restraint when dealing with vampires.#dupe
 うっ……目が怖すぎだよ。|錐生くん……。=Ngh... You’ve got a scary look in your eyes, Kiryu.#dupe
-風紀委員の男……|何か不愉快……=The male prefect is... kind of disagreeable...
+風紀委員の男……|何か不愉快……=The male Prefect is... kind of disagreeable...
 （挑戦的な瞳で支葵センパイが|零を見据える）=(Shiki was glaring at Zero in defiance.)#dupe
 （二人に挟まれて変わらず微笑|を浮かべる一条センパイだけど|その目は笑っていなかった）=(Ichijo stepped in between the two of them with a smile on his face, but his eyes weren’t smiling.)
-風紀委員の女……|がんばりすぎ……=The female prefect is... too insistent...
+風紀委員の女……|がんばりすぎ……=The female Prefect is... too insistent...
 （私の叫びを振り切る|ように零は躊躇なく|引き金を引いた！）=(Ignoring my cries, Zero’s finger moved to pull the trigger!)
 
 # ACF40
@@ -2421,7 +2421,7 @@ Is this what they mean about being a ‘blow-by’?
 ワークコマンドについての|説明を聞く？=Listen to the explanation about the work command?
 
 # AD860
-一日の始まりには、風紀委員の|仕事として、ワークコマンドが|始まるよ。=At the start of every day, the prefect’s jobs begin.
+一日の始まりには、風紀委員の|仕事として、ワークコマンドが|始まるよ。=At the start of every day, the Prefect’s jobs begin.
 左画面にはパラメーターや、|所持金、仕事の説明が表示|されるの。=The left screen shows your parameters, money, and descriptions of each option.
 右画面で行動を１つ選択すると|風紀委員の仕事が始まるから、|好きな仕事をタッチしてね。=Once you’ve made a selection on the right screen, that task will begin, so pick whichever you’d like.
 仕事の結果で、憧れのあの人の|好感度や、パラメーターが|あがったり所持金が増えるよ。=As a result of completing a task, your stats, relationship meter and money will increase.
@@ -2438,14 +2438,14 @@ Is this what they mean about being a ‘blow-by’?
 ため息なんかついて|昨日も見回り大変だったの？=That was a big sigh. Did something bad happen when you were making your rounds yesterday?
 うん、そんなとこかな。=Yeah, something like that.
 <name>は誰に|チョコレート渡すの？=Who are you going to give your chocolate to, <name>?
-えっ？私？|私は……風紀委員だし、|そんな時間も余裕もないよ。=Huh? Me? I’m... a prefect, I don’t have the time to spare.
+えっ？私？|私は……風紀委員だし、|そんな時間も余裕もないよ。=Huh? Me? I’m... a Prefect, I don’t have the time to spare.
 殺気だった女の子達を|整列させたり誘導したり|やることいっぱいだものね。=I guess you’ve got a lot to do, making sure that all of the crazy fangirls stay in their lines.
 うん……=Yeah...
 いっけない～|そろそろ見回りの時間だ！=Oh no! It’s nearly time to go on patrol!
 ご苦労様です、風紀委員さん。|途中まで送るよ……なんて|明日の下見も兼ねてね。=I’ll come to see you off... so I can get a sneak peek of what’s in-store for tomorrow~
 こら！しょうがないなぁ～|じゃあ、行こうか。=Hey! Well, since you’re insisting~
 Should we get going?
-ねぇ、もしも<name>が|風紀委員じゃなかったら|誰に渡したい？=So, if you weren’t a prefect, who would you give it to?
+ねぇ、もしも<name>が|風紀委員じゃなかったら|誰に渡したい？=So, if you weren’t a Prefect, who would you give it to?
 そ、そうだなぁ……=W-Well...
 （そういえば、零に|チョコ渡したことないかも）=(Come to think of it, I don’t think I’ve ever given any chocolate to Zero.)
 （パシリ券が毎年恒例だし|もしもチョコを渡したら|どんな顔するかな……？）=(If I forwent my annual custom of a personalized ticket and gave him chocolate instead, how would he react...?)
@@ -2471,7 +2471,7 @@ Should we get going?
 私には無縁かも……=It’s not really something I can get involved in...
 何？何か言った？=Hm? Did you say something?
 うぅんっ、何でもない。|こっちの話だから、はははは。=No, it was nothing. Just talking to myself, hahaha.
-ていうか、聖ショコラトル･|デーなんて風紀委員には存在|しないも同然。=I was just thinking, maybe it’s natural that prefects don’t get a St. Xocolatl Day.
+ていうか、聖ショコラトル･|デーなんて風紀委員には存在|しないも同然。=I was just thinking, maybe it’s natural that Prefects don’t get a St. Xocolatl Day.
 せっかくの|聖ショコラトル･デーなのに？|誰にも渡さないの？=Even though it’s finally here? You’re not going to give anyone a gift?
 渡さない……=I can’t...
 僕にも～？=Not even me~?
@@ -2500,7 +2500,7 @@ Should we get going?
 な、何でもない！|それより早く見回り行こ！|さてと、仕事！仕事！=N-Nothing! Anyway, let’s hurry up and make our rounds. Back to work, back to work!
 
 # AE5F0 day 1 part 3 (common)
-理事長も寝たみたいだし|今がチャンス！=The headmaster appears to be asleep, so now’s my chance!
+理事長も寝たみたいだし|今がチャンス！=The Headmaster appears to be asleep, so now’s my chance!
 材料はお砂糖に板チョコに……|あと塩だっけ？=For the chocolate, I need sugar... and salt?
 うぅっ……|何から手を付けていいのやら|さっぱりわかんない～！=Nnngh... I really don’t understand what I’m supposed to do~!
 （見回り後、私は|誰にも内緒で手作りチョコを|作ることにした）=(After my patrol, I decided to make some handmade chocolate in secret.)
@@ -2686,7 +2686,7 @@ Should we get going?
 あ、あの……一条センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=U-Um... Ichijo. T-This chocolate. Please take it, if you’d like!
 えっ？僕にくれるの？|いやぁ～感激だな～|<name>ちゃん、ありがとう！=Huh? You’re giving it to me? Wow~ I’m honored~ Thank you,  <name>!
 い、一条センパイっ|そんなに抱きしめられると|……！=I-Ichijo, if you hug me like that--!
-キャー！！|ずるい！風紀委員ばっかり！|職権乱用よーー！！=Whaa--!! That’s so unfair! Why only the prefects?! That’s an abuse of power!!
+キャー！！|ずるい！風紀委員ばっかり！|職権乱用よーー！！=Whaa--!! That’s so unfair! Why only the Prefects?! That’s an abuse of power!!
 あははは！ごめんごめん|嬉しくって、つい。=Ahahaha! Sorry, sorry. I was just so happy.
 女の子達の視線が……痛い。=Those girls... if looks could kill...
 （でも、良かった……|こんなに喜んでもらえて……）=(But, I’m glad he liked it so much...)
@@ -2997,7 +2997,7 @@ Should we get going?
 あの……藍堂センパイ？|聖ショコラトル･デー大活躍|でしたね！=Um... Aido! St. Xocolatl’s Day went really well, didn’t it?
 まぁね。女の子達はみんな|僕が大好きなんだからね。|本当にかわいいよね。=I guess so. It’s because all the girls love me. They really are adorable.
 藍堂センパイにも楽しんで|もらえたなら私も嬉しいです。=If you enjoyed yourself Aido, then I’m happy too.
-…ま、お前たち風紀委員が|いなかったら成立しない行事|だよな。=...Well, it’s something that would be impossible if it weren’t for the prefects.
+…ま、お前たち風紀委員が|いなかったら成立しない行事|だよな。=...Well, it’s something that would be impossible if it weren’t for the Prefects.
 別に褒めてないけど？|むしろ汚れ仕事が似合うって|意味に近いかもしれない。=I wasn’t trying to praise you? I just meant to say that kind of dirty work suits you.
 （ものすごい素敵な笑顔で|皮肉言われてるよ、私……！）=(Saying something so cynical with that beautiful smiling face, I--!)
 ……冗談だよ。|ま、少し頼りにしてるって|ことさ。=...I’m joking. I mean, we do rely on you, so.
@@ -3620,7 +3620,7 @@ Sleep well...
 よし！|じゃあ、こうしましょう。=Right! Then, let’s do like this...
 ナイト･クラスのみなさんは|教室の後方に固まって|座って下さい！=Everyone from the Night Class, please sit together at the back of the room!
 デイ･クラスの生徒達と|ナイト･クラスみなさん達の|席の間にはーー=Then, the seats between the Night Class and the Day Class...
-風紀委員の私と零が座ります。=is where Zero and I, the prefects, will sit.
+風紀委員の私と零が座ります。=is where Zero and I, the Prefects, will sit.
 いいですか？枢センパイ。|混乱を避けるため、|ご協力お願いします！=Will that be okay, Kaname? Please cooperate with us to avoid mayhem!
 さすがは風紀委員だね。|僕たちは、構わないよ。=Quick thinking as always, <name>. We don’t mind.
 ありがとうございます！=Thanks for your help!
@@ -3649,7 +3649,7 @@ Sleep well...
 ちっ……昼間まで、あいつらの|やりたい放題かよ。=Tch... Are they planning to do whatever they want until daytime?
 （零は忌々しそうに|そう吐き捨てたけど）=(Zero spat out the words in annoyance.)
 （私は、何だか|ワクワクする気持ちを|抑え切れないでいた）=(On the other hand, I couldn’t help but feel giddy.)
-（風紀委員なのに、|不謹慎かな？）=(Is that inappropriate of me, as a prefect?)
+（風紀委員なのに、|不謹慎かな？）=(Is that inappropriate of me, as a Prefect?)
 寒い……ねえ、|今度は寒くない？この部屋。=Brr... Hey, isn’t getting a bit cold in here?
 本当……どうしてかしら？=You’re right... What happened?
 （こ、今度は氷！？）=(I-It’s ice this time!?)
@@ -3747,7 +3747,7 @@ Sleep well...
 い、いえ、そんな事！|デイ･クラスのみんなには|申し訳ないけどーー=N-No, that’s not it! I feel bad for the rest of the Day Class, but...
 すごく、面白かったです。|何かワクワクしちゃいました。=It was really amazing. It made me feel all giddy.
 本当？=Really?
-はい！|あ……不謹慎ですよね？|風紀委員がこんなんじゃ。=Yes! Ah... That’s inappropriate of me, right?  As a prefect...
+はい！|あ……不謹慎ですよね？|風紀委員がこんなんじゃ。=Yes! Ah... That’s inappropriate of me, right?  As a Prefect...
 ふふ……良かった。|<name>が喜んでくれて。=Heheh... I’m glad you had fun, <name>.
 でも、零が……=But, Zero...
 錐生くん？=Kiryu?
@@ -3852,7 +3852,7 @@ Sleep well...
 <unk1>ちょ……ちょっと待ったぁ！=<unk1>W-Wait a second!
 <unk1>デイ･クラスも|ナイト･クラスもケンカは|校則で禁止されてます！=<unk1>Fighting is prohibited by the school rules! That goes for both the Day, and the Night class!
 <unk1>それを承知で|まだやり合おうって|言うのならーー=<unk1>If you still want to go at it after being made aware of that, then...
-<unk1>風紀委員としてまず私が|相手になります！=<unk1>I will fight you first, as a prefect!
+<unk1>風紀委員としてまず私が|相手になります！=<unk1>I will fight you first, as a Prefect!
 ……ちっ|余計な事しやがって。=...Tch. No one asked you to step in.
 ……あんたに相手になるって|言われてもなあ。=...Even if you say that you’re going to fight us...
 あーあ。何か、一気に|しらけちゃった。|<last><name>のせいだよ。=Aaah~ Suddenly, I don’t feel like it anymore. It’s your fault, <name><last>.
@@ -3956,7 +3956,7 @@ Sleep well...
 架院センパイ。|こんばんは。=Good evening, Kain.
 <last><name>……。|こんなところまで……。|俺に何か用か？=<name><last>... Coming all this way... Did you need something from me?
 夜の見回りをしてたら|何となくここまで|来ちゃったんです。=I was on my nightly rounds and somehow ended up coming here.
-いいのか？|風紀委員がなんとなくで。=Is that alright? For a prefect to end up here ‘somehow or another’.
+いいのか？|風紀委員がなんとなくで。=Is that alright? For a Prefect to end up here ‘somehow or another’.
 そ、そうですよね、|あはは……=Y-Yeah, of course.|Ah ha ha...
 ナイト･クラスには|不用意に近づかない方が|身のためだ。=For your own sake, you shouldn’t carelessly approach the Night Class.
 そうでなくてもあんたは|玖蘭寮長のお気に入り|って事でーー=Even if you are careful, you’re still President Kuran’s favorite...
@@ -4043,14 +4043,14 @@ Sleep well...
 
 # ABEBC
 あ……支葵センパイ！=Ah... Shiki!
-何？風紀委員。=What? Oh, the prefect.
+何？風紀委員。=What? Oh, the Prefect.
 用というか、私いま、|見回りの最中なんです。=I’m currently in the middle of a patrol.
-それも、風紀委員の仕事？=Is that also the job of prefect?
-あ…見回りは、|風紀委員というよりもーー=Ah... patrolling is, more than part of being a prefect...
+それも、風紀委員の仕事？=Is that also the job of Prefect?
+あ…見回りは、|風紀委員というよりもーー=Ah... patrolling is, more than part of being a Prefect...
 ガーディアンとしての|お仕事です。=it’s part of my work as a Guardian.
-どう違うの？|風紀委員とガーディアン。=What’s the difference between being a prefect and a guardian?
+どう違うの？|風紀委員とガーディアン。=What’s the difference between being a Prefect and a guardian?
 えーっと、その……|何て説明したらいいのかな……=Umm, that’s... how can I put it...
-つまり、風紀委員とは|世を忍ぶ仮の姿でーー=In short, being a prefect is just a guise that the rest of the world gets to see.
+つまり、風紀委員とは|世を忍ぶ仮の姿でーー=In short, being a Prefect is just a guise that the rest of the world gets to see.
 ナイト･クラスの秘密が|漏れないようにみなさんを|お守りするのがーー=Keeping an eye on everyone so that the Night Class’s secret isn’t uncovered...
 ガーディアンの役目なんです。=is the role of the Guardian.
 んー……何かよくわかんない。|どっちでもいいやって感じ。=Hm... I don’t really get it. It seems like it doesn’t matter either name you use.
@@ -4289,7 +4289,7 @@ Sleep well...
 うう……ウサギちゃん……=*Sob...* Rabbit...
 楽しいイベントに|なりそうじゃないか？|ねえ、錐生くん。=It’s going to be a fun event, don’t you think? Kiryu.
 ちっ……=Tch.
-（こうして、理事長が|突然企画し実行された|肝試し大会はーー）=(And so, the test of courage that the headmaster suddenly decided to organize...)
+（こうして、理事長が|突然企画し実行された|肝試し大会はーー）=(And so, the test of courage that the Headmaster suddenly decided to organize...)
 （極夜の最終日に|行われる事になった）=(was set to be held on the last day of the Polar Night.)
 じゃ、デイ･クラスの女子から|クジを引いてくださ～い！=Girls from the Day Class, please draw your lots!
 同じ番号が書かれた人と|ペアになってね～！=You’ll be paired with the person who has the same number~!
@@ -4344,7 +4344,7 @@ Sleep well...
 はあ？何だそりゃ。=Huh? What’s that supposed to mean?
 だって、最近の零、|ちょっと元気ないなって|思ってたからーー=I thought you seemed a bit off recently...
 何でもいいから、零の気が|パーッと晴れるような事|してあげたかったんだ。=So I wanted to do something that’d lift your spirits and make you feel better.
-良かった～、理事長が|タイミング良くこんなイベント|やってくれて！=The headmaster’s timing with this event was perfect! I was so glad~
+良かった～、理事長が|タイミング良くこんなイベント|やってくれて！=The Headmaster’s timing with this event was perfect! I was so glad~
 ……肝試しなんかで|気分が晴れるかよ。=...I don’t know whether a test of courage is really going to lift my spirits.
 でも、授業よりは|面白いでしょう？=But, it’s more fun than class, right?
 ほら！零も、もっと|積極的に肝試しの雰囲気を|味わってみようよ。=Come on, Zero! Be more positive and savor the experience.
@@ -4393,7 +4393,7 @@ Sleep well...
 私たちと、|そんなに変わらないと思うよ。=I don’t think they’re that different from us.
 どうして？=Why?
 それは……|人を襲う悪いヴァンパイアも|確かにいるけどーー=That’s... There definitely are some bad vampires who attack humans, but...
-理事長の言うとおり、|人間と仲良くしてくれる|いいヴァンパイアもいる。=like the headmaster said, there are some vampires who peacefully coexist with them.
+理事長の言うとおり、|人間と仲良くしてくれる|いいヴァンパイアもいる。=like the Headmaster said, there are some vampires who peacefully coexist with them.
 そんなヴァンパイアたちは……|タブレットを飲んで、|夜行性だってこと以外ーー=Those vampires... Other than drinking blood tablets and being nocturnal...
 私たち人間と、同じじゃない。=Aren’t they the same as us humans?
 あ、でも、すごい頭がいいとか|キレイだとかーー=Ah, but there are other differences like how they are incredibly smart and beautiful...
@@ -4492,7 +4492,7 @@ Sleep well...
 <unk1>一番でゴールしたのは、|委員長と早園瑠佳さんの|カップルでした～～！！=<unk1>The first couple to make it to the goal is the Class Representative and Ruka Souen~~!
 やりましたね！瑠佳しゃん！|僕はモーレツに|感動しています！！=We did it! Miss Ruka! I’m deeply moved by your dedication!
 何でこうなるのよ……=We did it! Miss Ruka! I’m deeply moved by your dedication!
-な、何これ？|理事長、いつの間に|花火なんか……=W-What’s this? When on earth did the headmaster organize these fireworks?
+な、何これ？|理事長、いつの間に|花火なんか……=W-What’s this? When on earth did the Headmaster organize these fireworks?
 
 # A1120
 あれだろう、昨日の買い出し。|どうりで硝煙の臭いがすると|思った。=That must have been what we bought yesterday. I thought I smelt gunpowder.
@@ -4536,7 +4536,7 @@ Sleep well...
 
 # A3CF0
 みなさん、いつの間にか|お揃いですね。=Before I knew it, everyone somehow ended up gathering here.
-ふふ……でも確かに|理事長の言う通り|貴重な体験かも。=Hehe... But like the headmaster said, this sure is a day to remember.
+ふふ……でも確かに|理事長の言う通り|貴重な体験かも。=Hehe... But like the Headmaster said, this sure is a day to remember.
 まさかナイト･クラスの|みなさんと一緒に|花火が見られるなんて！=To think we’d be able to enjoy watching the fireworks all together!
 ね、枢センパイ……=Right, Kaname?
 枢センパイ……？@A3CF0=Kaname...?
@@ -5211,11 +5211,11 @@ Sleep well...
 きゃあああーーーっ！！！=Eeeeeek--!!!
 わっ！|どうしたの<name>ちゃん！=Wah! What happened, <name>?
 い、今、そこに|本物のお化けが……！=J-Just then, I saw a real monster...!
-お化け？えっ、どこ？|理事長が立ってるだけだよね？=A monster? Huh, where? Wasn’t that the headmaster stood there?
+お化け？えっ、どこ？|理事長が立ってるだけだよね？=A monster? Huh, where? Wasn’t that the Headmaster stood there?
 えっ……？あ……！！=Huh...? Ah...!!
 り、理事長～～！！|ひどいですっ！！=H-Headmaster~~!! You scared me!!
 びっくりしたじゃないですか！|もうっ！=You’re not supposed to be scaring people! Jeez!
-あれ？<name>ちゃん、|理事長の顔はいつも|見慣れてるんじゃないの？=Oh? But <name>, shouldn’t you be used to seeing the headmaster’s face?
+あれ？<name>ちゃん、|理事長の顔はいつも|見慣れてるんじゃないの？=Oh? But <name>, shouldn’t you be used to seeing the Headmaster’s face?
 だけど、こんな所で|いきなりぬっと出てきたら|驚きますよ！=Anyone would be surprised seeing him suddenly pop up without warning!
 あ～、|まだドキドキしてる……！=Ah~ My heart is still pounding...!
 って、あれ……？あそこにいるのってもしかして……@A6704=Oh...? Over there, isn’t that...?
@@ -5229,7 +5229,7 @@ Sleep well...
 一条さんは優しいから、|我慢してくれてるのよ。=Ichijo is nice, so he can put up with it.
 そ…そんな…=T-That’s...
 二人とも、ケンカはダメだよ。=Don’t fight, you two.
-ふぅ～ん。じゃ、一条さんは|私達といるより風紀委員と|一緒の方が楽しいの？=Hmph. So, Ichijo, you’re having more fun with the prefect than you do with us?
+ふぅ～ん。じゃ、一条さんは|私達といるより風紀委員と|一緒の方が楽しいの？=Hmph. So, Ichijo, you’re having more fun with the Prefect than you do with us?
 う～ん、|そういうわけじゃないけど……=Well, I wouldn’t say that, but...
 一条センパイ、さっき|『楽しいね』って言ってくれた|じゃないですか。=Ichijo, you said you were “having fun" earlier, didn’t you?
 あれは、遠矢センパイが|言うようにーー=Or, is it like Toya was saying...
@@ -5449,8 +5449,8 @@ Sleep well...
 （そんな事、面と向かって|言われると照れちゃうな）=(I can’t help but feel embarrassed when he says that to my face.)
 いつも今日の肝試しみたいに|ナイト･クラスの皆さんとーー=Whether it’s the test of courage or doing other things, being with the Night Class...
 打ち解けて話せたら、|楽しいですよね。=and talking to them without having to watch what I say is always fun.
-あ……でもそうしたら、|今まで以上に風紀委員の仕事が|大変になっちゃいますね！=Ah... But today, it was even harder to do my job as a prefect!
-風紀委員……|もう一人の風紀委員は|どこに行ったのかな？=“As a prefect"... Where has the other one gone?
+あ……でもそうしたら、|今まで以上に風紀委員の仕事が|大変になっちゃいますね！=Ah... But today, it was even harder to do my job as a Prefect!
+風紀委員……|もう一人の風紀委員は|どこに行ったのかな？=“As a Prefect"... Where has the other one gone?
 さっきから姿が見えなくて。|どうせまたサボリです、|零のやつ。=I haven’t seen him in a while. He’s probably off playing hooky again, that Zero.
 そう……ねえ、<name>。|彼……錐生君には|気をつけて。=Right... Hey, <name>. He... Be careful around Kiryu.
 え……？@AE74C=Huh...?
@@ -5493,7 +5493,7 @@ Sleep well...
 威嚇射撃しただけだ。|そんなにぎゃあぎゃあ|わめくな。=It was just a warning shot. Stop making such a ruckus.
 ああ……<name>。|大丈夫かい？びっくりしたね？|可哀そうに、こんなに血が……=Ah... <name>. Are you okay? Not too shaken up? All this blood, how awful...
 とりあえず、いったん|理事長室に戻ろう？|錐生くんも……ね？=For the time being, why don’t we head back to my office? Kiryu too... okay?
-（その晩……理事長から私が|初めて聞かされた真実ーー）=(That evening... The headmaster told me the truth for the first time...)
+（その晩……理事長から私が|初めて聞かされた真実ーー）=(That evening... The Headmaster told me the truth for the first time...)
 （人間とヴァンパイアとの|間で繰り返し行われてきた、|その歴史をーー）=(The endless cycle between humans and vampires...)
 （私は目の当たりにする事と|なった……）=(A cruel fate that I experienced first-hand...)
 （４年前、|零を襲ったヴァンパイアは、|純血種だったことーー）=(4 years ago, Zero was attacked by a pureblooded vampire...)
@@ -5512,7 +5512,7 @@ Sleep well...
 （暖かい陽気に負けて、|寝不足の私は授業中につい|寝てしまっていた……）=(I'd succumbed to the warm weather, and fallen asleep in class after not getting enough sleep...)
 こら、<last>！=Hey, <last>.
 は、はい！！|……すみません。つい。=Y-Yes!! ...I'm sorry. It was an accident.
-つい、じゃない！|風紀委員の仕事が忙しいのは|わかるが最近たるんでるぞ！=Don't give me that! I understand that you're kept busy as a prefect, but that's no reason to start slacking off in class!
+つい、じゃない！|風紀委員の仕事が忙しいのは|わかるが最近たるんでるぞ！=Don't give me that! I understand that you're kept busy as a Prefect, but that's no reason to start slacking off in class!
 はい……@AE8A8=Yes, Sir...
 あ、雨が止んだわ。=Ah, the rain's stopped.
 本当。通り雨だったのね。=You're right. It must have been just a shower.
@@ -5567,7 +5567,7 @@ Sleep well...
 一条先輩！こっち向いてー！=Ichijo! Please come this way~!
 （私は迷いを振り払うように|ホイッスルを吹き鳴らした）=(Shaking off my doubts, I blew my whistle.)
 はいはーい！|デイ･クラスの皆さんは|さがってくださーい！！=Alright, alright! Day Class, please take a step back!
-なによ、風紀委員。=Don't give me that! I understand that you're kept busy as a prefect, but that's no reason to start slacking off in class!
+なによ、風紀委員。=Don't give me that! I understand that you're kept busy as a Prefect, but that's no reason to start slacking off in class!
 ナイト･クラスの皆さんを|独り占めして！！=You're trying to monopolize the Night Class!!
 さあ！|ナイト･クラスの皆さんも|早く移動してください！=Now then, Night Class students, please get a move on!
 <last><name>。|枢様がお前にかまうから|僕たちも移動ができないんだ。=<name><last>. We haven't left yet because Lord Kaname was worried about you.
@@ -5683,7 +5683,7 @@ Sleep well...
 お前って……|けっこう食いしん坊だな。=You’re... quite the glutton.
 もう！違うよ！|私はおいしいものが|好きなだけ！=Hey! That’s different! I just like tasty food!
 ふうん。=Hmm...
-だって、理事長の作る料理って|実はけっこうおいしいから。=I can’t help it. The headmaster’s cooking is really good.
+だって、理事長の作る料理って|実はけっこうおいしいから。=I can’t help it. The Headmaster’s cooking is really good.
 まあ、確かにな。|うっかり『うまい』なんて|言えないけど。=I guess you’re right. But you can’t carelessly say that it’s “good”.
 あはは。ますます|『ボク風』レパートリーが|増えちゃうからね。=Ahaha. The repertoire of his “invented” recipes would spiral out of control.
 ホント、熱心なのはいいけど…=Although, it is good to be enthusiastic...
@@ -5692,7 +5692,7 @@ Sleep well...
 お前もそう思ってるだろ？=Don’t you think the same?
 え……まあ、少しは。=Well... a little.
 フフ……お前もそうなんだ。=Heh... You’re just as bad.
-料理っていえば、|理事長がいない時に|零が作ってくれる料理ーー=Speaking of cooking, when the headmaster isn’t around, the food you make...
+料理っていえば、|理事長がいない時に|零が作ってくれる料理ーー=Speaking of cooking, when the Headmaster isn’t around, the food you make...
 あれもなかなかおいしいよ。=Is pretty good, too.
 仕方ないだろ。|お前に作らせる訳には|いかないからな。=It can’t be helped. There’s no way I’d let you make anything.
 俺もちゃんとした物を|食べたいしな。=I want something decent to eat too.
@@ -5706,8 +5706,8 @@ Sleep well...
 お前ってちっこいけど、|運動神経はいいよな。=You’re only small, but you have good reflexes.
 ちっこいは余計。=You didn’t have to add the bit about being “small”.
 でも、ガーディアンの仕事には|危険も付いて回るしね。|色々できないと。=A Guardian’s job is risky. I’d be in trouble if I couldn’t manage this much.
-理事長がみっちり|鍛えてくれたし。=The headmaster trained me hard.
-理事長って普段はああだけど、|妙に鋭い時があるよな。=The headmaster is normally pretty spacey, but there are times where he’s oddly sharp.
+理事長がみっちり|鍛えてくれたし。=The Headmaster trained me hard.
+理事長って普段はああだけど、|妙に鋭い時があるよな。=The Headmaster is normally pretty spacey, but there are times where he’s oddly sharp.
 そうなんだよね。|訓練の時も熱が入ると|人が変わったり。=You’re right. People can get fired up even when it’s only practice.
 でも、すぐにいつもの調子に|戻るんだけどね。=But, he soon goes back to normal.
 何か私に隠してるみたいで、|ちょっと怖い時があるんだ……=It feels like he’s hiding something from me, and that scares me a bit...
@@ -6278,7 +6278,7 @@ Sleep well...
 いい仕事だと思うぞ。=I think it’d be a good job.
 それ、仕事じゃありません！=That’s not a real job!
 そうか……|じゃあ現実的な所で|コンサートの警備員とか。=Really...? Well, then if it has to be realistic, how about becoming a security guard at concerts?
-今の風紀委員の仕事、|そのままですよね……？=Isn’t that a bit like my current job as a prefect?
+今の風紀委員の仕事、|そのままですよね……？=Isn’t that a bit like my current job as a Prefect?
 そうだよな。|……他に浮かばないな。=You’re right.|...I can’t really think of anything else.
 無理を言ってしまって|すみません……=I’m sorry for asking the impossible...
 
@@ -6566,7 +6566,7 @@ Sleep well...
 そうなんだ。|<name>ちゃんは|ホントに素直で偉いね。=So that’s what it was. <name>, your honesty is wonderful.
 立派な考えだよ。|僕は<name>ちゃんの夢を|応援するよ！=It’s a splendid idea. I’ll help support your dream!
 （背後からの足音に振り返ると|そこには支葵センパイが|立っていた）=(I turned toward the sound of footsteps coming from behind me to see Shiki standing there.)
-あれ？風紀委員に一条さん。|珍しい取り合わせだね。=Oh? The prefect and Ichijo. An unusual combination.
+あれ？風紀委員に一条さん。|珍しい取り合わせだね。=Oh? The Prefect and Ichijo. An unusual combination.
 支葵！聞いてよ！|僕は感動しちゃったよ！=Shiki! Listen to this! I was so moved!
 <name>ちゃんってば、真剣に|ヴァンパイアと人間の平和な|共存を夢見てるんだよ！=<name> has been earnestly dreaming of a peaceful coexistence between vampires and humans!
 へえ……理事長みたい。|それは大変な事だね。=Hm? ...Just like the Headmaster.| That’s something else.
@@ -6642,7 +6642,7 @@ Sleep well...
 
 # A5BA8
 （見回りを続ける私の前に、|支葵センパイが現れたーー）=(As I continued my rounds, there before me was Shiki.)
-あれ、風紀委員だ。=Ah, the prefect.
+あれ、風紀委員だ。=Ah, the Prefect.
 支葵センパイ。|どうしたんですか？|こんな所で。=Is something wrong, Shiki? What are you doing here?
 別に、ブラブラしてただけ。=Nothing’s the matter. I was merely wandering.
 そうですか……@A5BA8=Okay.
@@ -6804,7 +6804,7 @@ Sleep well...
 僕は<name>ちゃんを|応援するからね！=I’ll be rooting for you, <name>!
 
 # A8EF4
-（次の日の朝ーー|私は理事長室を訪ねていた）=(The next morning I went to see the headmaster.)
+（次の日の朝ーー|私は理事長室を訪ねていた）=(The next morning I went to see the Headmaster.)
 ナイトレインボウ？=A Night Rainbow?
 はい。夜に出る|神秘的な虹だって聞いて……=Yes. I heard that I was a mysterious rainbow that comes out at night, but...
 僕も聞いた事はあるよ、|キレイなナイトレインボウの話|ロマンティックだよね～。=I’ve heard that too. The tale of a beautiful Night Rainbow, how romantic~
@@ -6829,7 +6829,7 @@ Sleep well...
 うん。|原理はそういう事だと思うよ。|でも……=Yeah. I think that’s the main principle, but...
 わかりました！|ありがとうございます。|理事長！=I understand! Thank you, Headmaster!
 単純に水をまけばいいって|訳じゃ……|あ、<name>！？=It’s not just a matter of sprinkling some water around...|Ah, <name>!?
-（理事長がまだ何かを|言いかけていたけどーー=(The headmaster was still in the middle of saying something, but...)
+（理事長がまだ何かを|言いかけていたけどーー=(The Headmaster was still in the middle of saying something, but...)
 私はすぐに理事長室を|飛び出していった）=(I’d already jumped out of the office window.)
 （ナイトレインボウが見れる|かもしれない。突然現れた希望|に、私の胸は高鳴った……）=(There’s a chance I can see a Night Rainbow! My heart was thumping at the sudden possibility.)
 （見回りの前ーー|私は夜の校舎の前で、|夜の空を眺めていたーー）=(Before I went on patrol, I gazed up at the night sky in front of the school building.)
@@ -6950,7 +6950,7 @@ Sleep well...
 （そこには心配そうに私の顔を|覗きこむ枢センパイの顔が|あった）=(And there was a worried-looking Kaname, staring at my face.)
 危ないじゃないか。|どうしてこんな真似を|したんだい？=That was dangerous. Why are you acting like this?
 枢？どうしたの？=Kaname? What happened?
-風紀委員が落ちたのが見えた。=We could see the prefect fall.
+風紀委員が落ちたのが見えた。=We could see the Prefect fall.
 あ、<last><name>！！|枢様の腕の中で|何をしてるんだ！=Ah, <name><last>!! What are you doing in Lord Kaname’s arms!?
 木に登って水をまこうと|していたんじゃないのか？|バカな真似をして……=Were you trying to climb a tree and pour water from it? Acting like an idiot...
 皆さん……=Everyone...
@@ -7341,10 +7341,10 @@ Sleep well...
 
 # AF4D8
 久々の外出だぁーー！！=Aah, it’s been a while since I last went out!
-（今日は土曜日|理事長にお使いを頼まれて|私は外の世界へ）=(Since it’s a Saturday today, I was asked by the headmaster to run a few errands.)
+（今日は土曜日|理事長にお使いを頼まれて|私は外の世界へ）=(Since it’s a Saturday today, I was asked by the Headmaster to run a few errands.)
 （黒主学園は校則で|外出が制限されている）=(Leaving the school grounds is usually prohibited.)
 （だから、こうして|学園を出て街へやってくるのは|貴重な時間なのだ）=(So, being about to come to town like this is precious.)
-えーと、理事長に頼まれた|買い物はこれで全部かな。=Let’s see... This should be everything that the headmaster asked me to buy.
+えーと、理事長に頼まれた|買い物はこれで全部かな。=Let’s see... This should be everything that the Headmaster asked me to buy.
 （お使いを終え、あとは|久々の街を満喫するのみ！）=(Now that my chores are finished, all that’s left is to enjoy the rest of the day in town!)
 （すっかりくつろいだ気分で|羽根を伸ばそうとした時ーー）=(As I was enjoying the chance to let my hair down--)
 （どこからともなく|子供の泣き声が聞こえてきた）=(I heard the sound of a child crying from somewhere.)
@@ -7475,7 +7475,7 @@ Sleep well...
 ねぇねぇ、あの噂聞いた？=Hey, did you hear the rumor?
 連続殺人事件の話でしょ？=You’re talking about the serial killings, right?
 犯人はなんと|うちの学園の生徒だって！=They say that the culprit is a student at this school!
-私、知ってる！|あの子でしょ……|風紀委員の<last><name>！=I know! It’s that girl, right? The prefect, <name><last>!
+私、知ってる！|あの子でしょ……|風紀委員の<last><name>！=I know! It’s that girl, right? The Prefect, <name><last>!
 シー！！|やばいよ、本人が来たっ！=Eeek! Speak of the devil!
 （まるで針のむしろにでも|なったような気分だった）=(I felt like I was lying on a bed of thorns.)
 （学園の至る所で|私の噂が囁かれる）=(Rumors about me had been spread all over the academy.)
@@ -7581,10 +7581,10 @@ Sleep well...
 わ、私じゃありません！=I-It’s not me!
 あれは間違いなく意図的な|ものだと思うけど？|直接お前じゃなくともね。=I thought it seemed awfully deliberate, though. Even if wasn’t by you directly.
 そんな……！=T-That’s--!
-<name>ちゃんは確か|理事長の義娘だったよなぁ？=As I recall, you’re the headmaster’s step-daughter, right?
+<name>ちゃんは確か|理事長の義娘だったよなぁ？=As I recall, you’re the Headmaster’s step-daughter, right?
 夢は理事長と同じく|ヴァンパイアと人間との共存？|…だったよな。=And you both have the same dream of vampire and human coexistence.
 夢とまでは胸を張れないかも|しれませんけど……|そう願っています。=I’m not sure I can hold my head up high about it now, but... Yes, that’s my dream.
-ふ～ん。そうなんだ。|でも、理事長も大したタヌキ|だとは思わないか？=Hmm, I see.|But, don’t you think the headmaster is a sly fox?
+ふ～ん。そうなんだ。|でも、理事長も大したタヌキ|だとは思わないか？=Hmm, I see.|But, don’t you think the Headmaster is a sly fox?
 表では虫の良いこと|言っておいてーー=On the surface, he says all these good things.
 裏では義娘を使って|ヴァンパイアを悪者に|仕立ててるんだから。=But behind the scenes, he’s using his daughter to make vampire’s look bad.
 そんなはずありません！|言いがかりはやめてください！=That’s not it! Please stop making all these wild allegations!
@@ -7866,7 +7866,7 @@ Sleep well...
 そんなに怒鳴らなくても……=You don’t have yell...
 心配させやがって！=I’ve been worried about you!
 ごめんね、零。|わざわざ探しに来てくれたの？=I’m sorry, Zero. Did you come all this way looking for me?
-理事長に頼まれて|仕方なくだよ。=The headmaster asked me to, so I had no choice.
+理事長に頼まれて|仕方なくだよ。=The Headmaster asked me to, so I had no choice.
 そうなんだ……|ふふっ……=I see...|Hehehe...
 何笑ってんだよ？|お前、全然反省してないな。=What are you laughing at? You’re not sorry at all...
 （零が血相を変えて|私を探しにきてくれたことが|ちょっとだけ嬉しかった）=(I have to admit, Zero going out of his way to look for me, red in the face, made me a little happy.)
@@ -7989,7 +7989,7 @@ Sleep well...
 心配ないよ。|<name>は僕が守る。=Don’t worry. I’ll protect you.
 街は危険だ。|さぁ早く学園へ戻ろう。=It’s dangerous to be in town. Let’s hurry back to the Academy.
 （枢センパイに抱き抱えられて|私は寮へと帰った）=(Carrying me in his arms, we made our way back to the dorm.)
-僕は理事長に|事情を説明してくる。=I’ll explain the situation to the headmaster.
+僕は理事長に|事情を説明してくる。=I’ll explain the situation to the Headmaster.
 <name>、キミは部屋で|大人しくしているんだよ？=<name>, you’re going to behave and stay put in your room, yes?
 （急に心細くなって|私は思わず枢センパイの|上着の裾をぎゅっと掴んだ）=(Feeling lonely all of a sudden, I grabbed the end of Kaname’s jacket without thinking.)
 <name>……|大丈夫だから安心して。|僕はすぐに戻ってくる。=<name>...|Rest assured, everything is going to be okay. I’ll be back soon.
@@ -9102,7 +9102,7 @@ Sleep well...
 どうもそうらしいな。=Seems like it.
 お前ら仮にも|ガーディアンだろうが！=You’re supposed to be Guardians!
 そのお前らがよりによって|授業妨害を率先して|どうすんだ？！=Why are you of all people making an example of interrupting my class?
-ったく、ボケ理事長といい|お前らといい…|おとなしく警備してろよ！=Sheesh, why can’t that idiot headmaster, and you lot, just do your job and keep guard?
+ったく、ボケ理事長といい|お前らといい…|おとなしく警備してろよ！=Sheesh, why can’t that idiot Headmaster, and you lot, just do your job and keep guard?
 <unk1>（ったく、そうでなくても、|こっちは大変なのに）=<unk1>(Good grief, it’s not like things aren’t tough enough as it is around here.)#tc
 行っちゃったね。=He’s gone...
 しかし、師匠も何で教師なんか|引き受けたんだろう。=Still, I wonder why my master decided to become a teacher.
@@ -9208,7 +9208,7 @@ Sleep well...
 俺だって、この変なあだ名に|馴染めない位、繊細な神経は、|持ち合わせてますが。=I’m delicate too, enough that I can’t get used to that weird nickname.
 おっ、|それはすまなかったな。=Oh, I’m sorry to hear that.
 じゃあ、今からお前は、|『ワイルド先輩』改め、|『ナイーブ先輩』だ。=Then from now on, instead of 'Wild’, you shall be known as 'Naive’.
-明日、理事長に頼んで、|校内放送で発表させて|もらおう。=I’ll ask the headmaster to let me make an announcement in the school broadcast tomorrow.
+明日、理事長に頼んで、|校内放送で発表させて|もらおう。=I’ll ask the Headmaster to let me make an announcement in the school broadcast tomorrow.
 それ面白い……。=That’s hilarious...
 おい、笑うなよ、支葵。=Oi, don’t laugh, Shiki.
 気のせい……。=You must have been imagining things...
@@ -9319,7 +9319,7 @@ Sleep well...
 <last>……やれやれ。=<last>... Dear oh dear.
 小娘。|お前、甘やかされ過ぎだな。=You’ve been far too spoiled, little girl.
 はっ！夜刈先生！=Ah! Mr. Yagari--!
-あのボケ理事長は、|年頃のお前に料理の一つも|教えてないのか？=That idiot headmaster still hasn’t taught you a single thing about cooking even at your age, has he?
+あのボケ理事長は、|年頃のお前に料理の一つも|教えてないのか？=That idiot Headmaster still hasn’t taught you a single thing about cooking even at your age, has he?
 そうなんですよ！|やろうとしてもーー=Exactly! Even if I try to help something...
 『危ないからボクがやるよ』|とか言ってやらせてもらえない|んです！=He yells “it’s too dangerous, I’ll do it all myself!”
 アイツが居ないときは、|どうしてるんだ？=What do you do when he’s not around?
@@ -9327,7 +9327,7 @@ Sleep well...
 <last>ってもしかして、|料理ものすごくヘタなんじゃ|ないのか？=...You must not a very good cook, <last>.
 ひっ……酷いです！|ナイーブセンパイ！！=T-That’s horrible, Naive!
 やめろ<last>！|その呼び名は！！=Stop it! Don’t call me that, <last>!
-ボケ理事長に零……|あいつら、苦労してんだな……|ハイ、授業再開！=That idiot headmaster and Zero sure have a lot to contend with...|Alright, back to class!
+ボケ理事長に零……|あいつら、苦労してんだな……|ハイ、授業再開！=That idiot Headmaster and Zero sure have a lot to contend with...|Alright, back to class!
 
 # A77E0 choose to speak after A961C
 あれ？<name>ちゃん。|どうしたの、こんなところで。=Oh? What are you doing here, <name>?
@@ -9386,13 +9386,13 @@ Sleep well...
 え？は、はあ…=Huh?
 （殺伐としていて全然楽しそう|じゃないんですけど…）=(It was so bloodthirsty, it didn’t look fun at all to me...)
 夜刈先生が来てから、|倫理の時間が楽しくなったよ。=Since Mr. Yagari arrived, Ethics lessons have become much more fun.
-みんなも楽しいって言って|るんだよ。さすが、理事長が|推薦した先生なだけ、あるね。=Everyone has said the same. I’d expect nothing less of a teacher endorsed by the headmaster.
+みんなも楽しいって言って|るんだよ。さすが、理事長が|推薦した先生なだけ、あるね。=Everyone has said the same. I’d expect nothing less of a teacher endorsed by the Headmaster.
 そ、そうですか。|そういえば皆さん|生き生きとしていましたね。=I-I see. Everyone did seem to be quite lively.
 （確かに生き生きは|しているけど楽しそうって|感じじゃない！）=(They were lively, but I don’t think it’s because they were enjoying themselves!)
 （どっちかっていうと|一触即発って感じだよね）=(It was much more like they were getting geared up for a fight...)
 そうだ、こんど<name>も一緒に|授業をうけてみない？<name>|だったらみんな大歓迎だよ。=I know, why don’t you join us in class next time, <name>? If it’s you, I’m sure everyone would be pleased to welcome you.
 い、いいです。いいです。|倫理は何だか難しいから。=T-That’s alright, thank you. Ethics seems pretty hard.
-そうか…、残念だな。|早速、理事長に|お願いしようかと思ったのに。=I see. That’s too bad... I was thinking that I could go and see the headmaster about it right away.
+そうか…、残念だな。|早速、理事長に|お願いしようかと思ったのに。=I see. That’s too bad... I was thinking that I could go and see the Headmaster about it right away.
 あ、ありがとうございます！|それじゃ、見回り続けます！|失礼します！=T-Thank you for your concern! Well, I really ought to get back to my patrol, so please excuse me!
 頼んだよ。|ガーディアンさん。=I’m counting on you, Miss Guardian.
 はい、し、失礼します！=Y-Yes! Goodbye!
@@ -10095,7 +10095,7 @@ Sleep well...
 あ……そうだ、私、骨董市へ|行こうと思ってたんです。=Ah... Yeah, I was thinking of visiting an antique market.
 骨董市？|ずいぶんとまた年寄り臭ぇな。=Antique market? Now you’re sounding like an old lady.
 結構楽しいですよ！|もしよかったら、夜刈先生も|行きませんか？=It’s pretty fun! If you’d like, why don’t you come with, Mr. Yagari?
-あー……んー……|気が進まねえな。でも、|理事長の義娘をこのままーー=Ah... Mn, I can’t say I really want to. But I can’t just leave the headmaster’s adopted daughter...
+あー……んー……|気が進まねえな。でも、|理事長の義娘をこのままーー=Ah... Mn, I can’t say I really want to. But I can’t just leave the Headmaster’s adopted daughter...
 一人ほっぽり出すわけにも|いかねぇしな。=all on her own like this.
 あんたは随分とレベル：Ｅに|縁があるみたいだから。=You seem to be some kind of Level E magnet.
 じゃあ、ボディガードがてら|先生も市場を楽しんで……|なんてどうですか？=What if you were to join me and enjoy the market... as my bodyguard?
@@ -16050,7 +16050,7 @@ Sleep well...
 一条さんには、内緒…。=Let’s keep this a secret from Ichijo...
 
 # A090C
-風紀委員の男には、|ナイショ…。=Let’s keep this a secret from the male prefect...
+風紀委員の男には、|ナイショ…。=Let’s keep this a secret from the male Prefect...
 
 # A0BD0
 おいしかった。ありがとう。=That was nice. Thank you.

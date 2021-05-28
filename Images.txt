@@ -300,7 +300,7 @@ NAS=NAS
 危機一髪=Close Call
 久しぶりの感覚=A Feeling of Long Ago
 よ、よしよし、チビちゃん！=Alright, Chibi!
-一条センパイとタマ？=Ichijo and Tama? #is tama the cat?
+一条センパイとタマ？=Ichijo and Tama? #i'm guessing tama is the cat
 僕がすべて受け止めてあげる=I'll take care of everything.
 
 016
@@ -346,7 +346,270 @@ NAS=NAS
 特別なー冊=A Special Book
 
 004
-アニメ化！
+アニメ化！桃花仙幻記=Anime adaptation! Peach Blossom Chronicles
+
+005
+病院の父=Hospitalized Father
+
+006
+残念だったね=I'm sorry to hear that.
+
+007
+気をつけろ！=Look out!
+
+008
+ケーキはいかが？=Would you like some cake?
+
+009
+酔っちゃった？=Are you drunk?
+
+010
+嫉妬=Jealousy
+
+011
+切ないうわごと=Painful Ramblings
+
+012
+こっちが得だ！=I'm getting it!
+
+013
+憧れのクラスメイト=Classmate of Longing
+
+014
+懐柔な跡取り=Nostalgic Heir
+
+015
+君の夢は・１=Your dream is ・ 1
+
+016
+君の夢は・2=Your dream is　・ 2
+
+017
+強引な駆け引き=Pushy Tactics
+
+018
+結ぱれた二人=United Couple
+
+019
+ウェディングベル=Wedding Bell
+
+020
+過去をふりきって=Let go of the past.
+
+021
+いらっしゃーい！=Welcome!
+
+022
+はかどらない作業=Slow Work
+
+023
+キャンパスの人気者=Campus Favorite
+
+024
+水もしたたる…=A splash of water...
+
+025
+パーティの惨劇=Tragedy of the Party
+
+026
+オレに買わせてよ=Let me buy it!
+
+027
+たまらない想い=Irresistible Desire
+
+028
+気持ちを確かめて=See how you feel.
+
+029
+会場でも人気者=Venue Favorite
+
+030
+離さないからな！=I won't let go!
+
+31
+謝罪=Apology
+
+32
+徹夜明けに=The Dawn After an All Nighter
+
+33
+パーティの華=Flower of the Party
+
+34
+買い食いです=I'm buying a meal.
+
+35
+貴方にもありがとう！=Thank you, too!
+
+36
+朝焼けの中で=In the Morning Glow
+
+37
+浮かびました！=I just got it!
+
+38
+暖かい腕の中=In Your Warm Arms
+
+39
+一人暗がりで=Alone in the Dark
+
+40
+不意打ちです=It's a surprise.
+
+41
+自分の居場所=Where I Belong
+
+42
+今夜は離しません=I won't let you go tonight.
+
+43
+幸せの終着点=The Endpoint of Hapiness
+
+44
+ れ、ペン先！！
+
+45
+なぜ、私が？！=Why me?!
+
+46
+吹雪の中で=Inside the Snowstorm
+
+47
+体をあたためて=Warm yorself up.
+
+48
+なかなか、いけるな…=It's not that bad...
+
+49
+ただ、無心に=Just be mindless.
+
+50
+仕方が無い奴らだ=They have no choice.
+
+51
+頼れるエリート=The Dependable Elite
+
+52
+冷ややかな視線=Cold Stare
+
+53
+星空の下の一時
+
+54
+見せ付けてやれ=Show them.
+
+55
+覚悟の口付け=The Kiss of Preparedness
+
+56
+二人で原稿チェック=Two People's Manuscript Check
+
+57
+南国の風の中=In the Tropical Breeze
+
+58
+熱演=Enthusiastic Performance
+
+59
+君のおかげだよ！=I owe you!
+
+60
+今日はありがとう！=Thanks for today!
+
+61
+国際交流？！=International exchange?!
+
+彼女にあやまれ=Go easy on her.
+
+63
+ねえ、僕を食べてみて=Hey, try to eat me. #whahthaha??????
+
+64
+腹ペコの収録=Hungry Recordings
+
+65
+艶やかな少女？=A Beautiful Girl?
+
+66
+それは純白の誘惑=That's pure white temptation.
+
+67
+真実の顔=The Face of Truth
+
+68
+対面=Meeting
+
+69
+君と星空の下で=Beneath the Starry Sky with You
+
+70
+迎えに来たよ=I've come for you.
+
+71
+君を乗せて=I'll carry you.
+
+72
+鷺娘の舞=Dance of the Egret
+
+73
+デラックスパフェ！=Deluxe parfait!
+
+74
+一緒にすぺろう！=Let's work together!
+
+75
+ヤドリギの下で=Under the Mistletoe
+
+76
+深夜の内緒話=Late Night Secret Talk
+
+77
+迫真の演技=Realistic Performance
+
+78
+溢れ出る願い=Overflowing Desire
+
+79
+父と娘=Father and Daughter
+
+80
+君は僕が守るよ=I'll protect you.
+
+81
+付き合っちゃおうか？=Will you go out with me?
+
+82
+美しい仲間たちと=With Beautiful Friends
+
+83
+秘密のキス=A Secret Kiss
+
+84
+病院の響=Hibiki of the Hospital
+
+85
+響ＶＳ恭一エンド=Hibiki VS Kyouichi End
+
+86
+桜の下で=Beneath the Cherry Blossoms
+
+87
+轟木ＶＳ神埼エンド=Todoroki VS Kanzaki End
+
+88
+亮ＶＳ響エンド=Ryo VS Hibiki End
+
+89
+一触即発=Critical Situation
+
+90
+待ってください！=Please wait!
+
+91
+憧れの人と=With the Person I Admire
+
+92
+亮ＶＳ轟木エンド=Ryo VS Todoroki End
 
 ==MAIN==
 006

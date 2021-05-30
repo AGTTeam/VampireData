@@ -148,7 +148,7 @@
 <ch1>藍堂に任せる<00><08><0A><ch2>架院に任せる<00><09><0A><ch3>自分で調理する<00><0A>=<ch1>“I’ll leave it to you, Aido.”<00><08><0A><ch2>“I’ll leave it to you, Kain.”<00><09><0A><ch3>“I’ll make something myself.”<00><0A>
 <ch1>一条センパイお願いします<00><00><0A><ch2>支葵センパイお願いします<00><01><0A><ch3>私が作ります<00><02>=<ch1>“Can you do it, Ichijo?"<00><00><0A><ch2>“Can you do it, Shiki?"<00><01><0A><ch3>“Leave it to me."<00><02>
 <ch1>一条センパイに任せる<00><00><0A><ch2>支葵センパイに任せる<00><01><0A><ch3>二人に任せる<00><02>=<ch1>“Could you do it, Ichijo?"<00><00><0A><ch2>“Could you do it, Shiki?"<00><01><0A><ch3>“Could the two of you do it?"<00><02>
-<ch1>一条センパイお願いします<00><08><0A><ch2>支葵センパイお願いします<00><09><0A><ch3>私に任せてください<00><0A>=<ch1>“Will you do it, Ichijo?"<00><08><0A><ch2>“Will you do it, Shiki?"<00><09><0A><ch3><00><0A>
+<ch1>一条センパイお願いします<00><08><0A><ch2>支葵センパイお願いします<00><09><0A><ch3>私に任せてください<00><0A>=<ch1>“Will you do it, Ichijo?"<00><08><0A><ch2>“Will you do it, Shiki?"<00><09><0A><ch3>“Leave it to me."<00><0A>
 <ch1>枢センパイを責める<00><00><0A><ch2>零を責める<00><01>=
 <ch1>藍堂センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
 <ch1>架院センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
@@ -759,9 +759,9 @@ vk_se6_010=
 一条　拓麻=>>Takuma Ichijo
 支葵　千里=>>Senri Shiki
 
-# AC240
+# AC240 leave double spacings
 ？？？=>>???
-女子生徒１=>>Girl  1#leave double spacing
+女子生徒１=>>Girl  1
 女子生徒２=>>Girl  2
 女子生徒３=>>Girl  3
 女子生徒４=>>Girl  4
@@ -8956,7 +8956,7 @@ Sleep well...
 # A830C
 ……いいよ。無事だったし。=It’s fine. You’re safe.
 いいって、言った。=I said it’s fine.
-すみません……@A830C=Sorry...
+すみません……=Sorry...
 （うっ……|会話がつながらないよっ）=(Oh no! I can’t think of anything to say!)
 （でも、ここを離れないって|ことは、私と一緒にいるのが|イヤじゃないってことかな？）=(But he’s not leaving. Does that mean he doesn’t mind being with me?)
 ……イヤじゃない。=... I don’t mind.
@@ -10395,7 +10395,7 @@ Sleep well...
 ふっ……ワガママが|服を着て、か。|上手い事言うじゃないか。=Heh, people who selfishly wear clothes? That’s a good one.
 もう、笑い事じゃないですよ。=It’s no laughing matter.
 悪い悪い。でも<last>は、|いつもデイ･クラスを|まとめたりーー=Sorry, sorry. But you’re always rounding up the Day Class...
-ナイト･クラスを|フォローしたりして……多分、|面倒見がいいんだろうな。=and following the Night Class. You must be good at looking after people.
+ナイト･クラスを|フォローしたりして……多分、|面倒見がいいんだろうな。=and assisting the Night Class. You must be good at looking after people.
 そうですか？|自分では|意識した事ないですけど……=Do you think so? I’ve never really thought about it like that...
 何だかんだ言って、結構|甘えられるのが好きなんじゃ|ないのか？=You say that, but I’m sure you probably like to be looked after, right?
 え……？と、突然、|何を言い出すんですか？=Huh...? W-What are you asking me, all of the sudden?

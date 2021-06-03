@@ -20,12 +20,12 @@
 <ch1>藍堂　英<00><03><0A><ch2>架院　暁<00><04><0A><ch3>他の人……=<ch1>Hanabusa Aido<00><03><0A><ch2>Akatsuki Kain<00><04><0A><ch3>Someone else...
 <ch1>一条　拓麻<00><05><0A><ch2>支葵　千里<00><06><0A><ch3>他の人……<00><01>=<ch1>Takuma Ichijo<00><05><0A><ch2>Senri Shiki<00><06><0A><ch3>Someone else...<00><01>
 <ch1>玖蘭　枢<00><7F><0A><ch2>錐生　零<00><02><0A><ch3>誰にも渡さない<00><07>=<ch1>Kaname Kuran<00><7F><0A><ch2>Zero Kiryu<00><02><0A><ch3>Don’t give it away.<00><07>
-<ch1>聖ショコラトル･デー|楽しかったですか？<00><00><0A><ch2>沢山のチョコはどうしました？<00><01>=<ch1>“Did you enjoy St. Xocolatl’s Day?”<00><00><0A><ch2>“What did you do with all that chocolate?”<00><01>
+<ch1>聖ショコラトル･デー|楽しかったですか？<00><00><0A><ch2>沢山のチョコはどうしました？<00><01>=<ch1>“Did you enjoy St. Xocolatl’s Day?”<00><00><0A><ch2>“What did you do with the chocolate?”<00><01>
 <ch1>あげる<00><00><0A><ch2>あげない<00><01>=<ch1>Give it to him.<00><00><0A><ch2>Don’t give it to him.<00><01>
 <ch1>聖ショコラトル･デー|大活躍でしたね？<00><00><0A><ch2>新記録でました？<00><01>=<ch1>“St. Xocolatl’s Day was a great success, wasn’t it?”<00><00><0A><ch2>“Did you set a new record?”<00><01>
 <ch1>聖ショコラトル･デーって|好きですか？<00><00><0A><ch2>甘い物って好きですか？<00><01>=<ch1>“Did you like St. Xocolatl’s Day?”<00><00><0A><ch2>“Do you like sweet things?”<00><01>
-<ch1>聖ショコラトル･デー|終わっちゃいましたね<00><00><0A><ch2>沢山もらえましたね<00><01>=<ch1>“St. Xocolatl’s Day is all done with then, huh?”<00><00><0A><ch2>“You got a lot, didn’t you?”<00><01>
-<ch1>莉磨さんからはチョコを|もらいました？<00><00><0A><ch2>プレゼントってどう思います？<00><01>=<ch1>“Did you get chocolate from Rima?”<00><00><0A><ch2>“What did you think of your presents?”<00><01>
+<ch1>聖ショコラトル･デー|終わっちゃいましたね<00><00><0A><ch2>沢山もらえましたね<00><01>=<ch1>“St. Xocolatl’s Day is done with, huh?”<00><00><0A><ch2>“You got a lot, didn’t you?”<00><01>
+<ch1>莉磨さんからはチョコを|もらいました？<00><00><0A><ch2>プレゼントってどう思います？<00><01>=<ch1>“Did you get chocolate from Rima?”<00><00><0A><ch2>“What did you think of your gifts?”<00><01>
 <ch1>楽しかったです<00><01><0A><ch2>楽しくなかったです<00><02>=<ch1>“It’s been fun.”<00><01><0A><ch2>“I didn’t enjoy it.”<00><02>
 <ch1>パフェは譲らない<00><02><0A><ch2>妥協して塩ラーメン<00><03>=<ch1>Don’t concede.<00><02><0A><ch2>Compromise.<00><03>
 <ch1>錐生　零<00><14><0A><ch2>玖蘭　枢<00><15><0A><ch3>他の人……<00><12>=<ch1>Zero Kiryu<00><14><0A><ch2>Kaname Kuran<00><15><0A><ch3>Someone else...<00><12>
@@ -1131,14 +1131,14 @@ vk_se6_010=
 ここは見晴らしがいい…=This is a good vantage point...
 
 # A1318
-あれ？なぜかこんな所に|双眼鏡…デイ･クラスの子が|忘れていったのかな。=Oh? What’s a pair of bincolars doing here...? I wonder if it was left behind by one of the Day Class students.
+あれ？なぜかこんな所に|双眼鏡…デイ･クラスの子が|忘れていったのかな。=Oh? What’s a pair of binoculars doing here...? I wonder if it was left behind by one of the Day Class students.
 これって……|あ、結構よく見える……=Let’s see... Ah, they work pretty well...
 
 # A0CC0
 この窓は……|あ、枢センパイが見える！=Behind this window...|Ah, I can see Kaname!
 
 # A0F38
-この窓は……|あ、零！月の寮の空き部屋で|サボるなんて…考えたな…=Behind this window... Ah, Zero! Is he planning to play hooky in one of the empty rooms of the Moon Dorm...? Typical...
+この窓は……|あ、零！月の寮の空き部屋で|サボるなんて…考えたな…=Behind this window... Ah, Zero! Is he playing hooky in one of the empty rooms of the Moon Dorm...? Typical...
 
 # A0974
 この窓は……|あ、一条センパイが見える！=Behind this window...|Ah, I can see Ichijo!
@@ -2450,7 +2450,7 @@ Should we get going?
 ねぇ、もしも<name>が|風紀委員じゃなかったら|誰に渡したい？=So, if you weren’t a prefect, who would you give it to?
 そ、そうだなぁ……=W-Well...
 （そういえば、零に|チョコ渡したことないかも）=(Come to think of it, I don’t think I’ve ever given any chocolate to Zero.)
-（パシリ券が毎年恒例だし|もしもチョコを渡したら|どんな顔するかな……？）=(If I forwent my annual custom of a personalized ticket and gave him chocolate instead, how would he react...?)
+（パシリ券が毎年恒例だし|もしもチョコを渡したら|どんな顔するかな……？）=(If I forwent my annual personalized ticked and gave him chocolate instead, how would he react...?)
 （満面の笑顔で喜んで……）=(Would he happily accept it with a big smile...?)
 ありがとう、<name>！|本当に嬉しいよ！感激だ！=Thank you, <name>! I’m touched! You’ve made me really happy!
 （なんて……ありえないから！|零にチョコを渡すこと自体|ありえないし……）=(That’s... impossible! Even just getting him to accept the chocolates would probably be impossible...)
@@ -2510,7 +2510,7 @@ Should we get going?
 （夜中に一人でレシピ片手に|奮闘しちゃうあたり、|私もやっぱり普通の女の子？）=(Struggling in the middle of the night with a recipe in one hand, does this make me like the other girls?)
 （ちょっぴり恥ずかしいような|くすぐったいような……|不思議な気持ちになった）=(Being slightly embarrassed and giddy... it’s a strange feeling.)
 （でも、肝心なことが|決まっていなかった……）=(But, the most crucial piece still hadn’t been sorted...)
-（そう……世界に一つしかない|私の手作りチョコを誰に渡すか|を……）=(My homemade chocolate will be the only of its kind, so the person should I give it to should be...)
+（そう……世界に一つしかない|私の手作りチョコを誰に渡すか|を……）=(My homemade chocolate will be the only of its kind, so the person I should give it to should be...)
 きゃあっ！|お鍋が噴きこぼれた！あっち！=Eeek! The pot is overflowing! It’s going everywhere!
 きゃあっ！|大事なマグカップが！|大切にしてたのに……=Aagh! My precious cup! Even though it was so special to me...
 私ってば料理のセンスゼロ……=I’ve got zero cooking sense...
@@ -2522,7 +2522,7 @@ Should we get going?
 はぁ……これはただ単に|小腹がすいたからその……=Sigh... It’s just that I was feeling a little hungry, so...
 下手な言い訳言っちゃって！|いじらしいぞ、<name>！|で、誰に渡すの？=I won’t fall for that excuse! Don’t play innocent, <name>! So, who are you going to give it to?
 そ、それは……|まだ決めてないです。=T-That’s... I still haven’t decided.
-えぇ～？普通手作りチョコって|あげる相手を思って作るもの|じゃないの？=Eeh~? Don’t people normally think of they’d like to give it to before making the chocolate?
+えぇ～？普通手作りチョコって|あげる相手を思って作るもの|じゃないの？=Eeh~? Don’t people normally think of who they’d like to give it to before making the chocolate?
 例外もあるんです！|ていうか、邪魔ですから|早く出てってくださいっ！=There are exceptions! Like, if someone happened to interrupt, so... please hurry up and leave!
 わっ！追い出された！|義娘に追い出された！|家庭内暴力？キレる十代？=Wah! I’m being evicted, by my own adopted daughter! Domestic violence? Teenage rebellion?
 はぁ……こうなるから|内緒にしてたのに……|さてと、気を取り直して！=Sigh... This is why I was trying to keep it a secret... Right then, time for a re-think!
@@ -2530,7 +2530,7 @@ Should we get going?
 （頑張ったけど……結局|手作りチョコはたった一粒しか|できなかった）=(I tried my best, and yet... in the end, I was only able to make a single chocolate...)
 バックアップ用意しておいて|助かったよ……って|自分のこと信用しなさすぎ！？=Good job I’d already prepared a backup... Wait, does that mean I never had any faith in myself!?
 （実はこんな事態も想定して|街のショコラ屋さんで|チョコを買っておいたのだ）=(In truth, I’d already predicted that this might happen, so I bought something from a shop in town.)
-とりあえず|チョコは用意できたけど……|誰にあげればいいのかな……=Well, that’s the chocolate ready at least, but... I wonder who I should give it to...
+とりあえず|チョコは用意できたけど……|誰にあげればいいのかな……=Well, the chocolate is ready at least, but... I wonder who I should give it to...
 （私になりに気持ちのこもった|二つのチョコレート……）=(These two chocolates that my heart has gone into...)
 （明日の聖ショコラトル･|デーに誰の手に渡るのだろうか|……？）=(On St. Xocolatl’s Day tomorrow, whose hands will receive them...?)
 （私の心は決まらぬまま|聖ショコラトル･デー当日が|やってきた）=(With my mind still not made up, the fateful day arrived.)
@@ -2570,7 +2570,7 @@ Should we get going?
 あ、藍堂センパイ！|ナンパは禁止です！！=Ah, Aido! Flirting is prohibited!!
 藍堂、言ったはずだよね。|お行儀良くしろと。|<name>ご苦労様。=Aido, I’m sure I already told you to be on your best behavior. <name>, thank you for your hard work.
 枢センパイ！|あ、あの……こんばんは！=Kaname! Ah, um... Good evening!
-キャーーー！！枢先輩！！|ど、どうか私のチョコを|もらってやってください！=Squeeeeeee--!! Kaname!! P-please accept my chocolates!
+キャーーー！！枢先輩！！|ど、どうか私のチョコを|もらってやってください！=Squeeeeeee--!! Kaname!! P-Please accept my chocolates!
 きゃっ！押さないでっ！=Ack! Don’t push!
 <name>！！大丈夫？=<name>!! Are you alright?
 大丈夫ですっ。|それよりみんなのチョコを|もらってあげてください。=I’m fine. But nevermind me, please go and accept chocolates from everyone.
@@ -2612,7 +2612,7 @@ Should we get going?
 
 # A9714
 （どうしてだろう……？|誰に渡すか考えてたら|零の顔が浮かんで来て……）=(I wonder why...? As I was thinking about who to give it to, Zero’s face popped into my mind.)
-（で、でも零とは小さい頃から|いつも一緒でいまさらチョコを|あげるなんて……変に緊張っ）=(I’ve known Zero since I was little, but the thought of giving him some chocolate makes me feel... oddly nervous.)
+（で、でも零とは小さい頃から|いつも一緒でいまさらチョコを|あげるなんて……変に緊張っ）=(I’ve known Zero since I was little, but the thought of giving him chocolate makes me feel... oddly nervous.)
 （このまま渡しそびれるのも|嫌だし……）=(But, missing my chance to give it to him would be equally as bad...)
 あ、あのね、零！=U-Um, Zero!
 何だよ？どうかしたか？=What? Is something wrong?
@@ -2798,7 +2798,7 @@ Should we get going?
 （高鳴る胸を押さえながら|思いきってドアを開け放った）=(I tried to calm the sound of my racing heart, and decided to open the door.)
 （カーテンが閉め切られた零の|部屋は真っ暗で何も見えない）=(The curtains had been shut, and I couldn’t see a thing.)
 零……？いるの……？=Zero...? Are you in here...?
-（暗闇に目が慣れず|私は手探りで中へ進んだ）=(My eyes hadn’t adjusted to the darkness yet, so I used my hands to fumble around as I made my way inside.)
+（暗闇に目が慣れず|私は手探りで中へ進んだ）=(My eyes hadn’t adjusted to the darkness yet, so I used my hands to guide me as I made my way inside.)
 （ひんやりとした空気が|私を心細い気持ちにさせる）=(I felt a cool breeze, and my heart sunk.)
 零……？|お願い、返事して……！=Zero...? Please, say something...!
 （不穏な静寂……|私の本能が「行くな！」と|私の足取りを重くさせる）=(This uncomfortable silence... My body screamed at me not to go in and every step felt hard.)
@@ -2818,17 +2818,17 @@ Should we get going?
 お、襲ってないでしょ！|せっかく心配してあげた|のにっ。=I-I didn’t burst in! I was so worried about you.
 お前に心配されるほど|ヤワじゃない。=I’m not so frail that I need you to worry about me.
 零、かわいくない！|もう心配なんか|してあげないから！=That’s not cute, Zero! Fine, then I won’t worry about you ever again!
-（怒る私を見て|零がふっと笑った、その笑顔が|私の目には儚く映った……）=(Zero suddenly smiled whilst I was telling him off, and for a fleeting moment, I held that smile in my eyes...)
+（怒る私を見て|零がふっと笑った、その笑顔が|私の目には儚く映った……）=(Zero suddenly smiled whilst I was telling him off. For a fleeting moment, I held that smile in my eyes...)
 （零……無理してる、|強がってみせてるけど|私には分かる……）=(Zero... is overdoing it. He’s trying not to let me see that he’s only acting tough, but I can tell...)
 （いつだって零は|私に本心を見せてくれない）=(Zero never shows me his true feelings.)
-（突き放されてるみたいで|寂しくなるけど……）=(He pushes me away, even if means he’ll be left all alone...)
+（突き放されてるみたいで|寂しくなるけど……）=(He pushes me away, even if it means he’ll be left all alone...)
 （繊細な零の心を強引に|こじ開けるような真似だけは|絶対にしたくない！）=(But, there’s no way I could just force my way in and wrench open Zero’s sensitive heart!)
 どうした、<name>？|急に黙り込んで……|何か調子狂うだろ。=What is it, <name>? Suddenly getting all quiet... That isn’t like you.
 何でもないよ。=It’s nothing.
 （零に余計な心配かけたく|なくて私は精いっぱいの笑顔を|向けた）=(I didn’t want to worry him, so I channeled all my energy into a big grin.)
 （何があっても|私は零の味方だよ……|そんな気持ちを込めて……）=(No matter what, Zero is my friend... With that thought...)
 あっ！そうだ！|零にちゃんとチョコレート|渡してなかったよね？=Ah! I know! I never got to give you the chocolate properly, did I?#qc
-（私はポケットの中から|手作りチョコを出すと|零に差し出した）=(I took out the homemade chocolate that was in my pocket and held it out it to Zero.)
+（私はポケットの中から|手作りチョコを出すと|零に差し出した）=(I took out the homemade chocolate that was in my pocket and held it out to Zero.)
 えっへん！世界でたった一つの|私の手作りチョコなのだ！|ありがたく受け取るように！=Ehe! It’s the only one of its kind in the whole world, my homemade chocolate! You’d better thank me for it!
 手作りかよ……=Your handmade...?
 あっ！嫌そうな顔してる！|失礼ねっ！=Ah! Don’t make such a disgusted face! That’s rude!
@@ -2885,7 +2885,7 @@ Should we get going?
 星煉に渡して……|えっと…………=Give it to Seiren, and then... well...
 えっと…………=Err...
 <name>、いいかい。|世の中には、知らない方が|いい事もあるんだよ。=<name>, listen to me. There are some things in this world that you’re better off not knowing.
-話せないのは僕も辛いんだ。   |でも、わかってくれるよね？|大事なきみを守るためだ。=It’s too hard for me to say. But, you understand, don’t you? It’s to protect you, because you’re precious.
+話せないのは僕も辛いんだ。   |でも、わかってくれるよね？|大事なきみを守るためだ。=It’s too hard for me to say. But, you understand, right? It’s to protect you, because you’re precious.
 は、はい…=R-Right...
 お話しできないような事を|聞いてしまって|すみませんでした。=I’m sorry for asking about something that you can’t tell me.
 （アレ？|何で私謝ってるんだろう……）=(Huh? Why am I apologizing...?)
@@ -2961,10 +2961,10 @@ Should we get going?
 
 # A9BA8
 こ、このチョコレート|う、受け取ってください！=P-Please accept this chocolate!
-僕にくれるの……？|いいのかい？|彼にあげなくても……？=You’re giving it to me...? Are you sure? You’re not giving it him...?
+僕にくれるの……？|いいのかい？|彼にあげなくても……？=You’re giving it to me...? Are you sure? You’re not giving it to him...?
 彼って……？=“Him"...?
 （枢センパイは|何も言わないけど|もしかして……零のこと？）=(Kaname didn’t say anything in response but, could he have meant... Zero?)
-（枢センパイに誤解されたまま|なのは絶対にヤダ！）=(It looks like had misunderstood the whole thing, but I wasn’t about to let that happen!)
+（枢センパイに誤解されたまま|なのは絶対にヤダ！）=(It looks like he had misunderstood the whole thing, but I wasn’t about to let that happen!)
 枢センパイのために|作ったんです！|枢センパイのためにだけ……=I made it for you! Just for you...
 感激してつい言葉を失ったよ。|ありがとう、<name>。|とても嬉しいよ……=I’m so moved that I’m lost for words. Thank you, <name>. I’m really happy...
 （目を細めて微笑むと|枢センパイは私の頭に|ふわりと手を乗せる）=(With a smile spread across his face, Kaname softly placed a hand on my head.)
@@ -2979,7 +2979,7 @@ Should we get going?
 そんなことないよ。|ただ少し……ユニークかな？=That’s not the case. It’s just a little... unique, perhaps?
 ユニーク……ですか？=Unique, you say?
 初めて口にする味だよ。|噛めば噛むほど……ん？|これは柴漬けの味……かな？=I’ve never tasted anything like it before. The more I chew... Hm? This is... pickled vegetables?
-隠し味で入れてみました。|枢センパイ、柴漬け好きだった|と思ったんで……=I tried give it a secret flavor. I know that you like pickled vegetables, so...
+隠し味で入れてみました。|枢センパイ、柴漬け好きだった|と思ったんで……=I tried to give it a secret flavor. I know that you like pickled vegetables, so...
 好きというより食べられる程度|だったのだけれどね。=I do like them, but not quite to this extent.
 ご、ごめんなさいっ！|私、勘違いしちゃって……！=I-I’m sorry! I had the wrong idea...!
 謝らないで、<name>。きみが|僕のために頑張ってくれた|その気持ちだけで十分だよ。=Don’t apologize, <name>. I know you tried your best for my sake. Just that means the world to me.
@@ -2992,7 +2992,7 @@ Should we get going?
 # A2E0C
 藍堂センパイ……？=Aido...?
 物音がするなと思ったら|<last><name>、お前か。=I thought I heard something. So it was you, <name><last>.
-校則違反とか野暮なこと|言わないでくれよ。|素敵な月夜が台無しだ。=Please don’t say something tasteless, like this being a violation of the rules. You’d spoil this beautiful night.
+校則違反とか野暮なこと|言わないでくれよ。|素敵な月夜が台無しだ。=Please don't say that this is a violation of the rules. You'd spoil this beautiul night.
 （いたずらを咎められた|子供のように、藍堂センパイは|唇を尖らせた）=(Aido’s lips curled into to a smirk, like a child threatening to pull a prank.)
 
 # A4254 choose 聖ショコラトル·デー大活躍でしたね?
@@ -3093,7 +3093,7 @@ Should we get going?
 （言葉とは裏腹に得意げな|笑顔を見せる藍堂センパイ）=(Despite his words, Aido was smiling proudly.)
 （その表情が可愛らしくて|つい私まで笑顔になって|しまう）=(His expression was so sweet that it made me smile.)
 ふふふっ……=Hehehe...
-いやぁ～困ったな～君から|本命チョコもらうなんて枢様に|合わせる顔がないよ……=My, what a dilema~ If I accept this special chocolate from you, I don’t know how I’ll face Lord Kaname...
+いやぁ～困ったな～君から|本命チョコもらうなんて枢様に|合わせる顔がないよ……=My, what a dilemma~ If I accept this special chocolate from you, I don’t know how I’ll face Lord Kaname...
 （からかわれているのか、|照れ隠しなのかよくわからない|です。藍堂センパイ……）=(I couldn’t tell whether he was making a joke, or if he was trying to hide his embarrassment...)
 （それでも、いつになく優しい|瞳でじっと見つめられると|私の心臓は早鐘が打つ）=(Even so, as he looked at me with a warmth in his eyes I’d never seen before, it set off alarm bells in my heart.)
 食べちゃおっかな……=Should I eat it now...?
@@ -3104,7 +3104,7 @@ Should we get going?
 ご、ごめんなさいっ！|冷やし過ぎたみたいです……=I-I’m sorry! It must have been in the fridge too long...
 これは……枢様に食べさせる|わけにいかないな。|ある意味不幸中の幸いだな。=This... Lord Kaname must never eat it. In a way, I guess something good came out of this disaster.
 うっ……何もそこまで……！=Ngh... You don’t need to say any more...!
-手作りチョコより|胃薬が欲しいんだけど？=Even though an indigestion tablet would have made for a better present than your homemade chocolate?
+手作りチョコより|胃薬が欲しいんだけど？=Even though an indigestion tablet would have made for a better gift than your homemade chocolate?
 こ、これでも一生懸命、|頑張って作ったんですよっ！=B-But I worked really hard and stayed up all night to make it!
 加害者が偉そうにっ！|身の危険を感じるから|僕はもう失礼するよっ！=You’re sure acting big for the bad guy here! I feel like my life will be in danger if I stay any longer, so I’m out!
 に、逃げないでください！|藍堂センパイっーーーー！！=P-Please don’t run away! Aidoiiiii!!
@@ -3174,7 +3174,7 @@ Should we get going?
 この香りは……もしかして……|チョコレート？=This smell... could it be... chocolate?
 何か……ん？変だな……|ちょっと焦げ臭くないか？=Something... Nn? Strange... It smells a bit burnt?
 （しかも、ちょっとだけ|焦がしちゃったことまで|バレてるなんて恥ずかしいっ）=(Plus, it was a little burnt, but it’s embarrassing that he found out.)
-まさか……手作りしたとか？|あんたの手作りチョコとは……|色んな意味で特別かもな。=Did you... make it yourself? Your homemade cholate must be... special in more ways than one.
+まさか……手作りしたとか？|あんたの手作りチョコとは……|色んな意味で特別かもな。=Did you... make it yourself? Your homemade chocolate must be... special in more ways than one.
 （架院センパイの言う通り|世界でたった一つの特別な|チョコだ）=(Like Kain said, it’s a special chocolate. The only one in the world.)
 （架院センパイは私にとって、|大切な人なの……かな？）=(To me, Kain is... an important person... maybe?)
 
@@ -3196,7 +3196,7 @@ Should we get going?
 はい！架院センパイのために|作ったんです。|架院センパイのためにだけ……=Yes! I made it for you. Just for you...
 （驚いたように|目を見開きーー）=(His eyes widened in shock...)
 （架院センパイは|手持ち無沙汰な腕を|組んだり頭をかいたり……）=(Kain uncrossed his arms and scratched his head...)
-まさかあんたから|手作りチョコもらうとはな。|……妙な気分だ。=I never thought I’d get homemade chocolate from you. ...It feels weird.
+まさかあんたから|手作りチョコもらうとはな。|……妙な気分だ。=I never thought I’d get homemade chocolate from you...It feels weird.
 （心底困ったような表情で|架院センパイは天を仰ぐ）=(He looked up at the sky, with a face that was the picture of someone who had been embarrassed to their core.)
 （その表情が可愛らしくて|私は何だか嬉しくなった）=(His expression was so cute that it made me feel a little happy.)
 何がおかしい？|まさか……俺を担ごうとか|企んでるんじゃないのか？=What’s so funny? It can’t be... You’re not plotting something or trying to decieve me, are you?
@@ -3233,7 +3233,7 @@ Sleep well...
 うん！楽しかった～！！|今年は自己記録更新できたし、|僕、楽しいこと大好きだから！=Yup! It was fun~!! This year, I was able to set a new record, and I loved it because I had a great time.
 一条センパイにも楽しんで|もらえたなら私も嬉しいです。=If you enjoyed yourself Ichijo, then I’m happy too.
 <name>ちゃんは|縁の下の力持ちさんだね。|いつもいつもありがとう！=You’re like the backstage hero, <name>. Thank you for everything, as usual!
-<name>ちゃんはいい子だね。|枢の気持ちが少し|分かる気がするよ……=You’re a good girl, <name>. I think understand Kaname’s feelings a bit...
+<name>ちゃんはいい子だね。|枢の気持ちが少し|分かる気がするよ……=You’re a good girl, <name>. I think I understand Kaname’s feelings a bit...
 （一条センパイの表情、真剣…|こんな顔見るの初めてだよ）=(Ichijo’s face was... serious. It’s the first time I’ve ever seen him with such an expression.)
 もしかして見回りの途中？|邪魔しちゃったね、|ごめんごめん。=Were you in the middle of a patrol? I must be interrupting, sorry.
 （そう言って肩をすくめると|一条センパイはニコッと|笑った）=(Ichijo shrugged his shoulders as he spoke, but never stopped smiling.)
@@ -3249,9 +3249,9 @@ Sleep well...
 あれ？どうしたんですか？|浮かない顔をして……|一条センパイ。=Oh? What’s wrong? You look down...
 うん……自己記録は|更新したんだけど……=Yeah... I set a new personal record, but...
 今まで一度も負けたことのない|藍堂に負けたんだよ……=I lost to Aido, who I’ve never lost to before.
-しかも、一個差だよ？|たった一個でも負けは負け。|なんともはがゆくて……=What’s worse, is that it was a difference of one bar, you know? It was just one, but a loss is still a loss. I’m really annoyed...
+しかも、一個差だよ？|たった一個でも負けは負け。|なんともはがゆくて……=What’s worse, is that I lost by one bar, you know? But a loss is still a loss. I’m really annoyed...
 そんな……ひとつくらい|ちょっとの差じゃないですか。=Surely a single chocolate isn’t that big of a difference?
-気にする事ありませんよ。=It’s nothing be upset about.
+気にする事ありませんよ。=It’s nothing to be upset about.
 そんな事はない！|負けは負けだよ！！=That’s not it! A loss is a loss!!
 そういえば<name>ちゃんは、|僕にくれなかったよね？=Which reminds me, <name>, you didn’t give me one, did you?
 え、まぁ……そうですけど……=W-Well... that’s right, but...
@@ -3332,7 +3332,7 @@ Sleep well...
 （その他大勢になるのは|ちょっとやだな……）=(Besides, seeing as it’d just be one of many anyway...)
 （一瞬表情を曇らせた|一条センパイ）=(It seemed like he was frowning for a second.)
 （見なれない顔に|私はドキッとしてしまった）=(Seeing such an unfamiliar expression on him startled me.)
-女の子同士って楽しそうだね！|僕も枢とチョコ交換とかして|みたいよ！=It sounds like it must be fun to have female friends! I wish I could do something like exchanging chocolates with Kaname too!
+女の子同士って楽しそうだね！|僕も枢とチョコ交換とかして|みたいよ！=It sounds like it must be fun to have female friends! I wish I could exchange chocolates with Kaname too!
 えっ……一条センパイと|枢センパイのチョコ交換|想像できないんですけど……=Huh...? I can’t imagine you and Kaname exchanging chocolates, but...
 ははっ！だよね～！|あ、見回りの邪魔してごめん！|おやすみ～<name>ちゃん！=Haha! I guess you’re right~! Ah, sorry, I’m still getting in the way of your patrol! Goodnight, <name>~!
 お、おやすみなさい、|一条センパイ！=G-Good night, Ichijo!
@@ -3350,7 +3350,7 @@ Sleep well...
 
 # A5498
 でも、今回は遠慮しておくよ。=But, I have to refrain this time.
-<name>ちゃんに手作りチョコ|もらったなんて知れたら|枢に何されるか……っ！=If Kaname found out that I got homemade chocolate from you, I don’t know what he’d to do me...!
+<name>ちゃんに手作りチョコ|もらったなんて知れたら|枢に何されるか……っ！=If Kaname found out that I got homemade chocolate from you, I don’t know what he’d do to me...!
 それに正直言って……|手作りは遠慮してるんだよね。=And, to be honest... I’d rather not eat homemade things.
 僕って臆病だからさ、|えへへ～。=Because I’m a coward, ehehe~
 （満面の笑顔とは真逆の|一条センパイの辛辣な台詞に|私は思わず……絶句！！）=(His whole face was smiling, the exact opposite of the cruel words he’d just said. I was... speechless!!)
@@ -3368,7 +3368,7 @@ Sleep well...
 # A2D58
 支葵センパイ……？=Shiki...?
 誰かと思ったら|何だ……君か。=I was wondering who that was... so it’s you.
-宝探しでもしてるように|見えた？ただの散歩。=Did look like I was hunting for treasure? It’s just a stroll.
+宝探しでもしてるように|見えた？ただの散歩。=Did it look like I was hunting for treasure? It’s just a stroll.
 （ぼそっと呟くと|支葵センパイは私の視線を|断ち切るようにそっぽを向く）=(Shiki mumbled, whilst breaking eye contact with me and turning to look the other way.)
 
 # A2D7C choose 莉磿さんからはチョコをもらいました?
@@ -3427,7 +3427,7 @@ Sleep well...
 <last><name>……|君の体……=<name><last>... Your body...
 （触れるか触れないか……|支葵センパイの指先がそっと|私の頬に伸ばされる）=(To touch or not to touch... Shiki’s finger slowly reached out to my cheek.)
 （そして、まるでバラの香りを|嗅ぐみたいに……|支葵センパイは瞳を閉じた）=(And then, as if he was smelling a rose... Shiki closed his eyes.)
-何だろう……すごく甘い、|君の体に甘い香りが|染み付いてるけど……=Something’s... wonderfully sweet. Your body in wrapped in a sweet fragrance, but...
+何だろう……すごく甘い、|君の体に甘い香りが|染み付いてるけど……=Something’s... wonderfully sweet. Your body is wrapped in a sweet fragrance, but...
 支葵……センパイ？=Shiki...?
 （支葵センパイの|顔が近すぎて……息が……|できない……！）=(His face is so close... I can’t... breathe...!)
 この香りは……チョコ？=This scent is... chocolate?
@@ -3455,10 +3455,10 @@ Sleep well...
 えっ……何で？=Eh? ...Why?
 支葵センパイのために|作ったんです。支葵センパイの|ためにだけ……=I made it for you. Just for you...
 ふぅん……どういうつもりか|知らないけどもらっておくよ。=Hmm... I don’t know what your intentions are, but I’ll take it.
-（まるで小動物みたいに|全身で警戒心を露にする|支葵センパイ）=(As if he small animal out in the open, Shiki’s entire body was on alert.)
+（まるで小動物みたいに|全身で警戒心を露にする|支葵センパイ）=(As if he were a small animal out in the open, Shiki’s entire body was on alert.)
 （その姿が可愛らしくて|思わず吹き出してしまった）=(He looked so cute, that I accidentally burst out laughing.)
 ふふっ……=Hehe...
-何で笑うの？……感じ悪い。=Why are you laughing at? ...You’re giving me a bad feeling.
+何で笑うの？……感じ悪い。=Why are you laughing at me? ...You’re giving me a bad feeling.
 ご、ごめんなさい！|深い意味はないんで、ホント！=I-I’m sorry! There’s no meaning behind it, honest!
 気にしないでくださいね！=It’s nothing to worry about!
 別にしてないけど。|他人に興味ないし。でも……=I wasn’t anyway. I’m not really interested in other people. But...
@@ -3471,8 +3471,8 @@ Sleep well...
 全然飲み込めない……|後味もビミョーだし|トラウマになりそう……。=I can’t swallow it... The aftertaste is indescribable, but somehow traumatic...
 ご、ごめんなさいっ！|来年はもっと頑張って|腕を上げておきますから！=I-I’m sorry! I’ll work really hard to improve my skills for next year!
 えっ……|来年ももらうんだ……。=Eh...? I’ll get some next year too...?
-今から落ち込まなくても……。=I’m trying not to let me get it down right now...#tc
-胃薬飲みたいし、|俺もう帰るね。|あんたも帰ったら？=I’m going take some stomach medicine, and then go home. You should go back too.
+今から落ち込まなくても……。=I’m trying not to let it get me down right now...#tc
+胃薬飲みたいし、|俺もう帰るね。|あんたも帰ったら？=I’m going to take some stomach medicine, and then go home. You should go back too.
 は、はい……！|おやすみなさい、|支葵センパイ……=R-Right...! Good night, Shiki...
 おやすみ……=Night...
 
@@ -3487,8 +3487,8 @@ Sleep well...
 （恋と呼ぶにはあまりに|幼すぎるかもしれない）=(So they might be too young to really be called love.)
 （でも、自分の素直な気持ちを|真っすぐ伝えられたことは|ーー）=(But, I was able to be upfront and convey my honest feelings...)
 （私の心を少しだけ|強くしてくれた気がする）=(It feels like my heart has become a little bit more resilient.)
-（この先|何が起きたとしてもーー）=(I won’t run away. I have the courage to face what lies ahead, to put one foot in front of the other and move forward...)
-（逃げずに向かい合える勇気を|一歩前に踏み出す覚悟をーー）=(I won’t run away. I have the courage to face what lies ahead, to put one foot in front of the other and move forward...)
+（この先|何が起きたとしてもーー）=(Like, no matter what happens after this...)
+（逃げずに向かい合える勇気を|一歩前に踏み出す覚悟をーー）=(I won't run! I have the courage to face what lies ahead, to move forward, one foot in front of the other...)
 （今夜、|私は手に入れたのだーー）=(I’ll hold onto that strength...)
 （たとえ、この先|どんな悲劇が私を待ち受けて|いるとしても……）=(Even if all that’s awaiting me in the future are untold tragedies...)
 
@@ -3522,7 +3522,7 @@ Sleep well...
 
 # A46E0
 （今夜は|色んなことがありすぎて……|早くベッドに入りたい気分）=(So many things happened today... I want to hurry up and get into bed.)
-（頭の中を整理したい。|それに、まだ高鳴ってる鼓動を|どうにかしなきゃ……）=(But first, I should put my thoughts into order. Besides, I still have to do something about this pounding beat...)
+（頭の中を整理したい。|それに、まだ高鳴ってる鼓動を|どうにかしなきゃ……）=(But first, I need to gather my thoughts. I still have to do something about this pounding heartbeat...)
 はぁ……|やっぱり自分の部屋って|落ち着く～……=Sigh... As I thought, being in my room really does help me calm down~....
 あれ……？ベッドの上に|何か置いてある……=Hm...? Something has been left on top on my bed...
 これは……=This is...
@@ -3551,11 +3551,11 @@ Sleep well...
 お前、頭……|すごい寝癖だな。=Your hair... That’s one hell of a bed head.
 わっ、ほんとだ……|って、仕方ないでしょ！|寝起きなんだから！=Ack, you’re right... but, it’s not my fault! I only just got up!
 だいたい、ここ女子寮だよ！|何で入ってこれたの！？=More importantly, this is the girl’s dorm! What are you doing in here!?
-お前がいつまでも寝てるから、|叩き起こしに来たんだ。=I even got permission from the president of the girl’s dorm first.
-ちゃんと女子寮の寮長にも|許可を取ってある。=I got permission from the president of the girl’s dorm first.
-同室の若葉がお前が|どうしても起きないと|途方にくれてたんだ。=Your roommate, Wakaba, was at a loss when she couldn’t get you to wake you up no matter what she tried.
+お前がいつまでも寝てるから、|叩き起こしに来たんだ。=You've been asleep for a while, so I came to give you a wake up call.
+ちゃんと女子寮の寮長にも|許可を取ってある。=I even got permission from the president of the girl’s dorm first.
+同室の若葉がお前が|どうしても起きないと|途方にくれてたんだ。=Your roommate, Wakaba, was at a loss when she couldn’t get you to wake up no matter what she tried.
 支度しろ、|もう授業始まっているぞ。=Hurry up and get ready, class is about to start.
-零！もう、ふざけないでよ！|まだ外、真っ暗じゃない！|もう少し寝かせてよ。=Zero! Agh, stop messing me around! It’s still pitch-black outside! Let me sleep a bit longer.
+零！もう、ふざけないでよ！|まだ外、真っ暗じゃない！|もう少し寝かせてよ。=Zero! Agh, stop messing around! It’s still pitch-black outside! Let me sleep a bit longer.
 わざわざ起こしに来て|やったのに、お前って……|予想通りであきれるぜ。=After I came all this way to wake you up, you... You never fail to amaze me.
 （そう言いながら|大きなため息をつきーー）=(He let out a large sigh as he spoke...)
 （零は、私の目の前に|目覚まし時計を突き出した。）=(Then shoved an alarm clock in my face.)
@@ -3564,7 +3564,7 @@ Sleep well...
 違う。朝だ。午前１０時。=Wrong. It’s morning. Ten a.m.
 ええっ？でも外、|こんなにまっ暗だよ？=Huh? But it’s so dark outside?
 もしかして、今日って|皆既日食か何か？=Is there a solar eclipse or something today?
-お前……本当に知らないのか？|今日から３日間、３０年に|一度の『極夜』の日だ。=You really don’t know? For the next three days, it’s the “Polar Night", an event that only happens once every thirty years.#'Lengthy Night’ is the official translation on the game’s chapter screen.
+お前……本当に知らないのか？|今日から３日間、３０年に|一度の『極夜』の日だ。=For the next three days, it’s the “Polar Night", an event that only happens once every thirty years.#'Lengthy Night’ is the official translation on the game’s chapter screen.
 きょく……や？=Polar...?
 （零が言うところによれば、|極夜とは、白夜と真逆の現象|ーー）=(According to Zero’s explanation, ‘Polar Night’ is a phenomenon opposite to the ‘Midnight Sun’.)#'Midnight Sun’ is alternatively known as White Night
 （つまり１日中、|陽が昇りきらない|日のことを言うらしい）=(That is to say, it’s a day where the sun doesn’t rise at all.)

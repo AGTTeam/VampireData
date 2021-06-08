@@ -77,7 +77,7 @@
 <ch1>ライフワークを見つけたい<00><01><0A><ch2>健康でいたい<00><02>=<ch1>“I want to find my life’s work.”<00><01><0A><ch2>“I want to stay healthy.”<00><02>
 <ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01>=<ch1>“I want to broaden my knowledge by meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01>
 <ch1>ライフワークを見つけたい<00><01>=<ch1>“I want to find my life’s work.”<00><01>
-<ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00>ヂ<0A><ch2>“Actually, my real dream is...”<00><04>
+<ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00><0A><ch2>“Actually, my real dream is...”<00><04>
 <ch1>はい、そうします<00><07><0A><ch2>いえ、本当の夢は……<00><08>=<ch1>“Yes, I will.”<00><07><0A><ch2>“Actually, my real dream is...”<00><08>
 <ch1>特技を生かしたもの<00><09><0A><ch2>頭脳を生かしたもの<00><0A><0A><ch3>人柄を生かしたもの<00><0B>=<ch1>“Something that will make use of my skills.”<00><09><0A><ch2>“Something that I can use my brain for.”<00><0A><0A><ch3>“Something that fits my personality.”<00><0B>
 <ch1>世の中のため<00><0D><0A><ch2>好きな人のため<00><0E><0A><ch3>自分のため<00><0F>=<ch1>“For society.”<00><0D><0A><ch2>“For the person I like.”<00><0E><0A><ch3>“For myself.”<00><0F>
@@ -6592,7 +6592,7 @@ Sleep well...
 そんな事気にしないで！|<name>ちゃんの夢なんだから|きっと実現するよ。=Don’t you stress over that, <name>! I know you’ll find a way!
 また一条さんは……|根拠ないでしょ？=How can you be so sure, Ichijo?
 もちろん！=I just am!
-やっぱり……@A304C＝Of course.
+やっぱり……@A55A8=Of course.
 でも、何かを成し遂げるには|１人の力だけじゃ、とても足り|ない事が多いかもしれないね。=However, there are many things which may never be accomplished by a single person alone.
 じゃあ……|誰かの力を借りれば|いいんですか？=So... I should get help from someone else?
 そう。|自分に協力してくれる相手を|探すんだよ。=Exactly. You should find people who will help you to realize your dream.

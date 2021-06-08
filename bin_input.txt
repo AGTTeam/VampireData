@@ -64,7 +64,7 @@
 <ch1>はい、そうします<00><07><0A><ch2>いえ、私の本当の夢は……<00><08>=<ch1>“Yes, I will.”<00><07><0A><ch2>“Actually, my real dream is...”<00><08>
 <ch1>勉学を極める<00><09><0A><ch2>商売を極める<00><0A><0A><ch3>人間関係を極める<00><0B>=<ch1>“Book smarts.”<00><09><0A><ch2>“Business sense.”<00><0A><0A><ch3>“People skills.”<00><0B>
 <ch1>お嫁さん<00><0D><0A><ch2>支配者<00><0E><0A><ch3>カリスマ<00><0F>=<ch1>“A wife.”<00><0D><0A><ch2>“A ruler.”<00><0E><0A><ch3>“Charismatic.”<00><0F>
-<ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02><0A><ch3>賢くなりたい<00><03>=<ch1>“I want to gain a lot of experience.”<00><01><0A><ch2>“I want to know about a lot of things.”<00><02><0A><ch3>“I want to be smart.”<00><03>
+<ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02><0A><ch3>賢くなりたい<00><03>=<ch1>“I want to gain a lot of experience.”<00><01><0A><ch2>“I want to know about a lot of| things.”<00><02><0A><ch3>“I want to be smart.”<00><03>
 <ch1>色んな経験を積みたい<00><01><0A><ch2>賢くなりたい<00><03>=<ch1>“To gain a lot of experience.”<00><01><0A><ch2>“To be smart.”<00><03>
 <ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02>=<ch1>“To gain a lot of experience.”<00><01><0A><ch2>“To know about a lot of things.”<00><02>
 <ch1>色んな経験を積みたい<00><01>=<ch1>“To gain a lot of experience.”<00><01>
@@ -73,20 +73,20 @@
 <ch1>セラピスト<00><12><0A><ch2>作家<00><0A><0A><ch3>旅人<00><0B>=<ch1>“To be a therapist.”<00><12><0A><ch2>“To be a writer.”<00><0A><0A><ch3>“To be a traveler.”<00><0B>
 <ch1>お金<00><0E><0A><ch2>好きな人の気持ち<00><0F><0A><ch3>人望<00><10>=<ch1>“Money.”<00><0E><0A><ch2>“To have the person I like love me|back.”<00><0F><0A><ch3>“To be popular.”<00><10>
 <ch1>藍堂センパイはどう思います？<00><00><0A><ch2>架院センパイはどう思います？<00><01>=<ch1>“What do you think, Aido?”<00><00><0A><ch2>“What do you think, Kain?”<00><01>
-<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01><0A><ch3>健康でいたい<00><02>=<ch1>“I want to broaden my knowledge by meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01><0A><ch3>“I want to stay healthy.”<00><02>
+<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01><0A><ch3>健康でいたい<00><02>=<ch1>“I want to broaden my knowledge by | meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01><0A><ch3>“I want to stay healthy.”<00><02>
 <ch1>ライフワークを見つけたい<00><01><0A><ch2>健康でいたい<00><02>=<ch1>“I want to find my life’s work.”<00><01><0A><ch2>“I want to stay healthy.”<00><02>
-<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01>=<ch1>“I want to broaden my knowledge by meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01>
+<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01>=<ch1>“I want to broaden my knowledge by|meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01>
 <ch1>ライフワークを見つけたい<00><01>=<ch1>“I want to find my life’s work.”<00><01>
-<ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00><0A><ch2>“Actually, my real dream is...”<00><04>
+<ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00>ヂ<0A><ch2>“Actually, my real dream is...”<00><04>
 <ch1>はい、そうします<00><07><0A><ch2>いえ、本当の夢は……<00><08>=<ch1>“Yes, I will.”<00><07><0A><ch2>“Actually, my real dream is...”<00><08>
-<ch1>特技を生かしたもの<00><09><0A><ch2>頭脳を生かしたもの<00><0A><0A><ch3>人柄を生かしたもの<00><0B>=<ch1>“Something that will make use of my skills.”<00><09><0A><ch2>“Something that I can use my brain for.”<00><0A><0A><ch3>“Something that fits my personality.”<00><0B>
+<ch1>特技を生かしたもの<00><09><0A><ch2>頭脳を生かしたもの<00><0A><0A><ch3>人柄を生かしたもの<00><0B>=<ch1>“Something that will make use of my|skills.”<00><09><0A><ch2>“Something that I can use my |brain for.”<00><0A><0A><ch3>“Something that fits my|personality.”<00><0B>
 <ch1>世の中のため<00><0D><0A><ch2>好きな人のため<00><0E><0A><ch3>自分のため<00><0F>=<ch1>“For society.”<00><0D><0A><ch2>“For the person I like.”<00><0E><0A><ch3>“For myself.”<00><0F>
-<ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01><0A><ch3>沢山の人にチヤホヤされたい<00><02>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to become a leader.”<00><01><0A><ch3>“I want to be spoiled by a lot of people.”<00><02>
-<ch1>仙人になりたい<00><00><0A><ch2>沢山の人にチヤホヤされたい<00><02>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to be spoiled by a lot of people.”<00><02>
+<ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01><0A><ch3>沢山の人にチヤホヤされたい<00><02>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to become a leader.”<00><01><0A><ch3>“I want to be spoiled by a lot of|people.”<00><02>
+<ch1>仙人になりたい<00><00><0A><ch2>沢山の人にチヤホヤされたい<00><02>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to be spoiled by a lot of|people.”<00><02>
 <ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to become a leader.”<00><01>
 <ch1>仙人になりたい=<ch1>“I want to be enlightened.”
 <ch1>はい、そうします<00><04><0A><ch2>いえ、本当の夢は……<00><05>=<ch1>“Yes, I will.”<00><04><0A><ch2>“Actually, my real dream is...”<00><05>
-<ch1>人間の事<00><09><0A><ch2>ヴァンパイアの事<00><0A><0A><ch3>色んなウラの事<00><0B>=<ch1>“About humans.”<00><09><0A><ch2>“About vampires.”<00><0A><0A><ch3>“About the flip side of all sorts of things.”<00><0B>
+<ch1>人間の事<00><09><0A><ch2>ヴァンパイアの事<00><0A><0A><ch3>色んなウラの事<00><0B>=<ch1>“About humans.”<00><09><0A><ch2>“About vampires.”<00><0A><0A><ch3>“About the flip side of all sorts of| things.”<00><0B>
 <ch1>社交的にするコツ<00><0D><0A><ch2>周りに優しくするコツ<00><0E><0A><ch3>変わり者と付き合うコツ<00><0F>=<ch1>“Tips on socializing.”<00><0D><0A><ch2>“Tips on being kind.”<00><0E><0A><ch3>“Tips on getting to know someone who’s a bit different.”<00><0F>
 <ch1>一条センパイはどう思います？<00><00><0A><ch2>支葵センパイはどう思います？<00><01>=<ch1>“What do you think, Ichijo?”<00><00><0A><ch2>“What do you think, Shiki?”<00><01>
 <ch1>物知りな人になりたい<00><00><0A><ch2>キレ者になりたい<00><01><0A><ch3>心身ともに美しい人になりたい<00><02>=<ch1>“To become knowledgeable.”<00><00><0A><ch2>“To become sophisticated.”<00><01><0A><ch3>“To become beautiful.”<00><02>
@@ -96,7 +96,7 @@
 <ch1>はい、そうします<00><03><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00><03><0A><ch2>“Actually, my real dream is...”<00><04>
 <ch1>はい、そうします<00><06><0A><ch2>いえ、本当の夢は……<00><07>=<ch1>“Yes, I will.”<00><06><0A><ch2>“Actually, my real dream is...”<00><07>
 <ch1>モデル<00><09><0A><ch2>女優<00><0A><0A><ch3>ニュースキャスター<00><0B>=<ch1>“A model.”<00><09><0A><ch2>“An actress.”<00><0A><0A><ch3>“A newscaster.”<00><0B>
-<ch1>街中自分のポスターだらけ<00><0D><0A><ch2>ＴＶつけるといつも出てる<00><0E><0A><ch3>パーティーで輪の中心<00><0F>=<ch1>“A city full of posters with my face.”<00><0D><0A><ch2>“Always seeing myself on TV.”<00><0E><0A><ch3>“Being the center of attention at parties.”<00><0F>
+<ch1>街中自分のポスターだらけ<00><0D><0A><ch2>ＴＶつけるといつも出てる<00><0E><0A><ch3>パーティーで輪の中心<00><0F>=<ch1>“A city full of posters with my|face.”<00><0D><0A><ch2>“Always seeing myself on TV.”<00><0E><0A><ch3>“Being the center of attention at|parties.”<00><0F>
 <ch1>外で水をまく<00><00><0A><ch2>校庭で水をまく<00><01><0A><ch3>校舎の窓から水をまく<00><02>=<ch1>Outside.<00><00><0A><ch2>In the schoolyard.<00><01><0A><ch3>From a window in the school building.<00><02>
 <ch1>事件現場<00><00><0A><ch2>インタビュー現場<00><02>=<ch1>The crime scene.<00><00><0A><ch2>The interview spot.<00><02>
 <ch1>インタビュー現場<00><02>=<ch1>The interview spot.<00><02>
@@ -5514,18 +5514,18 @@ Sleep well...
 （暖かい陽気に負けて、|寝不足の私は授業中につい|寝てしまっていた……）=(I'd succumbed to the warm weather, and fallen asleep in class after not getting enough sleep...)
 こら、<last>！=Hey, <last>.
 は、はい！！|……すみません。つい。=Y-Yes!! ...I'm sorry. It was an accident.
-つい、じゃない！|風紀委員の仕事が忙しいのは|わかるが最近たるんでるぞ！=Don't give me that! I understand that you're kept busy as a prefect, but that's no reason to start slacking off in class!
+つい、じゃない！|風紀委員の仕事が忙しいのは|わかるが最近たるんでるぞ！=Don't give me that! I understand that you're busy as a prefect, but that's no reason to slack off in class!
 はい……@AE8A8=Yes, Sir...
 あ、雨が止んだわ。=Ah, the rain's stopped.
 本当。通り雨だったのね。=You're right. It must have been just a shower.
-（いつの間にか降っていた雨が|あがり、窓の外は澄んだ色の|空が顔をのぞかせていた）=(I hadn't even noticed that it had started raining, but when I looked out of the window, the sky was clear and bright.)
+（いつの間にか降っていた雨が|あがり、窓の外は澄んだ色の|空が顔をのぞかせていた）=(I hadn't even noticed that it had been raining. When I looked out of the window, the sky was clear and bright.)
 （その風景の片隅にーー）=(And, just over the horizon was...)
 あ、虹……！=Ah, a rainbow...!
 え、どこどこ？=Ooh, where, where?
 本当。きれいね。=It's so pretty.
 こら、静かにしないか！=Hey, pipe down over there!
 （極夜の時節も明けて、|連日昼間は、太陽がその存在を|しっかりアピールしている）=(After the long Polar Night, the sun has been really showing off it's true power during the daytime.)
-（時折スコールらしきものが|降った後には、キレイな虹が|青空を背に現れる）=(Sometimes, after a squall has blown out, a beautiful rainbow materialises across the blue sky.)
+（時折スコールらしきものが|降った後には、キレイな虹が|青空を背に現れる）=(Sometimes, after a squall has blown out, a beautiful rainbow materializes across the blue sky.)
 （ナイト･クラスの皆さんには|悪いけど、こういう風景は|心を晴れやかにしてくれる）=(It's a curse for the Night Class, but this kind of scenery lifts my spirits.)
 （まあ、夜には夜の|いい風景もあるんだけど……）=(Well, there's some nice things to look at during night time too...)
 きゃー！玖蘭先輩ー！！=Squee! Kuran!!
@@ -5569,7 +5569,7 @@ Sleep well...
 一条先輩！こっち向いてー！=Ichijo! Please come this way~!
 （私は迷いを振り払うように|ホイッスルを吹き鳴らした）=(Shaking off my doubts, I blew my whistle.)
 はいはーい！|デイ･クラスの皆さんは|さがってくださーい！！=Alright, alright! Day Class, please take a step back!
-なによ、風紀委員。=Don't give me that! I understand that you're kept busy as a prefect, but that's no reason to start slacking off in class!
+なによ、風紀委員。=Don't give me that! I understand that you're busy as a prefect, but that's no reason to slack off in class!
 ナイト･クラスの皆さんを|独り占めして！！=You're trying to monopolize the Night Class!!
 さあ！|ナイト･クラスの皆さんも|早く移動してください！=Now then, Night Class students, please get a move on!
 <last><name>。|枢様がお前にかまうから|僕たちも移動ができないんだ。=<name><last>. We haven't left yet because Lord Kaname was worried about you.
@@ -5624,7 +5624,7 @@ Sleep well...
 
 # A755C
 （見回りを続ける私の前に、|零が現れたーー）=(As I continued on my rounds, Zero appeared.)
-<name>、どうだ。|何か変わった事はあったか？=<name>, how are things? Anything changed?
+<name>、どうだ。|何か変わった事はあったか？=<name>, how are things? Anything change?
 ううん、別に……。=Mmm, not really...
 （私の返事がいつもと|違う風に聞こえたのか、|零は私の顔を覗き込んできた）=(Zero looked down on me, as if he’d taken my answer in a different way.)
 おい。|やっぱり様子が変だぞ？=Oi. Something’s up after all, right?
@@ -5727,12 +5727,12 @@ Sleep well...
 でも、零って強いよね。|零も誰かに鍛えられたの？|……あの師匠って呼んでる人？=But, you are strong. Were you trained by someone? ...That person who called himself your master?
 ああ……|あの人はそこらのヴァンパイア|よりよっぽど恐ろしい人だ。=Yeah... He’s much more frightening than any vampire.
 人間でもここまでやれるんだ、|って事を、嫌というほど|教わったよ。=He showed me that even a human can manage that much, which is to say, being taught by him was intense.
-ただでさえ強いヴァンパイアに|強くなろうとする人間……|強さって一体何なんだろうね？=A human who trained to be even stronger than a powerful vampire... I can’t even imagine what strength it must take.
+ただでさえ強いヴァンパイアに|強くなろうとする人間……|強さって一体何なんだろうね？=A human who trained to be even stronger than a vampire... I can’t even imagine what strength it must take.
 
 # A3E10 choose 秘密
 はあ？秘密ってお前……=Huh? What do you mean, “a secret”?
 だって……健康でいれば、|この先より女性らしくなって、=Well... If I’m healthy, then I can become a better woman...
-健康で運動神経抜群だったら|かっこいいかなって……=It’d be cool if I was in great form and had good reflexes too...
+健康で運動神経抜群だったら|かっこいいかなって……=It’d be cool if I were in great form and had good reflexes too...
 クッ……お前、もしかして|映画やアニメのヒロイン|みたいな……=Heh... maybe you’d be like a movie or anime heroine...
 大人のスーパーレディとか|目指しているのか？=Are you trying to grow up to be a super lady?
 うっ……|いいでしょ、別に！！=Nngh... There’s nothing wrong with that!
@@ -5749,7 +5749,7 @@ Sleep well...
 枢センパイの事じゃないよ。|その……零の事だよ。=I wasn’t talking about Kaname. I... meant you.
 俺……？|やっぱり心配かけているのか|……すまないな。=Me...? So you really were worrying about me... Sorry.
 零って時々……|ガラスの様に砕けてしまう様な|感じがするよ。=Zero, sometimes... I get the sense that you could shatter just like glass.
-ずっと元気でいれば、|零をずっと守ってあげられる|でしょ？=If I was always well, then I maybe I’d always be able to look after you...
+ずっと元気でいれば、|零をずっと守ってあげられる|でしょ？=If I was always well, then maybe I’d always be able to look after you...
 ずっと一緒だったし、|可愛い弟の事はちゃんと|守ってあげなくちゃね。=We’ve always been together, so I’m going to do everything in my power to protect my precious little brother.
 おとうと……ってお前、|何アネキ風吹かせてるんだ？=“Little brother”... What kind of weird-family crap are you spouting?
 零ったら、|そんなに照れなくていいよ。=Aw Zero, there’s no need to be so shy.
@@ -5770,7 +5770,7 @@ Sleep well...
 ナイト･クラスの寮長が|こんな所で何をしてるんです？=What’s the president of the Night Class doing here?
 錐生くんも御苦労さま。=Thanks for all your hard work too, Kiryu.
 気配も感じさせないとはな。|……あんたのような恐ろしい|ヴァンパイアもいるってのに、=I didn’t sense you at all.|...Even though there are terrifying vampires like you...
-こいつの夢は、|人間とヴァンパイアの共存|だってさ。=this one dreams of a coexistence between vampires and humans.
+こいつの夢は、|人間とヴァンパイアの共存|だってさ。=This one dreams of a coexistence between vampires and humans.
 うれしいよ、<name>。=That makes me happy, <name>.
 世の中がキミのような人ばかり|だったら、きっとこの世界は|素晴らしいものだろうね。=If only the world was made of people like you, I’m sure it’d be something amazing.
 錐生くんのような人間は……|１人でうんざり、だけどね。=People like Kiryu... Even if there’s just one of him, it’s tiresome.
@@ -5809,14 +5809,14 @@ Sleep well...
 # A3924 choose 零はどう思う？
 夢がどうやったら叶うか？|そんなの決まってるだろ。=How to make your dream come true? That’s obvious.
 どうしたらいいかな？=What should I do?
-がむしゃらに努力するだけだ。|願ってるだけで叶う夢なんて|ないんだからな。=Just give it your best effort. There’s no such thing as a dream that’ll come true if you only wish for it.
+がむしゃらに努力するだけだ。|願ってるだけで叶う夢なんて|ないんだからな。=Just give it your best effort. A dream won't come true if you only wish for it.
 それは……わかってるよ。|その方法を知りたいのに……=I... know that. I just wanted to know how to go about it.
 方法って言ってもな……=Even if you ask for a method...
 ふふっ……|錐生くんらしいね。=Hehehe... How very like you, Kiryu.
 何か言いました？=What did you say?
 具体的な計画はさておき、|まずは行動……|キミらしいと思ってね。=Not making any specific plans and acting first... I was just thinking that’s very like you.
 物事は順序が大切だよ。|無計画に行動してもすぐに|壁に当たってしまうよ。=The order of things is important. If you act so haphazardly, you’ll soon hit a wall.
-悪かったですね、無計画で。|玖蘭先輩こそ無計画にケン|カ売ってるようですが。=My bad for being so haphazard. It seems to me you’re the one who’s picking a fight without having a plan, Kuran.
+悪かったですね、無計画で。|玖蘭先輩こそ無計画にケン|カ売ってるようですが。=My bad for being so haphazard. It seems you’re the one who’s picking a fight without having a plan, Kuran.
 もう！やめてよ、零！=Come on, cut it out, Zero!
 
 # A6C7C
@@ -5829,7 +5829,7 @@ Sleep well...
 とても神秘的な虹で|見た者にとって最高の祝福を|与えるとされている。=It’s an incredibly mysterious rainbow which is said to bless whoever lays eyes on it.
 見た人の夢を叶えるとも……=It’s even said to make people’s dreams come true.
 夜に見られる虹なんて|ステキですね。=A rainbow that appears at night, that does sound magical.
-虹は太陽の光が反射して起こる|現象でしょう？夜に出る虹|なんて聞いた事がない。=Rainbows are things which occur when the sun’s rays get refracted, right? I’ve never heard of a rainbow coming out at night.
+虹は太陽の光が反射して起こる|現象でしょう？夜に出る虹|なんて聞いた事がない。=Rainbows occur when the sun’s rays get refracted, right? I’ve never heard of a rainbow coming out at night.
 月が太陽の代わりを|果たすんだ。|月の光が最も強いとき……=The moon takes over the role of the sun. When the moon’s light is at its strongest...
 もしかしたら、|ナイトレインボウが|見られるかもしれないよ。=You might be able to see a night rainbow.
 僕たちは昼間はあまり|行動しないから、普通の虹も|あまり見た事がないんだ。=We don’t go out much during the day, so we don’t really see many normal rainbows.
@@ -5888,7 +5888,7 @@ Sleep well...
 
 # A2240 choose 仕事を身につけたい
 仕事、か……|確かに仕事ができるというのは|素晴らしい事だね。=A job, hm...? Being able to work is certainly a wonderful thing.
-でも、僕はそういった事に|あまり興味がないから……|架院に聞けばいいと思うよ。=But, I’m afraid that kind of thing doesn’t really interest me... I think you might be best talking to Kain about it.
+でも、僕はそういった事に|あまり興味がないから……|架院に聞けばいいと思うよ。=But, I’m afraid that kind of thing doesn’t really interest me... Talking to Kain about it might be best.
 彼ならそういった事に|興味を示すかもしれない。=He might show more of an interest in that kind of thing.
 ん？どうしたんだい？<name>。|架院に会いに行くのかい？=Hm? What is it, <name>? Are you going to see Kain?
 
@@ -5901,11 +5901,11 @@ Sleep well...
 
 # A3950 choose 勉学を極める
 たくさん勉強して、|賢い人になりたいです。=I want to study a lot and become smart.
-そう。じゃあまずは、|授業中の居眠りを直す所から|はじめないとね。=I see. Then, the first think you need to do is to stop dozing off during class.
+そう。じゃあまずは、|授業中の居眠りを直す所から|はじめないとね。=I see. Then, the first thing you need to do is to stop dozing off during class.
 ええ！？|ど、どうしてその事を……！=Huh!? How do you know about that--!?
 この学園のデイ･クラスには|とても元気で反抗的な人間が|１人いてね。=In this academy’s Day Class, there is one very spirited person who goes against the grain.
 どうして人間なのに|夜にそんなに元気なのか、|訪ねた事があるんだ。=Wondering how a human could be so full of energy at night, I paid them a visit.
-『俺達は昼間は授業中に|ぐっすり寝てるからだ』って|言ってたっけ。=As I recall, his his answer was, “because we sleep in the daytime during class”.
+『俺達は昼間は授業中に|ぐっすり寝てるからだ』って|言ってたっけ。=As I recall, his answer was, “because we sleep in the daytime during class”.
 零だ……！もう！|その、枢センパイ……|私たちは毎晩……=Zero...! Honestly!! Um, that is to say, because every night we...
 大丈夫、わかってるよ。|僕たちのためにいつも頑張って|くれて、感謝しているよ。=It’s okay, <name>, I understand. I’m grateful that you’re always trying you’re best for our sake.
 枢センパイ……|でも、授業中寝てばかりじゃ|いけないですよね。=Kaname... But, I can’t keep falling asleep in class like this forever.
@@ -5932,7 +5932,7 @@ Sleep well...
 
 # A1050
 <name>が賢くなりたいのは|よくわかったよ。=I understand that you want to become smart.
-その、賢い<name>は|何になりたいのかな？=But, what does that smart-<name> want to become?
+その、賢い<name>は|何になりたいのかな？=But, what does the smart-<name> want to become?
 
 # A2A70 choose お嫁さん
 ふふ、かわいいね。|確かに賢いお嫁さんは|悪くないよ。=Hehe, that’s cute. A smart wife is certainly not a bad thing.
@@ -5946,7 +5946,7 @@ Sleep well...
 
 # A1E98 choose 支配者
 支配者……？|<name>ってけっこう大胆だね。=A ruler...? You’re pretty bold, aren’t you?
-ええ？大胆ですか？|でも、みんなに理不尽な命令|するんじゃないです。=Bold? I wouldn’t go round giving unreasonable orders to anyone, or things...
+ええ？大胆ですか？|でも、みんなに理不尽な命令|するんじゃないです。=Bold? I wouldn’t go around giving unreasonable orders to anyone, or things...
 みんなケンカしないで仲良く|しなさい、とかそういう命令を|出したいなぁ、なんて……=Just that everyone should try to get along without fighting, stuff like that...
 ふふ……<name>。|きみは優しいんだね。=Hehe... You’re very kind, <name>.
 そ、そんな事……=T-That’s not...
@@ -5976,7 +5976,7 @@ Sleep well...
 誰が無粋だって？=Who are you calling boorish?
 ぜ、零！？=Z-Zero!
 きみの話をしていたんだよ。|平和を乱そうとする錐生くん。=I was talking about you. Hindrance-to-peace Kiryu.
-きみのようにヴァンパイアを|憎む人間もいるというのに、=Even though there are people like you hate vampires,
+きみのようにヴァンパイアを|憎む人間もいるというのに、=Even though there are people like you who hate vampires,
 <name>の夢は、人間と僕らの|共存だというんだ。|立派だと思わないかい？=<name> dreams of a world where we can co-exist with humans. Don’t you think that’s wonderful?
 玖蘭先輩のような恐ろしい|ヴァンパイアもいるってのに|それはまた儚い夢だな。=Even though there are awful vampires like you, Kuran, that’s still just an empty dream.
 錐生くん。|少しは<name>を見習ったら|どうだい？=Kiryu. Can’t you learn from <name> a little bit?
@@ -6019,7 +6019,7 @@ Sleep well...
 君の夢って何？=What’s your dream?
 
 # A2270 choose 色んな事を知りたい
-色んな事を知りたい、ねえ。|僕も色んな事を知ってるけど、|これ以上はめんどくさいな。=To know about a lot of things? I know about all sorts of things, but any more than this and I’ll just become a pain.
+色んな事を知りたい、ねえ。|僕も色んな事を知ってるけど、|これ以上はめんどくさいな。=To know about a lot of things? I know all sorts of things, but any more than this and I’ll just become a pain.
 （自分で聞いておいて……！）=(He’s just going on about himself...!)
 そうだ、一条に聞いてみたら|どうだ？=I know, why don’t you try asking Ichijo?
 あいつはそういう細かいこと|好きだから、懇切丁寧に教えて|くれると思うよ。=He likes trivial stuff like that, so I’m sure he’ll be able to give you some thorough advice.
@@ -6042,7 +6042,7 @@ Sleep well...
 藍堂センパイ、|私の事バカにしていません？=Aido, are you making fun of me?
 何を言っているんだ。|そんな事ないよ。|だって、立派な志じゃないか。=What are you saying? Of course not. That’s a fine ambition.
 でも、どんなに賢くなっても、|僕のレベルまでは到達不可能|だろうけどね。=Though no matter how smart you become, you’ll never be able to get on my level.
-用心のため、僕は教えたく|ないから。どうしてもって|いうなら、僕より賢い人……=But just so you know, I’ve no intention of teaching you. If you were going to insist on it, then for someone smarter than me...
+用心のため、僕は教えたく|ないから。どうしてもって|いうなら、僕より賢い人……=But I’ve no intention of teaching you. If you insist, then for someone smarter than me...
 枢様に相談でも……って|ダメだダメだ！そんなの！=Maybe you could ask Lord Kaname... No, no! That’s a bad idea!
 どさくさに紛れて|何を言わせるんだ！|あぶない…あぶない……=You made me say something weird in the heat of the moment! That was dangerous...
 （自分で言っておいて……）=(He’s the one who said it...)
@@ -6067,7 +6067,7 @@ Sleep well...
 ふぅん、お前って|サービス精神旺盛なんだな。=Hmm, you have a pretty strong spirit of service, don’t you?
 藍堂センパイだって、|デイ･クラスの女の子達に|いつもサービスしてますよね。=Aido, you’re always putting on performances for the girls in the Day Class too.
 そりゃあ、せっかくの機会だし|僕のことがみんな大好きなわけ|だしね。=Well, that’s just because it’s a rare chance, and they all love me anyway.
-ま、僕ほどの大物じゃないと、|笑顔だけで人を楽しませること|はできないと思うけど、=Still, if you’re not a big deal like me, I don’t think that you’ll be able to delight everyone with just a smile, but...
+ま、僕ほどの大物じゃないと、|笑顔だけで人を楽しませること|はできないと思うけど、=Still, if you’re not a big deal like me, you might not be able to delight everyone with just a smile, but...
 お前がそういうことを考えて|いたとは意外だったな。|悪くないんじゃないか。=I’m surprised that you think about things like that. I don’t think that’s a bad thing.
 
 # A25D4 choose 旅人
@@ -6150,7 +6150,7 @@ Sleep well...
 夢を叶えられる者には|そのための能力がもともと|備わっているものなんだ。=The people who can make their dreams come true already possess that ability from the offset.
 もともと備わってる？=Possess it from the offset?
 そう！能力のある者だったら|夢なんて知らぬ間に叶って|しまうものなのさ！=Right! If you have the ability, your dreams will come true without you even knowing it!
-枢様を見てごらんよ。|あの完璧な容姿にカリスマ性！|他を寄せ付けない圧倒的な美！=Just look at Lord Kaname. That charisma and flawless figure! Such beauty that no one else even comes close!
+枢様を見てごらんよ。|あの完璧な容姿にカリスマ性！|他を寄せ付けない圧倒的な美！=Just look at Lord Kaname. That charisma, flawless figure, and beauty! No one else even comes close!
 あのお方ならどんな願い事も|当り前のように叶えてしまうに|ちがいないよ！=If you were him, no matter what desires you might have, they’d surely come true as a matter of course!
 （あれ……？|結局枢センパイ最高話に|なっちゃってる……）=(Huh...? In the end, all he’s said has been words of praise for Kaname...)
 おいおい、英。|それじゃあ何のアドバイスにも|なってないだろ。=Oi, Hanabusa. You haven’t given her any advice.
@@ -6179,7 +6179,7 @@ Sleep well...
 ……まあ、いいか。=...Well, alright.
 
 # A75B8
-……そういえば|夢が叶う方法があるぞ。=...Come to think of it, there is a way for your dreams come true.
+……そういえば|夢が叶う方法があるぞ。=...Come to think of it, there is a way for your dreams to come true.
 え！？本当ですか？|架院センパイ！=What!? Really, Kain!?
 暁。|本当にそんな方法があるのか？=Akatsuki. Does such a way really exist?
 ああ。|『ナイトレインボウ』を|知ってるか？=Yeah. Do you know about the Night Rainbow?
@@ -6246,7 +6246,7 @@ Sleep well...
 若いのに、もうそんな心配|しているわけ？=Even though you’re still young, you’re already worrying about that?
 やっぱり、健康第一ですから。=Health comes first, after all.
 ふぅん、俺はあいにく|いつも健康なんで|当り前の事には答えづらいな。=Hmm, unfortunately for you I’m always healthy, so all I can tell you is the obvious stuff.
-逆に、健康にならなきゃ|いけない奴と話し合った方が|面白い話が聞けるかもな。=Though, if you talk to the someone who thinks a lot about their health, maybe you’ll hear something interesting.
+逆に、健康にならなきゃ|いけない奴と話し合った方が|面白い話が聞けるかもな。=Though, if you talk to someone who thinks a lot about their health, maybe you’ll hear something interesting.
 錐生なんてどうだ？|最近時々…苦しそうな表情を|しているしな。=What about Kiryu? He’s been looking a bit pained lately.
 いざとなったら、|とんでもない馬鹿力を|発揮するよな。=But when push comes to shove, he somehow comes out with this great power.
 あいつはあいつなりに|元気でいることに気を遣ってる|と思うけどな。=I think he cares about being healthy in his own way.
@@ -6296,7 +6296,7 @@ Sleep well...
 はっきりいって私って|成績もイマイチだし|これといった特技もないです。=To be honest, my grades leave something to be desired, and I don’t really have any special skills either.
 だから、何か自分らしい事が|できればなあって思って……=That’s why I thought it’d be good if I could do something that was kind of like me.
 <last>の人柄か……=Your personality, huh...
-そういえば、<last>と錐生を|見てると、<last>って結構|世話好きだよな。=Come to think of it, whenever I see you and Kiryu together, it makes me think that you seem pretty caring, <last>.
+そういえば、<last>と錐生を|見てると、<last>って結構|世話好きだよな。=Come to think of it, whenever I see you and Kiryu together, you seem to be pretty caring, <last>.
 そうですか？じゃあ|ボランティアとか福祉系の|仕事がいいんでしょうか？=Really? Then, maybe something in welfare or volunteering might be good...
 そうだな……|でも人に親身になっているって|いうより、趣向的な印象だな。=Maybe... But more than being empathetic, the impression you give is more like... hospitality?
 趣向的って……=Hospitality...?
@@ -6325,24 +6325,24 @@ Sleep well...
 生きる上で大事な事を、|全て含んでいるっていうか……=It includes basically everything that’s important to life.
 <last>……|どこか具合でも悪いのか？=<last>... Are you feeling ill, or something?
 ひどいです！|私は真剣なのに！=How mean! I’m being serious, here!
-おかしいな……|なにか物凄く優等生と|話している気がしてきた。=That’s weird... I suddenly feel like I’m talking to an honor student.
+おかしいな……|なにか物凄く優等生と|話している気がしてきた。=That’s weird... I suddenly feel like I’m talking to a honor student.
 具合が悪いのは俺の方か。|<last>、いいか？よく聞け。=Maybe I’m the one who’s off...|Alright, listen up <last>.
-人やヴァンパイアには|それぞれ器ってものがある。|器以上に水を注ぐとどうなる？=Humans and vampires each have their own receptacles. What would happen if that receptacle were to be filled with more water than it could hold?#tc better wording?
+人やヴァンパイアには|それぞれ器ってものがある。|器以上に水を注ぐとどうなる？=Humans and vampires each have their own receptacles. What would happen if the receptacle overflowed?#tc better wording?
 あふれます。=It’d overflow.
 そうだろう？|『そそう』はみっともない。|そういう事だ。わかったな？=Right? It’s unbecoming to pour any more. This is one of those cases. You get it?
 全然納得いきません！=Not one bit!
 
 # A3EA0 choose 好きな人のため
 好きな人のため……か。|それはとてもいい考えだな。=For the person you like, huh...? That’s good thinking.
-仕事を通して自分をしっかり|持っていれば、好きな人と|接する時も自信が持てます。=If you build yourself up through work, then you can have more confidence when interacting with the person you like.
+仕事を通して自分をしっかり|持っていれば、好きな人と|接する時も自信が持てます。=If you build yourself up, then you can have more confidence when interacting with the person you like.
 <last>は大人なんだな。=You’re pretty mature, aren’t you?
 いえ、そう考えてるだけで、|あんまり自信がなかったり|します。=No, just thinking about that, I feel like I’d never have that much confidence.
 そんな事ないだろう。=That’s not true.
 今やってるガーディアンだって|立派な仕事だ。=What you’re doing right now as a Guardian is a fine job.
-玖蘭寮長をはじめ、<last>が|一生懸命なのは皆認めてるし、|感謝もしている。=Everyone, including President Kuran, recognises and appreciates the hard work you’re doing.
+玖蘭寮長をはじめ、<last>が|一生懸命なのは皆認めてるし、|感謝もしている。=Everyone, including President Kuran, recognizes and appreciates the hard work you’re doing.
 まあ、もう１人のほうは|問題ありだが……=Well, the other guy is a problem, but...
 架院センパイにそんな事言って|もらえるなんて……|ありがとうございます！=To hear you say that... Thank you!
-なんだか自信が出てきました！=I feel more confidence now!
+なんだか自信が出てきました！=I feel more confident now!
 はっ…、|俺もしゃべりすぎたな。|ガラにもなく……=Heh... I said too much too. This isn’t like me...
 
 # A2628 choose 自分のため
@@ -6358,8 +6358,8 @@ Sleep well...
 でも、自分のするべき仕事を|真剣に考える奴はーー=But, people who think seriously about the things they should do...
 人、ヴァンパイアを問わずに|俺は尊敬するよ。=Be it human or vampire, I respect that.
 仕事を頑張るのはいいが、|何か具体的な目的でも|あるのか？=It’s good to work hard at your job, but is there any particular goal you have in mind?
-ヴァンパイアの人たちって|何をやっても優秀じゃない|ですか。=Vampires are people who can do who are capable of anything, right?
-人間の私も何かのエキスパート|になって、少しでも近づいて|分かり合えたら……=If a human like me could become an expert in something, then maybe we could come to understand each other more, even a little...
+ヴァンパイアの人たちって|何をやっても優秀じゃない|ですか。=Vampires are people who are capable of anything, right?
+人間の私も何かのエキスパート|になって、少しでも近づいて|分かり合えたら……=If a human like me could become an expert in something, then maybe we could understand each other more.
 そんな風に思います……|私の夢は、人とヴァンパイアが|共存できる世界を作る事です。=That’s what I was thinking... My dream is to create a world where humans and vampires can coexist.
 へえ、真剣なんだな。|頑張れよ。=Heh, you’re serious, aren’t you? Good luck.
 仕事熱心な架院センパイに|言ってもらえると、すごく|自信になります。=Having someone hard-working like you say that to me, I feel like I can really do it!
@@ -6375,7 +6375,7 @@ Sleep well...
 ああ、まあな。<last>は、|人間とヴァンパイアが|共存できる世界が夢なんだと。=Yeah, I guess. She said she dreams of a world where humans and vampires can live together.
 なんだってぇ？枢様のみならず|他のヴァンパイアとも仲良く|なりたいのか？この浮気者め！=What? It’s not just Lord Kaname, but you want to cozy up with other vampires as well? You cheater!
 違います！|そんなんじゃありません！=It isn’t like that!
-<last>……|こうやって嫉妬深い奴もいるし|共存なんて無理じゃないか？=<last>... Considering that there are these jealous types around, don’t you think coexistence would be impossible?
+<last>……|こうやって嫉妬深い奴もいるし|共存なんて無理じゃないか？=<last>... Considering that there are these jealous types around, wouldn't coexistence be impossible?
 わかったよ、わかった！|なんだかわからないけど|その意気込みだけは買うよ。=Alright, alright! I don’t really get it, but I’ll buy into your enthusiasm at least.
 
 # A9C30
@@ -6402,11 +6402,11 @@ Sleep well...
 そう。|枢が寮長であることは|誰も異論はないんだけどね。=Yeah. No one has any objections to Kaname being the president, but...
 実際にには僕だって、|事務的な仕事はそうとう|手伝っているわけだし。=I actually help with a lot of the practical work.
 いっそ僕が寮長でも同じ|じゃない、これ？って|思い始めたんだ。=So, if I were the president instead, nothing would really change, right? That’s what I started thinking.
-デイ･クラスとナイト･クラス|で寮長を決める人気投票みたい|な事をするといいと思うんだ。=I thought it’d be nice if the Day Class and Night Class had something like a popularity vote to decide on their dorm presidents.
+デイ･クラスとナイト･クラス|で寮長を決める人気投票みたい|な事をするといいと思うんだ。=I thought it’d be nice if the Day and Night Classes had a popularity vote to decide on their dorm presidents.
 <name>ちゃんは枢に入れる|よね。錐生くんは説得すれば|僕に味方してくれるかも。=I know that you’ll vote for Kaname. But maybe I could convince Kiryu to support me.
 （一条センパイの言う事って、|本気なのか冗談なのか|よくわからないな……）=(I can’t really tell if Ichijo is joking or if he’s actually being serious.)
 それが僕の夢かなー。|だって寮長って|かっこいいよね。=So, that’s my dream. Being the dorm president would be cool.
-でも、枢を近くで見て、僕は|その大変さを知ってるから|やっぱり副寮長でいいかな。=But, after watching Kaname, I’ve seen how tough it can be, so in the end I think staying vice-president might be for the best.
+でも、枢を近くで見て、僕は|その大変さを知ってるから|やっぱり副寮長でいいかな。=But, after watching Kaname, I’ve seen how tough it can be, so staying vice-president might be for the best.
 さて、僕の事はさておき|<name>ちゃんはどうなの？=Well, putting that aside, what about you, <name>?
 <name>ちゃんは|どんな風になりたいんだい？=What do you want to be like?
 私は……=I...
@@ -6415,8 +6415,8 @@ Sleep well...
 へぇ～、そうなんだ。|仙人ねぇ……面白い！=Hmm~, I see. Enlightened... Interesting!
 
 # A1EC0 choose みんなのリーダーになりたい
-リーダーかあ。|興味はあるけど、僕は今その|ポジションじゃないからね。=A leader, huh? I’m interested in that too, but I’m not a position to be able to help you.
-相談するなら、|枢か理事長だね。|ここのリーダー格は。=If you wanted to consult someone, there’s always Kaname, or the Headmaster. They’re the leaders around here.
+リーダーかあ。|興味はあるけど、僕は今その|ポジションじゃないからね。=A leader, huh? I’m interested in that too, but I’m not in a position to be able to help you.
+相談するなら、|枢か理事長だね。|ここのリーダー格は。=If you wanted to consult someone, try Kaname, or the Headmaster. They’re the leaders around here.
 どちらかに聞くなら枢か……|そうでしょ？=If you were going to ask one of them, I think it’d have to be Kaname... right?
 あはは……そうですね。=Ahaha... You’re right.
 じゃあ、枢に会ってくる？=So, are you going to see Kaname?
@@ -6489,20 +6489,20 @@ Sleep well...
 でも、一条センパイには|他のヴァンパイアみたいな|怖さや鋭さを感じないし。=But, Ichijo, you’re not like other vampires. You don’t seem scary at all.
 人間と比べても|全然違いがないっていうか。=If I had to compare you to a human, I’d say you were no different from us.
 ありがとう、<name>ちゃん。|それ、僕にとっては褒め言葉|だよ。=Thank you, <name>. I’ll take that as a compliment.
-気品やきらびやかさがあって|高貴なオーラをまといつつも|暖かみがありますよね。=You have a dazzling elegance and grace, but even with that aura of nobility, you still have a warmth to you.
+気品やきらびやかさがあって|高貴なオーラをまといつつも|暖かみがありますよね。=You have a dazzling elegance, but even with that aura of nobility, you still have a warmth to you.
 だめだよ、僕をおだてちゃ|調子にのっちゃうよ？=Stop it, if you flatter me so much, I’ll get a big head, you know?
 わかりました！|一条センパイ！=I get it now, Ichijo!
-社交的にするコツは、|相手の言葉を信じて、|調子に乗る事なんですね？=The trick to being sociable is to believe what the other person is saying and get swept up in the moment, right?
+社交的にするコツは、|相手の言葉を信じて、|調子に乗る事なんですね？=The trick to being sociable is to get swept up in what the other person is saying, right?
 あはは……やられたな。|僕を手玉に取るなんて|なかなかやるじゃない？=Ahaha... You got me. I guess I must be easy to manipulate?
 えへへ。=Ehehe.
-でも<name>ちゃん。|あまりおイタが過ぎると危ない|目に遭うかもしれないよ？=But, <name>, it’s dangerous to play too many pranks, you know. You might experience something unpleasant in response...
+でも<name>ちゃん。|あまりおイタが過ぎると危ない|目に遭うかもしれないよ？=But, <name>, it’s dangerous to play too many pranks. You might experience something unpleasant in response...
 大丈夫です。|私、一条センパイを|信じてますから。=It’s fine. I trust you, Ichijo.
 フフ。|<name>ちゃんには負けたよ。=Hehe. I lose, <name>.
 
 # A8E7C choose 周りに優しくするコツ
 一条センパイは|誰にでも優しいですよね。=Ichijo, you’re kind to everyone.
 え？そうかな？|自分じゃあまり意識して|いないんだけど。=Huh? You think so? I’m not really that aware of myself.
-なんだか他の皆さんとは|違うっていうか……=You’re kind of... different to the rest of them...
+なんだか他の皆さんとは|違うっていうか……=You’re kind of... different than the rest of them...
 そんな事ないよ。|みんな優しい|いい子達ばかりだよ。=That’s not true. They’re all kind, good people.
 ただ、みんなちょっぴり|シャイなだけだよ。|藍堂以外はね、フフ。=But, they’re all a bit shy. Other than Aido, hehe.
 あはは、そうなんですか。=Ahaha, I never would have guessed.
@@ -6512,7 +6512,7 @@ Sleep well...
 あまり他人に対して|怒ったりしない、とか……=Like, you never seem to get angry at other people...?
 ああ、そういえばそうだね。|僕は人に対して滅多な事じゃ|怒らないからね。=Ah, I guess you could say that. I don’t tend to shout at anyone.
 やっぱりすごいです。|私と零なんか、しょっちゅう|ケンカばっかりしてますから。=You really are amazing. Me and Zero always seem to be getting into fights.
-でも、|それも仲がいいからでしょ。|仲がいいからケンカする。=But that’s also a sign of that you have a good relationship. You fight because you’re so close.
+でも、|それも仲がいいからでしょ。|仲がいいからケンカする。=But that’s also a sign that you have a good relationship. You fight because you’re so close.
 うん、|そういうの、好きだなぁ。=Yeah, that’s got to be love.
 そうなんでしょうか……|枢センパイとは私、|ケンカなんてしませんけど。=Maybe you’re right... But Kaname and I never fight.
 ケンカをする仲のよさと、|ケンカをしない仲のよさが|あるってことだね。=You might bicker because you’re close, but the same could be said for not fighting too.
@@ -6531,13 +6531,13 @@ Sleep well...
 もう……|一条センパイには負けました。=Sigh... I can’t win against you.
 
 # A8588 choose 変わり者と付き合うコツ
-お互い、それは悩み所だよね。=It’s takes both parties, that’s the problem.
+お互い、それは悩み所だよね。=It takes both parties, that’s the problem.
 そうですよね……=Yeah, you’re right...
 それで、<name>ちゃんのいう|変わり者って誰の事かな？=So, who are you calling an oddball, <name>?
 それは……一条センパイこそ|誰の事ですか？=That’s... I could ask you the same thing.
 フフフ……=Hehehe...
 アハハ……=Ahaha...
-笑ってごまかしてもダメだよ。|でも、変わってるといえば|みんな変わってるからね。=It’s no use laughing or trying to avoid the question. But, talking of different, everyone’s unique.
+笑ってごまかしてもダメだよ。|でも、変わってるといえば|みんな変わってるからね。=It’s no use laughing or trying to avoid the question. But, speaking of different, everyone’s unique.
 そうですね。=That’s true.
 でも、本当に心が読めないのは|やっぱりあの人だよね。=Though, maybe they’re just bad at being able to read the situation.
 そうですねー。=You might be right.
@@ -6560,7 +6560,7 @@ Sleep well...
 
 # A62B0
 <name>ちゃんが真剣なのは|よくわかったけど……=I know that you take things seriously, <name>...
-どうしてそんなに色々な事を|知りたいのかな？=So I can help but wonder, why do you want to know about so many things?
+どうしてそんなに色々な事を|知りたいのかな？=So I can't help but wonder, why do you want to know about so many things?
 色々な事を知っていれば、|ヴァンパイアの人とも対等に|お話ができるかなって。=If I know about all sorts of things, I’ll be able to talk to vampires on equal footing.
 私、本当の夢は|人とヴァンパイアが平和に共存|出来る世界を作る事なんです。=My dream is to make a world where humans and vampires can coexist in peace.
 理事長の受け売りってわけじゃ|ないですけど。=And, that’s not just me reciting from the headmaster.
@@ -6592,7 +6592,7 @@ Sleep well...
 そんな事気にしないで！|<name>ちゃんの夢なんだから|きっと実現するよ。=Don’t you stress over that, <name>! I know you’ll find a way!
 また一条さんは……|根拠ないでしょ？=How can you be so sure, Ichijo?
 もちろん！=I just am!
-やっぱり……@A55A8=Of course.
+やっぱり……@A304C＝Of course.
 でも、何かを成し遂げるには|１人の力だけじゃ、とても足り|ない事が多いかもしれないね。=However, there are many things which may never be accomplished by a single person alone.
 じゃあ……|誰かの力を借りれば|いいんですか？=So... I should get help from someone else?
 そう。|自分に協力してくれる相手を|探すんだよ。=Exactly. You should find people who will help you to realize your dream.
@@ -6712,9 +6712,9 @@ Sleep well...
 # A3F00
 私、女優になりたいです！=I’d be an actress!
 ふうん……=Truly?
-じゃあ、３通りの|『ありがとうございます』を|やってみてよ。=Give it a shot. Try thanking me three different ways.
+じゃあ、３通りの|『ありがとうございます』を|やってみてよ。=Give it a shot. Try thanking me in three different ways.
 ええ？そんないきなり……|ええと……=Right now? You didn’t give me any warning... Um...
-ダメだね。女優を目指すなら、|突然の要求にも応じないと。=That won’t do. If you hope to become an actress, you must be able to respond to requests at a moment’s notice.
+ダメだね。女優を目指すなら、|突然の要求にも応じないと。=That won’t do. If you hope to become an actress, you must be able to respond at a moment’s notice.
 ただ『女優になりたい』って|言うだけなら、誰でも出来る事|だからね。=If it were as easy as saying “I want to be an actress," anyone could do it.
 風紀委員は、まだまだだね。=You’re not there yet, Prefect.
 撮影スタジオで有名女優を|見かけるけど、人間ながら|いいオーラを出してるよ…。=When I see a famous actress in the photo studio, they always let off this almost inhuman aura.
@@ -6808,9 +6808,9 @@ Sleep well...
 # A8EF4
 （次の日の朝ーー|私は理事長室を訪ねていた）=(The next morning I went to see the headmaster.)
 ナイトレインボウ？=A Night Rainbow?
-はい。夜に出る|神秘的な虹だって聞いて……=Yes. I heard that I was a mysterious rainbow that comes out at night, but...
+はい。夜に出る|神秘的な虹だって聞いて……=Yes. I heard that there is a mysterious rainbow that comes out at night, but...
 僕も聞いた事はあるよ、|キレイなナイトレインボウの話|ロマンティックだよね～。=I’ve heard that too. The tale of a beautiful Night Rainbow, how romantic~
-理事長なら色々な事を知ってる|から、何か話が聞けるかもって|思ったんですけど……=Since you know about all sorts of weird things, I was wondering you might be able to tell me anything.
+理事長なら色々な事を知ってる|から、何か話が聞けるかもって|思ったんですけど……=Since you know about all sorts of weird things, I was wondering if you might be able to tell me anything.
 う～ん。|愛娘が頼ってくれるのに|申し訳ないんだけど……=Mmm... Even though my cute daughter is relying on me, I feel terrible.
 僕も実際に見たことはないから|昔読んだ文献を頼りにするしか|ないんだけどね……=I’ve never actually seen one myself, so all I can do is go off of what I’ve read before.
 なんでもいいんです。|知ってる事があったら|教えてほしいんです。=Anything is fine. If you know something, please tell me.)
@@ -6826,7 +6826,7 @@ Sleep well...
 ああ、ごめんごめん。|つまり、必要なのは光と水。=Aaah, sorry. Basically, what you need is light and water.
 光と……水？=Light and... water?
 そう。|虹は雨上がりや水をまいた時に|見られる事が多いだろう？=Yup. You often see rainbows after it’s rained or when it’s wet, right?
-この時期だと月の光の量に|ついては問題ないと思うんだ。|あとは雨でも降れば……=At this time of year, I don’t think the amount of moonlight should be an issue, so all that’s left is whether it’ll rain...
+この時期だと月の光の量に|ついては問題ないと思うんだ。|あとは雨でも降れば……=At this time of year, the amount of moonlight shouldn't be an issue, so all that’s left is whether it’ll rain...
 そうか！じゃあ多くの水を|まけばナイトレインボウが|出るかもしれないんですね？=I see! So if it’s really wet, then a Night Rainbow might appear?
 うん。|原理はそういう事だと思うよ。|でも……=Yeah. I think that’s the main principle, but...
 わかりました！|ありがとうございます。|理事長！=I understand! Thank you, Headmaster!

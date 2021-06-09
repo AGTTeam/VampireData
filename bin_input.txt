@@ -64,7 +64,7 @@
 <ch1>はい、そうします<00><07><0A><ch2>いえ、私の本当の夢は……<00><08>=<ch1>“Yes, I will.”<00><07><0A><ch2>“Actually, my real dream is...”<00><08>
 <ch1>勉学を極める<00><09><0A><ch2>商売を極める<00><0A><0A><ch3>人間関係を極める<00><0B>=<ch1>“Book smarts.”<00><09><0A><ch2>“Business sense.”<00><0A><0A><ch3>“People skills.”<00><0B>
 <ch1>お嫁さん<00><0D><0A><ch2>支配者<00><0E><0A><ch3>カリスマ<00><0F>=<ch1>“A wife.”<00><0D><0A><ch2>“A ruler.”<00><0E><0A><ch3>“Charismatic.”<00><0F>
-<ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02><0A><ch3>賢くなりたい<00><03>=<ch1>“I want to gain a lot of experience.”<00><01><0A><ch2>“I want to know about a lot of| things.”<00><02><0A><ch3>“I want to be smart.”<00><03>
+<ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02><0A><ch3>賢くなりたい<00><03>=<ch1>“I want to gain a lot of experience.”<00><01><0A><ch2>“I want to know about a lot of|things.”<00><02><0A><ch3>“I want to be smart.”<00><03>
 <ch1>色んな経験を積みたい<00><01><0A><ch2>賢くなりたい<00><03>=<ch1>“To gain a lot of experience.”<00><01><0A><ch2>“To be smart.”<00><03>
 <ch1>色んな経験を積みたい<00><01><0A><ch2>色んな事を知りたい<00><02>=<ch1>“To gain a lot of experience.”<00><01><0A><ch2>“To know about a lot of things.”<00><02>
 <ch1>色んな経験を積みたい<00><01>=<ch1>“To gain a lot of experience.”<00><01>
@@ -73,11 +73,11 @@
 <ch1>セラピスト<00><12><0A><ch2>作家<00><0A><0A><ch3>旅人<00><0B>=<ch1>“To be a therapist.”<00><12><0A><ch2>“To be a writer.”<00><0A><0A><ch3>“To be a traveler.”<00><0B>
 <ch1>お金<00><0E><0A><ch2>好きな人の気持ち<00><0F><0A><ch3>人望<00><10>=<ch1>“Money.”<00><0E><0A><ch2>“To have the person I like love me|back.”<00><0F><0A><ch3>“To be popular.”<00><10>
 <ch1>藍堂センパイはどう思います？<00><00><0A><ch2>架院センパイはどう思います？<00><01>=<ch1>“What do you think, Aido?”<00><00><0A><ch2>“What do you think, Kain?”<00><01>
-<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01><0A><ch3>健康でいたい<00><02>=<ch1>“I want to broaden my knowledge by | meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01><0A><ch3>“I want to stay healthy.”<00><02>
+<ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01><0A><ch3>健康でいたい<00><02>=<ch1>“I want to broaden my knowledge by|meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01><0A><ch3>“I want to stay healthy.”<00><02>
 <ch1>ライフワークを見つけたい<00><01><0A><ch2>健康でいたい<00><02>=<ch1>“I want to find my life’s work.”<00><01><0A><ch2>“I want to stay healthy.”<00><02>
 <ch1>いろんな人と接して|見聞を広げたい<00><00><0A><ch2>ライフワークを見つけたい<00><01>=<ch1>“I want to broaden my knowledge by|meeting all kinds of people.”<00><00><0A><ch2>“I want to find my life’s work.”<00><01>
 <ch1>ライフワークを見つけたい<00><01>=<ch1>“I want to find my life’s work.”<00><01>
-<ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00>ヂ<0A><ch2>“Actually, my real dream is...”<00><04>
+<ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00><0A><ch2>“Actually, my real dream is...”<00><04>
 <ch1>はい、そうします<00><07><0A><ch2>いえ、本当の夢は……<00><08>=<ch1>“Yes, I will.”<00><07><0A><ch2>“Actually, my real dream is...”<00><08>
 <ch1>特技を生かしたもの<00><09><0A><ch2>頭脳を生かしたもの<00><0A><0A><ch3>人柄を生かしたもの<00><0B>=<ch1>“Something that will make use of my|skills.”<00><09><0A><ch2>“Something that I can use my |brain for.”<00><0A><0A><ch3>“Something that fits my|personality.”<00><0B>
 <ch1>世の中のため<00><0D><0A><ch2>好きな人のため<00><0E><0A><ch3>自分のため<00><0F>=<ch1>“For society.”<00><0D><0A><ch2>“For the person I like.”<00><0E><0A><ch3>“For myself.”<00><0F>
@@ -86,7 +86,7 @@
 <ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to become a leader.”<00><01>
 <ch1>仙人になりたい=<ch1>“I want to be enlightened.”
 <ch1>はい、そうします<00><04><0A><ch2>いえ、本当の夢は……<00><05>=<ch1>“Yes, I will.”<00><04><0A><ch2>“Actually, my real dream is...”<00><05>
-<ch1>人間の事<00><09><0A><ch2>ヴァンパイアの事<00><0A><0A><ch3>色んなウラの事<00><0B>=<ch1>“About humans.”<00><09><0A><ch2>“About vampires.”<00><0A><0A><ch3>“About the flip side of all sorts of| things.”<00><0B>
+<ch1>人間の事<00><09><0A><ch2>ヴァンパイアの事<00><0A><0A><ch3>色んなウラの事<00><0B>=<ch1>“About humans.”<00><09><0A><ch2>“About vampires.”<00><0A><0A><ch3>“About the flip side of all sorts of|things.”<00><0B>
 <ch1>社交的にするコツ<00><0D><0A><ch2>周りに優しくするコツ<00><0E><0A><ch3>変わり者と付き合うコツ<00><0F>=<ch1>“Tips on socializing.”<00><0D><0A><ch2>“Tips on being kind.”<00><0E><0A><ch3>“Tips on getting to know someone who’s a bit different.”<00><0F>
 <ch1>一条センパイはどう思います？<00><00><0A><ch2>支葵センパイはどう思います？<00><01>=<ch1>“What do you think, Ichijo?”<00><00><0A><ch2>“What do you think, Shiki?”<00><01>
 <ch1>物知りな人になりたい<00><00><0A><ch2>キレ者になりたい<00><01><0A><ch3>心身ともに美しい人になりたい<00><02>=<ch1>“To become knowledgeable.”<00><00><0A><ch2>“To become sophisticated.”<00><01><0A><ch3>“To become beautiful.”<00><02>
@@ -5110,7 +5110,7 @@ Sleep well...
 枢がちゃんと|叱っておいたから。=Aido was thoroughly told off by Kaname.
 
 # A445C
-ここから先は通さんぞ～！|ニョロー=This is the end of the line for you~!| *Hisss~*
+ここから先は通さんぞ～！|ニョロー=This is the end of the line for you~!|*Hisss~*
 えっ、何、首が伸びてる！？=Ah- What-- Its neck is getting longer!?
 へぇ～、おもしろい手品だね。|ねぇ、君。仕掛けは|どうなってるの？教えてよ。=Wow~ That’s an interesting trick. Hey, you. How does it work? Can you show me?
 えっ、手品って……|いや、その……いいです、|サヨナラ！=Huh, the trick...? No, that’s... never mind-- Goodbye!
@@ -6571,7 +6571,7 @@ Sleep well...
 あれ？風紀委員に一条さん。|珍しい取り合わせだね。=Oh? The prefect and Ichijo. An unusual combination.
 支葵！聞いてよ！|僕は感動しちゃったよ！=Shiki! Listen to this! I was so moved!
 <name>ちゃんってば、真剣に|ヴァンパイアと人間の平和な|共存を夢見てるんだよ！=<name> has been earnestly dreaming of a peaceful coexistence between vampires and humans!
-へえ……理事長みたい。|それは大変な事だね。=Hm? ...Just like the Headmaster.| That’s something else.
+へえ……理事長みたい。|それは大変な事だね。=Hm? ...Just like the Headmaster.|That’s something else.
 でも私、真剣なんです！=But, I’m serious!
 そうだよ！|その心意気が大事なんだよ！|そう思わない？支葵。=Right! Having spirit is important! Don’t you think, Shiki?
 なんで２人とも|そんなに真剣なのか|わからないけど……=I don’t get why you two are so serious...
@@ -6592,7 +6592,7 @@ Sleep well...
 そんな事気にしないで！|<name>ちゃんの夢なんだから|きっと実現するよ。=Don’t you stress over that, <name>! I know you’ll find a way!
 また一条さんは……|根拠ないでしょ？=How can you be so sure, Ichijo?
 もちろん！=I just am!
-やっぱり……@A304C＝Of course.
+やっぱり……@A55A8＝Of course.
 でも、何かを成し遂げるには|１人の力だけじゃ、とても足り|ない事が多いかもしれないね。=However, there are many things which may never be accomplished by a single person alone.
 じゃあ……|誰かの力を借りれば|いいんですか？=So... I should get help from someone else?
 そう。|自分に協力してくれる相手を|探すんだよ。=Exactly. You should find people who will help you to realize your dream.
@@ -7667,9 +7667,9 @@ Sleep well...
 
 # A9814 Shiki
 風紀委員か。|見回りって感じじゃないね……|何してるの？=Prefect, you don't seem to be on your normal patrol. What are you doing?
-さっきのって……何？|本気？それともウケねらい？=About earlier... Is it true or were you just aiming for laughs?
+さっきのって……何？|本気？それともウケねらい？=About earlier... Was that for real, or were you just playing for laughs?
 どっちでもないですっ。|あれは誤解なんです。=Neither! It was just a misunderstanding.
-街で偶然迷子の子供に|クライングローズをもらった|後にインタビューされて……=
+街で偶然迷子の子供に|クライングローズをもらった|後にインタビューされて……=It was just a coincidence that I got a Crying Rose from a boy I met in town, and then got interviewed...
 ふ～ん、偶然ね。|じゃ、クライングローズの|意味って知ってる？=A coincidence, hm? Well, do you know the significance of the Crying Rose?
 いいえ。あのバラ自体|初めて見たから……=No. That was the first time I had ever even seen that rose.
 ホントに知らない？=You really don't know?

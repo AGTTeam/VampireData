@@ -6867,7 +6867,7 @@ Sleep well...
 ど、どうしてこんな所に……=W-What were you doing there...?
 それはこっちのセリフだよ！=That’s my question!
 そこでお前を見つけて、|からかってやろうと近づいたら|こんな目に逢わされるとは……=I saw you over here and got closer thinking I might play a prank, but to have it end up like this...
-バケツで頭から水をかけられる|なんて枢様にさえされた事は|ないぞ！近い事はあるけどな！=I’ve never been splashed by Lord Kaname making me balance a bucket on my head! Though something like that did happen.
+バケツで頭から水をかけられる|なんて枢様にさえされた事は|ないぞ！近い事はあるけどな！=Lord Kaname made me balance a bucket on my head, but it never resulted in me getting splashed by water!
 ご、ごめんなさい……|でも、こっそり近づいてきた|藍堂センパイも悪いんじゃ……=I-I’m sorry...|But, it is also your fault for getting close.
 う……|ま、まあそれはいいとして、|どうしてこんな事を？=Ngh... Well, setting that aside, what are you doing?
 私……ナイトレインボウが|見たいんです。=I... want to see a Night Rainbow.
@@ -6937,8 +6937,8 @@ Sleep well...
 
 # AB87C
 （次の日ーー）=(The next day...)
-（私は長いホースを手に|学園の校舎の前に立っていた）=(I was stood in front of the school building with a long hose in hand.)
-我ながらいいアイデアね。=Now this is was a bright idea, if I do say so myself.
+（私は長いホースを手に|学園の校舎の前に立っていた）=(I was standing in front of the school building with a long hose in hand.)
+我ながらいいアイデアね。=Now this is a bright idea, if I do say so myself.
 これで木の上から水をまけば|ナイトレインボウが見れる|はず。=If I spray water from the top of a tree, I’m sure I’ll see a Night Rainbow.
 （私はナイトレインボウが|見たい！ナイトレインボウを|見ればきっと……）=(I really want to see one! If I see a Night Rainbow, then surely...)
 （私は目の前にある高い木を|登り始めた……）=(I started climbing the tall tree in front of me.)
@@ -7056,7 +7056,7 @@ Sleep well...
 # AA6AC
 （私の目の前には、|神秘的な光をたたえた７色の|虹がかかっていたーー）=(Before my very eyes, a seven-colored rainbow was hanging in the sky radiating an ethereal light.)
 キレイ……=It’s so pretty.
-（いつの間にか集まっていた|みんなも、夜の虹を見て|その美しさに見とれている）=(Before I realized, everyone had gathered to look at the Night Rainbow and had been enchanted by its beauty.)
+（いつの間にか集まっていた|みんなも、夜の虹を見て|その美しさに見とれている）=(Before I realized, everyone gathered to look at the Night Rainbow and had been enchanted by its beauty.)
 これがナイトレインボウ。|なんて美しい……=The Night Rainbow, how exquisite...
 まさか本当に|見られるなんてな。=I can hardly believe my eyes.
 すごい……=Amazing...
@@ -7072,7 +7072,7 @@ Sleep well...
 <name>ちゃんの想いが|天に通じたんだよ、きっと！=<name>’s prayers were no doubt heard by the heavens!
 <name>の願い……|確かにそうかもね。=<name>’s prayers... Yes, that must be it.
 あんなに頑張ってれば|誰だって願いを叶えたくなる、|か……=As determined as she was, who wouldn’t want to grant her wish?
-的外れな事をしたり変に|熱くなって変なヤツだけど、|少しは認めてやろうかな。=She can be oddly passionate about the strangest things, and her ideas may be a little off the wall, but I’ll admit she has a certain charm.
+的外れな事をしたり変に|熱くなって変なヤツだけど、|少しは認めてやろうかな。=She can be passionate about the strangest of things, but I’ll admit she has a certain charm about her.
 なんだ、英。|<last>に対する考え方が|変わったのか？=Really, Hanabusa? Has your opinion of <last> changed?
 す、少しだけだよ！|暁や支葵だってそうだろ？=O-Only a little! What about you, Akatsuki? And you Shiki, you agree, don’t you?
 ああ、そうだな……|一生懸命で尊敬できるやつだよ|<last>は。=I agree, yeah... That <last>, she’s someone who never gives up. I can respect that.
@@ -7330,8 +7330,8 @@ Sleep well...
 
 # A3F60
 （わずかな間、学園中に|幸せな時間をもたらした|ナイトレインボウーー）=(The Night Rainbow came to the school for only a short while, but it brought with it a moment of pure bliss.)
-（虹が消え、みんなが帰って|からも、私はいつまでも|虹のあった場所を見ていた）=(Even after the rainbow had left the sky and everyone had returned, I continued to stare up at where the rainbow had been.)
-（胸の高鳴りはまだ続いて|いる私は夜の虹に与えられた|幸せの余韻に浸っていたーー）=(My heart continued to throb in my chest as I basked in the lingering memory of the Night Rainbow and the joy it brought me.)
+（虹が消え、みんなが帰って|からも、私はいつまでも|虹のあった場所を見ていた）=(Even after everyone had left, I continued to stare up at where the rainbow had been in the sky.)
+（胸の高鳴りはまだ続いて|いる私は夜の虹に与えられた|幸せの余韻に浸っていたーー）=(My heart continued to throb as I basked in the lingering memory of the Night Rainbow and the joy it brought me.)
 いけない、|そろそろ帰らないと。=It’s late. I really need to go home.
 （私は校舎を後にしようと|歩き始めた。その時ーー）=Just as I started walking to leave the school buildingーー)
 あれ？なに、これ……？=Huh? What’s this?
@@ -7345,7 +7345,7 @@ Sleep well...
 久々の外出だぁーー！！=Aah, it’s been a while since I last went out!
 （今日は土曜日|理事長にお使いを頼まれて|私は外の世界へ）=(Since it’s a Saturday today, I was asked by the headmaster to run a few errands.)
 （黒主学園は校則で|外出が制限されている）=(Leaving the school grounds is usually prohibited.)
-（だから、こうして|学園を出て街へやってくるのは|貴重な時間なのだ）=(So, being about to come to town like this is precious.)
+（だから、こうして|学園を出て街へやってくるのは|貴重な時間なのだ）=(So, being able to come to town like this is precious.)
 えーと、理事長に頼まれた|買い物はこれで全部かな。=Let’s see... This should be everything that the headmaster asked me to buy.
 （お使いを終え、あとは|久々の街を満喫するのみ！）=(Now that my chores are finished, all that’s left is to enjoy the rest of the day in town!)
 （すっかりくつろいだ気分で|羽根を伸ばそうとした時ーー）=(As I was enjoying the chance to let my hair down--)
@@ -7368,7 +7368,7 @@ Sleep well...
 お母さんとは|どこではぐれたの？=Do you know where your mom went?
 わかんない……=I don’t know...
 お母さんはここに|用事があってきたのかな？=Did she have some sort of business here?
-（何だか不思議な子……|さっきまで泣いていたのに|今はすごく落ち着いてる）=(There was something strange about him...  For someone who had been crying so much earlier, he seemed very calm now.)
+（何だか不思議な子……|さっきまで泣いていたのに|今はすごく落ち着いてる）=(There was something strange about him... For someone who had been crying earlier, he seemed very calm now.)
 （それに、この建物……|気味が悪くて|妙な胸騒ぎがしてきた）=(Not to mention, the creepy building we were in... The whole thing gave me a bad feeling.)
 お姉ちゃん、こっち！=This way, Miss!
 えっ？|ちょ、ちょっと待って！=Huh? W-Wait!
@@ -7393,13 +7393,13 @@ Sleep well...
 （その笑顔にほだされ|私はバラを胸のポケットに|刺した）=(Moved by his innocent smile, I placed the rose in my chest pocket.)
 素敵なバラをありがとう！|大切にするね。=Thank you for the lovely rose! I’ll treasure it.
 （無事にお母さんと再会できた|子供と別れ、私は再び|街の散策を始めた）=(Having safely returned the child to his mother, I said my goodbyes and headed back into town.)
-（最近、街では悲惨な|殺人事件が多発していて、|どこか活気がない）=(There have been many cases of tragic killings lately, and the town seemed to be lacking it’s usual vibrancy.)
+（最近、街では悲惨な|殺人事件が多発していて、|どこか活気がない）=(There have been many tragic killings lately, and the town seemed to be lacking it’s usual vibrancy.)
 （しかも、殺人事件の犯人は|ヴァンパイアではないか……）=(Plus, there seemed to be some speculation that the culprit...)
 （……という憶測が流れている|ようだ）=(was actually a vampire...)
 （街全体が疑心暗鬼に|覆い尽くされ、|私は少し悲しくなった）=(The entire town was steeped in suspicion and distrust. I couldn’t help but feel a bit sad.)
 悪いヴァンパイア|ばかりじゃないのに……=Not all vampires are bad...
 （ポツリとつぶいた時ーー|背中をポンと叩かれた）=(As I mumbled to myself, something hit me on the back.)
-（振り返るとーー|女性のテレビレポーターが|私にマイクを向けていた）=(When I turned around, I was confronted by female news reporter poking her microphone at me.)
+（振り返るとーー|女性のテレビレポーターが|私にマイクを向けていた）=(When I turned around, I was confronted by a female news reporter poking her microphone at me.)
 街頭インタビューに|ご協力くださ～い。=I’d like to ask you a few questions.
 えっ？|あ、あの、私は……！=Huh? U-Um, I--!
 最近、頻発している殺人事件は|ご存知ですか？=Are you aware of the recent homicides?
@@ -7409,8 +7409,8 @@ Sleep well...
 やはり、犯人は|吸血鬼だと思いますか？=Do you agree that a vampire is behind the killings?
 ……思いません。=...I don’t think so.
 えっ？でも、巷では|吸血鬼犯人説が一番有力と|考えられていますよ？=Huh? But, the vampire-culprit theory is the one gaining the most traction right now, you know?
-そ、そんなの|あるわけないです！=T-There’s no way that could the case!
-現実離れしすぎてます。|吸血鬼なんかいるわけ|ないですよ……=It’s so unrealistic. It’s not live vampires even exist, right?
+そ、そんなの|あるわけないです！=T-There’s no way that could be the case!
+現実離れしすぎてます。|吸血鬼なんかいるわけ|ないですよ……=It’s so unrealistic. It’s not like vampires even exist, right?
 万が一存在したとしても、|あんな残忍なことしないと|思います！=And even if they did exist, I don’t think they’d do such horrible things!
 私はただ噂に対する|一般論を言っただけで……=I was only summarizing what the general consensus was...
 （思わず声を荒げた私を見て|レポーターは驚いていた）=(The reporter seemed a little taken aback by my unintentionally passionate reply.)
@@ -7435,12 +7435,12 @@ Sleep well...
 わ、わかりません！=I-I don’t know!
 もしこれが本当に|吸血鬼の仕業だったら、|おそろしいですよね？=If it really turned out to be the work of a vampire, wouldn’t that be terrifying?
 まぁ……|もしもそうだとすれば……|こわいとは思いますけど。=Well... If that really was the case, then it would be scary, yes...
-理由はどうあれ、|犯人は許し難いですよね？=No matter what reason they might have, it’d be hard to forgive the culprit, isn’t it?
+理由はどうあれ、|犯人は許し難いですよね？=No matter what reason they might have, it’d be hard to forgive the culprit, right?
 それは、はい！|許せませんね。=Y-Yes! I couldn’t forgive them.
 ここまで残忍な犯行を|行えるのは、一般的に見ても|吸血鬼だとは言えませんか？=Isn’t it generally thought that vampires would be capable of committing such brutal crimes?
 一般の人々にこのような|殺人者が現れるとは|考えたくもありませんし。=It’s hard to think that such a murderer could be a member of the general public.
 時に|噂には真実が隠れている場合も|少なくありませんが……=Many rumors often turn out to be true.
-世間では、その残忍ぶりから|犯人は吸血鬼なのでは？という|噂がまん延していますがーー=“Having such a violent nature, the culprit must be a vampire.”|Such rumours are spreading like wildfire.
+世間では、その残忍ぶりから|犯人は吸血鬼なのでは？という|噂がまん延していますがーー=“Having such a violent nature, the culprit must be a vampire.”|Such rumors are spreading quickly.
 どう思いますか？|やはり、犯人は吸血鬼だと|思いますか？=What do you think? Do you agree that a vampire is behind the killings?
 もしも本当に吸血鬼が|存在するならばーー=If vampires really existed, then...
 悪い吸血鬼ばかりじゃ|ないと思います。=I don’t think that all of them would be bad.
@@ -7455,19 +7455,19 @@ Sleep well...
 やっぱり、あそこまで|言っちゃったのは|まずかったかも……=I might have said too much...
 まぁ、元気出してよ、<name>。|ご飯でも食べよ。ね？=Cheer up, <name>. Why don’t you eat something?
 おっと、ニュース速報だ。=Oh, it’s breaking news.
-臨時ニュースをお知らせ|します。最近街で多発している|連続殺人事件の続報です。=We’re coming to you live with a special broadcast. There has been a new development related to the string of recent serial killings.
+臨時ニュースをお知らせ|します。最近街で多発している|連続殺人事件の続報です。=We are live with a special broadcast. There has been a new development related to the recent serial killings.
 たった今入ってきた|情報によりますとーー=According to the information we have just received--
 またしても、致死量相当の|血を吸われた変死体が|発見されたとのことです。=It appears that another corpse drained of blood has been discovered.
 えっ！？=What!?
 現場には犯人の遺留品と|思われるバラが|残されていた模様。=A rose, believed to have belonged to the killer, was left at the scene.
-そのバラは非常に珍しい品種で|伝説の薔薇、クライングローズ|だということです。=The rose is an extortionary rare, mythical breed known as a Crying Rose.
+そのバラは非常に珍しい品種で|伝説の薔薇、クライングローズ|だということです。=The rose is an extraordinary rare, mythical breed known as a Crying Rose.
 <name>、お前……|胸に刺してるそのバラ……=<name>...|That rose on your chest...
 あっ！テレビの中の|<name>もクライングローズを|胸に刺してる！=Ah! You were also wearing that rose on TV!
 （犯人を示す伝説のバラを|胸に刺した私の姿が|テレビ画面に映し出された）=(There I was on TV, wearing the mythical rose which was the calling card of the killer.)
 （それだけじゃない……）=(And that’s not all...)
 （まるで私が犯人だと|決めつけるかのように|私のインタビューが流された）=(My interview was being shown as if it had already been determined that I was the culprit.)
 ど、どうしよう……|これじゃ誤解されちゃう……=W-What should I do...? There’s going to be a big misunderstanding...
-誤解されても仕方ねぇな。そん|なバラ胸に刺してヴァンパイア|をかばったりするからだ。=There’s nothing anyone can do about that. You did go and defend vampires with that rose on your chest, after all.
+誤解されても仕方ねぇな。そん|なバラ胸に刺してヴァンパイア|をかばったりするからだ。=There’s nothing anyone can do about that. You defended vampires with that rose on your chest, after all.
 ボクは<name>を信じてるよ！|<name>はあんなことを|できる子じゃないんだ！=I believe in you, <name>! There’s no way you could do such a thing!
 大丈夫！|人の噂は何とやらでさぁ、|みんなすぐに忘れちゃうよ！=It’ll be all right! They’re just rumors, everyone will forget all about it in no time!
 はい……@AF4D8=Right...
@@ -7525,7 +7525,7 @@ Sleep well...
 （でも、その誕生日に|不幸が起こったーー）=(But, tragedy soon struck...)
 （楽しく誕生日を祝っていた時|夫が豹変しーー）=(As the couple celebrated her birthday, the husband suddenly changed--)
 （妻の首筋に牙をむき|血をむさぼりつくした|のだ……）=(He sprouted fangs and sunk them into his wife’s neck, devouring her blood.)#dupe
-（結局、妻は亡くなり|愛する妻の血を吸う事によって|一瞬我にかえった夫はーー）=(Having drank her blood, the husband regained his senses, and realized what he’d done. His beloved was dead.)
+（結局、妻は亡くなり|愛する妻の血を吸う事によって|一瞬我にかえった夫はーー）=(Having drank her blood, he regained his senses, and realized what he’d done. His beloved was dead.)
 （自分が犯した行為に驚愕し、|その運命をのろった）=(Shocked by the heinous act he’d committed, the husband cursed his fate.)
 （夫は妻のために|ポロポロ、ポロポロと涙した）=(He wept bitterly for his wife.)
 （その後、夫は姿を消し、|その行方を知るものは誰一人|いなかったがーー）=(After that, the husband vanished into the night, and was never heard from again.)
@@ -7546,7 +7546,7 @@ Sleep well...
 # AC948 Kaname
 こんなところで|何をしているの？<name>。=What are you doing here, <name>?
 肩が震えているよ。|可哀想に……|訳を話してくれないか？=Your shoulders are trembling. You poor thing...|Won’t you tell me what’s wrong?
-（黙り込んだ私を見つめて|優しく微笑む枢センパイ）=(Kaname just stared at me, who hadn’t said a word, and smile gently.)
+（黙り込んだ私を見つめて|優しく微笑む枢センパイ）=(Kaname just stared at me in silence, and smiled gently.)
 （その微笑みが|どこまでも優しくて……|私は思わず泣きそうになった）=His smile was so tender... It nearly made me burst into tears.)
 枢センパイ……私……！=Kaname... I--!
 例の噂のことで悩んでいるの？|僕は<name>のことを|信じているよ。=Are you worried about the rumors? I believe in you, <name>.
@@ -7561,7 +7561,7 @@ Sleep well...
 今回の事は調べさせておくよ。|<name>の身に何かあったら|大変だからね。=Let me look into this incident. I wouldn’t be able to stand it if anything happened to you.
 僕がいいと言うまで|しばらくは寮で|大人しくしているといいよ。=You should just behave and stay in the dorm until I say it’s okay again.
 <name>、きみの夢は|僕の夢でもあるんだ。=<name>, your dream is also my dream.
-僕はきみのことだけが心配だ。|<name>の辛い顔は見たくない|いつも笑っていてほしいんだ。=You’re the only one I ever worry about. I don’t want to see your pained face, I just want you to laugh and be happy forever.
+僕はきみのことだけが心配だ。|<name>の辛い顔は見たくない|いつも笑っていてほしいんだ。=You’re the only one I worry about. I don’t want to see your pained face, I just want you to laugh and be happy.
 私も……|枢センパイにはいつも|笑顔でいてほしいです。=Me too... I want you to always have a smile on your face.
 <name>がそばに|いてくれるだけで|僕は幸せだよ。=I am happy just to have you by my side.
 わ、私でお役に立てるなら|いつまででも……=I-If I can be of use to you, then for as long as you wish...
@@ -7632,12 +7632,12 @@ Sleep well...
 
 # AA000 Ichijo
 あれ？<name>ちゃん？|そこで何してるの？=Oh, <name>? What are you doing over there?
-何だか大変なことに|なっちゃったみたいだね。|大丈夫？=It seems like things have been little crazy lately. Are you okay?
+何だか大変なことに|なっちゃったみたいだね。|大丈夫？=It seems like things have been a little crazy lately. Are you okay?
 いつの間にか|犯人にされちゃって……|困惑してます。=Before I knew it, everyone was making me out to be the culprit... I’m so confused.
-あははは。勝手な憶測を|する奴もいるからなぁ。|単純だよね、まったく。=Ahahaha. There are some people who just come up with their own conclusions, aren’t there? They’re so small-minded.
+あははは。勝手な憶測を|する奴もいるからなぁ。|単純だよね、まったく。=Ahahaha. There are some people who just come up with their own conclusions. They’re so small-minded.
 はい……@AA000=Yeah...
 でも、これじゃあ|デイ･クラスでも肩身の狭い|思いをするんじゃない？=But, if it’s like this, aren’t you just going to feel uncomfortable even in the Day Class?
-いくら否定しても|火に油注ぐみたいになって……=No matter how many times I deny it, it only adds fuel the fire...
+いくら否定しても|火に油注ぐみたいになって……=No matter how many times I deny it, it only adds fuel to the fire...
 でも、本当にやっちゃって|たんだとしたら、|もっとまずいよね。=But, if you really were responsible, it’d be even worse.
 もしそうなら、いっそ、|ナイト･クラスに編入|しちゃう？枢も喜ぶよ。=If that happened, well regardless, why don’t you join the Night Class? Kaname will be delighted too.
 ちょ、ちょっと|待って下さいっ！=W-Wait a second--!
@@ -7647,7 +7647,7 @@ Sleep well...
 そんなに深刻に悩まないで。=You shouldn’t worry so much.
 僕たちはこんな疑惑で|<name>ちゃんを仲間外れに|したりしないってことだよ。=We’d never let such allegations cause a rift between us.
 だからって、|ナイト･クラスにいくなんて|無理ですもん！=That’s why it’d be impossible for me to join the Night Class!
-そんなに頑に|拒否されちゃうと|僕、寂しくなってきたな。=If you’d going to refuse so adamantly, I can’t help but feel lonely.
+そんなに頑に|拒否されちゃうと|僕、寂しくなってきたな。=If you are going to refuse so adamantly, I can’t help but feel lonely.
 べ、別に拒否してる|わけじゃ……=I-I wasn’t trying to...
 じゃあ、来る？|僕達の世界……|ヴァンパイアの世界に。=Then, you’ll come? To our world... To the world of vampires.
 （一条センパイは私に|仲間になって|ほしいのだろうか？）=(Does Ichijo really want me to join them so badly?)
@@ -7692,7 +7692,7 @@ Sleep well...
 何？俺にまだ用がある？=What is it? Did you still need me for something?
 あの……|ありがとうございます！=Um...|Thank you, Shiki!
 え…？別にお礼を|言われるようなことは|何もしてない。=Hm? I really haven't done anything worth your gratitude.
-いえ……でも……|ありがとうございます！|わ、私、失礼しますね！=No... But...|Thank you! I-I... Sorry!
+いえ……でも……|ありがとうございます！|わ、私、失礼しますね！=No... But...|Thank you! I-I'm... Sorry!
 風紀委員、やっぱり変なヤツ。=She really is an odd one.
 （私は支葵センパイの声を|振り切るように走った）=(I ran to break free from the spell of Shiki's voice.)
 （支葵センパイから忠告が|もらえるなんて夢みたいで、|今でも信じられない）=(Getting advice from him, it feels like I'm in a dream, and I'm still not sure I believe it was real.)
@@ -7710,7 +7710,7 @@ Sleep well...
 どこに行くの？=Where are you going?
 街へ……=To town...
 今、外に出るとまずいよ。=I don’t think that’s a good idea.
-昨日のテレビの事で、|<name>が吸血鬼じゃないか？|って話でもちきりだよ！=I saw it on TV yesterday. The whole town is talking about how you might a vampire!
+昨日のテレビの事で、|<name>が吸血鬼じゃないか？|って話でもちきりだよ！=I saw it on TV yesterday. The whole town is talking about how you might be a vampire!
 それはわかってるけど……=I’m well aware...
 私は<name>のこと信じてる。=I believe in you, <name>.
 頼ちゃん……=Yori...
@@ -7728,7 +7728,7 @@ Sleep well...
 とりあえず、|あそこへ行ってみよう。=Let’s start with this for now.
 
 # A4560 choose 事件現場
-（事件現場へ来たものの|もう警察が処理済みで|何の手がかりもなかった）=(I headed to the scene of the crime, but the police had already been through it, and I couldn’t find any clues.)
+（事件現場へ来たものの|もう警察が処理済みで|何の手がかりもなかった）=(I headed to the crime scene, but the police had already been through it, and I couldn’t find any clues.)
 そう簡単に|見つかるわけないか……=I guess it’d never be that easy, huh...?
 （諦めて事件現場を後にしよう|と思ったその時ーー）=(Just as I was thinking that I should head off--)
 （物陰に気配を感じて|振り返った。|そこにいたのはーー）=(I felt the presence of something behind me and turned around. There I saw--)
@@ -7738,7 +7738,7 @@ Sleep well...
 （一条センパイの家系は|ヴァンパイアの貴族の中でも|筆頭の一族だと聞いてる）=(I’ve heard that Ichijo’s family is the most distinguished clan among the vampire aristocrats.)
 （表の世界と裏の世界を繋ぐ|一条グループの跡取りとしても|ーー）=(As the heir of the Ichijo line, the ones who tie together the visible and hidden world...)
 （今回の事件に興味が|あるのかも）=(He must be interested in this incident.)
-朝は苦手のはずなのに……|それほど、今回の事件の|真相が気になってるのかな。=I thought vampires were no good in the morning... I guess that just proves how important it is to find out the truth.
+朝は苦手のはずなのに……|それほど、今回の事件の|真相が気になってるのかな。=I thought vampires didn't like mornings. I guess that just proves how important it is to find out the truth.
 （いつになく真剣な眼差し）=(He looked unusually serious.)
 （にこにこと微笑む|いつもの一条センパイとは|別人に見える）=(It was nothing like his normal, smiley self.)
 
@@ -7755,7 +7755,7 @@ Sleep well...
 <name>ちゃん、|キミは帰った方がいい。=<name>, it’d be best if you went home.
 えっ？でも……=Huh? But...
 ここから先は僕達|ヴァンパイアの領分だ。=From here on out, this is vampire territory.
-悪いこと言わないから|早く帰った方がいい。=I’m telling you this for you own good, so hurry up and head back.
+悪いこと言わないから|早く帰った方がいい。=I’m telling you this for your own good, so hurry up and head back.
 （有無を言わせぬ|一条センパイの態度に|返す言葉が見つからなかった）=(Seeing Ichijo acting like that, I couldn’t find any words to say in response.)
 良かったぁ～|<name>ちゃんは枢の言う通り|素直なよいこ！=Wonderful~ You really are a good girl, just like Kaname says!
 そんなことないですって。=I’m not so sure about that...
@@ -7786,7 +7786,7 @@ Sleep well...
 <last><name>は、|事件の手がかりを|探しに来たんだろ？=You came here looking for clues, didn’t you?
 どうしてそれを！？=How did you--!?
 顔に書いてあるから。|お前ってさ、ホント無防備。=It’s written all over your face. You really are an open book.
-こんなところで|僕と二人っきりでいるのに|身の危険を感じないんだ？=Aren’t worried about the danger, just the two of us alone in a place like this?
+こんなところで|僕と二人っきりでいるのに|身の危険を感じないんだ？=Aren’t you worried about the danger, just the two of us alone in a place like this?
 あははは！冗談だよ！|お前って、からかい甲斐が|あるんだもん。=Ahahaha! It was just a joke. You’re so fun to tease.
 （ちょっとイジワルな|微笑みを浮かべて|愉快そうに笑う藍堂センパイ）=(Aido laughed happily, being mean to me as usual.)
 （だけど、次の瞬間ーー|急に真剣な表情で|じっと私の目を見つめる）=(But the next moment, his expression suddenly turned serious as he looked me in the eyes.)
@@ -7827,7 +7827,7 @@ Sleep well...
 （やっと来たみたい！）=(It looks like they’re finally here!)
 お待たせしました。=Sorry to have kept you waiting.
 あれ？|レポーターさんは？=Huh? Where’s the reporter?
-（レポーターの代わりに|対応してくれたのは|プロデューサーの人）=(A producer had come in place the reporter.)
+（レポーターの代わりに|対応してくれたのは|プロデューサーの人）=(A producer had come in place of the reporter.)
 （少し険しい表情で|そっと目を伏せた）=(They lowered their eyes, looking slightly put-out.)
 実はですね……|例の街頭インタビュー以来|彼女は行方不明なんです。=To tell you the truth... She hasn’t been seen since conducting that street interview.
 行方不明！？=She’s missing!?
@@ -7900,8 +7900,8 @@ Sleep well...
 何ですか？=What is it?
 バラの花言葉について|お聞きしたいんですけど。=I’d like to know more about the meaning of roses in the language of flowers.
 バラの花言葉は|愛を語るものが多いんだよ。=In the language of flowers, there are many roses which express feelings of love.
-真っ赤なバラは愛情や情熱、|ピンクのバラは恋の誓い、|白いバラは恋の吐息。=Bright red roses speak of love and passion, pink roses are for vows of love, and white roses are for innocence.
-ま、ざっとこんな感じかな。|お嬢ちゃんもお年頃だし、|恋してるのかな？=Or, thereabouts. You’re at that age are you, young lady, to dream of love?
+真っ赤なバラは愛情や情熱、|ピンクのバラは恋の誓い、|白いバラは恋の吐息。=Bright red roses speak of love and passion, pink roses are for vows of love, and white roses are for purity.
+ま、ざっとこんな感じかな。|お嬢ちゃんもお年頃だし、|恋してるのかな？=Or, thereabouts. You’re at that age aren't you, young lady, to dream of love?
 えっ！？|わ、私は恋とかそういうのは|まだというか……=Huh!? I-I still haven’t really...
 あははは！|顔を真っ赤にしちゃって|かわいいね。=Ahahaha! You’ve gone bright red. How cute.
 可愛らしいお嬢ちゃんには|特別サービスだ！=For the cute young lady, I’ll make you a special deal!
@@ -7917,8 +7917,8 @@ Sleep well...
 うちの品揃えは街一番だけど|さすがにクライングローズは|売ってないよ～。=We offer the best selection in town, but unfortunately, we don’t sell Crying Roses.
 クライングローズっていうのは|生産されてないんだよ。|自然には存在しないバラ。=Crying Roses don’t grow naturally. They have to be manufactured.
 自然には存在しない……=They don’t grow naturally...
-伝説的存在とまで言わないけど|普通なかなかお目にかかれない|貴重なバラなんだ。=I wouldn’t go as far as to say were legendary flowers, but they are a breed you don’t really see all that often.
-貴重さではクライングローズに|劣るけど、他にも珍しいバラが|いっぱいあるよ。=They might not quite live up to the Crying Rose in terms of being precious, but there are many other rare breeds of roses.
+伝説的存在とまで言わないけど|普通なかなかお目にかかれない|貴重なバラなんだ。=I'm not saying that they are legendary flowers, but they are a breed you don’t really see all that often.
+貴重さではクライングローズに|劣るけど、他にも珍しいバラが|いっぱいあるよ。=They might not quite live up to the Crying Rose, but there are many other rare breeds of roses.
 ごめんなさいっ。|欲しいのはクライングローズ|なので。=I’m sorry. It was just the Crying Rose that I was after.
 残念だなぁ。気が変わったら|また寄ってみてよ。=That’s a shame. If you change your mind, come by any time.
 はい！|ありがとうございました！=I will! Thank you.
@@ -7947,7 +7947,7 @@ Sleep well...
 心配かけてごめんなさいっ。|でも、私……|事件の真相が知りたい！=I’m sorry if I caused you to worry. But, I... I want to know the truth!
 （枢センパイは優しく微笑み|私の髪をそっとなでた）=(Kaname smiled and gently stroked my hair.)
 強くなったね、<name>。|でも、あんまり|遠くへ行かないでほしいよ。=You’ve gotten stronger, <name>. But I don’t want you to go too far.
-手がかりを探しに行くのなら|僕も一緒に行こう。=If you’re going to look for clue, then I’m coming with you.
+手がかりを探しに行くのなら|僕も一緒に行こう。=If you’re going to look for clues, then I’m coming with you.
 僕はね、<name>|キミに甘えて欲しいんだ。=Let me spoil you.
 あの頃のように僕に頼って|何でも話してほしい。=I want you to rely on me and tell me everything like you did before.
 ……わかりました。|お言葉に甘えて|一緒に探してもらいますね。=...I understand. Then, allow me to take you up on that offer. Let’s look together.
@@ -7975,7 +7975,7 @@ Sleep well...
 マイクを持ったお姉ちゃんに|もらったんだ。=I got it from the lady with a microphone.
 マイクを持ったお姉ちゃん？|それって……=The lady with the microphone? Do you mean...?
 おそらくレポーターだろう。=It must be the reporter.
-それでね、|お姉ちゃんに渡してって|お願いされたの。=She asked me to give it you.
+それでね、|お姉ちゃんに渡してって|お願いされたの。=She asked me to give it to you.
 私に？でも、どうして……=To me? Why...?
 意図的なものだったんだ。|<name>に渡された|クライングローズ。=It was intentional, that you should be given the Crying Rose.
 そしてーー|クライングローズが持つ意味。=And... The meaning it possesses.
@@ -8001,7 +8001,7 @@ Sleep well...
 レポーターを探します。=Let’s look for the reporter.
 （私は枢センパイと二人で|レポーターを探しまわった）=(Kaname and I looked everywhere for the reporter.)
 （街中をかけずり回ったけど|結局彼女の姿は|どこにもなかった……）=(We’d been round every backstreet and alleyway, but she was nowhere to be seen.)
-<name>にクライングローズを|渡した子供を探してみるのは|どうかな？=Maybe we should try looking the boy who gave you the Crying Rose?
+<name>にクライングローズを|渡した子供を探してみるのは|どうかな？=Maybe we should try looking for the boy who gave you the Crying Rose?
 そうですよね。|あの子さえ見つかれば、きっと|手がかりを得られるはずです。=You’re right. If we can at least find him, I’m sure we’d be able to get some kind of clue.
 
 # A1FB0
@@ -8104,7 +8104,7 @@ Sleep well...
 
 # AAE1C
 （事件から数日が経ちーー|私は一人で街に来ていた……）=(A few days have gone by since the incident.|I came to town alone.)
-（街はまるで何事も|なかったかのように平和。|あるべき姿に戻っていた）=(The town was peaceful as if nothing had ever happened at all. Things were going back to the way they should be.)
+（街はまるで何事も|なかったかのように平和。|あるべき姿に戻っていた）=(The town was peaceful as if nothing had ever happened. Things were going back to the way they should be.)
 （私の血がヴァンパイア好み|だってことは、なんとなく|わかっていたことだけど……）=(I knew my blood was to the liking of vampires, although I don’t know why.)
 （レベル：Ｅに堕ちかけた|彼女が、なぜ私をターゲットに|選んだのかは謎のまま）=(But it’s still a mystery to me why she chose to target me after falling to a Level E.)
 （犯人は消え去り、事件は|無事に解決したけれど……）=(The culprit disappeared, and the incident was resolved safely.)
@@ -8122,7 +8122,7 @@ Sleep well...
 枢センパイ……！|どうしてここに？=Kaname! Why are you here?
 理事長からきみが|いなくなったと聞いてね、|心配で探しに来たんだ。=I heard from the Headmaster that you were missing. I was worried, so I came looking for you.
 ご心配かけてごめんなさい。|でも、気になって……=Sorry. I didn’t mean to make you worried.|But something’s still bothering me, and--
-事件は解決した。|もう何も心配しないで、|忘れてしまうんだ。=The incident has been resolved. There’s no longer anything for you to concern yourself with, so you would be best to forget all about it.
+事件は解決した。|もう何も心配しないで、|忘れてしまうんだ。=There’s no longer anything to concern yourself with since the incident has been resolved. Please let it go.
 （言葉に詰まった私を見つめ|目を細める枢センパイ）=(Kaname stared at me with gentle eyes as I struggled to find my words.)
 （その視線がふわりと浮き、|道ばたに落ちている花びらに|移った時にはーー）=(His gaze floated softly from me to the flower petal on the ground.)
 （その目から優しさが|消えていた）=(The warmth and kindness in his eyes quickly faded away.)
@@ -8132,9 +8132,9 @@ Sleep well...
 どういうことですか？=What do you mean?
 ご禁制のバラ作りに|手を出していたらしい。=He seems to have gotten himself involved with making forbidden roses.
 その事実が発覚し、|咎められたらしいね。=Someone must have found out and started asking questions.
-伝説は伝説のまま|終幕を迎えるのが|一番ふさわしい……=The most sensible thing to do is not to dredge up old legends which have already reached forgone conclusions.
+伝説は伝説のまま|終幕を迎えるのが|一番ふさわしい……=The most sensible thing to do is not to dredge up legends that have already reached forgone conclusions.
 （白と水色の花びらを見つめ、|枢センパイがつぶやいた言葉）=(Those were the words Kaname muttered, his gaze never leaving that white and blue petal.)
-（その時の私は、その言葉の|裏に隠された真実を|知る由もなかった……）=(At that time, I had no way of know the hidden truth behind those words.)
+（その時の私は、その言葉の|裏に隠された真実を|知る由もなかった……）=(At that time, I had no way of knowing the hidden truth behind those words.)
 あっ……=Ah!
 （強い風が吹き抜け、|花びらが空に舞い上がった）=(A strong gust blew across, and the petal flitted high up into the sky.)
 （そして、空高く|飛んでいき…………|跡形もなく消えた）=(It soared higher and higher until I could no longer see it... as if it stopped existing altogether.)
@@ -8184,7 +8184,7 @@ Sleep well...
 無茶苦茶ってその……へへ、|みんなに迷惑かけられない|かなって。=Unreasonable... Ehe, I was just thinking that I should try not to cause trouble for everyone.
 何言ってんだよ。|大迷惑も良いところだよ。=What are you saying? You caused more than a little trouble.
 枢様が知ったら大変だ！|また僕が怒られて……=If Lord Kaname knew, all hell would break loose! He’ll be mad at me again...
-あの、助けに来て|くださったのって|枢センパイのいいつけじゃ……=Um, wasn’t it on Kaname’s order that you came and save me?
+あの、助けに来て|くださったのって|枢センパイのいいつけじゃ……=Um, wasn’t it on Kaname’s order that you come and save me?
 あ、別にそうじゃなくて…|ちょっと、気になってさ……=Ah, it’s not like that. I was just a bit worried...
 あのじゃじゃ馬、|きっとポーンって|飛び出すんだろうなって。=That crazy bimbo was probably a pawn sent by someone.
 じゃ、じゃじゃ馬って！|レディに向かって失礼すぎ|です！=B-Bimbo!? That’s rude to ladies everywhere!
@@ -8327,7 +8327,7 @@ Sleep well...
 <name>の血はヴァンパイア好み|らしいからね～。=It’s like your blood is catnip for those vampires～.
 本当にそれだけの理由なら|いいんですけど……=If that was really the only reason, I wouldn’t mind, but...
 ていうか……いつまで|抱きついてるんですか！|離してくださいっ。=I mean... How long do you plan on hugging me? Let go already!
-親子のスキンシップは|発育上とってもいいって|科学的に認められてるよ？=Physical contact between parent and child is scientifically proven to be vital for a child’s development, you know.
+親子のスキンシップは|発育上とってもいいって|科学的に認められてるよ？=Physical contact between parent and child is scientifically proven to be vital for a child’s development.
 そんなの理由になりませんっ。|いい加減にしなさいっ！=That’s not the “reason” I’m talking about! Cut it out!
 くすん……寂しいな。|娘の巣立ちが|もう来たかと思うと。=*Sniff* I knew this day would come. My little girl is all grown up, and she’s leaving the nest.
 はいはい、寂しいですね～。=Yeah, yeah, I’m all grown up～.
@@ -8342,11 +8342,11 @@ Sleep well...
 開けてごらん。=Open it up and find out.
 （箱を開けると、|そこにあったのは……）=(I opened the box and there it was.)
 ……うわぁ！！|かわいいドレス！！=Oh my gosh! This dress is so cute!!
-いいねいいね！|かわいくて可憐で|<name>にぴったりだ！=Oh, how lovely! It just as cute and adorable as you, <name>!
+いいねいいね！|かわいくて可憐で|<name>にぴったりだ！=Oh, how lovely! It's just as cute and adorable as you, <name>!
 このドレスを着ていけば|舞踏祭で目立つこと|間違いなしだ！=You’ll be the belle of the ball in that dress!
 舞踏祭……あぁっ！|すっかり忘れてました～=Ball? Oh no! I forgot all about that!
 ど、どうしよっ！|何の準備もしてないっ！=Wh-What do I do? I have nothing planned!
-えっへん！任せなさい！|事件の間に、舞踏祭の|準備はしておいた。=Ahem! Not to worry! While all that stuff was going on, I went ahead and got everything ready for the ball myself.
+えっへん！任せなさい！|事件の間に、舞踏祭の|準備はしておいた。=Not to worry! While all that stuff was going on, I went ahead and got everything ready for the ball myself.
 もちろん、|ボク風の準備をね。=All according to my own vision, of course.
 さすが、理事長！|ボク風ってのが少しだけ|気になりますけど……=You’re a lifesaver! Although, I admit I’m a little worried what you mean by “according to your own vision.”
 せっかくの舞踏祭だ。|<name>も思う存分|楽しんでおいで。=This ball doesn’t come around very often, so make the most of it, okay?
@@ -8383,9 +8383,9 @@ Sleep well...
 
 # A4594
 ふぅ～見回り終了！|本日も問題ナシでした！=Phew, that’s another patrol done! And another day without a hitch!
-お疲れ、<name>。|いつも見回り大変ね。=Welcome back, <name>. It must be exhausting being having to patrol the school all the time.
+お疲れ、<name>。|いつも見回り大変ね。=Welcome back, <name>. It must be exhausting having to patrol the school all the time.
 試験勉強も頑張ってたし、|<name>偉いわね。=And you even studied hard for the exam. I think you’re really amazing, you know.
-なんとか最下位は免れたし、|明日の舞踏祭は|堂々と参加できるよ～。=I still don’t know how I avoided having the lowest score, but it means we’ll get to go and enjoy the ball tomorrow.
+なんとか最下位は免れたし、|明日の舞踏祭は|堂々と参加できるよ～。=I still don’t know how I avoided having the lowest score, but it means we’ll get to enjoy the ball tomorrow.
 いよいよ明日だね、舞踏祭。|あっ、そういえば<name>に|贈り物が届いてたよ。=The ball, it’s finally here. Oh, by the way, a present arrived for you today.
 贈り物？|もしかして……=A present?|I wonder...
 代わりに受け取っておいたわ。|はい、これ。=I went ahead and accepted it for you.|Here you go.
@@ -8394,7 +8394,7 @@ Sleep well...
 とってもロマンチックだね。|あのドレスにもぴったり！=How romantic! They even match the dress!
 なんだか、私には|もったいない気がしてきた～。=I feel like I don’t really deserve all this～.
 うふふ、<name>らしい。|ねぇ、舞踏祭では|誰と踊りたいの？=*Giggle* Typical <name>.|Hey, is there somebody you wanted to dance with at the ball?
-そうだなぁ……=Well…
+そうだなぁ……=Well...
 
 # A10A0
 （私はホールへと戻ってきた）=(I returned to the ballroom.)
@@ -8442,7 +8442,7 @@ Sleep well...
 呆れたりしてない？|私に愛想尽かした？=Aren’t you annoyed? Are you fed up of me?
 お前にいちいち呆れてたら|身がもたないだろ。=If I got worked up by every little thing you did, my body would never last.
 俺なりに<name>のことは|理解してるつもりだ。=I think I’ve come to understand you, in my own way.
-お前に振り回されることも|あるけど、逆にお前に|助けられたことだってある。=There are times when you’ve got me running around like a headless chicken, but there have also been times where you’ve saved me instead.
+お前に振り回されることも|あるけど、逆にお前に|助けられたことだってある。=There are times you have me running around tirelessly, but there are also times where you’ve saved me instead.
 零……|ぐすっ……=Zero...Kaname...|*Sob...*
 な、涙ぐむな！|俺が泣かしたみたいだろ。=D-Don’t get all teary-eyed! Everyone’ll think I made you cry.
 だって、零のせいだもん。|零があんまり嬉しいこと|言ってくれるから……=B-But it is your fault. What you said made me so happy, and I just...
@@ -8458,7 +8458,7 @@ Sleep well...
 はぁ……|今夜だけだからな。=*Sigh...*|It’s just for tonight, okay?
 （小さくため息をつくと|零は私の手を取った）=(With a small sigh, Zero took my hands.)
 （そして、音楽に合わせて|さりげなく私を|リードしてくれる）=(He casually lead me in time with the music.)
-（動きはぎこちないけど、|他のカップルに|ぶつからないようにーー）=(His movements were a little clumsy, but he seemed to be trying to avoid bumping into any of the other couples.)
+（動きはぎこちないけど、|他のカップルに|ぶつからないようにーー）=(His movements were a bit clumsy, but he seemed to be trying to avoid bumping into any of the other couples.)
 （少しだけ力を込めて|私を引き寄せた……）=(He pulled me in closer...)
 ダンス、踊れるじゃん。|零のウソつき。=So you can dance. You liar.
 別に踊ってない。|ただ足を動かしてるだけだ。=This is hardly what I’d call dancing. I’m just moving my feet.
@@ -8466,7 +8466,7 @@ Sleep well...
 （こんなに近くで零の顔を|見つめるなんて……|心臓に悪いかも……）=(Seeing his face so up close... I’m not sure if my heart can bear it...)
 （それに、今夜の零は|いつになく優しくて……|ついつい甘えたくなる）=(Plus, tonight Zero is being so much kinder than usual... I feel like I want him to spoil me.)
 ねぇねぇ、もう一つだけ|お願い聞いてくれる？=Hey, could I ask for one more favor?
-……場所、変えない？=...Can we go for a change of scene?
+……場所、変えない？=...Can we go for a change of scenery?
 
 # A3124 choose 湖へ
 （嫌がる零の手を引いて|湖までやって来た）=(Dragging a reluctant Zero by the hand, we arrived at the lake.)
@@ -8489,7 +8489,7 @@ Sleep well...
 
 # A2BF0 choose 裏庭へ
 （嫌がる零の手を引いて|裏庭までやって来た）=(Dragging a reluctant Zero by the hand, we arrived at the rear garden.)
-誰もいないね……|零、ここでさっきの続き……|しようか？=No one’s here...|Hey, Zero... Why don’t we continue where w left off?
+誰もいないね……|零、ここでさっきの続き……|しようか？=No one’s here...|Hey, Zero... Why don’t we continue where we left off?
 裏庭でダンスか？|見回りでもする方が|しっくりくるな。=You want to dance in the garden? It’d make more sense to do a sweep around.
 たまにはいいでしょ？|今日は特別の夜なんだし。=We’re allowed a night off patrol once in a while, right? I mean, it's a special night.
 ……しょうがないな。|少しだけだぞ。=...Fine. But only for a little bit.
@@ -8507,7 +8507,7 @@ Sleep well...
 <name>のことを思ってドレスを|選んだんだよ。気に入って|くれたら僕も嬉しい。=That dress was chosen with you in mind. If you like it, I’m happy too.#qc
 
 # A1188
-気に入るも何も、大感激です！|こんなに素敵なプレゼント、|生まれて初めてです！=I really grateful, I love it! It’s the first time I’ve ever been given such a lovely present!
+気に入るも何も、大感激です！|こんなに素敵なプレゼント、|生まれて初めてです！=I'm really grateful, I love it! It’s the first time I’ve ever been given such a lovely present!
 ありがとう、<name>。|きみに喜んでもらうことが|僕の喜びだからね。=Thank you, <name>. It gives me great pleasure to see you happy.
 
 # A3594
@@ -8615,7 +8615,7 @@ Sleep well...
 # A3A2C
 ……だけど|……やっぱりダメだよ！！=...But... I can’t take it!!
 なっ……何ですか急に……？=Wha-What are you on about, so suddenly?
-今回の事件もそうだけど、|一人で何でも抱え込みすぎだ！|たまには誰かに頼ればいい。=You did the same thing this time too, but you’re always trying to take on too much by yourself! You should try relying on someone else once in a while.
+今回の事件もそうだけど、|一人で何でも抱え込みすぎだ！|たまには誰かに頼ればいい。=You did the same thing this time too. You’re always trying to take on too much! Try relying on someone else for once.
 無茶はするなよな。|…頼る相手は、|僕だっていいんだ。=Don’t over do it. ...You could count on me, even.
 ごめんなさい。|でも、藍堂センパイに|心配かけたくなくて……=I’m sorry. I didn’t want to worry you...
 その遠慮が余計に|心配させるって場合も|あるんだ！=That resistance of yours makes me even more worried sometimes, you know!
@@ -8730,7 +8730,7 @@ Sleep well...
 何もかも一人で|抱え込もうとするな。=Don't try to take care of everything by yourself.
 お前の夢はヴァンパイアと|人間との共存だろ？=Your dream is for vampires and humans to coexist, right?
 ならもっと俺たちに|頼ってもいいんじゃないのか？=Then, why don’t you rely on us a little more?
-お前を疑った俺も悪い。|だから、これからはお互いを|信じる努力をしよう。=I shouldn’t have doubted you before, either. So from now, how about we both make an effort to believe in each other?
+お前を疑った俺も悪い。|だから、これからはお互いを|信じる努力をしよう。=I shouldn’t have doubted you before, either. How about we both make an effort to believe in each other?
 はい……|ありがとうございます|架院センパイ……=Right... Thank you, Kain.
 
 # A1590
@@ -8748,7 +8748,7 @@ Sleep well...
 たださ、自分の気持ちに|素直に従うお前の潔さが|見てて気持ちいいってことだ。=I’m just saying that it’s nice to see that you have the determination to follow through on your feelings.
 うらやましいくらいだ。|お前の素直さが……=I’m almost jealous of your ability to be so true to yourself.
 でも、ほどほどにしろよ。|お前にもしものことが|あったら、心配だしな。=Still, everything in moderation. If anything happened to you, I’d be worried.
-架院センパイ、大変ですね？|藍堂センパイの心配もあるのに|私の心配まで……=You must have it hard, Kain. Even though you’ve got Aido to worry about, you’re even worried about me...
+架院センパイ、大変ですね？|藍堂センパイの心配もあるのに|私の心配まで……=You must have it hard, Kain. Even though you’ve Aido to worry about, you’re even worried about me...
 ふっ…まあいいさ。|へんに哀れまないでくれ。=Heh... It’s alright. I’d feel weird if you were going to start pitying me.
 でも、そういうとこが|架院センパイの|いいところなんですよ。=I think that’s something that’s nice about you, though.
 だから、これからも思う存分|心配かけちゃおうかな～|なんて。=So, I was thinking that I wouldn’t mind if you kept worrying about me~ Kinda...
@@ -8834,7 +8834,7 @@ Sleep well...
 本当に優しいね、|<name>ちゃんは。|かっこいいよ！=You really are kind, <name>. You’re too sweet~
 でも、遠慮なんてしないで|これからは、何でもいいから|ジャンジャン相談してよ。=Still, I hope from now on you won’t hold back and come to see me about anything.
 はい……|ありがとうございます|一条センパイ……=Yes... Thank you, Ichijo...
-僕もこれからいっぱい|<name>ちゃんに|相談しちゃうからね～！=I’m going to come to see you about tons of thing too~!
+僕もこれからいっぱい|<name>ちゃんに|相談しちゃうからね～！=I’m going to come to see you about tons of things too~!
 これでおあいこだよ。|ははは！=Then we’ll be even. Hahaha!
 
 # A1428
@@ -8913,7 +8913,7 @@ Sleep well...
 冗談にしては、|目が本気でしたけど……=You say it’s a joke, but your expression was so serious...
 半分本気だったかもね。|忘れた？僕はこう見えて|ヴァンパイアなんだよ？=I suppose I might have been half serious. Have you forgotten? I am a vampire, you know?
 誘っておいて何だけど、|ちょっと無防備すぎじゃない？=You’re the one who suggested it, but don’t you think you’re a little too defenseless?
-軽卒でした……|私、帰りますっ！=I was careless... I’m going to go now?
+軽卒でした……|私、帰りますっ！=I was careless... I’m going to go now!
 えっ？今すぐ！？|今紅茶入れようと|思ったんだけど。=Huh? Already!? I was just about to make the tea.
 待ってよ、<name>ちゃ～ん！=Wait, <name>~!
 
@@ -9047,7 +9047,7 @@ Sleep well...
 （デイ･クラスと|ナイト･クラスの|生徒達がーー）=(The Day and Night Classes were dancing and holding hands.)
 （手を取り合って|踊る姿を眺めながらーー）=(I watched the dancing figures lazily from afar.)
 （私は一人、喜びを|噛み締めていた）=(Alone, I savored the pleasure I felt in that moment.)
-良かった。みんな笑顔……|今年の舞踏祭は何事もなく|平和で、一点の曇りさえ……=I’m glad. Everyone’s smiling. This year’s ball went smoothly without incident. There wasn’t even a single cloud in the sky.
+良かった。みんな笑顔……|今年の舞踏祭は何事もなく|平和で、一点の曇りさえ……=I’m glad. Everyone’s smiling. This year’s ball went smoothly. There wasn’t even a single cloud in the sky.
 （その時、私の背中に|かすかな電流が走った！）=(At that instant, I felt a tingle run down my spine!)
 気のせい……じゃない。|誰かが……私を見てる……！=I’m not... imagining it. Someone is... watching me!
 （それは好意的なもの|ではないと本能的に感じた）=(Instinctively, I could tell it wasn’t a friend.)
@@ -9067,7 +9067,7 @@ Sleep well...
 （そして、|その言葉が意味するものーー）=(Nor did the meaning behind those words.)
 （私の運命を激しく揺さぶる|波乱と試練の日々が目の前に|迫っていることに……）=(My life was on a violent crash course with destiny.)
 （気付くことさえ|できずにいた）=(The trials and tribulations I was to face were right in front of my eyes, but I was blind to them.)
-（まるで嵐の前で|立ち尽くすことしかできない|小さな子供のように……）=(I was like a little kid in the face of a storm who could do nothing but which it come.)
+（まるで嵐の前で|立ち尽くすことしかできない|小さな子供のように……）=(I was like a little kid in the face of a storm who could do nothing but watch it come.)
 （胸の奥でかすかにうずく|不安を必死で押し殺す|ことしかできなかった）=(There was nothing I could do but try desperately to stifle the anxiety I felt deep in my chest.)
 
 # AD604 Yagari route
@@ -9459,7 +9459,7 @@ Sleep well...
 目に入れても痛くないぐらい|可愛がってきたのに。=You’re so adorable, and the loving bond we share is so strong.
 それなのに……|こんな別れ方って……！=But still you wish to break such a precious thing!
 すみません、理事長。|私、もう行かないと……=Sorry, Headmaster. I really need to go, so...
-こんな時でも、|お父さん……って|呼んでくれないんだね。=Even as I bare my deepest feelings to you, you won’t even all me dad.
+こんな時でも、|お父さん……って|呼んでくれないんだね。=Even as I bare my deepest feelings to you, you won’t even call me dad.
 理事長……|いい加減にしてください！=Headmaster, please, that’s enough already!
 私はただ、街まで買い物に|出かけるだけなんですよ？=I’m just going into town to do some shopping.
 もう二度と会えないみたいな|騒ぎしないで下さい！=So quit whining like you’re never going to see me again!
@@ -11997,7 +11997,7 @@ Sleep well...
 な、なんですか？|急に改まって……=W-What is it?
 この犬はやめておけ。|悪いことは言わない。|どこかへ捨ててくるんだ。=You need to stop what you’re doing with this dog. Do yourself a favor and just leave him somewhere.#gender
 え！？なんですか、急に！=What!?
-お前のためを思って|言ってるんだ。|いいから言うとおりにしろ。=	I’m telling you this for your own good. Just do as I say.
+お前のためを思って|言ってるんだ。|いいから言うとおりにしろ。=I’m telling you this for your own good. Just do as I say.
 なんなら俺がこいつを|捨ててきてやる。=If you want, I’ll take him myself.#gemder
 そんな事急に言われても！|……あ！　わかった！=If you just drop that on me so suddenly--!|...Ah! I get it!
 夜刈先生。チビの事が|可愛くてしょうがなく|なったんでしょう？=You just couldn’t help falling in love with him, right?#gender

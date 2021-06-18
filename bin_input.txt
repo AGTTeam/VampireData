@@ -9492,7 +9492,7 @@ Sleep well...
 やっぱり、黒主学園さんの所の|ナイト･クラスの子かい？=You’re one of those kids from the Cross Academy’s Night Class, aren’t you?
 あ……いえ、黒主学園の|生徒なんですが、|私はデイ･クラスの方で……=Ah, I’m afraid not. I am a student there, but I’m actually in the Day Class.
 おんや、そうかい。|黒主学園の人には、|ついこの間お世話になってね。=Oh, is that right? Someone from the academy lent me quite the hand the other day.
-この辺りで気分が悪くなって|座り込んだ時に、親切に|介抱してくださったんだよ。=It wasn’t too far from here. I started feeling weak and had to sit down. It was so kind of her to look after me.
+この辺りで気分が悪くなって|座り込んだ時に、親切に|介抱してくださったんだよ。=It wasn’t too far from here. I started feeling weak and had to sit down. She was so kind to me.
 ナイト･クラスの子でね、|ずいぶんと綺麗なお顔立ちの|お嬢さんだったよ。=She was a girl from the Night Class. She had a very pretty face.
 （ナイト･クラスの|女の子か……|誰だったんだろう？）=(A girl from the Night Class? I wonder who it was.)
 あの……どんな人でしたか？|おばあさんを助けた|ナイト･クラスの子って。=Ma’am, um, I was wondering about that Night Class girl.
@@ -9526,7 +9526,7 @@ Sleep well...
 # A5300
 ところで、お嬢さんは|どこに行くつもりなのかね？=And what about you, young lady? Where is it that you’re headed?
 あ、そうだ……すみません、|このチラシにある骨董市には|どう行ったらいいんですか。=Oh, right. I, uh, you wouldn’t know how to get to the antique market on this flyer, would you?
-ああ、これは確か……|街はずれにある噴水広場で|やってるって聞いたよ。=Why of course. From what I gather, they’re holding it over in the fountain square on the outskirts of town.#not sure if the square should be considered a proper noun
+ああ、これは確か……|街はずれにある噴水広場で|やってるって聞いたよ。=Why of course. I believe they’re holding it over in the fountain square on the outskirts of town.#not sure if the square should be considered a proper noun
 噴水広場ですね、|ありがとうございます！=The fountain square, got it. Thanks!
 ここんところ物騒な事件が|多くてね……お嬢ちゃん、|可愛いから気をつけなさいよ。=There’ve been lots of disturbing incidents around here lately, so you look after yourself now.
 あ……はい、|ご心配ありがとうございます。|さよなら、おばあさん。= I will. I appreciate your concern, ma’am. Bye now.
@@ -9742,9 +9742,9 @@ Sleep well...
 ふーん。なるほどね……|零って、ラーメンみたいな|塩辛い物が好き？=Hmmm... I see. Do you like other salty things too?
 ああ、そうかもな。=I guess so.
 甘いものはあんまり食べない|よね？=You don’t really eat sweet things, do you?
-進んでは食わないな。|胸の辺り、ウッと来るんだ。|チョコとか生クリームとか。=Not willingly. They give me an uncomfortable feeling in my chest. Like, with things like chocolate or fresh cream.
+進んでは食わないな。|胸の辺り、ウッと来るんだ。|チョコとか生クリームとか。=Not really. Things like chocolate or fresh cream give me an uncomfortable feeling in my chest. 
 えっ、かわいそう！|じゃあ、チョコレートパフェ|とか食べられないじゃない！=Aww, you poor thing! You won’t be able to eat a chocolate parfait then!
-あの美味しさを知らないまま|一生過ごすなんて、|絶対ソンしてるよ、零！=You’re missing out, Zero! If I had to spend the whole of my life never knowing that chocolatey deliciousness...
+あの美味しさを知らないまま|一生過ごすなんて、|絶対ソンしてるよ、零！=You’re missing out, Zero! If I had to spend my whole life never knowing that chocolatey deliciousness...
 チョコレートパフェ……うっ、|考えただけで胸焼けが……！=Chocolate parfait... Ngh, just thinking about it gives me heartburn.
 お前、せっかく人が|好物の塩ラーメン食ってる時に|ーー=Listen, when someone’s finally got the chance to eat a delicious shio ramen--
 嫌いな食いモンの味|思い出させるなよな。=Don’t remind them of the food they hate.
@@ -9768,7 +9768,7 @@ Sleep well...
 お前、はしゃぎすぎだぞ！|少しは落ち着いて見ろ！=You’re too hyper. Calm down!
 ごめんごめん。|つい好奇心が|先走っちゃって……=I’m sorry~ I got carried away by all the cool things...
 わあ……見て、綺麗。|真鍮の飾りがついたビンが|いっぱい……。=Wow, look at that... They’ve got all sorts of bottles with fancy brass decorations!
-いらっしゃい、お嬢さん。|良かったら見ていって。|これね、全部香水なの。=Welcome, miss! Look to your heart’s content. Each bottle contains a perfume that smells better than the one before it.
+いらっしゃい、お嬢さん。|良かったら見ていって。|これね、全部香水なの。=Welcome, miss! Have a look around! The perfume in each bottle smells better than the one before it.
 そうなんですか。|すごい……いいな、|このピンク色のビン。=There are so many. Oh, I really like this pink bottle.
 フタを開けてごらん。|香りもなかなかのもんだよ。=Go ahead and lift off its lid. Don’t be shy. Its scent is as striking its bottle.
 本当だ……甘いけど|さっぱりしてて、何か、|心が落ち着くような……=Oh my gosh! It smells sweet but also refreshing. There’s something soothing about it.
@@ -10268,7 +10268,7 @@ Sleep well...
 あっ、でも、枢センパイ……！=Ah, but, Kaname...!
 もう遅いよ……つかまえた、|<name>。=It’s too late... I’ve caught you, <name>.
 （わ、私……枢センパイの|腕の中に、すっぽり|収まっちゃった……！）=(K-Kaname’s arms are wrapped around me...!)
-さっき、誰にも見つからない、|良い場所をみつけたんだ。=I came across a good spot where no one will be able to find us a little while ago.
+さっき、誰にも見つからない、|良い場所をみつけたんだ。=A while ago, I came across a good spot where no one will be able to find us.
 そこへ行かない？=Why don’t we head there?
 
 # A0FB8
@@ -10514,12 +10514,12 @@ Sleep well...
 あそこにいるのって……|やっぱり、支葵センパイだ。|支葵センパ～イ！=That looks like Shiki over there.|Shiki! Hey!
 あ、風紀委員。=Oh, it’s you, Prefect.
 何してるんですか？|海面をじっと見つめて……=Why are you just staring at the water like that?
-魚をつかまえる為に|潮の流れを見てるとか？=Are you watching the flow of the tide hoping to catching some fish?
+魚をつかまえる為に|潮の流れを見てるとか？=Are you watching the flow of the tide hoping to catch some fish?
 ううん、別に。|キレイな海だなって思って。=No, not really. I was just thinking how gorgeous the sea is.
 えっ……それだけですか？|ただ、見てただけ……？|食料の調達は……？=Seriously? That’s it? You’re just looking out at the ocean. What about looking for food?
 ああ、そうそう。|さっき、小さなカニを|つかまえたんだけどーー=Oh yeah. I did catch a little crab a little bit ago, but it escaped.
 逃げられちゃった。|でも、生き物を捕まえるのって|楽しい。=I didn’t know catching little creatures like that could be so thrilling.
-もう……そんなこと言ってる|場合じゃないですよ。|私たち、いつこの島をーー=Ugh, now’s not really the time for fun, you know. We still have no idea how we’re going to get off this island.
+もう……そんなこと言ってる|場合じゃないですよ。|私たち、いつこの島をーー=Ugh, now’s not really the time for fun. We still have no idea how we’re going to get off this island.
 脱出できるかわからないん|ですよ？とにかく食べて、|体力付けないと……！=Anyway, right now we need to focus on sustenance to keep our energy up!
 うん。|風紀委員の言う通りだ……=Yes, you’re absolutely correct.
 （ほっ……良かった。|やる気になってくれたみたい。|って、あれ……？）=(Whoa! That worked. Looks like he’s finally motivated to help out.)
@@ -10562,7 +10562,7 @@ Sleep well...
 ……そ、そろそろ|戻りませんか？=Let's just go back, okay?
 
 # A260C
-（支葵センパイに……|お姫様だっこ……）=Shiki still had his hand around my wrist, almost like a young girl and her doll.)
+（支葵センパイに……|お姫様だっこ……）=(Shiki still had his hand around my wrist, almost like a young girl and her doll.)
 （そんなに|強く抱きしめられたら|苦しいです……）=(It would start to hurt if he continued to squeeze so tightly.)
 あ、あの、支葵センパイ……|もう大丈夫ですから、|離して下さい……=U-Um, Shiki? I'm okay now, so you can let go.
 そうだね。わかってる。|でも……不思議。=Right. Alright. It's strange though.
@@ -10604,12 +10604,12 @@ Sleep well...
 ん？そこにいるのは、誰……？|おーい……もしもーし？=Hm? Who’s that over there...?|Hey! ...Hello?
 うおおおお～～～っ！！=Uoooogh!!
 キャアアアァアアア！！|何！？獣！？助けて～～！！=Eeeeek!! A-A bear!?|Heeeeelp!!!
-くそ、案外すばやいな……！|３日ぶりにメシが食えると|思ったのに……！！=Damn, that bugger’s surprisingly fast. And here I thought I could finally eat something for the first time in three days--!
+くそ、案外すばやいな……！|３日ぶりにメシが食えると|思ったのに……！！=Damn, that bugger’s fast. Here I thought I could finally eat something for the first time in three days--!
 くっそ、腹が減った！=Ugh, I’m so hungry!
 ああ、怖かった……|さっきのあの雄叫び、|何だったんだろう？=Aah, that was so scary... What in the world was that noise I heard earlier?
 クマとか、トラとか？|いや、もっと|得体の知れない生物かも……=A bear... or a tiger? No, maybe it was something more exotic...
 ひゃっ……こ、今度は何！？=Waagh! W-What now!?
-空がダメなら、海ってことだ！|よし！|今日は刺身三昧といくか！=If the sky is no good, then the ocean will have to do! Alright, I’m going to have an all-you-can eat sashimi feast!
+空がダメなら、海ってことだ！|よし！|今日は刺身三昧といくか！=If the sky is no good, then the ocean will have to do! I’m going to have an all-you-can eat sashimi feast!
 キャアアアァアアア！！|う、海坊主？=Gyaaaaaaaaah!!|A-A sea monster!?
 イテッ！こらっ！|誰だ、石投げたやつは。=Ow! Hey! Who threw this rock at me!?
 イヤ～～！！|誰か助けて～～！！=Noooo!! Someone save me!!!!
@@ -10638,11 +10638,11 @@ Sleep well...
 やっと、協力する気になって|くれたみたいだね。|ありがとう、錐生くん。=It seems you’re finally willing to cooperate. Thank you, Kiryu.
 …………ふん。=...Hmph.
 さあ<name>、僕たちも戻ろう。|フフ……何を作ろうか？|<name>の好きなものがいいね。=Now then, we should be getting back. Heh... What shall we make? Whatever <name> likes would be good.
-気持ちは嬉しいですけど|とりあえず、今ある材料で|出来るものでいいです。=I appreciate the thought, but I think we’d be better sticking with what we can make from the ingredients we already have.
+気持ちは嬉しいですけど|とりあえず、今ある材料で|出来るものでいいです。=I appreciate the thought, but I think we should stick with the ingredients we already have.
 そんな贅沢、言ってる場合じゃ|ありませんし……=Now’s not the time to be going all out...
 もっと僕を信じて欲しいな。|僕にできないことは|ないんだよ。=I wish you would have more faith in me. There’s nothing I can’t do.
 できないことはない、か。|そもそもナイト･クラスの|お坊ちゃん連中にーー=Nothing you can’t do, huh? Actually, can the privileged lords of the Night Class--
-料理なんて出来るのか？|聞いてあきれる。=even cook? It beggars belief.
+料理なんて出来るのか？|聞いてあきれる。=even cook? It's hard to believe.
 何か言ったかい？|錐生くん。=Is there something you want to say, Kiryu?
 別に。ただの独り言ですよ、|玖蘭先輩。=Not really. I was just talking to myself, Kuran.
 ふうん。きみの独り言は|ずいぶんと大きいんだね。=Hmm, your self-talk is rather loud.
@@ -10665,12 +10665,12 @@ Sleep well...
 確かに、|お二人のを合わせると、|量は沢山ありますね。ただ……=That’s true. Even with just us, we have a lot. Though...
 おい英、|この毒々しい色のキノコは|本当に食べられるのか？=Oi Hanabusa, are these poisonous-looking mushrooms even edible?
 私もいま、|そう思ってた所です……=I’ve been thinking the same thing...
-うるさいな、二人とも。|口に入る物にも、美的センスに|こだわりたいんだ、僕は。=Shut it, both of you. I’m very particular about aesthetic sense, even when it comes to things to put in my mouth.
+うるさいな、二人とも。|口に入る物にも、美的センスに|こだわりたいんだ、僕は。=Shut it, both of you. I’m aesthetically inclined, even when it comes to things to put in my mouth.
 美的センス……ねえ。=Aesthetic sense... huh?
-さあ、元いた場所に戻るぞ。|早く枢様に、この美しい|キノコをご覧いただくんだ。=Come on, let’s go back to where we came from. I can’t wait for Lord Kaname to see these gorgeous mushrooms.
+さあ、元いた場所に戻るぞ。|早く枢様に、この美しい|キノコをご覧いただくんだ。=Come on, let’s go back... I can’t wait for Lord Kaname to see these gorgeous mushrooms.
 （あっ……！藍堂センパイ、|変な色のキノコをーー）=(Ah! Aido’s weird mushrooms--)
 （架院センパイの採ったものと|混ぜちゃった……！）=(got mixed in with the things Kain picked...!)
-おい、まずいんじゃないのか、|一緒にしたら。少なくともその|赤いのとかオレンジのは……=Oi, that’s no good, putting them together. Not least, these red and orange ones--
+おい、まずいんじゃないのか、|一緒にしたら。少なくともその|赤いのとかオレンジのは……=Oi, that’s no good, putting them together. At least not the red and orange ones--
 へーき、へーき！|心配性だな、暁は！=It’s fine, it’s fine! You’re such a worrier, Akatsuki!
 だ、大丈夫かなー……|何か、不安です……=W-Will it really be okay? I’m kind of worried...
 だよなあ……さすがになあ……=Yeah. Me too...
@@ -10773,7 +10773,7 @@ Sleep well...
 ちっ…………=Tch...
 そうだね<name>。|きみの言うとおりだ。=Quite right, <name>. It’s just as you say.
 （ふ～……この二人ってば|ちょっと油断するとすぐ|不穏な空気になるんだから）=(Phew... If I let down my guard around these two for even a second, things start spiraling out of control.)
-じゃ、まずは材料の確認。|わかめ、貝、魚。それに|海水を乾かして作った塩。=Okay, let’s start by seeing what we have. There’s seaweed, shellfish, fish, salt made by evaporating the seawater...
+じゃ、まずは材料の確認。|わかめ、貝、魚。それに|海水を乾かして作った塩。=Okay, let’s see what we have. There’s seaweed, shellfish, fish, salt made by evaporating the seawater...
 あとは、ウニがこんなに沢山！|贅沢だよね。=Plus, a mountain of sea urchins! It’s like a 5-star restaurant!
 あっ！でも、良く考えて|みたら、包丁がない……|魚とか、どうやって切る？=Ah! But now that I think about it, we don’t have a knife... How are we going to cut the fish?
 一条センパイの刀、|借りてこようか……？=Maybe we could borrow Ichijo’s sword?
@@ -10974,7 +10974,7 @@ Sleep well...
 私も、思いました……|藍堂センパイ、変なキノコしか|取ってないものだと……=I’m shocked too. I just thought that all Aido had gathered was weird mushrooms...
 <last><name>、何か言った？=Did you just say something, <name><last>?
 い、いえ、別に……|あ、あはは……=N-No, it was nothing... Ahaha...ha...
-よし、これを焼くのは|誰か一人に任せて、他のやつは|別の料理作りに取り掛かるか。=Alright, we should divide this up so while one of us grills these, the others can get on with something else.
+よし、これを焼くのは|誰か一人に任せて、他のやつは|別の料理作りに取り掛かるか。=Alright, we should divide this up so while one of us grills, the others can get on with something else.
 そうですね。|じゃあ、松茸の一本焼きは|誰に任せましょうか……？=That’s a good point. So, who’s going to take care of the mushrooms...?
 
 # A267C choose 藍堂センパイに任せします
@@ -10987,10 +10987,10 @@ Sleep well...
 （本当だ……見た目はすごく|美味しそう。でも、ちゃんと|中まで火が通ってるのかな？）=(He’s right... They do look delicious. But, I’m kind of worried they’re not cooked all the way through.)
 
 # A333C choose 架院センパイにお任せします
-架院センパイにお任せします。|焼き加減を見て、程よい所で|火を消してもらえますか？=I’ll leave it to you, Aido. Once they’ve finished cooking, will you put out the fire?
+架院センパイにお任せします。|焼き加減を見て、程よい所で|火を消してもらえますか？=I’ll leave it to you, Kain. Once they’ve finished cooking, will you put out the fire?
 ああ、わかった。=Yeah, sure.
 （うん、架院センパイなら|しっかりしてそうだし、|任せても安心だな！）=(Kain is so reliable, I’m not worried about leaving it to him at all.)
-じゃあ、お願いしますね。|架院センパイ。=Okay, then I’m coming on you, Kain!
+じゃあ、お願いしますね。|架院センパイ。=Okay, then I’m counting on you, Kain!
 いい香りだな。ん？……|表面にうっすら水滴が。|まだ、生焼けなのか？=It smells good... Hm? The surface looks slightly wet. Are they still raw?
 中まで火が通ってないと|危なさそうだな……=It’s probably dangerous if they’re not cooked all the way through.
 架院センパイ、|焼け具合はどうですか……|って、何ですかこの火柱！=How’s the food doing, Kai--!? W-What’s with this pillar of flame!?
@@ -11013,19 +11013,19 @@ Sleep well...
 さてと。そうこうしている|うちに、スープの準備は|出来上がっているよ。=Alright, whilst that was going on, the preparations for the soup are ready.
 あとは鍋の中にこの|色とりどりのキノコたちを|入れれば完成だ。=All that’s left to do is add these colorful mushrooms to the pot and then we’ll be done.
 （で、出た……！|問題の毒キノコ……！）=(H-Here it is! The problem of the poisonous mushrooms--!)
-フフ……オレンジや黄色の|キノコのお陰で、まるで|ニンジンやかぼちゃがーー=Heheh... Thanks to these orange and yellow mushrooms, it’ll make it look like there are carrots and pumpkins in there.
+フフ……オレンジや黄色の|キノコのお陰で、まるで|ニンジンやかぼちゃがーー=Heheh... These orange and yellow mushrooms will make it look like there are carrots and pumpkins in there.
 入っているように見える。|二人とも、僕のこの、|物を選ぶ審美眼に感謝しろよ？=The two of you must be glad for my excellent taste in choosing things, right?
 （するとその時、|架院センパイがコソコソと|私の耳元でささやいた）=(Just then, Kain whispered something in my ear.)
 おい<last>……あのキノコ|大丈夫だと思うか？=Hey <last>, do you think those mushrooms are really going to be okay?
 いいえ……正直、|あれを食べた皆さんの健康が|心配です……自分も含めて。=No... To be honest, I’m worried about everyone eating them... Myself included.
 ……おい英。このキノコは|俺たちも<last>も、|一度も食べた事がない。=Oi, Hanabusa. <last> and I have never had this kind of mushroom before.
 どんな風味のキノコなのか……|調理する前に味見をした方が|いいんじゃないか？=What does it taste like? Shouldn't we taste it before putting it in something?
-まあ……そんな事しなくても|美味しいのは想像が付くけど|一応した方がいいかもね。=Well... I can just imagine how delicious they’ll be without tasting it but, maybe it is a good idea to try one just in case.
+まあ……そんな事しなくても|美味しいのは想像が付くけど|一応した方がいいかもね。=Well... I can just imagine how delicious they’ll be without tasting it, but maybe it is a good idea to try one.
 枢様のお口に|合わなかったら大変だ。|でも、誰が味見するんだ？=It’d be terrible if Lord Kaname didn’t like them. But, who’s going to taste it?
 そ、そうですねえ……=R-Right...
 
 # A2EC0 choose 藍堂センパイ、どうですか？
-やっぱりここは、採った|ご本人である、藍堂センパイが|味見をしたらどうでしょう？=Well, it’d make sense for person who collected them to be the one to try it. What do you think, Aido?
+やっぱりここは、採った|ご本人である、藍堂センパイが|味見をしたらどうでしょう？=Well, it’d make sense for the person who collected them to be the one to try it. What do you think, Aido?
 ふん……まあ、|そう来ると思ったよ。じゃあ、|僕が味見させてもらう。=Hm... I figured it’d come to that. Okay, I’ll taste one then.
 （き、緊張する……！もし|食べた途端、藍堂センパイが|ひっくり返ったらどうしよう）=(I-I’m scared! What if Aido keels over the moment he eats it--!?)
 （架院センパイも、|額にうっすら汗かいてる……|心配してるんだ……）=(Even Kain’s sweating a little... He looks worried.)
@@ -11041,7 +11041,7 @@ Sleep well...
 そうだな。|味見した方がいいって|言い出したのは暁だし。=Exactly. You’re the one who suggested we try it.
 そうか……わ、わかった……|俺が、食べてみる。=That’s true... A-Alright. I’ll eat it...
 （か、架院センパイ、|ごめんなさい……！私、|逃げてしまいました……！）=(I-I’m sorry, Kain! I’m a coward...!)
-（架院センパイ、赤いキノコを|手にしたまま、動かない……|顔も、真っ青だ……）=(Kain’s just stood there, holding a red mushroom in his hand... His face has gone red too...)
+（架院センパイ、赤いキノコを|手にしたまま、動かない……|顔も、真っ青だ……）=(Kain just stood there, holding a red mushroom in his hand... His face has gone red too...)
 あ……そ、そうだ、英。|このキノコ、熱通した方が|いいんじゃないのか？=Ah... I-I know, Hanabusa, wouldn’t it be better to heat these first instead?
 えっ？平気だろう？|どうせスープにするとき|煮込むんだから。=Huh? They’ll be fine. They’re going to be cooked in the soup anyway.
 いや……でも、自然のものは|良く火を通した方がいい。=Well... I just think it’s better to cook raw things.
@@ -11071,7 +11071,7 @@ Sleep well...
 どうして、鍋の中に|こんな地味な色のキノコしか|入っていないんだ！？=Why are there only these plain mushrooms in the pot?
 落ち着け英。それが|不思議な事に、火を通したら|こんな色になったんだ。=Calm down, Hanabusa. That’s the weird thing, after I cooked them, they turned this color.
 そっ、そうなんです！|加熱すると、変色する|キノコだったみたいで……！=R-Right! It looks like these mushrooms turn color when they’re cooked!
-そうか、なら仕方がないな。|ああ、枢様にあの美しい色の|まま差し上げたかったな……！=Oh, I guess that’s that then. Aaah, I wish I could have served them to Lord Kaname in their colorful glory, though!
+そうか、なら仕方がないな。|ああ、枢様にあの美しい色の|まま差し上げたかったな……！=Oh, I guess that’s that then. Aaah, I wish I could have served them to Lord Kaname in their colorful glory!
 （ごめんなさい、|色が変わったなんてウソです、|藍堂センパイ……）=(I’m sorry, Aido. The part about them changing color was just a lie...)
 （あの色鮮やかなキノコは|架院センパイが|全部燃やしちゃいました……）=(Kain burnt all of the suspect mushrooms.)
 （鍋の中に入れたのは、|最初から普通の色の|キノコたちです……）=(He just used normal mushrooms from the start...)
@@ -11187,7 +11187,7 @@ Sleep well...
 風紀委員だって|コドモじゃないんだから。|一条さん、心配しすぎ。=You worry too much, Ichijo. She's not a child.
 大丈夫です。|ここはどーんと大船に|乗ったつもりでいてください。=I'm sure. Just sit back and relax. I've got this all under control.
 えっと、まずは|足を切り落として、|それから輪切りにして……=Now, first I cut off the tentacles and then cut them into slices...
-わ……！ツルっと滑って|イカが飛んだ……！キャッ！|タコの吸盤が、腕に……！！=Waa! The squid's all slippery and it flew out of my hand! Ah! The octopus's suckers are stuck to my arm!!
+わ……！ツルっと滑って|イカが飛んだ……！キャッ！|タコの吸盤が、腕に……！！=Waa! The squid's all slippery and it flew out of my hand! Ah! The octopus is stuck to my arm!!
 い、痛い！すごい|タコに吸い付かれてる……！=Ow! That hurt. Those octopus suckers really stick on good!
 大船に乗ったつもりでいろって|言ったばっかりなのに……=Weren't you just saying you had everything under control?
 もう、<name>ちゃん。|危なっかしくて|見ていられないよ。=<name>, you're going to hurt yourself.
@@ -11210,7 +11210,7 @@ Sleep well...
 
 # A38CC
 じゃあ、貝を焼くのは|一条センパイに|お任せしてもいいですか？=Well, since you know the most about it, could you roast it, Ichijo?
-うん、わかったよ。|<name>ちゃんと支葵は|別の作業してていいからね。=Yeah, no problem. And that way you and Shiki can take care of the other work
+うん、わかったよ。|<name>ちゃんと支葵は|別の作業してていいからね。=Yeah, no problem. And that way you and Shiki can take care of the other work.
 よろしくお願いします。|一条センパイ。=Thanks, Shiki. I don't know what we'd do without you.
 一条センパイ、|そろそろ焼けましたか……？|って、わっ！=Ichijo, are they almost done cooking?|Oh wow...
 な、何で貝が、全部輪切りに|なってるんですか？=Wh-Why did you slice up all the shellfish?
@@ -11237,7 +11237,7 @@ Sleep well...
 うん、わかったよ、|<name>ちゃん。|さ、支葵、焼くよ。=You got it, <name>. Come on, Shiki. Let's get cooking.
 どうやって焼くの？=Cook it how?
 このままじゃ、中まで|火が通りにくいだろう？何せ、|固い殻に覆われてるんだから。=Well, it probably won't cook very thoroughly like this due to its hard shell.
-だから、|なるべく小さくした方が、|良く焼けるんじゃないかな。=I bet it will cook better if we break into smaller pieces. What do you think?
+だから、|なるべく小さくした方が、|良く焼けるんじゃないかな。=I bet it will cook better if we break it into smaller pieces. What do you think?
 ふーん……なるほど。=Yeah, that makes sense.
 そうだ、|お二人に言い忘れてたん|ですけど……=By the way, you two, I forgot to tell you earlier.
 貝、焼き終わったら、これ|お皿代わりに使って下さい……|って、えっ！？=Once it's cooked, you should serve it in its own shell, so... Wh-What-re you...!?
@@ -11320,7 +11320,7 @@ Sleep well...
 あーあ……疲れた。|余計な体力使っちゃった。|早く食べて、寝たい。=*Sigh* I'm tired. I've used too much of my strength. What are we waiting for? I'm going to eat and go to sleep.
 フン、まさかこの僕がこんな|庶民的な物を口にするなんて、|思ってもみなかったよ。=Hmph, I never thought I would end up eating something so unsophisticated like this.
 まあ、そう言うな、英。|今は、食べるものがあるだけで|ありがたいと思え。=Well, don't think of it like that, Hanabusa. Just be grateful that you have something to eat at all.
-ふふ……僕は楽しいな！|こんなサバイバルな食事、|めったに体験できないからね。=Hehe, I'm honestly having fun! Scrounging for food in a survival situation, it's not an experience that everyone has.
+ふふ……僕は楽しいな！|こんなサバイバルな食事、|めったに体験できないからね。=Hehe, I'm honestly having fun! Looking for food in a survival situation isn't an experience everyone has.
 それじゃ、冷めないうちに|食べちゃいましょうか！|いただきま～す！=Well, let's eat up before it all gets cold! Dig in～!
 いただきま～す！=Let's eat!
 
@@ -11328,7 +11328,7 @@ Sleep well...
 ……お、おいしい！=It's so good!
 本当だ、うまい。=You're right. It's not half bad.
 あれだけの材料で、|この深い味が出せるなんて……|素晴らしいね。=Impressive. To think you can get such full flavor with so few ingredients.
-良かった～！|正直、どんな出来上がりか、|不安だったんですけど……=I'm so glad you like it! Honestly, I was a little worried about how it would turn it.
+良かった～！|正直、どんな出来上がりか、|不安だったんですけど……=I'm so glad you like it! Honestly, I was a little worried about how it would turn out.
 結果よければ全てよし、|ですね！=In the end, everything turned out really good though, huh!?
 ん……何？|今、後ろで誰かが|動いたような……=Hm? What? I could have sworn something moved behind me just now...
 俺にも食わせろーーー！！！=Looks like I've found my next meal!!!

@@ -150,11 +150,11 @@
 <ch1>一条センパイに任せる<00><00><0A><ch2>支葵センパイに任せる<00><01><0A><ch3>二人に任せる<00><02>=<ch1>“Could you do it, Ichijo?"<00><00><0A><ch2>“Could you do it, Shiki?"<00><01><0A><ch3>“Could the two of you do it?"<00><02>
 <ch1>一条センパイお願いします<00><08><0A><ch2>支葵センパイお願いします<00><09><0A><ch3>私に任せてください<00><0A>=<ch1>“Will you do it, Ichijo?"<00><08><0A><ch2>“Will you do it, Shiki?"<00><09><0A><ch3>“Leave it to me."<00><0A>
 <ch1>枢センパイを責める<00><00><0A><ch2>零を責める<00><01>=<ch1>Blame Kaname.<00><00><0A><ch2>Blame Zero.<00><01>
-<ch1>藍堂センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
-<ch1>架院センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
-<ch1>一条センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
-<ch1>支葵センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
-<ch1>夜刈先生を責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=
+<ch1>藍堂センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=<ch1>Blame Aido.<00><00><0A><ch2>Don’t blame anyone.<00><01>
+<ch1>架院センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=<ch1>Blame Kain.<00><00><0A><ch2>Don’t blame anyone.<00><01>
+<ch1>一条センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=<ch1>Blame Ichijo.<00><00><0A><ch2>Don’t blame anyone.<00><01>
+<ch1>支葵センパイを責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=<ch1>Blame Shiki.<00><00><0A><ch2>Don’t blame anyone.<00><01>
+<ch1>夜刈先生を責める<00><00><0A><ch2>責めるなんて出来ない<00><01>=<ch1>Blame Mr. Yagari.<00><00><0A><ch2>Don’t blame anyone.<00><01>
 <ch1>いいよ……零<00><06><0A><ch2>ちょっと待って……<00><07>=<ch1>“It’s okay, Zero...”<00><06><0A><ch2>“W-Wait a second...”<00><07>
 <ch1>うん<00><09><0A><ch2>やっぱり待って<00><0A>=<ch1>“Yes.”<00><09><0A><ch2>“A-Actually I--”<00><0A>
 <ch1>零！<00><0C><0A><ch2>やっぱり……怖い……いや<00><0D>=<ch1>“Zero!”<00><0C><0A><ch2>“No... I’m scared...”<00><0D>
@@ -12552,7 +12552,7 @@ Sleep well...
 ……零！どういう事！？|チビはどこに行ったの！？=...Zero! What’s going on!? Where did Chibi go?
 （零は獣に向かって|ブラッディローズを構えながら|問いに答えるため口を開いた）=(Zero kept the Bloody Rose firmly pointed at the beast as he opened his mouth to speak.)
 <name>。|……こいつがチビだ。=<name>... This is Chibi.
-チビ？これが……？=This thing... is Chibi?
+チビ？これが……？=This monster... is Chibi?
 とにかく、お前は下がってろ！|こいつは、俺が！=Anyway, just stay back! I’ll handle this!
 （零がチビと呼ぶ|獣が振り払った爪を、|零がかろうじてかわすーー）=(Zero narrowly managed to avoid the claws that came swinging at him from the beast named ‘Chibi’.)
 く……！=Ugh...!
@@ -12589,11 +12589,11 @@ Sleep well...
 （私を救ってくれたのは|枢センパイだった）=(Kaname saved me.)
 ガアアァァ……=Grrrr...
 （チビの体が無に帰っていく。|私はその様子を呆然と見ていた|ーー）=(As I watched in awe, Chibi’s body crumbled away.) 
-（枢センパイは、|ようやく立ち上がった零を|振り返ったーー）=(Kaname shot a glance at Zero, who’d finally managed to stand up.)
+（枢センパイは、|ようやく立ち上がった零を|振り返ったーー）=(Kaname shot a glance at Zero, who’d finally managed to stand up.)#dupe
 見損なったよ、錐生くん。あれ|ほど念を押したのに。<name>を|危険な目に遭わせるなんてね。=I'm disappointed, Kiryu. I warned you repeatedly, and yet you still put <name>’s life in danger.
 ……くっ。=...Ngh.
 （私はさっきまでの恐怖を忘れ|弱々しく消えていくチビに|駆け寄ったーー）=(Forgetting all about how scared I was, I ran up to what was left of Chibi.)
-（チビの体は枢センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Kaname’s overwhelming might, his body had turned to ashes and was disappearing in the breeze.)
+（チビの体は枢センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Kaname’s overwhelming might, his body had turned to ashes and was disappearing in the breeze.)#dupe
 どうして！？|どういう事ですか！？|なんでチビが！！=Tell me why! What’s the meaning of this!? Why did Chibi--!?
 <name>。チビは|きみに出会う前からすでに、|ヴァンパイア犬だったんだよ。=Chibi was already a vampire before he met you.#dupe
 ヴァンパイア……犬？=A vampire... dog?
@@ -12605,7 +12605,7 @@ Sleep well...
 そんな……チビ……=This can’t be...
 （涙があふれてくるーー）=(The tears that had been building up came overflowing at once.)
 （私の知らないところで、|チビにそんな事が起こっていた|なんてーー）=(I can’t believe that I was so clueless, when all this was happening to Chibi.)#dupe
-（でも、なぜチビが殺され|なければいけなかったのか|ーー）=(But why did he have to die?)
+（でも、なぜチビが殺され|なければいけなかったのか|ーー）=(But why did they have to kill him!?)#dupe
 （悲しくて、訳がわからなくて|私は混乱したーー）=(I was so sad and confused, I...)
 
 # A7BFC Blame Kaname
@@ -12694,7 +12694,7 @@ Sleep well...
 # A7C5C Blame Kaname
 ひどい！|どんな理由があったって、|殺すなんて！！=You’re terrible! No matter what reasons there might have been, just killing him was--!
 <name>、ごめんね。悪いのは|無力なこの僕だ。きみを|とても悲しませてしまった。=I’m sorry, <name>. It’s my fault for being so powerless. I let you get so hurt.
-<name>。玖蘭先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Kuran, <name>. There was nothing anyone could have done...
+<name>。玖蘭先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Kuran, <name>. There was nothing anyone could have done...#dupe
 本当にごめんよ、<name>。|チビはもう手遅れだったんだ。=I’m truly sorry, <name>. It was already too late for Chibi.
 残酷かもしれないけれど、|こうするしかなかったんだよ。=It might have been cruel, but this was the only way.
 僕は無力だった……どうする事|も出来なかったんだ。=I’m powerless. I couldn’t do anything.
@@ -12715,107 +12715,107 @@ Sleep well...
 <name>……。|いいんだ。悪いのは俺だ。=<name>... It’s okay. I’m the one to blame.
 一番つらかったのは零だよね。|……ごめんなさい！！=The one who’s hurting the most is you isn’t it, Zero?! I’m so, so sorry!!
 
-# A8F6C
-（空から降り注ぐ氷の刄が|チビの体を貫くーー）=
-（氷の刄に貫かれたチビは、|断末魔をあげてその場に|崩れ落ちるーー）=
-<last><name>！大丈夫か！？=
-藍堂センパイ……。=
-（私を救ってくれたのは|藍堂センパイだった）=
-（藍堂センパイは、|ようやく立ち上がった零を|振り返ったーー）=
-しっかりしろ、錐生！|彼女を危険な目に|遭わせるなんて！！=
-……すまん。=
-（チビの体は藍堂センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=
-<name>。チビは|君に出会う前からすでに|ヴァンパイア犬だったんだよ。=Chibi was already a vampire before he met you.#dupe
-レベル：Ｅに落ちる寸前|の…ね。チビを止めるには、|もうこれしか手段はなかった。=
-僕にはどうしようもなかった。=
-（でも、なぜチビが|殺されなければ|いけなかったのかーー）=
+# A8F6C Aido Chibi rescue
+（空から降り注ぐ氷の刄が|チビの体を貫くーー）=(An icicle came shooting out of the sky and hit Chibi.)
+（氷の刄に貫かれたチビは、|断末魔をあげてその場に|崩れ落ちるーー）=(Cut through by the ice, Chibi let out an agonizing yelp and slumped to the ground.)
+<last><name>！大丈夫か！？=<name><last>! Are you okay!?
+藍堂センパイ……。=Aido...
+（私を救ってくれたのは|藍堂センパイだった）=(Aido had come to my rescue.)
+（藍堂センパイは、|ようやく立ち上がった零を|振り返ったーー）=(Aido shot a glance at Zero, who’d finally managed to stand up.)#dupe
+しっかりしろ、錐生！|彼女を危険な目に|遭わせるなんて！！=Pull yourself together, Kiryu! You almost let her get hurt!
+……すまん。=...I’m sorry.
+（チビの体は藍堂センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Aido’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
+<name>。チビは|君に出会う前からすでに|ヴァンパイア犬だったんだよ。=Chibi was already a vampire dog before he met you.#dupe
+レベル：Ｅに落ちる寸前|の…ね。チビを止めるには、|もうこれしか手段はなかった。=He was about to fall to Level E... This was the only way to stop him.
+僕にはどうしようもなかった。=There was nothing I could have done.
+（でも、なぜチビが|殺されなければ|いけなかったのかーー）=(But why did they have to kill him!?)#dupe
 
-# A6E20
+# A6E20 Blame Aido
 （私は自分の感情の行き場を|失い、どうしようもない思いを|藍堂センパイにぶつけたーー）=(Overcome with emotion, I directed all of my anger at Aido.)#next 3 lines dupe
 どうして！|どうしてなんですか！？|藍堂センパイ！！=Why! Why did this happen!? Answer me, Aido!!
 （私は藍堂センパイの胸に|顔をうずめ、激しく|藍堂センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
-こればかりは、僕の力でも|どうしようもなかったんだよ。|<name>。=
-そんな……|あんなに藍堂センパイに|懐いてたのに！！=
-チビは、藍堂センパイが|好きだったのに！！|そんなチビを……=
-<name>！|藍堂先輩は……=
-よせ、錐生。いいんだ。=
-<name>。藍堂先輩を|責めることじゃない。|……どうしようもなかった。=
-そうだな、僕はひどいやつだ。|チビを助けられなかった|ばかりか……=
-ホント、情けないよ。この僕が|悩んでばかりだったんだから|な。自分でも最低だと思うよ。=
-好きなように僕を憎んでくれて|いいぞ、<last><name>。|それでお前の気が晴れるなら…=
-（私が見上げると、|藍堂センパイの瞳から涙の|結晶がほんの一瞬光ったーー）=
-チビ……|可愛かったよな……=
-藍堂センパイ……|私……私！！=
+こればかりは、僕の力でも|どうしようもなかったんだよ。|<name>。=There was nothing in my powers that I could do.
+そんな……|あんなに藍堂センパイに|懐いてたのに！！=But... He was so attached to you!#dupe
+チビは、藍堂センパイが|好きだったのに！！|そんなチビを……=Chibi loved you so much! And yet, you...#dupe
+<name>！|藍堂先輩は……=<name>! Aido isn’t--!
+よせ、錐生。いいんだ。=Stop, Kiryu. It’s okay.
+<name>。藍堂先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Aido, <name>. There was nothing anyone could have done...#dupe
+そうだな、僕はひどいやつだ。|チビを助けられなかった|ばかりか……=You’re right. I’m a terrible person. I couldn’t even save Chibi...
+ホント、情けないよ。この僕が|悩んでばかりだったんだから|な。自分でも最低だと思うよ。=It’s pathetic. Worrying’s about the only thing I could manage... I’m the lowest of the low.
+好きなように僕を憎んでくれて|いいぞ、<last><name>。|それでお前の気が晴れるなら…= Hate me all you want, <name><last>. If that’d make you feel any better...
+（私が見上げると、|藍堂センパイの瞳から涙の|結晶がほんの一瞬光ったーー）=(I looked up and for a quick second, I could see a twinkle of tears in Aido’s eyes.)
+チビ……|可愛かったよな……=Chibi was cute, wasn’t he...?
+藍堂センパイ……|私……私！！=Aido... I... I--!!
 （チビとの思い出と、|藍堂センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Aido’s feelings, wrenched at my heart.)#next 4 lines dupe
 （私は悲しみをこらえきれず、|藍堂センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest...)
 （私は藍堂センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Aido’s arms.)
 （藍堂センパイは、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Aido just stood there, holding me tight.)
 
-# A2C30
-（混乱する頭で、それでも私は|藍堂センパイの気持ちが|痛いほどわかったーー）=
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、藍堂センパイだ）=
-（私に辛い思いをさせない様に|藍堂センパイは自分の手を汚す|決断をしてくれたーー）=
-（そんな藍堂センパイを、|責められるはずがないーー）=
-（私は自分の無力感に|打ちのめされ、チビの消えた|地面にしゃがみこんだーー）=
-（呆然とうなだれる私を、|零と藍堂センパイは、|ずっと見つめていたーー）=
+# A2C30 Don’t blame anyone. -much of this section dupes
+（混乱する頭で、それでも私は|藍堂センパイの気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Aido was feeling.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、藍堂センパイだ）=(I didn’t know anything. Aido didn’t want me to.)
+（私に辛い思いをさせない様に|藍堂センパイは自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
+（そんな藍堂センパイを、|責められるはずがないーー）=(How could I blame him, after all that...?)
+（私は自分の無力感に|打ちのめされ、チビの消えた|地面にしゃがみこんだーー）=(Feeling utterly powerless, I knelt down by the ground where Chibi had been.)
+（呆然とうなだれる私を、|零と藍堂センパイは、|ずっと見つめていたーー）=(Zero and Aido just stood there, heads hung low, watching me.)
 
-# A8FE4
-（チビの足元から発生した炎が|瞬く間にチビの体全体を|覆いつくしていくーー）=
-（業火に焼かれたチビが、|断末魔をあげてその場に|崩れ落ちるーー）=
-<name>！|大丈夫か！？=
-架院センパイ……。=
-（私を救ってくれたのは|架院センパイだった）=
-（架院センパイは、|ようやく立ち上がった零を|振り返ったーー）=
-見損なったぞ、錐生！|こいつを危険な目に|遭わせるなんて！！=
-……すまなかった。=
-（チビの体は架院センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=
-<name>。チビは|お前に出会う前から、すでに|ヴァンパイア犬だったんだよ。=
-レベル：Ｅに落ちる寸前|の…な。チビを止めるには、|もうこれしか手段はなかった。=
-もう手遅れだった。|玖蘭寮長の力でも英の技術でも|助ける事はできなかった。=
+# A8FE4 Kain Chibi rescue
+（チビの足元から発生した炎が|瞬く間にチビの体全体を|覆いつくしていくーー）=(Flames sprung up from beneath Chibi’s feet and engulfed his entire body.)
+（業火に焼かれたチビが、|断末魔をあげてその場に|崩れ落ちるーー）=(Burning in the flames, Chibi let out an agonizing yelp and slumped to the ground.)
+<name>！|大丈夫か！？=<last>! Are you okay!?#Assumin this is Kain-only, he calls the protag by their last name.
+架院センパイ……。=Kain...
+（私を救ってくれたのは|架院センパイだった）=(Kain had come to my rescue.)
+（架院センパイは、|ようやく立ち上がった零を|振り返ったーー）=(Kain shot a glance at Zero, who’d finally managed to stand up.)#dupe
+見損なったぞ、錐生！|こいつを危険な目に|遭わせるなんて！！=I’m disappointed, Kiryu! I never thought you’d put <last> in harm’s way!
+……すまなかった。=...I’m sorry.
+（チビの体は架院センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Kain’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
+<name>。チビは|お前に出会う前から、すでに|ヴァンパイア犬だったんだよ。=Chibi was already a vampire by the time you met.
+レベル：Ｅに落ちる寸前|の…な。チビを止めるには、|もうこれしか手段はなかった。=He was on the verge of falling to Level E... This was the only way to stop him.
+もう手遅れだった。|玖蘭寮長の力でも英の技術でも|助ける事はできなかった。=It was too late. Even President Kuran’s powers or Hanabusa’s brain couldn’t have saved him.
 
-# A8C2C
+# A8C2C Blame Kain
 （私は自分の感情の行き場を|失い、どうしようもない思いを|架院センパイにぶつけたーー）=(Overcome with emotion, I directed all of my anger at Kain.)#next 3 lines dupe
 どうして！|どうしてなんですか！？|架院センパイ！！=Why! Why did this happen!? Answer me, Kain!!
 （私は架院センパイの胸に|顔をうずめ、激しく|架院センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
-俺には|どうしようもなかった。=
-俺にできる事といえば、|苦しませずにチビを楽にして|やる事だけだった。=
-そんな……|あんなに架院センパイに|懐いてたのに！！=
-チビは、架院センパイが|好きだったのに！！|そんなチビを……=
-<name>！|架院先輩は……=
-<name>。架院先輩を|責めることじゃない。|……どうしようもなかった。=
-<name>。|一番つらかったのはチビだ。|一番苦しい思いをしたのも。=
-それでもチビは、|<name>と過ごした時間は、|幸せだったと、俺は思う。=
-チビのために、|俺達がしてやれる事が|１つだけある。=
-忘れない事だ。|チビの事をいつまでも|思ってやることだ。=
-そうすれば、|チビは<name>の中で|いつまでも生き続ける。=
-……できるか？<name>。=
-はい……架院センパイ。|私、チビの事をずっと|思い続けます。=
-ありがとう……。<name>。=
-（私が見上げると、|架院センパイの瞳からーー）=
-（涙の結晶がほんの一瞬|光ったような気がしたーー）=
-一緒にチビの事を|思い続けてやろうな。=
-架院センパイ|……私……私！！=
+俺には|どうしようもなかった。=There was nothing I could do.
+俺にできる事といえば、|苦しませずにチビを楽にして|やる事だけだった。=The only option I had was to make it quick, so he wouldn’t suffer.
+そんな……|あんなに架院センパイに|懐いてたのに！！=But... He was so attached to you!#dupe
+チビは、架院センパイが|好きだったのに！！|そんなチビを……=Chibi loved you so much! And yet, you...#dupe
+<name>！|架院先輩は……=<name>! Kain isn’t--!
+<name>。架院先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Kain, <name>. There was nothing anyone could have done...#dupe
+<name>。|一番つらかったのはチビだ。|一番苦しい思いをしたのも。=Chibi was the one who was suffering the most. It must have been hard for him.
+それでもチビは、|<name>と過ごした時間は、|幸せだったと、俺は思う。=But even so, I think that he spent with you, was happy.
+チビのために、|俺達がしてやれる事が|１つだけある。=There is only one thing we can do for Chibi.
+忘れない事だ。|チビの事をいつまでも|思ってやることだ。=We’ll remember him. We’ll never stop thinking about him.
+そうすれば、|チビは<name>の中で|いつまでも生き続ける。=And that way, Chibi will live on in our hearts.
+……できるか？<name>。=...Can you manage that, <last>?
+はい……架院センパイ。|私、チビの事をずっと|思い続けます。=Yes...|I won’t ever forget him.
+ありがとう……。<name>。=Thank you, <last>...
+（私が見上げると、|架院センパイの瞳からーー）=(When I looked up, there in Kain’s eyes...)
+（涙の結晶がほんの一瞬|光ったような気がしたーー）=(I thought a saw a tear, glistening in the moonlight.) 
+一緒にチビの事を|思い続けてやろうな。=Let’s always remember him.
+架院センパイ|……私……私！！=Kain... I... I--!
 （チビとの思い出と、|架院センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Kain’s words, wrenched at my heart.)#next 4 lines dupe
 （私は悲しみをこらえきれず、|架院センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest...)
 （私は架院センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Kain’s arms.)
 （架院センパイは、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Kain just stood there, holding me tight.)
 
-# A2C70
-（混乱する頭で、それでも私は|架院センパイの気持ちが|痛いほどわかったーー）=
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、架院センパイだ）=
-（私に辛い思いをさせない様に|架院センパイは自分の手を汚す|決断をしてくれたーー）=
-（そんな架院センパイを、|責められるはずがないーー）=
-（呆然とうなだれる私を、|零と架院センパイは、|ずっと見つめていたーー）=
+# A2C70 Don’t blame anyone. - dupe
+（混乱する頭で、それでも私は|架院センパイの気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Kain was feeling.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、架院センパイだ）=(I didn’t know anything. Kain didn’t want me to.)
+（私に辛い思いをさせない様に|架院センパイは自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
+（そんな架院センパイを、|責められるはずがないーー）=(How could I blame him, after all that...?)
+（呆然とうなだれる私を、|零と架院センパイは、|ずっと見つめていたーー）=(Zero and Kain just stood there, heads hung low, watching me.)
 
 # A905C
 （空気を切り裂く音と共に、|目に見えない何かがチビの体を|貫いたーー）=
 （目に見えない何かに貫かれた|チビが、断末魔をあげて|その場に崩れ落ちるーー）=
 <name>ちゃん！|大丈夫！？=
 一条センパイ……。=
-（私を救ってくれたのは|一条センパイだった）=
-（一条センパイは、|ようやく立ち上がった零を|振り返ったーー）=
+（私を救ってくれたのは|一条センパイだった）=(Ichijo had come to my rescue.)
+（一条センパイは、|ようやく立ち上がった零を|振り返ったーー）=(Ichijo shot a glance at Zero, who’d finally managed to stand up.)#dupe
 ダメじゃないか、錐生くん！|<name>ちゃんを危険な目に|遭わせるなんて。=
-（チビの体は一条センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=
+（チビの体は一条センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Ichijo’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
 <name>ちゃん。チビは|君に出会う前から、すでに|ヴァンパイア犬だったんだよ。=
 もう手遅れだった。|誰の力でも、もうどうしようも|なかったんだ。=
 
@@ -12825,11 +12825,11 @@ Sleep well...
 （私は一条センパイの胸に|顔をうずめ、激しく|一条センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
 僕には|どうしようもなかった。=
 僕にできる事といえば、|苦しませずにチビを楽にして|やる事だけだった。=
-そんな……|あんなに一条センパイに|懐いてたのに！！=
-チビは、一条センパイが|好きだったのに！！|そんなチビを……=
-<name>！|一条先輩は……=
+そんな……|あんなに一条センパイに|懐いてたのに！！=But... He was so attached to you!#dupe
+チビは、一条センパイが|好きだったのに！！|そんなチビを……=Chibi loved you so much! And yet, you...#dupe
+<name>！|一条先輩は……=<name>! Ichijo isn’t--!
 錐生くん。いいんだよ。=
-<name>。一条先輩を|責めることじゃない。|……どうしようもなかった。=
+<name>。一条先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Ichijo, <name>. There was nothing anyone could have done...#dupe
 どうして誰も|私に教えてくれなかった|んですか？=
 <name>ちゃん。|僕たちは君には|心配をかけたくなかった。=
 君が傷つくのを|わかっていたのに……|ごめんよ、<name>ちゃん。=
@@ -12843,27 +12843,28 @@ Sleep well...
 きっと君の言葉は、|チビの事も救ったはずだ。=
 泣かないで、君は強い子だ。|チビの分まで生きるんだ。|<name>ちゃん。=
 （私を励ます一条センパイの|いつもの微笑みは、なんだか|泣いているように見えたーー）=
-一条センパイ|……私……私！！=
+一条センパイ|……私……私！！=Ichijo... I... I--!
 （チビとの思い出と、|一条センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Shiki’s feelings, wrenched at my heart.)#next 4 lines dupe
 （私は悲しみをこらえきれず、|一条センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest...)
 （私は一条センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Ichijo’s arms.)
 （一条センパイは、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=Ichijo just stood there, holding me tight.)
 
-# A2C90
-（混乱する頭で、それでも私は|一条センパイの気持ちが|痛いほどわかったーー）=
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、一条センパイだ）=
-（私に辛い思いをさせない様に|一条センパイは自分の手を汚す|決断をしてくれたーー）=
-（そんな一条センパイを、|責められるはずがないーー）=
-（呆然とうなだれる私を、|零と一条センパイは、|ずっと見つめていたーー）=
+# A2C90 Don’t blame anyone. - dupe
+（混乱する頭で、それでも私は|一条センパイの気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Ichijo was feeling.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、一条センパイだ）=(I didn’t know anything. Ichijo didn’t want me to.)
+（私に辛い思いをさせない様に|一条センパイは自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
+（そんな一条センパイを、|責められるはずがないーー）=(How could I blame him, after all that...?)
+（呆然とうなだれる私を、|零と一条センパイは、|ずっと見つめていたーー）=(Zero and Ichijo just stood there, heads hung low, watching me.)
+
 
 # A90D4
 （目に見えない何かに貫かれた|チビが、断末魔をあげて、|その場に崩れ落ちるーー）=
 風紀委員！大丈夫？=
 支葵センパイ……。=
-（私を救ってくれたのは|支葵センパイだった）=
-（支葵センパイは、|ようやく立ち上がった零を|振り返ったーー）=
+（私を救ってくれたのは|支葵センパイだった）=(Shiki had come to my rescue.)
+（支葵センパイは、|ようやく立ち上がった零を|振り返ったーー）=(Shiki shot a glance at Zero, who’d finally managed to stand up.)#dupe
 風紀委員。|<name>を危険な目に遭わせる|なんて、見損なった。=
-（チビの体は支葵センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=
+（チビの体は支葵センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Shiki’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
 <name>。|チビはきみに出会う前から、|ヴァンパイア犬だった。=
 レベル：Ｅに落ちる寸前の。|チビを止めるには、|これしか手段はなかった。=
 もう手遅れだった。|誰かが葬ってやらないと、|チビがもっと可愛そうになる。=
@@ -12873,38 +12874,38 @@ Sleep well...
 どうして！|どうしてなんですか！？|支葵センパイ！！=Why! Why did this happen!? Answer me, ShikI!!
 （私は支葵センパイの胸に|顔をうずめ、激しく|支葵センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
 うん、ひどいことしたと|思う……でも、俺には|他にどうしようもなかった。=
-そんな……|あんなに支葵センパイに|懐いてたのに！！=
-チビは、支葵センパイが|好きだったのに！！|そんなチビを……=
-<name>！|支葵先輩は……=
+そんな……|あんなに支葵センパイに|懐いてたのに！！=But... He was so attached to you!#dupe
+チビは、支葵センパイが|好きだったのに！！|そんなチビを……=Chibi loved you so much! And yet, you...#dupe
+<name>！|支葵先輩は……=<name>! Shiki isn’t--!
 いいよ、風紀委員。=
-<name>。支葵先輩を|責めることじゃない。|……どうしようもなかった。=
+<name>。支葵先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Shiki, <name>. There was nothing anyone could have done...#dupe
 だから、|あんなチビは見たくない。|チビを楽にしてあげたかった。=
 でも……俺のやった事は|ひどいことだと思う。=
 責められても仕方ない。=
 （支葵センパイの頬から、|涙が一筋流れ落ちたーー）=
 <name>、俺、ホントに|チビが好きだったんだと思う。|だから、ゴメン……。=
-支葵センパイ……私……私！！=
+支葵センパイ……私……私！！=Shiki... I... I--!
 （チビとの思い出と、|支葵センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Shiki’s feelings, wrenched at my heart.)#dupe
 （私は悲しみをこらえきれず、|支葵センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest...)
 支葵センパイ……|思いっきり泣いても|いいですか？=
 （私は支葵センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Shiki’s arms.)
 （支葵センパイは、そんな私を|いつまでもいつまでも、強く|抱きしめてくれたーー）=(Shiki just stood there, holding me tight.)
 
-# A2CB0
-（混乱する頭で、それでも私は|支葵センパイの気持ちが|痛いほどわかったーー）=
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、支葵センパイだ）=
-（私に辛い思いをさせない様に|支葵センパイは自分の手を汚す|決断をしてくれたーー）=
-（そんな支葵センパイを、|責められるはずがないーー）=
-（呆然とうなだれる私を、|零と支葵センパイは、|ずっと見つめていたーー）=
+# A2CB0 Don’t blame anyone. – dupe
+（混乱する頭で、それでも私は|支葵センパイの気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Shiki was feeling.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、支葵センパイだ）=(I didn’t know anything. Shiki didn’t want me to.)
+（私に辛い思いをさせない様に|支葵センパイは自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
+（そんな支葵センパイを、|責められるはずがないーー）=(How could I blame him, after all that...?)
+（呆然とうなだれる私を、|零と支葵センパイは、|ずっと見つめていたーー）=(Zero and Shiki just stood there, heads hung low, watching me.)
 
 # A914C
 （銃声が鳴り響き、|一発の銃弾が|チビの体を貫くーー）=
 （銃弾に体を貫かれたチビは、|断末魔をあげてその場に|崩れ落ちるーー）=
 夜刈先生……。=
-（私を救ってくれたのは|夜刈先生だった）=
-（夜刈先生は、|ようやく立ち上がった零を|振り返ったーー）=
+（私を救ってくれたのは|夜刈先生だった）=(Mr. Yagari had come to my rescue.)
+（夜刈先生は、|ようやく立ち上がった零を|振り返ったーー）=(Mr. Yagari shot a glance at Zero, who’d finally managed to stand up.)#dupe
 見損なったぞ、零！|どうしてあいつを危険な目に|遭わせた！！=
-（チビの体は夜刈先生の銃の|圧倒的な力の前に、灰になって|消え去ってしまったーー）=
+（チビの体は夜刈先生の銃の|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Mr. Yagari’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
 <name>。チビは|お前に出会う前から、すでに|ヴァンパイア犬だった。=
 もう、手遅れだった。|すまなかった、<name>。|……そして、チビ。=
 
@@ -12913,11 +12914,11 @@ Sleep well...
 どうして！|どうしてなんですか！？|夜刈先生！！=Why! Why did this happen!? Answer me, Mr. Yagari!!
 （私は|夜刈先生の胸に顔をうずめ、|激しく夜刈先生を責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
 ……俺に出来る事は、|チビを苦しませずに|殺すことだけだ。=
-そんな……|あんなに夜刈先生に|懐いてたのに！！=
-チビは、|夜刈先生が好きだったのに！！|そんなチビを……=
-<name>！師匠は……=
+そんな……|あんなに夜刈先生に|懐いてたのに！！=But... He was so attached to you!#dupe
+チビは、|夜刈先生が好きだったのに！！|そんなチビを……=Chibi loved you so much! And yet, you...#dupe
+<name>！師匠は……=<name>! My master isn’t--!
 よせ、零。いいんだ。=
-<name>。|師匠を責めることじゃない。|……どうしようもなかった。=
+<name>。|師匠を責めることじゃない。|……どうしようもなかった。=Don’t blame my master, <name>. There was nothing anyone could have done...#dupe
 何も殺さなくても！|何か他に方法が！！=
 なんとでも言え。|これが俺の仕事だ。=
 殺すことが仕事！？|そんなのひどい！=
@@ -12940,12 +12941,12 @@ Sleep well...
 （私は夜刈先生の腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Mr. Yagari’s arms.)
 （夜刈先生は、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Mr. Yagari just stood there, holding me tight.)
 
-# A2B90
-（混乱する頭で、それでも私は|夜刈先生の気持ちが|痛いほどわかったーー）=
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、夜刈先生だ）=
-（私に辛い思いをさせない様に|夜刈先生は自分の手を汚す|決断をしてくれたーー）=
-（そんな夜刈先生を、|責められるはずがないーー）=
-（呆然とうなだれる私を、|零と夜刈先生は、|ずっと見つめていたーー）=
+# A2B90 Don’t blame anyone. – dupe
+（混乱する頭で、それでも私は|夜刈先生の気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Mr. Yagari was feeling.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、夜刈先生だ）=(I didn’t know anything. Mr. Yagari didn’t want me to.)
+（私に辛い思いをさせない様に|夜刈先生は自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
+（そんな夜刈先生を、|責められるはずがないーー）=(How could I blame him, after all that...?)
+（呆然とうなだれる私を、|零と夜刈先生は、|ずっと見つめていたーー）=(Zero and Mr. Yagari just stood there, heads hung low, watching me.)
 
 # A7F6C
 （校舎の向こうから、|次第に明るい日差しが|差し込んでくるーー）=

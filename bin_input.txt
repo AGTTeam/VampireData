@@ -748,14 +748,14 @@ vk_se6_010=
 調子いいかも！=
 
 # AC210
-黒主　優姫=
-黒主=
-優姫=
+黒主　優姫=>>Yuki Cross
+黒主=>>Yuki
+優姫=>>Cross
 錐生　零=>>Zero Kiryu
 玖蘭　枢=>>Kaname Kuran
 夜刈　十牙=>>Toga Yagari
 藍堂　英=>>Aido Hanabusa
-架院　暁=>>Kain Akatsuki
+架院　暁=>>Akatsuki Kain
 一条　拓麻=>>Takuma Ichijo
 支葵　千里=>>Senri Shiki
 
@@ -9163,7 +9163,7 @@ Sleep well...
 お前達の存在と所業が|知れ渡ると人間の側も|だまっちゃいない。しかしーー=If word of your existence and acts became known, human’s would not just sit back and take it lightly. However...
 それでも、接触は必要であり、|場合によっては理解も必要と|される。=Despite this, contact is necessary, and sometimes, even mutual understanding is necessary.
 ただし、今受け入れている|者が、まだまだ少数でありーー=Yet, the number of people who accept you at present is scarce...
-皮肉なことに、その最たる者が|ヴァンパイアハンターだという|悲しい現実がある。=And unfortunately, the sad reality is that most of those people are Vampire Hunters.
+皮肉なことに、その最たる者が|ヴァンパイアハンターだという|悲しい現実がある。=And unfortunately, the sad reality is that most of those people are vampire hunters.
 悲しい？先生が仰ると|ジョークに聞こえちゃいますね|ーー=Sad? It sounds like a joke to hear that coming from you.
 …あはは、|これもジョークですよ。=...Ahaha, I meant that as a joke too.
 副寮長様には、お気に召しま|せんでしたか？失礼。まぁ言い|たい事はあるんだろうがーー=You didn’t like it, Vice-President? My humble apologies.|Well, I’m sure that you all have things you’d like to say, but...
@@ -14094,108 +14094,108 @@ Sleep well...
 さぁ！|２人で夢に向かって頑張るぞ！=
 えーーっ？！|なんで、こうなっちゃうの！=
 
-# A5B60
-架院センパイ？！|……どうしたんですか？=
-その、お前の事が|気になってな……=
-お前は本当に偉い奴だぜ。=
-常に自らの困難に正面から向き|合い、今も、悲しみから逃げ|ないで、じっと耐えている。=
-このちっこい体のどこにそんな|パワーがあるんだ？いつも、|そう思って見ていたよ。=
-お前の様な人間なら、|俺達との橋渡しになれるかも|しれないな。=
-夢……あきらめるなよ。|お前なら出来ると思うぜ。=
-まぁ、１人で抱えてつっぱしる|のが、玉にキズだけどな……=
-俺はかわいいくせに強がる|やつって好きだぞ。鼻っ柱は、|強いくらいの方がいい。=
-か、架院センパイ……=
-（それって私の事？|それとも……）=
-まぁ、やりすぎなければ|問題ないさ。=
-う……それは言わないで|ください。=
+# A5B60 Chapter 7 Kain
+架院センパイ？！|……どうしたんですか？=Kain?!|...Is something wrong?
+その、お前の事が|気になってな……=I was just a bit worried about you...
+お前は本当に偉い奴だぜ。=You’re a really great person, you know?
+常に自らの困難に正面から向き|合い、今も、悲しみから逃げ|ないで、じっと耐えている。=You always face your difficulties head on, and even now, you’re not running away from your grief, but enduring it.
+このちっこい体のどこにそんな|パワーがあるんだ？いつも、|そう思って見ていたよ。=I’ve always wondered where you manage to hide such power in that tiny body.
+お前の様な人間なら、|俺達との橋渡しになれるかも|しれないな。=A human like you might just be able to bridge the gap between us.
+夢……あきらめるなよ。|お前なら出来ると思うぜ。=Don’t... give up on your dream. I know you can do it.
+まぁ、１人で抱えてつっぱしる|のが、玉にキズだけどな……=Well, your only fault is that you always try to take everything on by yourself, but...
+俺はかわいいくせに強がる|やつって好きだぞ。鼻っ柱は、|強いくらいの方がいい。=I like people who are cute but strong. Better strong than hard-headed.
+か、架院センパイ……=K-Kain...
+（それって私の事？|それとも……）=(Does he mean me? Or...?)
+まぁ、やりすぎなければ|問題ないさ。=Well, as long as you don’t go over the top it should be fine.
+う……それは言わないで|ください。=Nn... You could have left that part out.
 
-# A25B8
-特にお前は、いつも頑張って|いるよな。=
-ガーディアンの仕事なんか、|お前あってのものだからな。=
-ええ……まぁ……=
-デイ･クラスの夜歩きの|捕捉なんか、毎晩骨が折れる事|だと思う。=
-だが、俺達の正体を|学園のやつらに明かすわけには|いかない。=
-お前の力はまだまだ必要だ。|これからも頼むぜ。=
-は、はい……|ガーディアンの仕事、|これからも頑張ります……=
+# A25B8 Kain lower intimacy
+特にお前は、いつも頑張って|いるよな。=You’re always working hard, aren’t you?
+ガーディアンの仕事なんか、|お前あってのものだからな。=Having Guardian’s around is only possible because of you.
+ええ……まぁ……=Well... I guess...
+デイ･クラスの夜歩きの|捕捉なんか、毎晩骨が折れる事|だと思う。=It must be hard work chasing after the Day Class who are snooping around night after night.
+だが、俺達の正体を|学園のやつらに明かすわけには|いかない。=But we can’t let our true identity get out.
+お前の力はまだまだ必要だ。|これからも頼むぜ。=We need you. Keep up the good work.
+は、はい……|ガーディアンの仕事、|これからも頑張ります……=Y-Yes... I’ll keep working hard as a Guardian...
 
 # A61CC
-そうだ、明日の夜、|ダンスパーティーを|開くんだが…。=
-ナイト･クラスと錐生とで|計画したんだ。お前の為にと。=
-えっ、零も？！=
-ああ……おとなしく|その場にいたぞ。珍しい事も|あるもんだ。=
-みんなお前に元気になって|欲しいんだよ。=
-そうですか……うれしいな。=
-制服のまま来るんじゃないぞ。|いつもよりもっと気合入れて|くるといい。=
-フフフ。=
-来てくれるか？=
-はい……よろこんで。|それじゃ、私ちょっと|休みます。それじゃあ……。=
-ああ、ちょっと待て。=
+そうだ、明日の夜、|ダンスパーティーを|開くんだが…。=Oh yeah, there’s going to be a dance party tomorrow night...
+ナイト･クラスと錐生とで|計画したんだ。お前の為にと。=The Night Class planned it with Kiryu. For you.
+えっ、零も？！=Huh, Zero too!?
+ああ……おとなしく|その場にいたぞ。珍しい事も|あるもんだ。=Yeah... He just sat there and didn’t make a fuss. You don’t see that often.
+みんなお前に元気になって|欲しいんだよ。=Everyone just wants you to feel better.
+そうですか……うれしいな。=Ah... That’s so lovely.
+制服のまま来るんじゃないぞ。|いつもよりもっと気合入れて|くるといい。=Don’t come in your uniform. You should go all out... more than you usually do.
+フフフ。=Hehehe.
+来てくれるか？=You’ll come, right?
+はい……よろこんで。|それじゃ、私ちょっと|休みます。それじゃあ……。=Yes... with pleasure. Well, I’m going to go take a quick break, so...
+ああ、ちょっと待て。=Oh, one second.
 （花言葉は、|“情熱的な愛情”？|まさか……）=(In the language of flowers, don’t purple roses signify “passionate love”? Does this mean...?)
-架院センパイ……|ありがとうございます！=
-じゃあ、またな<name>。=
-ありがとうございます！|架院センパイ！=
+架院センパイ……|ありがとうございます！=Kain... Thank you!
+じゃあ、またな<name>。=Later, <name>.
+ありがとうございます！|架院センパイ！=Thank you, Kain!
 
-# A5080
-お前、架院先輩と……|そうだったのか……=
-ああ、そういうつもりじゃ|なかったけど。お前のことが|心配で来てみたら……=
-お前…架院先輩の事が好き|なのか？=
-な？！|そんなこと……別に……=
-合わない。=
-架院先輩だったら、せいぜい、|いいアニキってとこだろ。|恋人という感じじゃないな。=
-大きなお世話だよ！=
-仕方ないだろ。架院先輩からも|そう見えてると思うぜ。=
-う～っ！失礼のカタマリ！！=
-それに、たまに俺のことを|弟扱いしてるだろ？お前。=
-お前と架院先輩が兄妹に|なったら、俺は３兄弟の末っ子|だろ？！ありえないぞ。=
-そんなこと知らないよ！|もう、人のことバカにして！=
+# A5080 Zero appears after A61CC (Kain route)
+お前、架院先輩と……|そうだったのか……=You and Kain... I see...
+ああ、そういうつもりじゃ|なかったけど。お前のことが|心配で来てみたら……=I didn’t mean to. I came after you because I was worried...
+お前…架院先輩の事が好き|なのか？=Do you... love him?
+な？！|そんなこと……別に……=Huh!? Um... I...
+合わない。=You don’t fit.
+架院先輩だったら、せいぜい、|いいアニキってとこだろ。|恋人という感じじゃないな。=Kain’s like... an older brother at best. I can’t picture you actually dating. 
+大きなお世話だよ！=I don’t remember asking for your opinion!
+仕方ないだろ。架院先輩からも|そう見えてると思うぜ。=I’m just telling the truth. Kain probably sees it that way as well.
+う～っ！失礼のカタマリ！！=Wha--! You’re so mean!
+それに、たまに俺のことを|弟扱いしてるだろ？お前。=Plus, you sometimes treat me like I’m your brother, right?
+お前と架院先輩が兄妹に|なったら、俺は３兄弟の末っ子|だろ？！ありえないぞ。=If you Kain become brother and sister, that’d make me the youngest wouldn’t it? That’d never work.
+そんなこと知らないよ！|もう、人のことバカにして！=See if I care! Maybe it’d teach you to stop making fun of me!
 
-# A48D8
-おどろいたよ。<name>……=
-しかし架院か……どうして？|僕の何がいけなかったのかな？=
-その……架院センパイは|何でも相談にのってくれて|すごく親身で頼りになるし……=
-<name>、僕に相談できない|ことでも架院にならできる、|そういうことなのかな？=
-僕はきみが望まないことを|望めない。僕ではなくて架院、|そういうことなの？=
-まだ、迷いがあるなら、|もう一度よく考えてくれない|かな。=
-それでも、それがきみの一番の|幸せというのなら僕はもう何も|言わないよ。=
-でも、忘れないで。|僕はいつでも、|きみを見守っている。=
-きみにどんなことがあっても、|これだけは変わらない。=
-いいね。=
+# A48D8 Kaname appears after A61CC (Kain route)
+おどろいたよ。<name>……=I’m surprised, <name>...
+しかし架院か……どうして？|僕の何がいけなかったのかな？=But... why Kain? Is there something wrong with me?
+その……架院センパイは|何でも相談にのってくれて|すごく親身で頼りになるし……=No... Just that Kain is very reliable and friendly, and I feel like I can talk to him about anything...
+<name>、僕に相談できない|ことでも架院にならできる、|そういうことなのかな？=You mean that the things you’d struggle to ask me, you can say to him?
+僕はきみが望まないことを|望めない。僕ではなくて架院、|そういうことなの？=I don’t wish for anything that you don’t want. Are you saying that you choose not me, but him?
+まだ、迷いがあるなら、|もう一度よく考えてくれない|かな。=If you still have any doubts, please think it over again.
+それでも、それがきみの一番の|幸せというのなら僕はもう何も|言わないよ。=If you decide that he makes you the happiest, I won’t say anything more.
+でも、忘れないで。|僕はいつでも、|きみを見守っている。=But don’t forget, I’ll always be watching over you.
+きみにどんなことがあっても、|これだけは変わらない。=No matter what happens, that will never change.
+いいね。=It’s okay.#qc
 
-# A50C0
-暁……お前そうだったのか……=
-なんだ？どうした？=
-いや別に……その、|<last><name>と……=
-ん？<last>がどうかしたか？=
-いつからなんだ？=
-何のことを言っている？=
-いや、だからその……|隠さなくていい、暁。|わかってる。=
-そりゃ、枢様のこともあって、|僕には言えなかったんだろう|けど……水臭いぞ。=
-玖蘭寮長のこと…？|別に俺は何も隠していないが？=
-……そうなのか？=
-……そうだが。=
-あやしいな……|…まさか、枢様と暁、どちらを|応援するかでーー=
-僕がこんなに悩まされる日が|来るとは思わなかった…=
-まぁ、いい。僕は無粋では|ないんだ。ここは見なかった|ことにしてやる。=
-…じゃあな。頑張れよ。|死ぬなよ。…まぁ、死ぬ覚悟|なのかもしれないけどな。=
-なんだ？あいつ。|いつも変な奴だが今日は特に…=
+# A50C0 Aido appears after A61CC (Kain route)
+暁……お前そうだったのか……=Akatsuki... So that’s how it is...
+なんだ？どうした？=What? What’s wrong?
+いや別に……その、|<last><name>と……=No... Just, <name><last>...
+ん？<last>がどうかしたか？=Hm? Did something happen with <last>?
+いつからなんだ？=How long?
+何のことを言っている？=What are you talking about?
+いや、だからその……|隠さなくていい、暁。|わかってる。=No, I mean... You don’t have to hide it, Akatsuki. I know.
+そりゃ、枢様のこともあって、|僕には言えなかったんだろう|けど……水臭いぞ。=I know you couldn’t say anything to me because of Lord Kaname, but... we’re friends aren’t we?
+玖蘭寮長のこと…？|別に俺は何も隠していないが？=Because of President Kuran...? I don’t have anything to hide.
+……そうなのか？=...Really?
+……そうだが。=...Really.
+あやしいな……|…まさか、枢様と暁、どちらを|応援するかでーー=Something’s fishy... Don’t tell me, I’m going to have to choose between whether to support Lord Kaname or Akatsuki?
+僕がこんなに悩まされる日が|来るとは思わなかった…=I never thought the day would come when I’d be forced to make a decision like that...
+まぁ、いい。僕は無粋では|ないんだ。ここは見なかった|ことにしてやる。=Well, I’m not tactless. I’ll just pretend that I didn’t see this.
+…じゃあな。頑張れよ。|死ぬなよ。…まぁ、死ぬ覚悟|なのかもしれないけどな。=...See you later then, and good luck. Don’t die. Well, maybe you’ve already prepared yourself for that.
+なんだ？あいつ。|いつも変な奴だが今日は特に…=What was that about? He’s always been a weird one, but that was especially...
 
-# A5100
-そうか君は、架院なんだね。=
-君の事が心配で来てみたら……|聞こえちゃった。ゴメンね。=
-架院は僕や錐生君や…枢にも|ないものを持っているからね。|やっぱりそこなんだろうね？=
-えっ、何の事ですか？=
-またぁ、とぼけて……|架院なら、ステキなお兄さん|って感じじゃない。=
-実直さにかけては、|ナイト･クラス随一かも|しれないしーー=
-女の子から見ると、やっぱり|頼りがいあるよね？見た目も|男らしくて、かっこいいしね。=
-<name>ちゃんはステキな|お兄ちゃんがほしかったの|かな？=
-べ、別にそういう訳じゃ……=
-照れなくてもいいよ。|やっぱり女の子は、頼れる男が|一番。だね。=
-もしかして、|僕に『ワイルド先輩』の|あだ名がついていればーー=
-僕にも可能性があったのかな？|ワイルドで頼れる、|一条センパイ！なんてね。=
-フフ、ゴメンね。困らせ|ちゃったかな。じゃあ、僕は|戻るね。仲良くやるんだよ。=
-あの……一条センパイ……=
+# A5100 Ichijo appears after A61CC (Kain route)
+そうか君は、架院なんだね。=I see, so Kain’s the one for you.
+君の事が心配で来てみたら……|聞こえちゃった。ゴメンね。=I came because I was worried about you, but... I ended up overhearing. Sorry.
+架院は僕や錐生君や…枢にも|ないものを持っているからね。|やっぱりそこなんだろうね？=Kain has something that neither me or Kiryu... or even Kaname has, right? Is that why?
+えっ、何の事ですか？=What are you taking about?
+またぁ、とぼけて……|架院なら、ステキなお兄さん|って感じじゃない。=Well, you know... Kain is like a kind older brother, isn’t he?
+実直さにかけては、|ナイト･クラス随一かも|しれないしーー=He might just be the person who is most honest out of all of the Night Class.
+女の子から見ると、やっぱり|頼りがいあるよね？見た目も|男らしくて、かっこいいしね。=And from a girl’s point of view, he seems very dependable, right? Plus he’s manly and cool.
+<name>ちゃんはステキな|お兄ちゃんがほしかったの|かな？=Did you want a nice older brother, <name>?
+べ、別にそういう訳じゃ……=T-That wasn’t what...
+照れなくてもいいよ。|やっぱり女の子は、頼れる男が|一番。だね。=No need to be shy. Girls like reliable men, don’t they? Yeah.
+もしかして、|僕に『ワイルド先輩』の|あだ名がついていればーー=If I had been given the nickname ‘Wild’...
+僕にも可能性があったのかな？|ワイルドで頼れる、|一条センパイ！なんてね。=Do you think I could be the same? “The wild and dependable, Ichijo!”, or something?
+フフ、ゴメンね。困らせ|ちゃったかな。じゃあ、僕は|戻るね。仲良くやるんだよ。=Hehe, sorry. Did I make things awkward? I should probably get going. Play nicely now!
+あの……一条センパイ……=Um... Ichijo...
 
-# A3E70
+# A3E70 Shiki appears after A61CC (Kain route)
 架院さんか……そうなんだ。=
 そこにいたら、見えてた。=
 その……=
@@ -14207,18 +14207,18 @@ Sleep well...
 そ……それは……|難しい質問です。=
 ならないって思ってる。|まぁ別にいいけど。=
 
-# A452C
-架院暁……ふん、あいつか……=
-ヴァンパイア相手に|随分仲の良いことだな？=
-別にそんなんじゃ|ありません……=
-ああいう、頼れる感じがいい|のか？=
-確かにナイト･クラスの連中の|中では一番分別のあるヤツかも|知れないな。=
-ほっといて下さい。=
-包容力なら、俺くらいの年に|なれば、大抵の男なら持って|いるもんだ。=
-別にヴァンパイアでなくとも|いいと思うがな？=
-あいつらと関わるのも、|ほどほどにした方がいい。=
-お前の夢……=
-まぁ、夢は所詮、夢だな。=
+# A452C Yagari appears after A61CC (Kain route)
+架院暁……ふん、あいつか……=Akatsuki Kain... Hmph. Him?
+ヴァンパイア相手に|随分仲の良いことだな？=Considering he’s a vampire, you’re awfully friendly, aren't you?
+別にそんなんじゃ|ありません……=It’s not like that...
+ああいう、頼れる感じがいい|のか？=So you like that kind of dependable aura?
+確かにナイト･クラスの連中の|中では一番分別のあるヤツかも|知れないな。=I guess he probably is the most sensible out of all of the Night Class.
+ほっといて下さい。=Please, just drop it.
+包容力なら、俺くらいの年に|なれば、大抵の男なら持って|いるもんだ。=If you’re after someone broad-minded, pretty much all men are like that once you get to my age.
+別にヴァンパイアでなくとも|いいと思うがな？=It doesn’t have to be a vampire, does it?
+あいつらと関わるのも、|ほどほどにした方がいい。=You’re better off not mixing too much with them.
+お前の夢……=Your dream...
+まぁ、夢は所詮、夢だな。=A dream is just a dream, in the end.
 
 # A22E8
 おっ、来たな。=
@@ -14383,111 +14383,111 @@ Sleep well...
 （それから私は、心をいれかえ|ガーディアンの仕事に没頭|しました。）=
 （再び、あの人に認めて貰う|ため……がんばれ私！）=
 
-# A86D0
-一条センパイ？！|……どうしたんですか？=
-<name>ちゃん……。|君の事が気になって……=
-すみません……わざわざ。=
-大丈夫？こう見えて本当に|心配してるんだよ。=
-はい……大丈夫です……=
-何か悩んでいることがあったら|相談してよね。|僕はいつでも力になるよ。=
-はい……|ありがとうございます。=
-<name>ちゃん…………=
-そうそう、僕も悩んでいる|ことがあって……相談に乗って|もらっていいかな？=
-あ、はい……いいですけど。|……どんな悩みですか？=
-えっと、それはね、なんて|言ったらいいのか、その～=
-大好きな女の子が|元気をなくしちゃって|困っているんだ。=
-なんとか彼女を元気づけて|あげたいんだけど。|どうしたらいいかな……って。=
-え……。=
-その子は、とてもひたむきで|マジメで勇気のある子で、|とある夢を持っているんだ。=
-でも、その夢にはいろいろな|困難があって実現するには|とても大変。=
-そして、彼女はひとつの|困難を目の当たりにして|とても落ち込んでいるんだ。=
-でも、彼女には、彼女を見守る|多くの人たちがいる。=
-みんな彼女が大好きで、|彼女の夢をいろんな形で|応援している。=
-彼女の夢が叶えば、|今の悲しみもいずれ癒される。|決して無駄にならない……=
-今、悲しみを乗り越えるのは、|簡単じゃない。=
-悲しみを抱えたままでもいい。|時間がかかってもいいからーー=
-その悲しみが|やがて希望への礎になる事を|願ってやまない……=
-そんな事を思ってしまう僕も、|彼女が大好きで、元気づけて|あげたいんだ……=
-どうすればいいかな？=
-……ありがとうございます、|一条センパイ……。|私、もう充分です……。=
-よかった……。|少しは解決したのかな……=
+# A86D0 Chapter 7 Ichijo
+一条センパイ？！|……どうしたんですか？=Ichijo!?|...What’s wrong?
+<name>ちゃん……。|君の事が気になって……=<name>... I’m wanted to see how you were.
+すみません……わざわざ。=I’m sorry for making you come all this way.
+大丈夫？こう見えて本当に|心配してるんだよ。=Are you okay? You might not think it, but I’m really worried about you.
+はい……大丈夫です……=Yes... I’m fine.
+何か悩んでいることがあったら|相談してよね。|僕はいつでも力になるよ。=If something’s bothering you, please talk to me. I’m always here to help.
+はい……|ありがとうございます。=Right... Thank you.
+<name>ちゃん…………=<name>...
+そうそう、僕も悩んでいる|ことがあって……相談に乗って|もらっていいかな？=Oh yeah, there’s something that’s been on my mind a lot lately too. ...Can I ask you for some advice?
+あ、はい……いいですけど。|……どんな悩みですか？=Ah, sure... What is it?
+えっと、それはね、なんて|言ったらいいのか、その～=Ah, well, how should I put this... Umm...
+大好きな女の子が|元気をなくしちゃって|困っているんだ。=I’m worried because the girl I like has been feeling down lately.
+なんとか彼女を元気づけて|あげたいんだけど。|どうしたらいいかな……って。=I want to make her feel better, but I don’t know what to do.
+え……。=Huh...?
+その子は、とてもひたむきで|マジメで勇気のある子で、|とある夢を持っているんだ。=This girl is dedicated, serious, courageous, and she has a dream she wants to make come true.
+でも、その夢にはいろいろな|困難があって実現するには|とても大変。=But, it’s a dream that’s very complicated and it’s going to be hard to turn into reality.
+そして、彼女はひとつの|困難を目の当たりにして|とても落ち込んでいるんだ。=And having seen one of those problems first-hand, she’s been overcome by sadness.
+でも、彼女には、彼女を見守る|多くの人たちがいる。=But there are a lot of people looking out for her.
+みんな彼女が大好きで、|彼女の夢をいろんな形で|応援している。=They love her and are supporting her dream in their own way.
+彼女の夢が叶えば、|今の悲しみもいずれ癒される。|決して無駄にならない……=If her dream were to come true, then all of the pain she’s feeling right now would be eased. None of it would be in vain...
+今、悲しみを乗り越えるのは、|簡単じゃない。=It’s not easy to move on from a bereavement.
+悲しみを抱えたままでもいい。|時間がかかってもいいからーー=It’s okay to hold on to grief. Even if it takes a long time...
+その悲しみが|やがて希望への礎になる事を|願ってやまない……=I hope that sadness will eventually become the grounds for hope...
+そんな事を思ってしまう僕も、|彼女が大好きで、元気づけて|あげたいんだ……=That’s how I feel. I just want to make the girl I like feel better.
+どうすればいいかな？=What do you think I should do?
+……ありがとうございます、|一条センパイ……。|私、もう充分です……。=...Thank you, Ichijo. Hearing that was enough.
+よかった……。|少しは解決したのかな……=I’m glad... Maybe that’s one problem solved... 
 
-# A2348
-でも、正直なところ、|道は遠いと思うんだ。=
-いろんな人に出会って|見聞を広げて、|目標だけはしっかり持つ。=
-そうすれば、道は開ける。|なんてね……。=
-これまでも、見聞を広げて|きた君の事だから|こんなお説教、今更だよね。=
-えっ……まぁ……。=
+# A2348 Ichijo lower intimacy
+でも、正直なところ、|道は遠いと思うんだ。=But to be honest, I think there’s still a long way to go.#qc
+いろんな人に出会って|見聞を広げて、|目標だけはしっかり持つ。=You need to meet all kinds of people, broaden your horizons and have a clear image of your goal in mind. 
+そうすれば、道は開ける。|なんてね……。=If you do that, the way ahead will open. ...Or something.
+これまでも、見聞を広げて|きた君の事だから|こんなお説教、今更だよね。=Though, I guess you’ve already been broadening your horizons, so maybe me saying this now is kind of useless, huh?
+えっ……まぁ……。=Ah... well...
 
 # A71D8
-君を元気づけようと、|ナイト･クラスのみんなと計画|したんだ。楽しそうだろう？=
-ああ、そういえば錐生君も|参加していたよ。=
-えっ、零が|ナイト･クラスと？！=
-そう、画期的な協力体制|でしょ？みんな君に元気に|なって欲しいんだよ。=
-そうなんだ……。=
-そうだ、枢と錐生くんが協力|して出し物をする企画を提案|してみようかな。=
-二人羽織りとか、いいと|思わない？=
-ダ、ダメですよ一条センパイ。=
-そうだね、はは。|……ちょっとは、元気になった|みたいだね。=
-うん……|一条センパイのおかげです。=
-必ず来てね。うんとオシャレ|して、笑顔でね。=
-行きます。一条センパイ……|それじゃ私、少し休みます……=
-これを君に。=
+君を元気づけようと、|ナイト･クラスのみんなと計画|したんだ。楽しそうだろう？=All of us in the Night Class planned it to cheer you up. Sounds like fun, right?
+ああ、そういえば錐生君も|参加していたよ。=Oh, actually, Kiryu was there too.
+えっ、零が|ナイト･クラスと？！=Huh?! Zero worked with the Night Class?
+そう、画期的な協力体制|でしょ？みんな君に元気に|なって欲しいんだよ。=Yeah, it was a very poignant group! All of us just want you to feel better.
+そうなんだ……。=Ah...
+そうだ、枢と錐生くんが協力|して出し物をする企画を提案|してみようかな。=I know, why don’t we propose that Kiryu and Kaname do a number together?
+二人羽織りとか、いいと|思わない？=Like ‘Helping Hands’, or something. Wouldn’t that be a sight to see!#tc Nininbaori - a comedic act where two people wear the same large coat and pretend to be one person. Not sure if there’s a more obvious reference to it we could use
+ダ、ダメですよ一条センパイ。=T-That’d never work, Ichijo.
+そうだね、はは。|……ちょっとは、元気になった|みたいだね。=I suppose not, haha. |...You seem to be feeling a little better.
+うん……|一条センパイのおかげです。=Yeah... thanks to you.
+必ず来てね。うんとオシャレ|して、笑顔でね。=Make sure you come, okay? Dressed up and with a smile.
+行きます。一条センパイ……|それじゃ私、少し休みます……=I will. Well, I should probably get going now...
+これを君に。=This is for you.
 （花言葉は、|“情熱的な愛情”……まさか）=(In the language of flowers, purple roses signify “passionate love”. Does this mean...?)
-きっと似合うと思うよ。=
-一条センパイ……|ありがとうございます！=
-じゃあ、僕も戻るよ。|またあとでね、<name>ちゃん。=
-それじゃまた！=
+きっと似合うと思うよ。=I know it’ll suit you perfectly.
+一条センパイ……|ありがとうございます！=Ichijo... Thank you!
+じゃあ、僕も戻るよ。|またあとでね、<name>ちゃん。=Alright, I should get back too. See you later, <name>.
+それじゃまた！=Yeah!
 
-# A39A8
-一条先輩って……|お前そうだったのか……=
-お前、やっぱり…見るからに|優しい感じがいいんだな。=
-いや、別にそんな……=
-俺とは大違いだ……|太陽の様な明るい人か……=
-一緒にいるとリラックスできる|というか……=
-俺はあの人みたいには|なれないな……なんだか逆に|納得したよ。=
-邪魔して悪かったな。|じゃあな。=
+# A39A8 Zero appears after A71D8 (Ichijo route)
+一条先輩って……|お前そうだったのか……=Ichijo... So that’s your decision...
+お前、やっぱり…見るからに|優しい感じがいいんだな。=I guess you do like the friendly-looking types.
+いや、別にそんな……=That’s not it...
+俺とは大違いだ……|太陽の様な明るい人か……=He’s nothing like me. Someone who’s bright like the sun...
+一緒にいるとリラックスできる|というか……=Someone you can relax around...
+俺はあの人みたいには|なれないな……なんだか逆に|納得したよ。=I don’t think I could ever be like him. ...But, I’m happy.
+邪魔して悪かったな。|じゃあな。=Sorry for interrupting. See you later.
 
-# A5140
-まさか、一条と……|本気なのかい……<name>。=
-そうだね、彼はやさしくて|面倒見もいい。彼ならきみの夢|もサポートしてくれるかもね。=
-本当に彼は良い奴だよ。=
-でも、それとこれとは|別の話だ。=
-彼と、きみのことで争うような|マネは出来ればしたくない。|わかるよね？=
-<name>も一条も、僕の|予想を超える行動をすることが|ある点で似ているね。=
-だけど今回ほどの驚きは|初めてだよ。|僕が耐えられると思う？=
-いけない……言葉が過ぎたね。|動揺しているのかな……=
-きみがあんまりイジワルする|からだよ。<name>。=
-じゃあね。もう一度|考え直すんだよ……=
+# A5140 Kaname appears after A71D8 (Ichijo route)
+まさか、一条と……|本気なのかい……<name>。=Don’t tell me, you and Ichijo... Are you serious about him, <name>...?
+そうだね、彼はやさしくて|面倒見もいい。彼ならきみの夢|もサポートしてくれるかもね。=Right, he is kind and caring. He’d probably be able to support you with your dream. 
+本当に彼は良い奴だよ。=He is a really good person.
+でも、それとこれとは|別の話だ。=But, this and that are different things.
+彼と、きみのことで争うような|マネは出来ればしたくない。|わかるよね？=I don’t want to get into a fight with him over you. You understand, don’t you?
+<name>も一条も、僕の|予想を超える行動をすることが|ある点で似ているね。=You and him are the same in that you both sometimes act in ways that I don’t expect.
+だけど今回ほどの驚きは|初めてだよ。|僕が耐えられると思う？=But this is the first time I’ve ever been so shocked. I don’t know if I can bear it.
+いけない……言葉が過ぎたね。|動揺しているのかな……=Oh dear... I’ve said too much. I must be rattled.
+きみがあんまりイジワルする|からだよ。<name>。=It’s because you’re so mean, <name>. 
+じゃあね。もう一度|考え直すんだよ……=I’ll see you later. Please think about what you’re doing...
 
-# A39D4
-ダメだダメ！|一条なんてダメだろ！！！=
-お前のことがちょっと心配で|来てみたら……よりによって|一条と……=
-それじゃ枢様はどうなるんだ！=
-え？何の話ですか？=
-とぼけるな！お前の夢を|一番叶えてくれるのは、枢様|じゃなかったのか？=
-私はただ一条センパイと|話を……=
-僕がダメならそれでもいい！|だからってなんで一条だ！|そこは枢様だろうが。=
-うう、これじゃあ枢様に|合わせる顔がない……=
-申し訳ございません、枢様。|僕の監督不行き届きです。かく|なるうえは一条と決闘して…=
-ぎゃーやめてくださいよ。|藍堂先輩待ってください～……=
+# A39D4 Aido appears after A71D8 (Ichijo route)
+ダメだダメ！|一条なんてダメだろ！！！=No, no, no! It can’t be Ichijo!
+お前のことがちょっと心配で|来てみたら……よりによって|一条と……=I only came because I was worried but, Ichijo... of all people...!
+それじゃ枢様はどうなるんだ！=What about Lord Kaname!?
+え？何の話ですか？=Huh? What are you talking about?
+とぼけるな！お前の夢を|一番叶えてくれるのは、枢様|じゃなかったのか？=Don’t play dumb! Isn’t it Lord Kaname who is the best person to make your dream come true?
+私はただ一条センパイと|話を……=I was only having a chat with...
+僕がダメならそれでもいい！|だからってなんで一条だ！|そこは枢様だろうが。=If I’m not good enough, then so be it! But that doesn’t mean it should be Ichijo! Lord Kaname is the obvious choice.
+うう、これじゃあ枢様に|合わせる顔がない……=Ngh, how am I ever going to face him after this?
+申し訳ございません、枢様。|僕の監督不行き届きです。かく|なるうえは一条と決闘して…=Please forgive me, Lord Kaname. I failed to see what was happening. Now I have no other choice but to challenge Ichijo to a duel.
+ぎゃーやめてくださいよ。|藍堂先輩待ってください～……=Gyah! Don’t do this! Wait, Aido--!
 
-# A56B8
-へえ…一条副寮長か…|なるほど、な。=
-架院センパイ？！|聞いていたんですか？=
-ああ、お前の事が気になって|来てみたら、話し声が聞こえた|んでつい……=
-大丈夫、俺はお前の気持ちを否|定したりしない。ひとつ聞くが|夢はあきらめていないんだな。=
-副寮長ならお前を幸せに|してくれるかもな。=
-あの人は、俺に言わせりゃ|ヴァンパイアらしからぬ|ヴァンパイアでーー=
-何を考えているかわからない、|ある意味敵に回したくない|タイプだがーー=
-ああ見えて、いつも、|明るくて、穏やかでーー=
-何よりも周囲との「和」を大事|にしているのは事実だ。心が|強くなきゃできないことだ。=
-お前の夢にもちゃんと相談に|乗ってくれるだろうし、良い|方法も示してくれるだろう。=
-パートナーってやつは、|大事だよ。そうは思わないか？=
-少しばかり悔しい気もするが、|まぁいいんじゃないか。=
-お前の最高のパートナーに|なるかもな、あの人なら。=
+# A56B8 Kain appears after A71D8 (Ichijo route)
+へえ…一条副寮長か…|なるほど、な。=Heh... Vice-President Ichijo, huh? Makes sense.
+架院センパイ？！|聞いていたんですか？=Kain!? You heard us?
+ああ、お前の事が気になって|来てみたら、話し声が聞こえた|んでつい……=Yeah. I just came because I was worried about you, but I heard you talking and I just...
+大丈夫、俺はお前の気持ちを否|定したりしない。ひとつ聞くが|夢はあきらめていないんだな。=Don’t worry, I’m not going to just brush aside your feelings. But, let me ask you, you haven’t given up on your dream, have you?
+副寮長ならお前を幸せに|してくれるかもな。=Maybe the Vice-President could make you happy.
+あの人は、俺に言わせりゃ|ヴァンパイアらしからぬ|ヴァンパイアでーー=He’s a vampire who’s nothing like a vampire, if you ask me.
+何を考えているかわからない、|ある意味敵に回したくない|タイプだがーー=I never know what he’s thinking, but he seems like the type of person you wouldn’t want as your enemy.
+ああ見えて、いつも、|明るくて、穏やかでーー=But despite that, he’s always cheerful and calm...
+何よりも周囲との「和」を大事|にしているのは事実だ。心が|強くなきゃできないことだ。=and he values peace more than anything. That’s something you can’t do without a strong heart. 
+お前の夢にもちゃんと相談に|乗ってくれるだろうし、良い|方法も示してくれるだろう。=I know that he’ll talk to you about your dream and show you the best way to achieve it.
+パートナーってやつは、|大事だよ。そうは思わないか？=Having a partner by your side is important, don’t you think?
+少しばかり悔しい気もするが、|まぁいいんじゃないか。=It’s a little frustrating, but it’s okay.
+お前の最高のパートナーに|なるかもな、あの人なら。=Knowing him, he might just be the best partner for you.
 
-# A3F90
+# A3F90 Shiki appears after A71D8 (Ichijo route)
 そう、風紀委員は一条さんが|いいんだ。=
 支葵センパイ！聞いていたん|ですか？=
 一条さん……うらやましい。=
@@ -14497,26 +14497,26 @@ Sleep well...
 ええ……？=
 どうすればいいか、後で|一条さんに聞こう。じゃあね。=
 
-# A6D24
-一条拓麻とは……驚いたな……=
-明るく優しげな好青年か……|ま、たいていの女はああいうの|が好みなんだろうな。=
-そ、そんな……。=
-ただなぁ……=
-あいつもなかなか喰えないヤツ|だと俺は思うがな。=
-ああいう普段ニコニコしている|奴は腹の中で何を考えてるのか|分かったもんじゃない…=
-そんな……|一条センパイに限って|そんな事はありません。=
-はっ…|随分と信頼しているんだな？=
-でも、大前提を忘れてんじゃ|ねぇか…=
-…ヤツはヴァンパイアだ。|アイツがそうでなくとも、|とりまきがそうとは限らない。=
-あいつに限ってそうでないこと|を祈るが、いずれにしても、|用心した方がいい。=
-大きなお世話です。=
-はあ……なぁ。=
-はい？何ですか？=
-意地を張るのもいいが、|もう少し冷静になったほうが|いいんじゃないのか？=
-お前のことが心配じゃ|なかったら、俺だってこんな|ことは言わねえよ。=
-えっ、それは……=
-いや、いいんだ。|聞き流してくれ。|お前ももう戻るんだ。いいな。=
-はい…………夜刈先生……=
+# A6D24 Yagari appears after A71D8 (Ichijo route)
+一条拓麻とは……驚いたな……=Takuma Ichijo... Now there’s a surprise.
+明るく優しげな好青年か……|ま、たいていの女はああいうの|が好みなんだろうな。=Bright, kind, young... Well, I guess most women would go for that sort of thing.
+そ、そんな……。=T-That’s...
+ただなぁ……=But...
+あいつもなかなか喰えないヤツ|だと俺は思うがな。=I think he’s a bit of a fox.
+ああいう普段ニコニコしている|奴は腹の中で何を考えてるのか|分かったもんじゃない…=You never know what those kinds of always smiling guys are actually thinking.
+そんな……|一条センパイに限って|そんな事はありません。=Ichijo isn’t like that.
+はっ…|随分と信頼しているんだな？=Hah... You sure trust him, don’t you?
+でも、大前提を忘れてんじゃ|ねぇか…=But I hope you’re not forgetting the bigger picture.
+…ヤツはヴァンパイアだ。|アイツがそうでなくとも、|とりまきがそうとは限らない。=He’s a vampire. Even if he doesn’t seem like it, that doesn’t make his cohorts any less.
+あいつに限ってそうでないこと|を祈るが、いずれにしても、|用心した方がいい。=I hope that’s not the case with him, but still, you need to be careful.
+大きなお世話です。=I don’t remember asking you.
+はあ……なぁ。=*Sigh*... Look.
+はい？何ですか？=Yes? What is it?
+意地を張るのもいいが、|もう少し冷静になったほうが|いいんじゃないのか？=It’s good to stick to what you believe in, but don’t you think you should be rational about this?
+お前のことが心配じゃ|なかったら、俺だってこんな|ことは言わねえよ。=I wouldn’t be saying this if I wasn’t worried about you.
+えっ、それは……=Wait, what are...?
+いや、いいんだ。|聞き流してくれ。|お前ももう戻るんだ。いいな。=No, never mind. Forget I said anything. You should be getting back. Alright?
+はい…………夜刈先生……=Okay... Mr. Yagari.
 
 # A2360
 来てくれたんだ。よかった。|さぁ楽しんでいってね。|今日は特別な夜だよ！！=
@@ -14692,7 +14692,7 @@ Sleep well...
 さぁ、|これからも一緒に頑張ろう！=
 そんなぁ～。=
 
-# A5BF0
+# A5BF0 Chapter 7 Shiki
 支葵センパイ？！|……どうしたんですか？=
 君がどうしているかなって|思って……=
 何かもう|どうしたらいいのか……=
@@ -14708,7 +14708,7 @@ Sleep well...
 一度見においでよ。俺の仕事。=
 うん…………。=
 
-# A23D8
+# A23D8 Shiki lower intimacy
 でも……。君はあんまり|ファッションとか興味ない|んだっけ……=
 いえ……|別にそういうわけじゃ……=
 いいよ、無理しなくて……=
@@ -14730,96 +14730,96 @@ Sleep well...
 それじゃあ、俺は戻るね。|またね、<name>。=
 はい！ありがとうございます！=
 
-# A3A00
-支葵先輩ってお前……|おどろいたな……=
-ああ、いや……お前のことが|心配で来てみたら……=
-フーン。お前ってやっぱり|寡黙な方が好きなんだ？=
-えっ、別にそういうんじゃ……=
-俺が言える事じゃないけど、|あんまり楽しくなさそうだぞ。=
-本当に零は人の事、言えないと|思うよ。=
-でも、おしゃべりなお前で|支葵先輩は大丈夫なのか？|そっちが心配だ。=
-何よ！もういいよ！|零のバカ！！私、帰る！=
+# A3A00 Zero appears after A6894 (Shiki route)
+支葵先輩ってお前……|おどろいたな……=You and Shiki... I’m surprised.
+ああ、いや……お前のことが|心配で来てみたら……=Ah, no... I just came after you because I was worried...
+フーン。お前ってやっぱり|寡黙な方が好きなんだ？=Hmm... So you like the silent types?
+えっ、別にそういうんじゃ……=Huh? No, that’s not why I...
+俺が言える事じゃないけど、|あんまり楽しくなさそうだぞ。=It’s not for me to say, but he doesn’t seem like much fun.
+本当に零は人の事、言えないと|思うよ。=I’m not sure you’re one to talk, Zero.
+でも、おしゃべりなお前で|支葵先輩は大丈夫なのか？|そっちが心配だ。=But will someone like Shiki really be okay with a blabber-mouth like you? That’s what I’m worried about.
+何よ！もういいよ！|零のバカ！！私、帰る！=Hey! ...Whatever. Zero, you idiot! I’m leaving!
 
-# A5180
-支葵だなんて、ちょっと|想像してなかったよ。=
-ふぅ……|どうしたものだろうね？=
-いや流石の僕も驚きを|隠し得ないよ……一体、|支葵のどこに引かれたのかな？=
-口数の少なさ？凛とした|たたずまい？それは僕には|ないものだったのかな…？=
-そういう事じゃ……=
-そういう事じゃないのかい？|じゃあ……=
-僕になくて支葵にあるもの？|……分からない。=
-いや、むしろ分からない事が|あること自体分からない……=
-いや、分からない事が|ある事が分からない。|それも更に分からない…=
-し、しっかりしてください！|枢センパイ！=
-<name>、ごめんね。僕は|すこし、取り乱しているのかも|しれない。=
-とにかく考え直しておくれ。|じゃあ……。=
+# A5180 Kaname appears after A6894 (Shiki route)
+支葵だなんて、ちょっと|想像してなかったよ。=I never could have imagined that it’s be Shiki.
+ふぅ……|どうしたものだろうね？=Sigh... Now what should I do?
+いや流石の僕も驚きを|隠し得ないよ……一体、|支葵のどこに引かれたのかな？=I can’t hide my surprise... What is it about Shiki that draws you to him?
+口数の少なさ？凛とした|たたずまい？それは僕には|ないものだったのかな…？=Because he’s a man of few words? His dignified aura? Is it something that I don’t have...?
+そういう事じゃ……=That’s...
+そういう事じゃないのかい？|じゃあ……=That’s not it? Then...
+僕になくて支葵にあるもの？|……分からない。=What does Shiki have that I don’t? I don’t understand...
+いや、むしろ分からない事が|あること自体分からない……=No, maybe it’s the fact that I don’t understand...
+いや、分からない事が|ある事が分からない。|それも更に分からない…=No, I don’t understand what I don’t understand, and I don’t even understand that.
+し、しっかりしてください！|枢センパイ！=P-Please pull yourself together, Kaname!
+<name>、ごめんね。僕は|すこし、取り乱しているのかも|しれない。=Forgive me, <name>. I seem to be a little distraught.
+とにかく考え直しておくれ。|じゃあ……。=Anyway, please think about what you’re doing. I’ll take my leave...
 
-# A51C0
-お前、色気がないとは|思ってたけど、男を見る目も|ないんだな。=
-…いや、そうじゃない。|…お前…支葵がそんなに|いいのか？=
-だいたい、錐生はどうした？|あ、いや…支葵も似たような|タイプか。=
-……やっぱりお前、もとから|寡黙な方が好きなのか！？=
-支葵より僕の方が楽しいぞ！=
-あんな愛想のないやつと|一緒にいて何が楽しいんだ？=
-沈黙が金なら、おしゃべりは|プラチナだ！お前は、プラチナ|より金がいいのか？=
-え？何の話ですか……=
-何か不愉快だ！僕は帰る！=
-（勝手に怒鳴り込んできて勝手|に帰っていっちゃった……）=
-（何なんだろう……あの人は|……）=
+# A51C0 Aido appears after A6894 (Shiki route)
+お前、色気がないとは|思ってたけど、男を見る目も|ないんだな。=I knew you had no sex appeal, but I didn’t realize you had no taste in men either.
+…いや、そうじゃない。|…お前…支葵がそんなに|いいのか？=...No, it’s not like that. ...Do you... really like Shiki that much?
+だいたい、錐生はどうした？|あ、いや…支葵も似たような|タイプか。=I mean, what about Kiryu? Ah, no... I guess they’re kind of the same type.
+……やっぱりお前、もとから|寡黙な方が好きなのか！？=Does that mean you’ve always liked the quiet types?
+支葵より僕の方が楽しいぞ！=I’m much more fun to be around than Shiki!
+あんな愛想のないやつと|一緒にいて何が楽しいんだ？=What’s fun about being hanging with someone so anti-social?
+沈黙が金なら、おしゃべりは|プラチナだ！お前は、プラチナ|より金がいいのか？=If silence is golden, then taking is platinum! Would you rather take gold over platinum?
+え？何の話ですか……=Huh? What are you talking about...?
+何か不愉快だ！僕は帰る！=I don’t like this. I’m going!
+（勝手に怒鳴り込んできて勝手|に帰っていっちゃった……）=(He just came to yell at me and then left...)
+（何なんだろう……あの人は|……）=(What’s up with him...?)
 
-# A49F0
-おいおい、支葵なのか？|本当に？=
-支葵は、別に悪い奴じゃない|んだが……正直驚いたよ。=
-えっ、そんなにリアクション|しなくても……=
-あいつのリズムに合わせるのは|大変じゃないのか？=
-別に、あわせていません|から……=
-錐生といい、支葵といい、|あまり表情を表に出さない奴|ばかり……=
-零は別に、関係ありません……=
-お前、前に錐生のこと|「弟みたいなもの」とか|言い張っていたらしいな…=
-ああ、そうか……=
-お前、世話好きだから、|お姉さん気分なのかもしれない|がーー=
-支葵も錐生も、お前よりずっと|大人だと思うぞ…ハタからみる|と、どう見てもお前が妹だ。=
-お前には、もっと包容力のある|奴とかの方がいいんじゃない|か。うん、そうだそうだ。=
-何を一人で納得しているん|ですか？！もういいです！=
+# A49F0 Kain appears after A6894 (Shiki route)
+おいおい、支葵なのか？|本当に？=Oi, oi. Shiki? Really?
+支葵は、別に悪い奴じゃない|んだが……正直驚いたよ。=He’s not a bad guy, but... I’m shocked frankly.
+えっ、そんなにリアクション|しなくても……=Surely that reaction is uncalled for...
+あいつのリズムに合わせるのは|大変じゃないのか？=Isn’t it tough keeping up with his rhythm?
+別に、あわせていません|から……=I wouldn’t say we had to match...
+錐生といい、支葵といい、|あまり表情を表に出さない奴|ばかり……=Kiryu and Shiki... So you only go for guys who don’t really show their feelings.
+零は別に、関係ありません……=Zero has nothing to do with this...
+お前、前に錐生のこと|「弟みたいなもの」とか|言い張っていたらしいな…=You once said that Kiryu was like a younger brother to you, right?
+ああ、そうか……=I guess...
+お前、世話好きだから、|お姉さん気分なのかもしれない|がーー=I know you like to take care of people, so maybe that’s why you go for the ‘big sister’ role, but...
+支葵も錐生も、お前よりずっと|大人だと思うぞ…ハタからみる|と、どう見てもお前が妹だ。=I can’t help but think that both Shiki and Kiryu seem more mature than you. From an outsider’s perspective, no matter how you swing it, you’re the little sister.
+お前には、もっと包容力のある|奴とかの方がいいんじゃない|か。うん、そうだそうだ。=I think you’d be better off with someone who’s more patient. Yeah, that’s definitely right.
+何を一人で納得しているん|ですか？！もういいです！=What are you just deciding for yourself!? I’ve heard enough!
 
-# A72E0
-おどろいたよ。|君は支葵の事が……=
-あ、ゴメンね、そんなつもり|じゃなかったんだけど、|意外だったよ……=
-ダメでしょうか？=
-ああ、いや……そんなことは|ないよ。<name>ちゃん。=
-支葵は、すっごく気のいい奴|だよ。昔からよく知ってる僕が|言うんだから間違いないよ。=
-あまりしゃべらない代わりに、|一言一言がとてもストレートに|心に響くんだ。=
-話さなくても、彼を包む|純粋なオーラがみんなを|いつもなごませる。=
-それに、おしゃべりな|僕や藍堂みたいに、口先だけ|じゃない強さ。=
-それが彼にはあるんじゃない|かな？=
-そう思います……=
-まいったなぁ、僕も結構イイ男|かな？なんて思っていたけど、|支葵が相手じゃ敵わないか……=
-そ、そんなことないですよ、|一条センパイ。=
-え？ああ……その……=
-無理しなくていいんだよ。|やっぱりやさしいね、|<name>ちゃんは。=
-じゃあ、僕はこの後部屋で、|事の成り行きを支葵に問い|ただそうかな。=
-や、やめて下さい。|支葵センパイがかわいそう|です。=
-冗談だよ。フフ。じゃあね。=
+# A72E0 Ichijo appears after A6894 (Shiki route)
+おどろいたよ。|君は支葵の事が……=I’m surprised. You fell for Shiki...
+あ、ゴメンね、そんなつもり|じゃなかったんだけど、|意外だったよ……=Ah, sorry. I didn’t mean to, but... I never would have expected that.
+ダメでしょうか？=Don’t you think is futile?
+ああ、いや……そんなことは|ないよ。<name>ちゃん。=Ah, no... That’s not what I meant, <name>.#qc
+支葵は、すっごく気のいい奴|だよ。昔からよく知ってる僕が|言うんだから間違いないよ。=Shiki is extremely good-hearted. I’ve known him for a long time, so you know that what I’m saying has to be true.
+あまりしゃべらない代わりに、|一言一言がとてもストレートに|心に響くんだ。=Even though he doesn’t talk much, every word he says hits you straight in the heart.
+話さなくても、彼を包む|純粋なオーラがみんなを|いつもなごませる。=Even when he doesn’t speak, the pure aura that surrounds him makes everyone feel at ease.
+それに、おしゃべりな|僕や藍堂みたいに、口先だけ|じゃない強さ。=And, Aido and me might be more chatty but, like us, his strength isn’t all bark and no bite.
+それが彼にはあるんじゃない|かな？=He has that about him, right?
+そう思います……=I think so too...
+まいったなぁ、僕も結構イイ男|かな？なんて思っていたけど、|支葵が相手じゃ敵わないか……=Oh boy. I figured I wasn’t bad myself, but I guess I’m no match for Shiki. 
+そ、そんなことないですよ、|一条センパイ。=It’s not like that, Ichijo.
+え？ああ……その……=Huh? Ah... um...
+無理しなくていいんだよ。|やっぱりやさしいね、|<name>ちゃんは。=Don’t force yourself. You are kind, <name>.
+じゃあ、僕はこの後部屋で、|事の成り行きを支葵に問い|ただそうかな。=Well, I guess I’ll ask Shiki to give me the run down of events when I get back to my room.
+や、やめて下さい。|支葵センパイがかわいそう|です。=P-Please don’t. I’d feel bad for Shiki.
+冗談だよ。フフ。じゃあね。=I’m only kidding, hehe. See you!
 
-# A7338
-支葵千里とは……=
-おどろいたな、|お前…そうだったのか？=
-あの……その……=
-あの無愛想なところが|いいのか。|まあ、相手はモデルだしーー=
-黙って横にいるだけなら|連れ歩く相手としてはいいかも|知れんが。=
-…そんなつもりじゃないです。=
-まあ、無愛想な所は零に近い物|があるしな。それだったら、|零でもいいんじゃないのか？=
-そんな……|物じゃないんですから……=
-それに、相手はヴァンパイア|だぞ。俺が聞いているのは|そういう事だ。=
-俺たち人間とあいつらは|所詮違う生き物だ。そういう事|をわかっているのか？=
-ああ、悪い。|お前の純粋な気持ちを無視して|言い過ぎたかな。=
-アイツの事はよく分からないが|仮にイイ奴だとしても、|所詮ヴァンパイアだ。=
-生き方も考え方も違う。=
-俺たち人間とは相容れない所が|ある事を忘れるな。=
-その上でどうするかは、|お前次第だ。=
-ただ、危ないと思ったら、|変な情にほだされずにすぐに|手を引け。いいな？=
-それも大事なことだ。=
-お前の幸せを願う者が、|意外と多いことを忘れるな？|それだけだ。=
+# A7338 Yagari appears after A6894 (Shiki route)
+支葵千里とは……=Senri Shiki...
+おどろいたな、|お前…そうだったのか？=I’m surprised. Is that how it is?
+あの……その……=Um... I...
+あの無愛想なところが|いいのか。|まあ、相手はモデルだしーー=You like that bluntness of his? Well, I suppose he is a model...
+黙って横にいるだけなら|連れ歩く相手としてはいいかも|知れんが。=If you just want someone to stand quietly by your side, I guess he’s not a bad accessory.
+…そんなつもりじゃないです。=...That’s not what I want.
+まあ、無愛想な所は零に近い物|があるしな。それだったら、|零でもいいんじゃないのか？=Well, that anti-social side of his is kind of like Zero. So, wouldn’t Zero do?
+そんな……|物じゃないんですから……=That’s not how it works...
+それに、相手はヴァンパイア|だぞ。俺が聞いているのは|そういう事だ。=Not to mention, he’s a vampire. That’s why I’m asking.
+俺たち人間とあいつらは|所詮違う生き物だ。そういう事|をわかっているのか？=They’re completely different from us humans. You are aware of that, aren’t you?
+ああ、悪い。|お前の純粋な気持ちを無視して|言い過ぎたかな。=Yeah, my bad. I ignored your pure feelings and said too much. 
+アイツの事はよく分からないが|仮にイイ奴だとしても、|所詮ヴァンパイアだ。=I don’t know much about him, but even if he is a good guy, he’s still a vampire.
+生き方も考え方も違う。=The way they live and think is different.
+俺たち人間とは相容れない所が|ある事を忘れるな。=Don’t forget that not all of it is compatible with us humans.
+その上でどうするかは、|お前次第だ。=What you do with that is up to you.
+ただ、危ないと思ったら、|変な情にほだされずにすぐに|手を引け。いいな？=But, if you ever feel that you’re in danger, don’t let your feelings get the better of you and just get out of there. Got it?
+それも大事なことだ。=It’s important.#qc
+お前の幸せを願う者が、|意外と多いことを忘れるな？|それだけだ。=Remember that there’s other people out there hoping for your happiness. Quite a few, in fact. That’s all I wanted to say.
 
 # A2C50
 あ、来た。=
@@ -14978,135 +14978,135 @@ Sleep well...
 （もっと私がファッションに|興味さえ持っていれば、違った|未来もあったのかもしれない）=
 こうなったら、今度会った|ときは、キレイになって絶対|見返してやる！=
 
-# A91C4
-夜刈先生？！|……どうしてここに？=
-さあ、何でだろうな……|その……お前の事が気に|なって、ということだ……=
-あ、ありがとうございます……=
-心配……|かけちゃいましたね……=
-……いいさ、気にするな。|それより、ショックだった|だろう……=
-私…………=
-先生、私を|ヴァンパイアハンターにして|ください！！=
-突然何を言い出すんだ。|一体どうした？=
-そもそもお前の言ってる事は、|お前の夢に相反すると思うが？=
-チビの事は、私も辛かった|です。でもそれ以上にーー=
-零やナイト･クラスのみんなに|辛い思いをさせてしまって……=
-何も知らないで、|私が……もっと強ければ……|こんな事には……=
-お願いです。|私を鍛えてください！=
-おい、小娘。少し頭を冷やせ。|お前は、今混乱しているんだ。=
-それに、ハンターの仕事は、|お前が考えているほど甘いモン|じゃない。=
-夜刈先生…………=
-お前はどう思っているのかは、|知らないが、俺は、自身の|復讐の為にやっているだけだ。=
-ヴァンパイアという存在を|憎らしく思っている。=
-だからこそ、命も張れるし、|悲惨な結末を迎えた所で、|何の悔いもない。=
-お前にそこまでの覚悟ができる|とも思えないがな？=
-そう思うには、お前はヤツらと|深く関わり過ぎている。=
-悪いことは言わない、やめて|おけ。それよりもお前はーー=
-この学園でやるべき事がある|だろう。=
-気にいらないが、お前を|守ってくれる連中だっている。=
-その中で、自分の夢を追い|求めるべきなんじゃないのか？=
-お前と俺とでは、歩むべき道が|違いすぎる。そうだろう？=
-でも…………=
-お前じゃ、ハンターには|なれない。そう言っている|んだ。理解しろ。=
-…………はい。=
+# A91C4 Chapter 7 Yagari
+夜刈先生？！|……どうしてここに？=Mr. Yagari?! |...What are you doing here?
+さあ、何でだろうな……|その……お前の事が気に|なって、ということだ……=I’m wondering that myself... I guess... I was just wanted to see how you were. 
+あ、ありがとうございます……=T-Thank you.
+心配……|かけちゃいましたね……=I’m sorry for worrying you...
+……いいさ、気にするな。|それより、ショックだった|だろう……=...It’s fine, don’t worry about it. More importantly, it must have been quite the shock.
+私…………=I......
+先生、私を|ヴァンパイアハンターにして|ください！！=Mr. Yagari, please train me to be a vampire hunter!!
+突然何を言い出すんだ。|一体どうした？=That’s sudden. What’s up?
+そもそもお前の言ってる事は、|お前の夢に相反すると思うが？=Wouldn’t that conflict with your dream, anyway?
+チビの事は、私も辛かった|です。でもそれ以上にーー=What happened to Chibi was painful for me. But, more than that...
+零やナイト･クラスのみんなに|辛い思いをさせてしまって……=I put Zero and the Night Class through hell too.
+何も知らないで、|私が……もっと強ければ……|こんな事には……=Even though I didn’t know a thing, I... If I had been stronger, maybe...
+お願いです。|私を鍛えてください！=Please, teach me!
+おい、小娘。少し頭を冷やせ。|お前は、今混乱しているんだ。=Oi, Girl. Cool down. You’re not thinking straight at the moment.
+それに、ハンターの仕事は、|お前が考えているほど甘いモン|じゃない。=Besides, the job of a hunter is not as easy as you think.
+夜刈先生…………=Mr. Yagari...
+お前はどう思っているのかは、|知らないが、俺は、自身の|復讐の為にやっているだけだ。=I don’t know what you think, but I’m just doing it for personal revenge.
+ヴァンパイアという存在を|憎らしく思っている。=I can’t stand the fact that vampires exist.
+だからこそ、命も張れるし、|悲惨な結末を迎えた所で、|何の悔いもない。=That’s why I can put my life on the line, and even if I’m bound to meet a tragic end, I don’t regret a thing.
+お前にそこまでの覚悟ができる|とも思えないがな？=But I don’t think you’re ready to go that far, do you?
+そう思うには、お前はヤツらと|深く関わり過ぎている。=You’re too involved with them to think that way.
+悪いことは言わない、やめて|おけ。それよりもお前はーー=Give it up. I’m saying this for your own good. Besides, you...
+この学園でやるべき事がある|だろう。=still have a duty at this academy.
+気にいらないが、お前を|守ってくれる連中だっている。=I don’t like it, but there are people who’ll protect you.
+その中で、自分の夢を追い|求めるべきなんじゃないのか？=Shouldn’t you be chasing after your dream with them?
+お前と俺とでは、歩むべき道が|違いすぎる。そうだろう？=The path you and have to take is too different. Don’t you see?
+でも…………=But...
+お前じゃ、ハンターには|なれない。そう言っている|んだ。理解しろ。=I’m telling you, you can’t become a hunter. You must see where I’m coming from.
+…………はい。=...Alright.
 
-# A2AB0
-それに、心配な点もある。=
-お前、ボケ理事長に鍛えられた|わりには、腕の方がいまひとつ|だな？=
-あ……それは……=
-それで、ハンターになりたい|とは、ずいぶん命知らずじゃ|ねぇか。=
-アイツも義娘と思って、|つい甘やかしていたのか？=
-まぁいい。不相応な夢は|見るなってことだ。=
+# A2AB0 lower intimacy Yagari
+それに、心配な点もある。=Still, I do have some concerns.
+お前、ボケ理事長に鍛えられた|わりには、腕の方がいまひとつ|だな？=Even after being trained by that idiot headmaster, you still lack skill.
+あ……それは……=Ah, that’s...
+それで、ハンターになりたい|とは、ずいぶん命知らずじゃ|ねぇか。=It’s too reckless of you to say you want to become a hunter.#qc
+アイツも義娘と思って、|つい甘やかしていたのか？=I bet he just spoiled you too, seeing as you’re his adopted daughter.
+まぁいい。不相応な夢は|見るなってことだ。=Oh well. All I’m saying is you shouldn’t bother with unsuitable dreams.
 
 # A52C0
-とにかく、わかったら|もう戻れ。=
-ん、そうだ、そういえばさっき|零とナイト･クラスの連中が|話しているのを聞いたんだが。=
-明日の夜、お前を元気づける|ためにダンス･パーティーを|開くそうだぞ。=
-ダンス･パーティー？|零がナイト･クラスと？！=
-俺も驚いたが、それだけ|あいつらもあいつらなりに、|お前の事が心配なんだろう。=
-そっか……みんな……=
-少しは、気も晴れるだろう。|行って来たらどうだ？=
-もう、バカなことを|言い出すんじゃないぞ。=
-はい……それじゃあ……=
+とにかく、わかったら|もう戻れ。=Anyway, if you get it, you should go back already.
+ん、そうだ、そういえばさっき|零とナイト･クラスの連中が|話しているのを聞いたんだが。=Oh, by the way, I overheard Zero talking with the Night Class earlier.
+明日の夜、お前を元気づける|ためにダンス･パーティーを|開くそうだぞ。=Apparently, they’re throwing a dance party tomorrow night to cheer you up.
+ダンス･パーティー？|零がナイト･クラスと？！=A dance party? Zero was with the Night Class!?
+俺も驚いたが、それだけ|あいつらもあいつらなりに、|お前の事が心配なんだろう。=I was surprised too, but I guess he’s worried about you in their own way.
+そっか……みんな……=I see... Everyone’s... 
+少しは、気も晴れるだろう。|行って来たらどうだ？=I’m sure it’ll make you feel a little better, right? Why don’t you go?
+もう、バカなことを|言い出すんじゃないぞ。=And stop saying all that stupid crap.
+はい……それじゃあ……=Right... Well, then...
 （花言葉は、|“情熱的な愛情”…）=(In the language of flowers, purple roses signify “passionate love”...)
-お前の事を大切に思う奴は|多い。ここでの暮らしを大事に|しろ。=
-じゃあ、俺は戻る。|またな、小娘。=
-ありがとうございます！|夜刈先生！=
+お前の事を大切に思う奴は|多い。ここでの暮らしを大事に|しろ。=There are a lot of people who care about you. You should make the most of your time here.
+じゃあ、俺は戻る。|またな、小娘。=Okay, I’m gonna go too. See you later, Girl.
+ありがとうございます！|夜刈先生！=Thank you, Mr. Yagari!
 
-# A3AB0
-お前！よりによって師匠と……|驚いたな…=
-そんなことはどうでもいい。=
-どうして師匠と？=
-イヤ別に……その……=
-ヴァンパイア共が一番憎んで|いる人間の一人だぞ。=
-<unk1>先生こそ、ヴァンパイアと|人間の間に立っている人だよ。|尊敬しているんだ……=
-そうか……師匠ならお前を|守ってくれるってわけか……=
-<unk1>零……。=
-いや、いいんだ。|そうか……その方がいいよな。=
-俺はもう行く。|…幸せになれよな。=
-<unk1>零！？=
+# A3AB0 Zero appears after A52C0 (Yagari route)
+お前！よりによって師匠と……|驚いたな…=You! Of all people, my Master... I can’t believe it...
+そんなことはどうでもいい。=That does matter.
+どうして師匠と？=Why him?
+イヤ別に……その……=It’s not... I... 
+ヴァンパイア共が一番憎んで|いる人間の一人だぞ。=He’s the one person the vampires hate the most.
+<unk1>先生こそ、ヴァンパイアと|人間の間に立っている人だよ。|尊敬しているんだ……=<unk1>He’s someone who can stand between vampires and humans. I admire that.
+そうか……師匠ならお前を|守ってくれるってわけか……=So that’s it... Because my master will be able to protect you...
+<unk1>零……。=<unk1>Zero...
+いや、いいんだ。|そうか……その方がいいよな。=No, it’s fine. Yeah... It’s better this way.
+俺はもう行く。|…幸せになれよな。=I’m gonna go. ...I hope you’ll be happy together.
+<unk1>零！？=<unk1>Zero--!?
 
-# A40E8
-よりにもよって、先生とはね。=
-<unk1>枢センパイ！どうしてここに！=
-彼が何者か分かってるのかい？|悪いことは言わない……|考え直してほしい。=
-彼に付いたところで事の次第に|よっては、僕達を敵に回すこと|になるかもしれない。=
-彼をとりまく状況はとても|危険だ。そんなところに、|きみを行かせられないよ。=
-<unk1>それは……覚悟の上です！=
-きみも立派なレディー|だから、きみの意志も尊重して|あげたい。=
-でもそれとこれとは別だ。=
-<unk1>枢センパイ！=
-きみを悲しい目にあわせたく|ない。わかるよね？=
-本当に、よく考え直して|ほしい。=
+# A40E8 Kaname appears after A52C0 (Yagari route)
+よりにもよって、先生とはね。=Of all people... Him?
+<unk1>枢センパイ！どうしてここに！=<unk1>Kaname! What are you doing here!?
+彼が何者か分かってるのかい？|悪いことは言わない……|考え直してほしい。=Do you understand what kind of a person he is? I’m saying this for your own good... Please reconsider.
+彼に付いたところで事の次第に|よっては、僕達を敵に回すこと|になるかもしれない。=If you follow him, you may end up making an enemy of all of us.
+彼をとりまく状況はとても|危険だ。そんなところに、|きみを行かせられないよ。=He’s constantly surrounded by danger. I can’t let you be involved in something like that.
+<unk1>それは……覚悟の上です！=<unk1>I... know what I’m getting into!
+きみも立派なレディー|だから、きみの意志も尊重して|あげたい。=You are a bright young lady, and I want to respect your wishes.
+でもそれとこれとは別だ。=But, this and that are different things.
+<unk1>枢センパイ！=<unk1>Kaname!
+きみを悲しい目にあわせたく|ない。わかるよね？=I don’t want to see you get hurt. You understand, don’t you?
+本当に、よく考え直して|ほしい。=I really hope you’ll reconsider.
 
-# A5388
-おい、よりによってあいつ|とはな。さすがの僕も想像|できなかったぞ！=
-絶対ダメだ！あんな奴！=
-お前たち、並ぶと親子みたいに|見えるぞ？一歩間違ったら犯罪|じゃないか！=
-そんなことありません！|藍堂センパイには関係のない話|です！=
-なっ…し、しかも僕たちヴァン|パイアが、本来一番敵対すべき|存在…ハンターじゃないか！=
-あいつを恨んでいる|ヴァンパイアはたくさんいる。=
-お前まで、ヴァンパイアに|つけねらわれる事になるかも|しれないんだぞ！=
-そんなの覚悟の上です。|これは私の問題だからいいじゃ|ないですか！=
-よくない！！=
-良いわけないだろ……|お前の事が心配だから言って|いるのに……=
-どうして分かってくれない|んだ……=
-いや、いいんだ。わかったよ。|お前が選んだんだもんな…。=
-じゃ、僕はこれで。=
+# A5388 Aido appears after A52C0 (Yagari route)
+おい、よりによってあいつ|とはな。さすがの僕も想像|できなかったぞ！=Wait, him, of all people? Even I could never have guessed that one!
+絶対ダメだ！あんな奴！=You just can’t! Not someone like that!
+お前たち、並ぶと親子みたいに|見えるぞ？一歩間違ったら犯罪|じゃないか！=You look like father and child when you stand next to each other! One slip up and you’ll really have crossed the line! 
+そんなことありません！|藍堂センパイには関係のない話|です！=That’s not true! It’s none of your business, anyway!
+なっ…し、しかも僕たちヴァン|パイアが、本来一番敵対すべき|存在…ハンターじゃないか！=Wha... Not to mention, he’s a hunter, the natural-born enemy of vampires!
+あいつを恨んでいる|ヴァンパイアはたくさんいる。=There are plenty of vampires who hold a grudge against him.
+お前まで、ヴァンパイアに|つけねらわれる事になるかも|しれないんだぞ！=You might even end up as their target!
+そんなの覚悟の上です。|これは私の問題だからいいじゃ|ないですか！=I’m well prepared for that. This is just my problem, okay?
+よくない！！=It’s not okay!!
+良いわけないだろ……|お前の事が心配だから言って|いるのに……=There’s no way it'd be okay... I’m only saying this because I’m worried about you.
+どうして分かってくれない|んだ……=Why won’t you understand me...?
+いや、いいんだ。わかったよ。|お前が選んだんだもんな…。=No, it’s fine, whatever. I get it. This is the choice you made.
+じゃ、僕はこれで。=I’ll take my leave.
 
-# A5D58
-夜刈先生とはね……|こりゃ驚いたな。=
-ああ、悪い。聞くつもりは|なかったんだが、お前の事が|心配で来てみたらつい……=
-それで、お前、錐生のことは|どうするつもりなんだ？=
-相手は、錐生の師匠である|夜刈先生だ。確かに俺は、|夜刈先生は立派だと思う。=
-俺たち相手に動じずに|授業をしきってしまうくらい|だからな。尊敬もするさ。=
-だが、それとこれとは|話が違う。=
-錐生からしてみれば、いくら|自分がふがいないとはいえーー=
-師匠に一番大事な子を|取られちまうんだ。|さすがに同情するね。=
-錐生はあんな感じだが、お前の|ことを大事に思っていた。|気が付かなかったか？=
-いえ…………=
-それに、ハンターである、あの|先生につくって事は、俺達を|完全に敵に回すって事だぞ？=
-分かってるよな？=
-夢はもういいってことなのか？=
-悪い、俺には理解できない……|とりあえず、戻るわ。=
+# A5D58 Kain appears after A52C0 (Yagari route)
+夜刈先生とはね……|こりゃ驚いたな。=Mr. Yagari... Now that is a surprise.
+ああ、悪い。聞くつもりは|なかったんだが、お前の事が|心配で来てみたらつい……=Yeah, sorry. I didn’t mean to eavesdrop, but I was just worried about you and I...
+それで、お前、錐生のことは|どうするつもりなんだ？=So, what are you going to do about Kiryu?
+相手は、錐生の師匠である|夜刈先生だ。確かに俺は、|夜刈先生は立派だと思う。=Mr. Yagari’s Zero’s master, right? I do think he’s a good guy.
+俺たち相手に動じずに|授業をしきってしまうくらい|だからな。尊敬もするさ。=He’s even able to take our classes without being fazed. I respect that.
+だが、それとこれとは|話が違う。=But, this is a different story.
+錐生からしてみれば、いくら|自分がふがいないとはいえーー=From Kiryu’s point of view, no matter how much he might hate himself...
+師匠に一番大事な子を|取られちまうんだ。|さすがに同情するね。=He’s losing the person most he treasures the most to his master. I can’t help but feel sorry for him.
+錐生はあんな感じだが、お前の|ことを大事に思っていた。|気が付かなかったか？=Kiryu is... Kiryu, but he really cared for you. Didn’t you notice?
+いえ…………=No...
+それに、ハンターである、あの|先生につくって事は、俺達を|完全に敵に回すって事だぞ？=Plus, if you follow after that hunter, you’re going to make enemies of all of us.
+分かってるよな？=You know that, right?
+夢はもういいってことなのか？=Are you saying you’re going to give up on your dream? 
+悪い、俺には理解できない……|とりあえず、戻るわ。=Sorry... I just don’t get it. Anyway, I should be going.
 
-# A6434
-驚いたよ。|まさか夜刈先生だったとは……=
-君の事が心配で来てみたら……|できればあんまり見たく|なかったな……=
-う～ん、あんまりネガティブな|事はいいたくないんだけど……|あの人につく事は…=
-今の社会のシステムでは、|僕達ヴァンパイアと対峙する|ことになってしまうんだよ。=
-危険な目に会うかも|しれないし、それに……=
-君の夢はどうなっちゃうの？=
-ヴァンパイアが一番敵視して|いる人間につくなんて……=
-君の夢をかなえるのに、遠回り|になってしまうんじゃない|かな。僕はそれが、心配だよ。=
-一条センパイ。私はあくまで|人間の立場からヴァンパイアの|みなさんと接するつもりです。=
-それは僕達と敵対しても|かまわないということ……|かな？=
-やっぱり、考え直した方が|いいよ。こんな事君には、|似合わない。=
-僕は君と敵対するつもりは|ないよ。その逆のことは思って|いてもね。=
-ゴメンね。言い過ぎたかな。|でも、君の事が心配だって事は|わかって欲しい……=
-………ありがとうございます。|一条センパイ。=
-それじゃあね。<name>ちゃん。=
+# A6434 Ichijo appears after A52C0 (Yagari route)
+驚いたよ。|まさか夜刈先生だったとは……=I’m surprised. I never thought it’d be Mr. Yagari...
+君の事が心配で来てみたら……|できればあんまり見たく|なかったな……=I came because I was worried about you, but... I wish I hadn’t just seen that.
+う～ん、あんまりネガティブな|事はいいたくないんだけど……|あの人につく事は…=Mmm, I don’t want to say anything too negative, but... being with him is...
+今の社会のシステムでは、|僕達ヴァンパイアと対峙する|ことになってしまうんだよ。=With the way things currently are, you’re going to end up butting heads with us vampires.
+危険な目に会うかも|しれないし、それに……=You might be in danger, and plus...
+君の夢はどうなっちゃうの？=What about your dream?
+ヴァンパイアが一番敵視して|いる人間につくなんて……=If you’re with the one person that vampire’s hate the most...
+君の夢をかなえるのに、遠回り|になってしまうんじゃない|かな。僕はそれが、心配だよ。=Aren’t you going to get further and further away from seeing your dream come true? That’s what I’m worried about.
+一条センパイ。私はあくまで|人間の立場からヴァンパイアの|みなさんと接するつもりです。=Ichijo... I want to face vampires from the standpoint of a human.
+それは僕達と敵対しても|かまわないということ……|かな？=Even if it means making an enemy of us?
+やっぱり、考え直した方が|いいよ。こんな事君には、|似合わない。=I think you should really reconsider. This kind of thing doesn’t suit you.
+僕は君と敵対するつもりは|ないよ。その逆のことは思って|いてもね。=I don’t want us to be opponents. That’s the complete opposite of how I feel about you.
+ゴメンね。言い過ぎたかな。|でも、君の事が心配だって事は|わかって欲しい……=...Sorry. I said too much. But, I want you to know that I worry about you.
+………ありがとうございます。|一条センパイ。=...Thank you, Ichijo.
+それじゃあね。<name>ちゃん。=Goodbye, <name>.
 
-# A4B0C
+# A4B0C Shiki appears after A52C0 (Yagari route)
 物好きだね、風紀委員。=
 支葵センパイ！いつの間に。=
 どこが良かったの？=

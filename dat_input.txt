@@ -626,14 +626,14 @@ TEXTの表示速度を設定します。=Set the text speed.
 零に決めたよ。=Zero it is!
 私が買った服をあの人に|着てもらってデートとか……|夢の中だしいいよね？=If I bought some clothes to have my special someone wear on a date... A girl can dream, right?
 誰がいいかな？=Who should I pick?
-白いバラにしようかな……=
-黒いバラにしようかな……=
-つぼみのバラにしようかな……=
-白と水色のバラに|しようかな……=
-黄色いバラにしようかな……=
-オレンジのバラにしようかな……=
-紫のバラにしようかな……=
-感謝の気持ちを表したい……|どのバラを渡そうかな……=
+白いバラにしようかな……=A white rose?
+黒いバラにしようかな……=A black rose?
+つぼみのバラにしようかな……=A rose bud?
+白と水色のバラに|しようかな……=A blue and white rose?
+黄色いバラにしようかな……=A yellow rose?
+オレンジのバラにしようかな……=An orange rose?
+紫のバラにしようかな……=A purple rose?
+感謝の気持ちを表したい……|どのバラを渡そうかな……=I want to show how grateful I am... Which rose should I give him?
 シナリオへ（で、いいんだよね？）=
 
 !FILE:Prices

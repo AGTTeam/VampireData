@@ -1257,7 +1257,7 @@ vk_se6_010=
 なかなか上手いんだな。|お前にこんな魅力があったなん|て……=You're pretty good at this, aren't you? I never knew you had it in you...
 
 # A0DF4
-やっぱり長年のパートナーだ。|改めて見直したよ。最高だ！=I can tell we’ve been partners for years. I’ve changed my mind. That was great!
+やっぱり長年のパートナーだ。|改めて見直したよ。最高だ！=I can tell we’ve been partners for years.|You’ve changed my mind about dancing. That was great!
 
 #Ichijo Dancing Minigame
 # A0DEC
@@ -8544,8 +8544,8 @@ Sleep well...
 だって、枢センパイが|あんまり嬉しいこと|言ってくれるから……=S-Sorry. It’s just that what you said made me so happy, and...
 いけないね、僕は。|<name>を泣かせてしまう|なんて……=That’s not very gentlemanly of me, making you cry...
 そんな……とんでもないっ。|今夜の私はちょっと変ですね。|いつもより涙腺が緩いみたい。=That’s not it at all. I think there must just be something wrong with me tonight. I feel extra sentimental.
-今夜は特別な夜にしよう。|<name>、|僕と踊ってくれるかな？=Let's make tonight a special night. <name>, will you do me the honour of dancing with me?
-えっ……でも……=I... But--
+今夜は特別な夜にしよう。|<name>、|僕と踊ってくれるかな？=Let's make tonight a special night. <name>, will you dance with me?
+えっ……でも……=But, I--
 いいだろう？|僕の手に掴まって。=You’ve no objections, yes?|Take my hand.
 は、はい……=Y-Yes...
 （優しく微笑むと、|枢センパイは私の手を|そっと握りしめる）=(With a warm smile, Kaname gently squeezed my hand.)
@@ -13127,206 +13127,207 @@ Sleep well...
 夜刈先生……|よく考えておきます……。=Mr. Yagari... I’ll think carefully before making any decision.
 
 # A2390 Zero dance party
-来てくれたんだ。|………嬉しいよ。=
-なんだか、こうして改まると|照れくさいな。=
-あんまり言うなよ。こっちまで|照れくさくなるだろ。=
-それじゃあ、エスコート|お願いします。=
-では、改めて……|俺と踊って頂けますか？=
-はい、よろこんで。=
+来てくれたんだ。|………嬉しいよ。=You came.|...I’m glad.
+なんだか、こうして改まると|照れくさいな。=This feels a bit embarrassing, somehow.
+あんまり言うなよ。こっちまで|照れくさくなるだろ。=Don’t say that. You’ll make me embarrassed too.
+それじゃあ、エスコート|お願いします。=I was hoping you might show me around.
+では、改めて……|俺と踊って頂けますか？=Then, let’s start over. ...Would you do me the honor of a dance?
+はい、よろこんで。=With pleasure.
 
 # A0E7C
-楽しめたか？<name>。=
+楽しめたか？<name>。=Are you having fun, <name>?
 
-# A0FBC
-うれしいよ。素直に言える……|ありがとうって。=
+# A0FBC Zero best rose
+うれしいよ。素直に言える……|ありがとうって。=I’m happy. Thank you, from the bottom of my heart.
 
-# A0DF0
-これを俺に？ありがとう。=
+# A0DF0 Zero good rose
+これを俺に？ありがとう。=For me? Thank you.
 
-# A0D44
-こ、これは……|あ、ありがとう。=
+# A0D44 Zero bad rose
+こ、これは……|あ、ありがとう。=T-This is...|T-Thank you.
 
 # A3638
-もうパーティーも終わりだな。|楽しかったか？=
-うん、みんなのおかげで。=
-そして、零のおかげでも|あるんだよ。=
-でも、終わっちゃうのがとても|さみしい。=
-そうだな。|いつもの見回りとは違う、|特別な夜ってわけだもんな……=
-……お前は、どう思っている|んだ？=
-フフ……内緒だよ。=
-なんだよ……それ。でも、|名残惜しいかもしれないな……=
-私もだよ。零。=
-おやすみ。|夢で逢えたら…いいな。=
+もうパーティーも終わりだな。|楽しかったか？=Looks like the party’s wrapping up. Did you enjoy it?
+うん、みんなのおかげで。=Yeah, thanks to everyone.
+そして、零のおかげでも|あるんだよ。=And, you too, of course...
+でも、終わっちゃうのがとても|さみしい。=But it’s sad that it’s over already.
+そうだな。|いつもの見回りとは違う、|特別な夜ってわけだもんな……=Yeah. Tonight was special, different from our normal patrols.
+……お前は、どう思っている|んだ？=...What do you think?
+フフ……内緒だよ。=Hehe... Not telling.
+なんだよ……それ。でも、|名残惜しいかもしれないな……=Seriously...?|But, it is kind of a shame we have to say goodnight.
+私もだよ。零。=I feel the same, Zero.
+おやすみ。|夢で逢えたら…いいな。=Sleep well. I hope I get to... see you in my dreams.
 
 # A2CF0
-零……！どうして=
-シッ！|若葉を起こすと悪いからな…。|場所を変えよう。=
-どこへ行くの？=
-思い出の場所だよ。=
-わあ～きれいな星空。=
-この時間があいつらのものだ|なんて悔しく思えるな…。=
-<name>……。|俺たち、いろんなことが|あったな……。=
+零……！どうして=Zero! Why--?
+シッ！|若葉を起こすと悪いからな…。|場所を変えよう。=Shh! We don’t want to wake up Wakaba. Let’s go somewhere else.
+どこへ行くの？=Where are we going?
+思い出の場所だよ。=Somewhere with a lot of memories.
+わあ～きれいな星空。=Wow~ The night sky is so beautiful.
+この時間があいつらのものだ|なんて悔しく思えるな…。=It annoys me that this time belongs to them, though...
+<name>……。|俺たち、いろんなことが|あったな……。=<name>... We’ve been through a lot together.
 
 # A12E8
-人が買ってきたチョコを|枢センパイに勘違いして|渡しちゃったり。=
-アレは、お前がハッキリしない|からだろ。=
+人が買ってきたチョコを|枢センパイに勘違いして|渡しちゃったり。=You mistakenly gave the chocolate I bought you to Kaname.
+アレは、お前がハッキリしない|からだろ。=That’s because you didn’t make it clear.
 
 # A1680
-人がせっかく作った、おいしい|手作りのチョコを。=
-チョット待て。俺は、|『おいしい』手作りチョコ|なんて貰っていないぞ。=
-零……ひどい。=
+人がせっかく作った、おいしい|手作りのチョコを。=After I gave you that painstakingly handmade, delicious chocolate...
+チョット待て。俺は、|『おいしい』手作りチョコ|なんて貰っていないぞ。=Wait a minute. I don’t remember getting any “delicious” handmade chocolate.
+零……ひどい。=Zero... You’re so mean!
 
 # A183C
-ナイトレインボウの時は、|必死だったのに零って、|バカにしていたでしょ？=
-ああ、あれは悪かった。|お前が、あんなに真剣だなんて|思わなかったから。=
-結局、虹は|誰かが作ってくれたのかな？=
-まぁ、ありうる話だな。|空気中の水分を操るとなると、|アノ先輩か……=
+ナイトレインボウの時は、|必死だったのに零って、|バカにしていたでしょ？=When I was desperate to see a Night Rainbow, you made fun of me!
+ああ、あれは悪かった。|お前が、あんなに真剣だなんて|思わなかったから。=Yeah, I’m sorry about that. I didn’t think you were so serious.
+結局、虹は|誰かが作ってくれたのかな？=Do you think someone made it for me?
+まぁ、ありうる話だな。|空気中の水分を操るとなると、|アノ先輩か……=Well, it’s possible. Manipulating moisture in the air, maybe it was him...
 
 # A12D0
-クライングローズの時は、|零が助けてくれたっけ。=
-お前は、ちょっと目を離すと|何をするかわらないからな。=
+クライングローズの時は、|零が助けてくれたっけ。=And you saved me when all that business was going on with the Crying Rose.
+お前は、ちょっと目を離すと|何をするかわらないからな。=I can’t take my eyes of you for a second.
 
 # A11F0
-レベル：Ｅに襲われてピンチの|時は、零ってのんびりラーメン|食べてたよね？=
-しょうがないだろ……|塩ラーメンは大事だからな。=
+レベル：Ｅに襲われてピンチの|時は、零ってのんびりラーメン|食べてたよね？=When I was in a desperate situation being attacked by a Level E, you were just casually eating shio ramen, weren’t you?
+しょうがないだろ……|塩ラーメンは大事だからな。=I couldn’t help it... Shio ramen is important.
 
 # A182C
-そういえば、|はじめてのデートが|ラーメン屋さんって……。=
-待て！あれがデートって|どういう事だ？ただ、|飯を食いに行っただけだろ。=
-もう……これだから……。=
-そして……=
+そういえば、|はじめてのデートが|ラーメン屋さんって……。=Come to think of it, our first date was at a ramen bar...
+待て！あれがデートって|どういう事だ？ただ、|飯を食いに行っただけだろ。=Now hold on! What do you mean that was a date? We just went out to eat, right?
+もう……これだから……。=Really? It’s because you’re like this, I...!
+そして……=And...
 
 # A1078
-はじめてダンスを踊ったのも|零だったよね。=
-ああ、ダンスってしろものじゃ|なかったけどな。=
+はじめてダンスを踊ったのも|零だったよね。=I had my first dance with you.
+ああ、ダンスってしろものじゃ|なかったけどな。=Yeah. I wouldn’t really call it a dance, though.
 
 # A0D2C
-そうそう！=
+そうそう！=Oh, yeah!
 
 # A1230
-無人島で作った料理は|最高だったよね！=
-零と枢センパイの息のあった|コラボなんて滅多に見られる|ものじゃないし。=
+無人島で作った料理は|最高だったよね！=The food we made on the deserted island was amazing!
+零と枢センパイの息のあった|コラボなんて滅多に見られる|ものじゃないし。=It’s not every day you I get to see you and Kaname actually collaborating.
 
 # A2778
-無人島で作った料理は|ひどかったよね！=
-零と枢センパイが協力する姿は|ちょっと見物だったけど。=
-おい。何の話だ？=
-あ、いけない。|あれは夢の話だったっけ。=
-お前、どんな気持ち悪い夢|見てるんだ。|俺が玖蘭枢と料理って……。=
-もしかすると、正夢かも|しれないよ？=
-やめろ。=
+無人島で作った料理は|ひどかったよね！=The food we made on the deserted island was awful!
+零と枢センパイが協力する姿は|ちょっと見物だったけど。=Seeing you and Kaname working together was something, though.
+おい。何の話だ？=Oi, what are you on about?
+あ、いけない。|あれは夢の話だったっけ。=Oh no. That was just a dream, wasn’t it?
+お前、どんな気持ち悪い夢|見てるんだ。|俺が玖蘭枢と料理って……。=What kind of creepy dreams do you have? Me and Kaname Kuran, cooking... 
+もしかすると、正夢かも|しれないよ？=What if it was a prophetic dream?
+やめろ。=Just stop.
 
 # A1D44
-でも、チビの事は今でも……=
-ああ……そうだな……。=
-いろいろあったけど、|零と一緒でよかったよ。=
-私の言いたいことは……|それだけ……。=
-<name>……。=
+でも、チビの事は今でも……=But even now, what happened to Chibi is...
+ああ……そうだな……。=Yeah... You’re right...
+いろいろあったけど、|零と一緒でよかったよ。=A lots happened but, I’m glad we’re together.
+私の言いたいことは……|それだけ……。=That’s all I wanted to say...
+<name>……。=<name>...
 
 # A4184
-誰にも言えない事もしちゃった|ね……。=
-ああ……。=
-（一瞬黙った零が決意に満ちた|瞳を私に向けた……）=
-俺……|本当の気持ちを伝えに来た。=
-ほ、本当の……気持ち？？=
-俺は、お前を……！=
-<name>……|お前をはなしたくない。=
-お前が、欲しいんだ……。=
-（いきなり抱きしめられた…）=
-お前を放したく……ない。=
-ぜ……=
+誰にも言えない事もしちゃった|ね……。=There were some things we can never tell anyone about...
+ああ……。=Yeah...
+（一瞬黙った零が決意に満ちた|瞳を私に向けた……）=(Zero was silent for a moment and looked at me with eyes full of determination.)
+俺……|本当の気持ちを伝えに来た。=I... came to tell you how I really feel.
+ほ、本当の……気持ち？？=H-How you... really feel?
+俺は、お前を……！=I lo...!
+<name>……|お前をはなしたくない。=<name>... I don’t want to lose you.
+お前が、欲しいんだ……。=I want you...
+あ……@A4184=Ah...!
+（いきなり抱きしめられた…）=(He suddenly hugged me.)
+お前を放したく……ない。=I don’t want to let you go...
+ぜ……=Ze...
 
 # A1488
-私、零の事大好きだよ。=
-初めて会ったときから、|いままで……ずっとずっと|好きだったのかもしれない。=
-お前の気持ち、|凄くうれしいよ。そこまで|思っていてくれたなんて……=
+私、零の事大好きだよ。=I love you, Zero.
+初めて会ったときから、|いままで……ずっとずっと|好きだったのかもしれない。=From the time we first met... I think I’ve loved you for a long, long time.
+お前の気持ち、|凄くうれしいよ。そこまで|思っていてくれたなんて……=That makes me really happy. I can’t believe you felt that way, all along...
 
-# AAECC
-ひとつ、|頼みをきいてくれないか。=
-お前の夢。諦めないでくれ。=
-夢……チビの事もあって、|確かにショックだったよ……=
-私の夢って何なんだろう……|って今でも迷ってる。=
-人間とヴァンパイアの共存。|口当たりの良いことをさんざん|言っておいてーー=
-いざ、現実の出来事が起こって|しまうと、ただ、ただ泣くこと|しかできない……=
-私には、何も出来ない……=
-それで充分じゃないのか？=
-そうやって、悲しみや苦しみに|ぶち当たりつつもーー=
-どうすればいいかって考える|ことが大事なんじゃないか。=
-俺にだって…人間と|ヴァンパイアの共存なんて、|完全に可能だとはーー=
-やはりまだ、言い切れない。|言い切るには俺は…たくさんの|ものを失いすぎた。=
-だけど、それとお前の夢は別だ|<name>。そういう悲しみや辛さ|を知っているお前だからーー=
-開くことができる新しい道って|いうものがあるんじゃないかと|思う。=
-お前には…そういうことを、|諦めないヤツでいてほしい。=
-あせることはない。|お前には、まだまだ沢山の|時間がある。=
-そうだろ？=
-今すぐにとは言わない。|落ち着いたら考え直せばいい。=
-俺はただ、お前の夢を、|お前が諦めないでほしいんだ。=
-ぜ…………。=
-なんか、偉そうな事|言ってしまったな。|ガラにもなく。フッ……=
-<name>……。|正直に言うと、俺はきっと……|怖いのかもしれない。=
-俺もチビの様になったら……|そう考えると、恐怖が闇と|なって俺を包んでいく……。=
-そこに光は見えない……。=
-あきらめるな。と言っておき|ながら、俺はそれを見届ける事|が、出来ないかもしれない…。=
-残念だけど、俺は最後まで|付き合う事が出来ないな。|きっと……=
-そんな事ないよ！=
-見届けてよ！ちゃんと|付き合ってよ！今までみたいに|２人で歩いていこうよ！=
-でも、俺はお前を悲しませたく|ない……。=
-いいんだよ……そんな事。=
-零、さっき悲しみを知ってこそ|新しい道が開けるって言った|よね？=
-悲しみを背負うのは、私だけ|じゃない。それは、零自身の事|でもあるんだよ。=
-だから……だからこそ２人で|一緒に歩もうよ！=
-ありがとう。|俺も、覚悟を決めた。=
-私達……もう幼馴染じゃ|ないんだよ。=
-そう、幼馴染はもういい。|俺はお前に……全てを捧げる。=
-（零の熱い眼差しが私に|注がれていた。|燃えるような熱い視線が……）=
-（私は静かに目を閉じた。|すると、柔らかくて優しいのに|燃えたぎるように熱いーー）=
-（彼の唇が私の……）=
+# AAECC Zero good ending
+ひとつ、|頼みをきいてくれないか。=Can I ask you to do one favor?
+お前の夢。諦めないでくれ。=Don’t give up on your dream.
+夢……チビの事もあって、|確かにショックだったよ……=My dream... What happened to Chibi was a real shock...
+私の夢って何なんだろう……|って今でも迷ってる。=I... don’t even know what my dream is anymore...
+人間とヴァンパイアの共存。|口当たりの良いことをさんざん|言っておいてーー=Human and vampire coexistence... After I went on about this and that...
+いざ、現実の出来事が起こって|しまうと、ただ、ただ泣くこと|しかできない……=When faced with the reality of that, all I could do with cry...
+私には、何も出来ない……=I’m powerless...
+それで充分じゃないのか？=Isn’t that enough?
+そうやって、悲しみや苦しみに|ぶち当たりつつもーー=When you’re faced with pain and suffering...
+どうすればいいかって考える|ことが大事なんじゃないか。=isn’t it thinking about what to do next that matters most?
+俺にだって…人間と|ヴァンパイアの共存なんて、|完全に可能だとはーー=Even I... If you’re asking whether coexistence between humans and vampires could really exist...
+やはりまだ、言い切れない。|言い切るには俺は…たくさんの|ものを失いすぎた。=I... can’t say. I’ve lost too much to say that.
+だけど、それとお前の夢は別だ|<name>。そういう悲しみや辛さ|を知っているお前だからーー=But your dream is different, <name>.  It’s because you’ve experienced all that sorrow and pain,
+開くことができる新しい道って|いうものがあるんじゃないかと|思う。=I think you could open up a new path.
+お前には…そういうことを、|諦めないヤツでいてほしい。=You should be someone who’d wouldn’t give up on something like that.
+あせることはない。|お前には、まだまだ沢山の|時間がある。=Don’t get discouraged. You still have a long life ahead of you.
+そうだろ？=Right?
+今すぐにとは言わない。|落ち着いたら考え直せばいい。=I’m not saying you have to do anything right now. You can think about it once things have calmed down a little.
+俺はただ、お前の夢を、|お前が諦めないでほしいんだ。=I just don’t want you to give up on your dream.
+ぜ…………。=Ze...
+なんか、偉そうな事|言ってしまったな。|ガラにもなく。フッ……=I feel like I’ve gone and spouted a bunch of high-and-mighty stuff. That’s not like me. Heh...
+<name>……。|正直に言うと、俺はきっと……|怖いのかもしれない。=<name>... If I’m being honest, I’m... scared.
+俺もチビの様になったら……|そう考えると、恐怖が闇と|なって俺を包んでいく……。=If I’m going to end up like Chibi... When I think about that, a dark fear overwhelms me...
+そこに光は見えない……。=I can’t see the light...
+あきらめるな。と言っておき|ながら、俺はそれを見届ける事|が、出来ないかもしれない…。=I tell you not to give up, and yet, I don’t know if I’ll even be there.
+残念だけど、俺は最後まで|付き合う事が出来ないな。|きっと……=I hate it, but I don’t know if I’ll be able to see it through with you to the end. I’ll probably...
+そんな事ないよ！=That’s not going to happen!
+見届けてよ！ちゃんと|付き合ってよ！今までみたいに|２人で歩いていこうよ！=You have to see it through! Stay with me! We’ll walk together like we’ve always done!
+でも、俺はお前を悲しませたく|ない……。=But, I don’t want to make you sad...
+いいんだよ……そんな事。=That doesn’t matter.
+零、さっき悲しみを知ってこそ|新しい道が開けるって言った|よね？=You said that it’s by knowing pain, new paths can open, right?
+悲しみを背負うのは、私だけ|じゃない。それは、零自身の事|でもあるんだよ。=I’m not the only one who’s carrying that pain. What you said applies to you too, Zero,
+だから……だからこそ２人で|一緒に歩もうよ！=So... That’s why the two of us should do this together!
+ありがとう。|俺も、覚悟を決めた。=Thank you. I’ve made up my mind.
+私達……もう幼馴染じゃ|ないんだよ。=We’re... not childhood friends anymore, are we?
+そう、幼馴染はもういい。|俺はお前に……全てを捧げる。=No, not anymore. I’ll give you ...... everything I've got.
+（零の熱い眼差しが私に|注がれていた。|燃えるような熱い視線が……）=(Zero’s passionate eyes were fixed on me. That look, burning with desire...)
+（私は静かに目を閉じた。|すると、柔らかくて優しいのに|燃えたぎるように熱いーー）=(I quietly closed my eyes. Then, soft and gentle, but burning hot...)
+（彼の唇が私の……）=(lips were pressed to mine.)
 
-# A45C8
-零のキモチ……聞かせてよ。=
-俺は……。=
-ゴメン、|無理しなくていいんだよ零。=
-お前のそのやさしさが辛く|感じる時さえある…=
-俺はいつも迷惑をかけっぱなし|で……=
-そんなのお互い様だし、今まで|通りじゃない。それが２人で|いるって事じゃないのかな？=
-そうだな。変わらない、|いつもの日常……それこそが、|一番の幸せなのかも。=
-そうだよ。零。=
-私、それだけで充分だよ。|さぁ、またいつものように|見回りがんばろうね。=
-ああ。=
-（いつもの日常がはじまる。|先のことはみんなわからない|けど思いは通じた）=
-おい、<name>！|そろそろ見回りだぞ！=
-この日常が、何事もなく続き|ますように……=
+# A45C8 Zero neutral ending (give him the black rose)
+零のキモチ……聞かせてよ。=Zero... I want to know how you feel.
+俺は……。=I...
+ゴメン、|無理しなくていいんだよ零。=Sorry, you don’t have to force yourself...
+お前のそのやさしさが辛く|感じる時さえある…=Sometimes that kindness of yours... actually hurts.
+俺はいつも迷惑をかけっぱなし|で……=I’m always giving you grief...
+そんなのお互い様だし、今まで|通りじゃない。それが２人で|いるって事じゃないのかな？=The same goes for me, but that’s how we’ve always been. Isn’t that just what relationships are like?
+そうだな。変わらない、|いつもの日常……それこそが、|一番の幸せなのかも。=I guess so. Nothing different, just our normal daily lives. Maybe that’s where we’d be happiest. 
+そうだよ。零。=Exactly, Zero.
+私、それだけで充分だよ。|さぁ、またいつものように|見回りがんばろうね。=That’s enough for me. Come on then, let’s do our patrol like always.
+ああ。=Yeah.
+（いつもの日常がはじまる。|先のことはみんなわからない|けど思いは通じた）=(And so, our everyday lives resumed. There’s no telling what’s ahead, but now he knows how I feel.)
+おい、<name>！|そろそろ見回りだぞ！=Hey <name>! It’s time to go on patrol!
+この日常が、何事もなく続き|ますように……=May these ordinary days never end...
 
-# A923C
-<unk1>（だからこそ………）=
-少しだけ、考えさせて貰っても|いいか…？=
-いろいろ重なったけど、|今日は、楽しかった。=
-明日教室で会おう。お休み。=
-（そして次の日……）=
-（いつものように|デイ･クラスの授業が始まる）=
-（しかし、教室に零の姿は|なかった）=
-（チビの事とか、いろいろと|あって疲れたのかな？）=
-錐生くん、こないね。|おやすみかな？=
-何か、色々とあって|つかれちゃったみたい。=
-きっとクラス入れ替えの時には|来るよ。=
-（しかし、零は現れなかった）=
-（見回りの前に、理事長や|夜刈先生にも聞いた。）=
-（藍堂センパイにも、|一条センパイにも、聞いた）=
-（でも、誰も零の行方を|知らないという……|零……どうして……）=
-（不安がこみ上げる。涙が|溢れてくる……そのにじんだ|風景にあの人が現れた）=
-枢センパイ！零が！|零がどこにもいないんです！=
-（長い沈黙の後、枢センパイが|重い口を開いた。）=
-今朝早くに、錐生君が|僕の元を訪ねてきた。=
-きみに渡してくれと|これを託された。=
-手紙？=
-<name>。こんな形で返事を|することを許してくれ。=
-やっぱり、これ以上お前を|悲しませたくない。=
-最後まで勝手ですまないが、|これが俺の出した結論だ。=
-今まで、ありがとう。お前の|ことは、永遠にわすれない。|　　　　　　　　　錐生　零=
-きみの事は頼む……。|そう言って彼は学園を出て|いったよ。=
-そんな……零…………零。|零！！！=
-（その後、零の行き先を|必死で調べたけれど、|手がかりはなかった）=
-零…|どこへ行ってしまったの…。=
+# A923C Zero bad ending (have high intimacy with someone else, give him the black rose.)
+<unk1>（だからこそ………）=<unk1>(That’s why...)
+少しだけ、考えさせて貰っても|いいか…？=Can you give me some time to think?
+いろいろ重なったけど、|今日は、楽しかった。=Despite everything that’s happened, I had fun today.
+明日教室で会おう。お休み。=I’ll see you in class tomorrow. Good night.
+（そして次の日……）=(Then, the next day...)
+（いつものように|デイ･クラスの授業が始まる）=(The Day Class’s lessons started as normal,)
+（しかし、教室に零の姿は|なかった）=(but Zero didn’t show to class.) 
+（チビの事とか、いろいろと|あって疲れたのかな？）=(Maybe he’s still exhausted after what happened with Chibi and stuff?)
+錐生くん、こないね。|おやすみかな？=Kiryu’s not here. Do you think he’s taken a day off?
+何か、色々とあって|つかれちゃったみたい。=He’s probably just a bit tired.
+きっとクラス入れ替えの時には|来るよ。=I’m sure he’ll be here when the classes switch.
+（しかし、零は現れなかった）=(But, he never arrived.)
+（見回りの前に、理事長や|夜刈先生にも聞いた。）=(I went to see the headmaster and Mr. Yagari before my patrol.)
+（藍堂センパイにも、|一条センパイにも、聞いた）=(I even asked Aido and Ichijo too.)
+（でも、誰も零の行方を|知らないという……|零……どうして……）=(But, no one knew where Zero had gone.|Zero... Why...?)
+（不安がこみ上げる。涙が|溢れてくる……そのにじんだ|風景にあの人が現れた）=(I was filled with worry. Tears started to well up in my eyes. Then, beyond that blurry vision, I saw...)
+枢センパイ！零が！|零がどこにもいないんです！=Kaname! Zero has...! I can’t find Zero anywhere!
+（長い沈黙の後、枢センパイが|重い口を開いた。）=(After a long silence, Kaname opened his mouth.)
+今朝早くに、錐生君が|僕の元を訪ねてきた。=Kiryu came to see me early this morning.
+きみに渡してくれと|これを託された。=He asked me to give this to you.
+手紙？=A letter?
+<name>。こんな形で返事を|することを許してくれ。=<name>. Forgive me for answering you like this.
+やっぱり、これ以上お前を|悲しませたくない。=I don’t want to cause you any more pain.
+最後まで勝手ですまないが、|これが俺の出した結論だ。=I’m sorry for being so selfish right up until the end, but this is the conclusion I’ve come to.
+今まで、ありがとう。お前の|ことは、永遠にわすれない。|　　　　　　　　　錐生　零=Thank you for everything. I will never forget you.|　　　　　　　　　--Zero Kiryu
+きみの事は頼む……。|そう言って彼は学園を出て|いったよ。=He asked me to take care of you, then left the academy.
+そんな……零…………零。|零！！！=No... Zero... Zero.|Zero!!
+（その後、零の行き先を|必死で調べたけれど、|手がかりはなかった）=(After that, I desperately searched for any idea of where Zero might have gone, but there was no trace.)
+零…|どこへ行ってしまったの…。=Zero... Where did you go...?
 
 # AA2F4 Chapter 7 Kaname 
 枢センパイ？！|……どうしたんですか？=Kaname?!|...Is something wrong?
@@ -13524,56 +13525,57 @@ Sleep well...
 この続きは、また次の授業で。|夜刈先生。=We’ll continue this in the next class, Mr. Yagari.
 フン、じゃあな。=Hmph. Bye.
 
-# A2168
-来てくれたんだね。嬉しいよ。|素敵なドレスだ。似合って|いるよ。とてもかわいい。=
-枢センパイ……あまり|見つめないでください。|恥ずかしいな。=
-さあ。パーティの始まりだ。=
-枢センパイ、エスコート|お願いしてもいいですか？=
-もちろんだよ。それでは……|僕と踊って頂けますか？=
+# A2168 Kaname dance party
+来てくれたんだね。嬉しいよ。|素敵なドレスだ。似合って|いるよ。とてもかわいい。=I’m glad you’re here. That’s a lovely dress. It’s very cute. It really suits you.
+枢センパイ……あまり|見つめないでください。|恥ずかしいな。=Kaname... Please don’t stare so much. It’s embarrassing.
+さあ。パーティの始まりだ。=Come on, the party’s starting.
+枢センパイ、エスコート|お願いしてもいいですか？=Is it really okay for you to be escorting me, Kaname?
+もちろんだよ。それでは……|僕と踊って頂けますか？=Of course. Now then... Will you do me the honor of dancing with me?
 
 # A0C80
-楽しめたかい？<name>。=
+楽しめたかい？<name>。=Did you enjoy that, <name>?
 
-# A0F94
-うれしいよ。|きみの気持ち……ありがとう。=
+# A0F94 Kaname good rose
+うれしいよ。|きみの気持ち……ありがとう。=Your feelings... Thank you. I’m very happy.
 
-# A0ACC
-これを僕に？ありがとう。=
+# A0ACC Kaname bad rose
+これを僕に？ありがとう。=This is for me? Thank you.
 
 # A42F0
-パーティーもそろそろ|終わりだ。|今日は、楽しかったかい？=
-はい、みんなのおかげです。=
-それに枢センパイが|いてくれたから……=
-<unk1>フッ…………。=
-でも、終わってしまうのが、|とてもさみしい。=
-そうだね。楽しかっただけに、|名残惜しい。こんなに平和で|穏やかな夜は久しぶりだよ。=
-<name>のおかげだね。=
-そんな、言いすぎです。=
-そんな事はないよ。できる事な|ら、ずっと君が傍にいてこうし|て踊っていられたらいいのに。=
-それでも、終わりがないと、|次のストーリーが始まらない。|そういうものだね。=
-そうしないと、更に素敵に|なった明日のきみに会えないの|だから。=
-おやすみ<name>。夢で逢おう。=
-おやすみなさい。枢センパイ。=
+パーティーもそろそろ|終わりだ。|今日は、楽しかったかい？=The party is almost over. Did you have a good time today?
+はい、みんなのおかげです。=Yes, thanks to everyone.
+それに枢センパイが|いてくれたから……=And of course, because you were there...
+<unk1>フッ…………。=<unk1>Heh...
+でも、終わってしまうのが、|とてもさみしい。=But, it’s sad that it’s over.#dupe
+そうだね。楽しかっただけに、|名残惜しい。こんなに平和で|穏やかな夜は久しぶりだよ。=You’re right. Because it was fun, you never want it to end. It’s been a long time since I’ve last had the pleasure of such a calm and peaceful night.
+<name>のおかげだね。=It’s thanks to you, <name>.
+そんな、言いすぎです。=You’re exaggerating.
+そんな事はないよ。できる事な|ら、ずっと君が傍にいてこうし|て踊っていられたらいいのに。=That’s not true. If it were possible, I wish I could dance like this with you by my side forever.
+それでも、終わりがないと、|次のストーリーが始まらない。|そういうものだね。=But if things didn’t end, the next story could never begin. That’s the it is.
+そうしないと、更に素敵に|なった明日のきみに会えないの|だから。=If not, I wouldn’t be able to have an even lovelier day tomorrow, and see you.
+おやすみ<name>。夢で逢おう。=Good night, <name>. Let’s meet in our dreams.
+おやすみなさい。枢センパイ。=Good night, Kaname.
 
 # A5E88
-枢センパイ……！どうして！=
-静かに……場所を変えよう。=
-どこへ行くのですか？=
-僕の部屋へ行こう。|大事な話があるんだ。|いいかな？=
-枢センパイ……|大事な話って……=
-フフッ……パーティの興奮が|なかなか冷めないみたいでね。=
-僕はもう少しきみと話がした|かった。これが大事な話だよ。|いけなかったかな？=
-えっ……大丈夫です……|その……とても大事な事だと|思います。=
-そう言ってくれると、|うれしいよ。=
-だって、普段はなかなか|２人っきりでお話できません|し……=
-（ああ……そう強く|意識すると、なんだか|ドキドキしてきた……）=
-何から話そうか？=
-私のうれしかった事でも|いいですか？=
-ああ、もちろん。=
-クラス入れ替えの時、|押しつぶされそうな私を|いつも助けてくれましたよね。=
-きみにはいつも大変な思いで、|ガーディアンの仕事をやって|もらっているのだからね。=
-少しでも、役に立てれば……|そう思っているんだ。=
-ありがとうございます。|でも、たまに逆効果……|いえ、何でもありません。=
+枢センパイ……！どうして！=Kaname! Why--?
+静かに……場所を変えよう。=Not too loud... Let’s go somewhere else.
+どこへ行くのですか？=Where are we going?
+僕の部屋へ行こう。|大事な話があるんだ。|いいかな？=To my room. I have something important to tell you. Do you mind?
+はい。@A5E88=No...
+枢センパイ……|大事な話って……=Kaname... When you said you had something to tell me...
+フフッ……パーティの興奮が|なかなか冷めないみたいでね。=Hehe... It seems the buzz of the party has still not clamed down.
+僕はもう少しきみと話がした|かった。これが大事な話だよ。|いけなかったかな？=I wanted to talk to you a little more. That’s what was so important. Should I not have come?
+えっ……大丈夫です……|その……とても大事な事だと|思います。=Ah... It’s okay... I... think that’s important too.
+そう言ってくれると、|うれしいよ。=It makes me happy to hear you say that.
+だって、普段はなかなか|２人っきりでお話できません|し……=I mean, it’s not very often the two of us have a chance to talk alone...
+（ああ……そう強く|意識すると、なんだか|ドキドキしてきた……）=(Ah... Now that I’m aware of it, I’m getting kind of nervous...)
+何から話そうか？=What should we start with?
+私のうれしかった事でも|いいですか？=Would it be okay to tell you about something that made me happy?
+ああ、もちろん。=Yes, of course.
+クラス入れ替えの時、|押しつぶされそうな私を|いつも助けてくれましたよね。=Whenever the it’s time for the classes to switch, you always save me when I’m about to be crushed. 
+きみにはいつも大変な思いで、|ガーディアンの仕事をやって|もらっているのだからね。=That’s because I can’t help but think it must be hard, playing the role of Guardian for us.
+少しでも、役に立てれば……|そう思っているんだ。=If I can be of at least some help... That thought is what keeps me going.
+ありがとうございます。|でも、たまに逆効果……|いえ、何でもありません。=Thank you. But sometimes, I think it may have the opposite effect... No, ignore me.
 
 # A2120
 聖ショコラトル･デーも|大変だったね。=
@@ -13903,7 +13905,7 @@ Sleep well...
 はい、みんなのおかげと……=
 藍堂センパイのおかげです。=
 えっ……ああ、|まあそういう事だな…|…当たり前だろう、はは。=
-でも、終わってしまうのが|とてもさみしい。=
+でも、終わってしまうのが|とてもさみしい。=But, it’s sad that it’s over.#dupe
 ああ、そうだな……お前、|いつもより少しはきれいだった|かな……あ、いや何でもない。=
 藍堂センパイ。=
 なんだ？<last><name>？=
@@ -14243,7 +14245,7 @@ Sleep well...
 ああ、もちろんだ。|おやすみ。夢で逢おう。=
 
 # A3ED0
-架院センパイ……！どうして。=
+架院センパイ……！どうして。=Kain! Why--?
 シッ！|お前の友達が起きてしまう。|場所を変えよう。=
 そうだな。とりあえず、|２人きりになれるところだ。=
 こうして、夜に２人っきり……|ロマンチックですね……=
@@ -14550,7 +14552,7 @@ Sleep well...
 はい……一条センパイ。=
 
 # A30DC
-一条センパイ……！どうして。=
+一条センパイ……！どうして。=Ichijo! Why--?
 シッ！若葉さんが|起きちゃうよ。どうしても|君と話がしたくって……=
 ……場所を変えてもいいかな。=
 誰もこないところがいいね。|そうだ、いい場所があるよ。=
@@ -14842,14 +14844,14 @@ Sleep well...
 もうパーティーも終わる。|楽しかった？=
 そして、支葵センパイが|いたから……=
 ふーん。ならいいけど。=
-でも、終わってしまうのが|とてもさみしいです。=
+でも、終わってしまうのが|とてもさみしいです。=But, it’s sad that it’s over.#dupe
 じゃ、また今度一緒に踊ろう。=
 なんだか残念。もう少し踊って|いたかった。=
 私もです。支葵センパイ。=
 でも時間。|おやすみ……夢で逢おうね。=
 
 # A2408
-支葵センパイ……！どうして。=
+支葵センパイ……！どうして。=Shiki! Why--?
 となりの子が起きちゃう。|場所を変えよう。=
 思い出の場所。=
 思い出の場所･･･|センパイとは|素敵な思い出がいっぱいですね。=

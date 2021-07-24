@@ -9835,11 +9835,11 @@ Sleep well...
 （このままずっと手をつないで|いたいな、枢センパイと……）=(I wish I could stay like this, holding hands with Kaname forever...)
 
 # AE214 Shopping with Aido
-僕としてはもう少し|バルサミコ酢をきかせた方が|いいとは思うけどーー=I think it would have been better with a little more balsamic vinegar, but...
+僕としてはもう少し|バルサミコ酢をきかせた方が|いいとは思うけどーー=I think it would have been better with a little more balsamic, but...
 まあ……|口に合わないこともなかった。|フツウだな。=Well, it wasn’t inedible. Just average.
 あ、はは……私は、すごく|美味しいと思いますけど……=A-Ahaha... I thought it was really good, though...
 （さすが藍堂センパイ、|舌が肥えているなぁ）=(I guess Aido would have a very discerning palate.)
-（ところで、バルサミコスって|何だろう？）=(Actually... what even is balsamic vinegar?)
+（ところで、バルサミコスって|何だろう？）=(Actually... what even is ‘balsamic’?)
 でも、まだ足りない。=It’s still not enough.
 えっ！！？？=Huh!?
 （藍堂センパイって、|身体細いのに、こんなに|食べるんだった！）=(Aido may be thin, but he sure eats a lot!)
@@ -13148,7 +13148,7 @@ Sleep well...
 
 # A3638
 もうパーティーも終わりだな。|楽しかったか？=Looks like the party’s wrapping up. Did you enjoy it?
-うん、みんなのおかげで。=Yeah, thanks to everyone.
+うん、みんなのおかげで。=Yeah, thanks to everyone.#dupe
 そして、零のおかげでも|あるんだよ。=And, you too, of course...
 でも、終わっちゃうのがとても|さみしい。=But it’s sad that it’s over already.
 そうだな。|いつもの見回りとは違う、|特別な夜ってわけだもんな……=Yeah. Tonight was special, different from our normal patrols.
@@ -13204,11 +13204,11 @@ Sleep well...
 そうそう！=Oh, yeah!
 
 # A1230
-無人島で作った料理は|最高だったよね！=The food we made on the deserted island was amazing!
-零と枢センパイの息のあった|コラボなんて滅多に見られる|ものじゃないし。=It’s not every day you I get to see you and Kaname actually collaborating.
+無人島で作った料理は|最高だったよね！=The food we made on the deserted island was amazing!#dupe
+零と枢センパイの息のあった|コラボなんて滅多に見られる|ものじゃないし。=It’s not every day I get to see you and Kaname actually collaborating.
 
 # A2778
-無人島で作った料理は|ひどかったよね！=The food we made on the deserted island was awful!
+無人島で作った料理は|ひどかったよね！=The food we made on the deserted island was awful!#dupe
 零と枢センパイが協力する姿は|ちょっと見物だったけど。=Seeing you and Kaname working together was something, though.
 おい。何の話だ？=Oi, what are you on about?
 あ、いけない。|あれは夢の話だったっけ。=Oh no. That was just a dream, wasn’t it?
@@ -13283,7 +13283,7 @@ Sleep well...
 （私は静かに目を閉じた。|すると、柔らかくて優しいのに|燃えたぎるように熱いーー）=(I quietly closed my eyes. Then, soft and gentle, but burning hot...)
 （彼の唇が私の……）=(lips were pressed to mine.)
 
-# A45C8 Zero neutral ending (give him the black rose)
+# A45C8 Zero neutral ending (give him the black rose with high intimacy)
 零のキモチ……聞かせてよ。=Zero... I want to know how you feel.
 俺は……。=I...
 ゴメン、|無理しなくていいんだよ零。=Sorry, you don’t have to force yourself...
@@ -13543,7 +13543,7 @@ Sleep well...
 
 # A42F0
 パーティーもそろそろ|終わりだ。|今日は、楽しかったかい？=The party is almost over. Did you have a good time today?
-はい、みんなのおかげです。=Yes, thanks to everyone.
+はい、みんなのおかげです。=Yes, thanks to everyone.#dupe
 それに枢センパイが|いてくれたから……=And of course, because you were there...
 <unk1>フッ…………。=<unk1>Heh...
 でも、終わってしまうのが、|とてもさみしい。=But, it’s sad that it’s over.#dupe
@@ -13563,7 +13563,7 @@ Sleep well...
 僕の部屋へ行こう。|大事な話があるんだ。|いいかな？=To my room. I have something important to tell you. Do you mind?
 はい。@A5E88=No...
 枢センパイ……|大事な話って……=Kaname... When you said you had something to tell me...
-フフッ……パーティの興奮が|なかなか冷めないみたいでね。=Hehe... It seems the buzz of the party has still not clamed down.
+フフッ……パーティの興奮が|なかなか冷めないみたいでね。=Hehe... It seems the buzz of the party has still not worn off.
 僕はもう少しきみと話がした|かった。これが大事な話だよ。|いけなかったかな？=I wanted to talk to you a little more. That’s what was so important. Should I not have come?
 えっ……大丈夫です……|その……とても大事な事だと|思います。=Ah... It’s okay... I... think that’s important too.
 そう言ってくれると、|うれしいよ。=It makes me happy to hear you say that.
@@ -13574,150 +13574,151 @@ Sleep well...
 ああ、もちろん。=Yes, of course.
 クラス入れ替えの時、|押しつぶされそうな私を|いつも助けてくれましたよね。=Whenever the it’s time for the classes to switch, you always save me when I’m about to be crushed. 
 きみにはいつも大変な思いで、|ガーディアンの仕事をやって|もらっているのだからね。=That’s because I can’t help but think it must be hard, playing the role of Guardian for us.
-少しでも、役に立てれば……|そう思っているんだ。=If I can be of at least some help... That thought is what keeps me going.
-ありがとうございます。|でも、たまに逆効果……|いえ、何でもありません。=Thank you. But sometimes, I think it may have the opposite effect... No, ignore me.
+少しでも、役に立てれば……|そう思っているんだ。=If I can be of at least some help... That is my thought process.
+ありがとうございます。|でも、たまに逆効果……|いえ、何でもありません。=Thank you. But sometimes, I think it might have the opposite effect... No, ignore me.
 
 # A2120
-聖ショコラトル･デーも|大変だったね。=
-そうなんです。あれは特に|大変です。=
-でも、そんな中、きみは|ちゃんと僕にチョコレートを|くれたよね。=
-えへへ、渡したのは零です|けど。=
-そうだったかな。|つまらない記憶はすぐに|なくしてしまうから……=
-で、でも、正真正銘、私からの|チョコですから！=
+聖ショコラトル･デーも|大変だったね。=St. Xocolatl’s Day was difficult too, wasn’t it?
+そうなんです。あれは特に|大変です。=Yes, that day was especially crazy.
+でも、そんな中、きみは|ちゃんと僕にチョコレートを|くれたよね。=But in the midst of all that, you still managed to give me chocolate, didn’t you?
+えへへ、渡したのは零です|けど。=Ehehe... It was Zero who handed it to you, though.
+そうだったかな。|つまらない記憶はすぐに|なくしてしまうから……=Is that right? I tend to forget about the uninteresting things...
+で、でも、正真正銘、私からの|チョコですから！=B-But, it was a chocolate I picked with care!
 
 # A1A6C
-そしてあとで、こっそり|手作りチョコもくれたよね。=
-あれは忘れられないな。|とても個性的な味で…=
-だけど、きみが作ってくれたと|思えば、とても美味しかった…=
-はは……今度は腕を上げて|おきます……=
+そしてあとで、こっそり|手作りチョコもくれたよね。=And later, you secretly gave me your homemade chocolate, too.
+あれは忘れられないな。|とても個性的な味で…=I could never forget that. It had a very unique taste...
+だけど、きみが作ってくれたと|思えば、とても美味しかった…=But knowing that you made it for me, it was delicious.
+はは……今度は腕を上げて|おきます……=Haha... I’ll work on my skills for next time.
 
 # A1F24
-極夜の時は、みんな|大はしゃぎでしたね。=
-みんなが楽しめた。|それでいいんじゃないかな。=
-もっとも一番楽しそうだった|のは、きみだったけどね。=
-フフ……ばれていましたか。=
-きみの笑顔が見られれば、|いいんだよ。僕は。=
+極夜の時は、みんな|大はしゃぎでしたね。=Everyone was very hyped up during the Polar Night.
+みんなが楽しめた。|それでいいんじゃないかな。=They all had fun. I don’t think there’s anything wrong with that.
+もっとも一番楽しそうだった|のは、きみだったけどね。=You were the one who seemed to enjoy it the most, though.
+フフ……ばれていましたか。=Hehe... You found me out?
+きみの笑顔が見られれば、|いいんだよ。僕は。=If I can see your smiling face, that’s all that matters to me.
 
 # A14D0
-ナイトレインボウも|本当に見られるとは|思いませんでした。=
-きみの普段の行いがよかった|からだよ。フフ……僕だけ|じゃなくーー=
-そう思っている者がいたから|こそかな。本当にきみは人を|幸せにする力を持っているね。=
+ナイトレインボウも|本当に見られるとは|思いませんでした。=I didn’t think we’d actually be able to see a Night Rainbow.
+きみの普段の行いがよかった|からだよ。フフ……僕だけ|じゃなくーー=It’s because you’re always doing good things. Hehe... It’s not just me--
+そう思っている者がいたから|こそかな。本当にきみは人を|幸せにする力を持っているね。=It must have been because there were others who thought that way. You really have the power to make people happy.
 
 # A1060
-クライングローズでピンチの|時は、助けていただいて……|心強かったです。=
-いつも言ってるだろ？|僕は常にきみの味方だと。=
+クライングローズでピンチの|時は、助けていただいて……|心強かったです。=When I was in trouble because of the Crying Rose you saved me and reassured me.
+いつも言ってるだろ？|僕は常にきみの味方だと。=I’ve always said so, no?|I will always be on your side.
 
 # A18EC
-図書館でのデートも、|忘れられません。=
-デートと思っていて|くれたんだ。=
-えっ……それは……|だってあんなに……。=
-うれしいよ。=
+図書館でのデートも、|忘れられません。=I’ll never forget our date at the library.
+デートと思っていて|くれたんだ。=You saw it as a date?
+えっ……それは……|だってあんなに……。=Um... Well, that’s because--
+うれしいよ。=I’m happy.
 
 # A1440
-そのあとのダンスも良い思い出|だね。僕の送ったドレス……|とても似合っていたよ。=
-枢センパイがやさしくリード|してくれたから上手く踊れて|最高でした。=
-そう、よかった。=
+そのあとのダンスも良い思い出|だね。僕の送ったドレス……|とても似合っていたよ。=The dance we shared is another good memory. The dress I sent... looked perfect on you.
+枢センパイがやさしくリード|してくれたから上手く踊れて|最高でした。=It was great. I was able to dance well because you were in the lead.
+そう、よかった。=I see. That’s good.
 
 # A74A4
-無人島で作った料理は最高|でしたよ！=
-枢センパイの零とのコラボ|なんて滅多に見られるもの|じゃないし。=
-いつも２人が仲良くして|くれればいいんだけどな……=
-今となっては難しいけど、また|何か共通の目的があればーー=
-錐生くんと力を合わせるのも|悪くないかもしれないね。=
-デザートを含めて、|料理の出来は悪くなかったし。=
-（あれ？そういえば、あれは|夢の話じゃなかったっけ？）=
-でも、チビの事は僕に|とっても、辛い事件だった。=
-ええ…………。=
-レベル：Ｅを狩ることは、|僕たちヴァンパイアの定め|でもある。=
-当たり前のように考えていた|けれどーー=
-あんな小さな命に、僕たち|みんなが気持ちを揺さぶられ|たんだ。=
-あんなことは起こってほしく|ないとみんなが思ったんだよ。=
-きみの夢をみんな理解した|んだ。そしてそれはーー=
-このナイト･クラスを作った|僕の夢でもある。=
-そうだ。<name>、きみは、|優しくて、強くてーー=
-本当に、素敵な女性に|なったね。=
-そんな……はずかしいです……=
-お世辞じゃない……|心からそう思うよ。=
-僕の中は、いつだってきみの事|だけだ。きみも僕を受け入れて|くれるかな？=
+無人島で作った料理は最高|でしたよ！=The food we made on the deserted island was amazing!#dupe
+枢センパイの零とのコラボ|なんて滅多に見られるもの|じゃないし。=It’s not every day I get a chance to see you and Zero working together.
+いつも２人が仲良くして|くれればいいんだけどな……=I wish you could always get along...
+今となっては難しいけど、また|何か共通の目的があればーー=It might be difficult after all this time, but if we happen to share a common goal again...
+錐生くんと力を合わせるのも|悪くないかもしれないね。=It might not such be a bad idea to join forces with Kiryu.
+デザートを含めて、|料理の出来は悪くなかったし。=The food, dessert included, was not bad.
+（あれ？そういえば、あれは|夢の話じゃなかったっけ？）=(Wait. Now that I think about it, wasn’t that a dream?)
+でも、チビの事は僕に|とっても、辛い事件だった。=But what happened to Chibi was hard for me too.
+ええ…………。=Yeah...
+レベル：Ｅを狩ることは、|僕たちヴァンパイアの定め|でもある。=It is a vampire’s duty to hunt Level E’s.
+当たり前のように考えていた|けれどーー=I thought of it as a matter of course...
+あんな小さな命に、僕たち|みんなが気持ちを揺さぶられ|たんだ。=We were all so shook up by that tiny life.
+あんなことは起こってほしく|ないとみんなが思ったんだよ。=None of us wanted that to happen.
+きみの夢をみんな理解した|んだ。そしてそれはーー=All of us understand your dream. And...
+このナイト･クラスを作った|僕の夢でもある。=It’s also my dream, the reason for creating the Night Class.
+そうだ。<name>、きみは、|優しくて、強くてーー=Yes. <name>, you’ve become a kind, strong...
+本当に、素敵な女性に|なったね。=and truly wonderful woman.
+そんな……はずかしいです……=S-Stop... You’ll make me blush...
+お世辞じゃない……|心からそう思うよ。=It’s not flattery. That’s what I really think, from the bottom of my heart.
+僕の中は、いつだってきみの事|だけだ。きみも僕を受け入れて|くれるかな？=You are always in my thoughts. Will you take me into your heart too?
 
 # A1E34
-どうしても……私の血は|もらってくれないんですね……=
-これじゃあ、枢センパイと|一緒になれない……=
-ゴメンね、<name>。|きみの気持ちはとても|うれしい。=
-僕もどんなに、きみの首に|この牙を立ててしまいたいと|思ったか。=
-だけど…きみがとても、大切|だから。僕にもう少しだけ、|考える時間をくれないかな…。=
+どうしても……私の血は|もらってくれないんですね……=There’s no way... you’ll drink my blood, is there?
+これじゃあ、枢センパイと|一緒になれない……=But then, I can’t be with you forever...
+ゴメンね、<name>。|きみの気持ちはとても|うれしい。=I’m sorry, <name>. I’m really happy you feel that way.
+僕もどんなに、きみの首に|この牙を立ててしまいたいと|思ったか。=How I have wanted so much to pierce my fangs into your neck...
+だけど…きみがとても、大切|だから。僕にもう少しだけ、|考える時間をくれないかな…。=But... you’re so important to me. I need a little more time to think...
 
-# A809C
-きみの気持ちは|受け取ったよ。=
-でもきみは今のままが一番幸せ|なんだ。そして僕はそんなきみ|を、ずっと見守り続ける。=
-見守るだけですか？=
-見守るだけじゃイヤかい？=
-イヤです……もっと|枢センパイのそばにいたい。=
-私……枢センパイが好き。|大好きです。=
-僕も<name>のこと……|好きだよ。=
-僕がどうして距離を置くのか、|わかる？=
-わかりません……わからないと|いけないのかもしれないけれど|わかりたくない…=
-僕はきっと、きみが思って|いるよりずっと、きみを求めて|いる。=
-もう、めちゃくちゃにして|しまいたいほどにね。=
-えっ？…………=
-驚いた？こんなふうにきみを|求める僕を、きみは軽蔑する？|怖いと思う？=
-でも、そうさせているのは|きみなんだよ。=
-そんな……。=
-だけどきみは、僕にとって|本当にかけがえのない、大切な|子でもあるんだ。=
-絶対に傷つけたくない。|怖い思いをさせたくない。=
-この世界の恐ろしいもの、|悲しいもののすべてから、|きみを遠ざけておきたい。=
-…皮肉なものだね。きみを傷つ|けたくない。だけど、一番きみ|を傷つけるのは僕なのだから。=
-枢センパイ……でも、私は、|それでもセンパイのそばに|いたいです。=
-ありがとう<name>…いつかきみ|を、僕たちの世界の呪縛にひき|こんでしまうかもしれない。=
-僕が自分を律することが|できなくなったら…それでも、|きみはそばにいてくれるの？=
-あたりまえです。=
-私、こう見えて結構ガンコ|なんですよ、決めたら譲らない|んです。枢センパイ。=
-ふっ…<name>、ありがとう。|きみはずっと変わらない。|永遠に僕だけの…=
+# A809C Kaname good ending
+きみの気持ちは|受け取ったよ。=I’ve received your feelings.
+でもきみは今のままが一番幸せ|なんだ。そして僕はそんなきみ|を、ずっと見守り続ける。=But I think that you’ll be happiest the way you are now. And, I’ll keep watching over you.
+見守るだけですか？=Is that it?
+見守るだけじゃイヤかい？=You don’t want me to watch over you?
+イヤです……もっと|枢センパイのそばにいたい。=No... I want to be with you more.
+私……枢センパイが好き。|大好きです。=I... like you, Kaname. I love you.
+僕も<name>のこと……|好きだよ。=I... love you too, <name>.
+僕がどうして距離を置くのか、|わかる？=Do you understand why I’m keeping a distance?
+わかりません……わからないと|いけないのかもしれないけれど|わかりたくない…=No... Maybe it’s better that I don’t know, but I want to...
+僕はきっと、きみが思って|いるよりずっと、きみを求めて|いる。=I want you, probably more than you realize.
+もう、めちゃくちゃにして|しまいたいほどにね。=So much so that you’ve got me all messed up inside.
+えっ？…………=Huh...?
+驚いた？こんなふうにきみを|求める僕を、きみは軽蔑する？|怖いと思う？=Are you surprised? Do you abhor me for wanting you so? Do you think I’m scary?
+でも、そうさせているのは|きみなんだよ。=You’re the one who made me like this.
+そんな……。=I...
+だけどきみは、僕にとって|本当にかけがえのない、大切な|子でもあるんだ。=But to me, you are a truly precious, irreplaceable person.
+絶対に傷つけたくない。|怖い思いをさせたくない。=I don’t want to hurt you. I never want to make you feel scared.
+この世界の恐ろしいもの、|悲しいもののすべてから、|きみを遠ざけておきたい。=I want to keep you away from all the terrible and sad things in this world.
+…皮肉なものだね。きみを傷つ|けたくない。だけど、一番きみ|を傷つけるのは僕なのだから。=...Ironic, isn’t it? I don’t want to hurt you. But the person who hurts you the most is me.
+枢センパイ……でも、私は、|それでもセンパイのそばに|いたいです。=Kaname... Even so, I... I want to be by your side.
+ありがとう<name>…いつかきみ|を、僕たちの世界の呪縛にひき|こんでしまうかもしれない。=Thank you, <name>. ...One day you may sucked in by the spell of our world.
+僕が自分を律することが|できなくなったら…それでも、|きみはそばにいてくれるの？=If I can no longer control myself, will you still remain by my side?
+あたりまえです。=Of course I will.
+私、こう見えて結構ガンコ|なんですよ、決めたら譲らない|んです。枢センパイ。=Despite how I look, I can be pretty stubborn. Once I make up my mind about something, I don’t give up.
+ふっ…<name>、ありがとう。|きみはずっと変わらない。|永遠に僕だけの…=Heh... Thank you, <name>. You never change. You’ll always be my one and only...
 
-# A816C
-今もやっぱり、僕のことが|怖いの？=
-怖くなんかありません！=
-きみは良い子だね。でも、僕に|咬まれるということの意味、|ちゃんと分かっている？=
-ヴァンパイアになる覚悟が…|できたとでも言うの？=
-私、ヴァンパイアになるのが|怖いなんて、今はもう、思って|いません。=
-だって枢センパイといっしょ|だから…。=
-それに私、人間とヴァンパイア|が本当に共存できる世界を|めざしたい。=
-そのためにも、なにより、|枢センパイ自身を知らないと…=
-枢センパイの悲しみ、喜び、|苦しみ…覚悟は出来ています。=
-きみは真面目な子だね。|だけどきみは、僕のことはもう|十分分かっていると思うよ。=
-それに…強がらないで…。|すこしだけ声が震えてる。隠し|てもだめ。僕にはわかるよ。=
-<name>…この学園が|うまくいくには、きみの力が|必要なんだよ。=
-ヴァンパイアではなく、|人間としてのきみの力が。=
-枢センパイ……それじゃあ……=
-きみの気持はとてもうれしい。|僕も同じ気持ちだ。だけど…|きみが大切だから…=
-だめだということを、|僕は知っているんだよ。=
-今まで通りでいいんだよ。|無理をする事はない。=
-きみは人間のままでいるのが、|きっと一番幸せなんだ…=
-そんな……|私は枢センパイの事が……=
-泣かないで、<name>。=
-わかってくれるね。=
-これからも学園と僕達の秘密を|守ってくれるかい？=
-これからも、僕たちの事、|よろしくね。=
-わかりました。枢センパイ。=
+# A816C Kaname neutral ending (give him the black rose with high intimacy)
+今もやっぱり、僕のことが|怖いの？=Are you still scared of me?
+怖くなんかありません！=I’m not scared!
+きみは良い子だね。でも、僕に|咬まれるということの意味、|ちゃんと分かっている？=You’re a good girl. But do you really understand what it means to be bitten by me?
+ヴァンパイアになる覚悟が…|できたとでも言うの？=Can you honestly say you’re ready to become a vampire?
+私、ヴァンパイアになるのが|怖いなんて、今はもう、思って|いません。=I’m not afraid of becoming a vampire... not anymore.
+だって枢センパイといっしょ|だから…。=Because I have you...
+それに私、人間とヴァンパイア|が本当に共存できる世界を|めざしたい。=I want to create a world where humans and vampires can truly coexist.
+そのためにも、なにより、|枢センパイ自身を知らないと…=For that, I need to know more about you.
+枢センパイの悲しみ、喜び、|苦しみ…覚悟は出来ています。=I’m ready. To take on your pain, your sorrow, your joy...
+きみは真面目な子だね。|だけどきみは、僕のことはもう|十分分かっていると思うよ。=You’re a serious girl, aren’t you? I think you already know me well enough.
+それに…強がらないで…。|すこしだけ声が震えてる。隠し|てもだめ。僕にはわかるよ。=You... shouldn’t act so tough. Your voice is trembling slightly. You can’t hide it. I can tell.
+<name>…この学園が|うまくいくには、きみの力が|必要なんだよ。=<name>... For this academy to be successful, I need your help.
+ヴァンパイアではなく、|人間としてのきみの力が。=Not as a vampire, but a human.
+枢センパイ……それじゃあ……=Kaname... Does that mean...?
+きみの気持はとてもうれしい。|僕も同じ気持ちだ。だけど…|きみが大切だから…=Knowing how you feel makes me so happy. I feel the same way. But, you’re too precious...
+だめだということを、|僕は知っているんだよ。=I know that I couldn’t...
+今まで通りでいいんだよ。|無理をする事はない。=You should keep doing what you’re doing. There’s no reason to force yourself.
+きみは人間のままでいるのが、|きっと一番幸せなんだ…=I am sure that you will be happiest as a human.
+そんな……|私は枢センパイの事が……=But... I love...
+泣かないで、<name>。=Don’t cry, <name>.
+わかってくれるね。=You understand, don’t you?
+これからも学園と僕達の秘密を|守ってくれるかい？=Will you keep protecting this academy and our secret?
+これからも、僕たちの事、|よろしくね。=We’re in your hands.
+わかりました。枢センパイ。=I understand, Kaname.
 
 # A65C4
-僕は、きみの夢を|実現するための力に|なりたいんだ。=
-でも？？=
-そのためには、身近な所から|正していかないとね。|そう思ったんだ。=
-授業中居眠りばかりなのは|いただけないかな。=
-え！……す、すみません。=
-ヴァンパイアの中には知に|富んだ者もいる。=
-そういった連中とも対等に|渡り歩かなければーー=
-共存どころか話し合いの|テーブルにすらつけない。=
-えっ、それは…そうですね……|枢センパイ、結局私は何を|やればいいんですか？=
-勉強……だね。=
-知識だけではなく、それを|生かすべくしっかりした知力。|それがきみには必要なんだよ。=
-誤解しないでほしい。|優姫は今のままで十分|魅力的なんだよ。=
-だけど、きみの夢をかなえる|ことを考えると、ちょっと違う|かな。=
-耳が痛くても、ちゃんと聞く|んだよ。<name>。いいかい……=
-はい……枢センパイ……=
-（あれあれ？愛の告白だった|はずなのに、いつの間にか|お説教に変わっているよ！）=
-（こんな終わり方|いやだよー！）=
+僕は、きみの夢を|実現するための力に|なりたいんだ。=I want to help make your dream come true.
+でも……@A65C4=But...
+でも？？=But...?
+そのためには、身近な所から|正していかないとね。|そう思ったんだ。=In order to do that, you have to start by fixing things from the inside out. That’s what I think.
+授業中居眠りばかりなのは|いただけないかな。=It’s no good that you’re always falling asleep in class.
+え！……す、すみません。=Huh!? ...I-I’m sorry.
+ヴァンパイアの中には知に|富んだ者もいる。=Some vampires are very intelligent.
+そういった連中とも対等に|渡り歩かなければーー=If you can’t stand with them on equal terms...
+共存どころか話し合いの|テーブルにすらつけない。=You wouldn’t be able to the table to discuss it, let alone coexist.
+えっ、それは…そうですね……|枢センパイ、結局私は何を|やればいいんですか？=Huh? But... I guess you’re right... What should I do, Kaname?
+勉強……だね。=Study, of course.
+知識だけではなく、それを|生かすべくしっかりした知力。|それがきみには必要なんだよ。=It’s not just about knowledge, but having the wisdom how to use it. That’s what you need.
+誤解しないでほしい。|優姫は今のままで十分|魅力的なんだよ。=Please don’t get me wrong. You are already perfectly charming as you are, <name>.
+だけど、きみの夢をかなえる|ことを考えると、ちょっと違う|かな。=But, when think about what it takes to make your dream come true, it’s a little different.
+耳が痛くても、ちゃんと聞く|んだよ。<name>。いいかい……=Even if it hurts to hear it, please take it on board. Okay, <name>?
+はい……枢センパイ……=Yes... Kaname...
+（あれあれ？愛の告白だった|はずなのに、いつの間にか|お説教に変わっているよ！）=(Huh? I thought this was a confession, but at some point it turned into a sermon!) 
+（こんな終わり方|いやだよー！）=(I don’t want it to end like this!)
 
 # A93B0 Chapter 7 Aido
 藍堂センパイ？！|……どうしたんですか？=Aido!? Is something wrong...?
@@ -13878,155 +13879,155 @@ Sleep well...
 じゃあな。ほどほどにな。=Alright. Don’t do anything crazy now.
 
 # A3404
-やっと来たか。|まぁ、当然だな。=
-相変わらずですね、|藍堂センパイ。=
-さっきからそわそわしてません|でした？=
-別にそわそわしていたん|じゃない！=
-ちゃんと道を間違えないで|来るか確認していただけだ。=
-フフ……わかりました。=
-（さすがに学園内で迷子には|なりませんよ……）=
-それでは、改めまして、|エスコートお願いします。=
-じゃあ、こちらも改めまして…|…僕と踊って頂けますか？=
+やっと来たか。|まぁ、当然だな。=So you’re finally here? Well, of course you are.
+相変わらずですね、|藍堂センパイ。=You never change, Aido.
+さっきからそわそわしてません|でした？=Weren’t all fidgety earlier?
+別にそわそわしていたん|じゃない！=I wasn’t nervous!
+ちゃんと道を間違えないで|来るか確認していただけだ。=I was just checking to make sure you didn’t turn the wrong way.
+フフ……わかりました。=Hehe... I see.
+（さすがに学園内で迷子には|なりませんよ……）=(I’m not sure I’d get lost in the academy, though...)
+それでは、改めまして、|エスコートお願いします。=Well then, let’s start over. Will you please escort me round?
+じゃあ、こちらも改めまして…|…僕と踊って頂けますか？=Okay, this time for real... May I have this dance?
 
 # A0E98
-どうだ？楽しかっただろ？=
+どうだ？楽しかっただろ？=How was that? You’re having fun, right?
 
-# A09D4
-今なら素直に言える……|ありがとうって。=
+# A09D4 Aido best rose
+今なら素直に言える……|ありがとうって。=Now I can honestly say... Thank you.
 
-# A0D3C
-これを僕に？仕方ないな……|受け取っておいてやるよ。=
+# A0D3C Aido good rose
+これを僕に？仕方ないな……|受け取っておいてやるよ。=For me? Guess I have no choice... I’ll take it.
 
-# A09B4
-こ、これ？|……あ、ありがとう……=
+# A09B4 Aido bad rose
+こ、これ？|……あ、ありがとう……=T-This is?|...T-Thank you...
 
 # A4428
-もうパーティーも終わりだ。|楽しかったか？=
-はい、みんなのおかげと……=
-藍堂センパイのおかげです。=
-えっ……ああ、|まあそういう事だな…|…当たり前だろう、はは。=
+もうパーティーも終わりだ。|楽しかったか？=Looks like the party’s over. Did you have a good time?
+はい、みんなのおかげと……=Yes, thanks to everyone, and...#dupe
+藍堂センパイのおかげです。=because of you, Aido.
+えっ……ああ、|まあそういう事だな…|…当たり前だろう、はは。=Huh? ...Ah, yeah of course. ...That’s only natural, haha.
 でも、終わってしまうのが|とてもさみしい。=But, it’s sad that it’s over.#dupe
-ああ、そうだな……お前、|いつもより少しはきれいだった|かな……あ、いや何でもない。=
-藍堂センパイ。=
-なんだ？<last><name>？=
-何でもありません。=
-なんだよ……それ。|でも、楽しい時間っていうのは|あっという間だな。=
-人間の時間は終わり。|これからは僕たちヴァンパイア|の時間だ。=
-そうですね。私……行きます。|それじゃあ、藍堂センパイ。=
-ああ、おやすみ。|いい夢みるんだぞ。=
+ああ、そうだな……お前、|いつもより少しはきれいだった|かな……あ、いや何でもない。=Yeah, you’re right... You look even more beautiful than normal... Ah, no, ignore me.
+藍堂センパイ。=Aido.
+なんだ？<last><name>？=What? <name><last>?
+何でもありません。=No, ignore me.
+なんだよ……それ。|でも、楽しい時間っていうのは|あっという間だな。=Really...? But, time flies when you’re having fun, doesn’t it?
+人間の時間は終わり。|これからは僕たちヴァンパイア|の時間だ。=Human time is over. It’s the vampire’s domain now.
+そうですね。私……行きます。|それじゃあ、藍堂センパイ。=You’re right. I’ll... head off. Good night, Aido.
+ああ、おやすみ。|いい夢みるんだぞ。=Good night. Sweet dreams.
 
 # A5A40
-シッ！|隣の子が起きてしまうだろ。|場所を変えよう。=
-どこへ行くんですか？=
-僕たちの思い出の場所だよ。=
-どうしたんですか？一体？=
-ダンスパーティーが終わって、|きっとお前が寂しがっていると|思ったからーー=
-わざわざ迎えに来て|やったんだ。=
-ダンスパーティーのとき、|楽しそうだったからーー=
-きっと僕に会いたがっているん|じゃないかと思って……=
-そんなの、別に頼んだ覚えは|ありませんけど。=
-なんだと？せっかくの僕の|好意を無駄にするのか！=
-フフッ。=
-な、何がおかしい！？=
-私たち、出会った時から|こうやってケンカしていました|よね。=
-ナイト･クラスが出来たとき|からずっとそう。=
-仕方ないだろ。お前が|あまりにも枢様にひいき|されるから……=
-やっぱり妬いていたんですね？=
-もう、今更いいだろ……=
+シッ！|隣の子が起きてしまうだろ。|場所を変えよう。=Shh! You’ll wake your roommate. Let’s go somewhere else.
+どこへ行くんですか？=Where are we going?
+僕たちの思い出の場所だよ。=Somewhere memorable.
+どうしたんですか？一体？=What’s going on?
+ダンスパーティーが終わって、|きっとお前が寂しがっていると|思ったからーー=I figured you must have been lonely after the dance party finished, 
+わざわざ迎えに来て|やったんだ。=so I went out of my way to come get you.
+ダンスパーティーのとき、|楽しそうだったからーー=You seemed to be having fun at the dance party,
+きっと僕に会いたがっているん|じゃないかと思って……=so I thought you would want to see me.
+そんなの、別に頼んだ覚えは|ありませんけど。=I don’t remember asking you to do that.
+なんだと？せっかくの僕の|好意を無駄にするのか！=What did you say?! You’re going to waste my act of goodwill!?
+フフッ。=Hehehe.
+な、何がおかしい！？=W-What’s so funny?
+私たち、出会った時から|こうやってケンカしていました|よね。=Ever since we first met, we’ve always fought like this, haven’t we?
+ナイト･クラスが出来たとき|からずっとそう。=Ever since the Night Class was created... 
+仕方ないだろ。お前が|あまりにも枢様にひいき|されるから……=I had no choice, because Lord Kaname keeps on giving you his favor...
+やっぱり妬いていたんですね？=You’re jealous, aren’t you?
+もう、今更いいだろ……=What use is bringing that up now...?
 
 # A1B0C
-夜回りの時、いきなり手首を|咬まれた事もありましたね。=
-仕方ないだろ。お前の血が|あまりにおいしそうだった|から……=
-でも、いきなりはダメです|よね？=
+夜回りの時、いきなり手首を|咬まれた事もありましたね。=You suddenly bit my wrist that night when I was on patrol. 
+仕方ないだろ。お前の血が|あまりにおいしそうだった|から……=I couldn’t help it. Your blood just smelt so delicious...
+でも、いきなりはダメです|よね？=You shouldn’t do that just out of the blue, you know?
 
 # A1B3C
-肝試しの時も、|人の血が欲しい、血が欲しい|ってワガママばっかり。=
-ワガママってなんだよ。|あのとき怖がっていたくせに。=
-私、これでもガーディアン|なんですよ。血を吸われた|ぐらいじゃ怖がりませんよ。=
-お前……可愛くないぞ……。=
+肝試しの時も、|人の血が欲しい、血が欲しい|ってワガママばっかり。=During the test of courage, you were so selfish, going on about wanting blood.
+ワガママってなんだよ。|あのとき怖がっていたくせに。=What do you mean, “selfish”?! Even though you were so scared... 
+私、これでもガーディアン|なんですよ。血を吸われた|ぐらいじゃ怖がりませんよ。=I’m still a Guardian. I’m not scared of having my blood sucked.
+お前……可愛くないぞ……。=You’re... so not cute...
 
 # A29F0
-フン！ナイトレインボウの時は|バカみたいにバケツで水を|撒いてたのは誰だっけ？=
-いいじゃないですか。|あのときは必死だったん|ですから！=
-ちょっと考えればわかる|だろ？！=
-虹を作るには、少なくとも|空気中の水分を凝固寸前で|霧状にしないとだめなんだぞ！=
-そんな事が出来るのは、|僕、あ……いや、何でもない！=
-えっ？という事は、|ナイトレインボウは、|藍堂センパイが……=
-あっ、違う違う！えーっと、|そうだ、という話を枢様から|聞いたんだ！=
-フフ……|ありがとうございます。|藍堂センパイ。=
+フン！ナイトレインボウの時は|バカみたいにバケツで水を|撒いてたのは誰だっけ？=Hmph! And who was throwing water around with a bucket like an idiot to make a Night Rainbow?
+いいじゃないですか。|あのときは必死だったん|ですから！=There’s nothing wrong with that. I was desperate!
+ちょっと考えればわかる|だろ？！=If you actually used your head for a second, you should know!
+虹を作るには、少なくとも|空気中の水分を凝固寸前で|霧状にしないとだめなんだぞ！=To make a rainbow, you need to at least nebulize the moisture in the air just before it reforms!#tc
+そんな事が出来るのは、|僕、あ……いや、何でもない！=The only person capable of that is me-- ah, forget I said anything! 
+えっ？という事は、|ナイトレインボウは、|藍堂センパイが……=Huh? You mean... you made the Night Rainbow, Aido?
+あっ、違う違う！えーっと、|そうだ、という話を枢様から|聞いたんだ！=Ah, no, you’re wrong! Umm... Oh yeah! This kind of thing is something you should ask Lord Kaname! 
+フフ……|ありがとうございます。|藍堂センパイ。=Hehe... Thank you, Aido.
 
 # A19DC
-あ、でも、クライングローズの|時は大変だったな。=
-いの一番に疑ってかかってた|のは他でもない、藍堂センパイ|でしたよね？=
-あのときのショック。今でも|覚えていますよ。=
-ああ……墓穴を掘ったか……=
+あ、でも、クライングローズの|時は大変だったな。=Ah, but, all that business with the Crying Rose was tough.
+いの一番に疑ってかかってた|のは他でもない、藍堂センパイ|でしたよね？=You were the first person to suspect me.
+あのときのショック。今でも|覚えていますよ。=That was a shock. I still remember it.
+ああ……墓穴を掘ったか……=Ah... I’ve dug my own grave, haven’t I?
 
 # A197C
-あ、そうだ。結局、|バルサミコスって何ですか？=
-お前、バルサミコ酢も|知らないのか？|ブドウが原料の果実酢だぞ？=
-ああ、『ス』ってお酢の『す』|なんですか？なあんだ。|アハッ……すっきりしました。=
-変な奴。ま、お前らしいと|いえばらしいよ。=
+あ、そうだ。結局、|バルサミコスって何ですか？=Oh, yeah! What actually is ‘balsamic’?
+お前、バルサミコ酢も|知らないのか？|ブドウが原料の果実酢だぞ？=You don’t even know what balsamic vinegar is? It’s a fruit vinegar made from grapes.
+ああ、『ス』ってお酢の『す』|なんですか？なあんだ。|アハッ……すっきりしました。=Oh, here I was thinking it was a place! Huh. Haha, I feel better now!#tc I have no idea what to do with this
+変な奴。ま、お前らしいと|いえばらしいよ。=You’re a weird one. Well, I guess that sounds like something you’d say.
 
 # A2564
-無人島で作った料理は|すごかったですよね！=
-藍堂センパイって、もう見た目|カラフルなだけの毒キノコしか|採らないでーー=
-調理も何も考えていなかった|ですよね。フフフ……。=
-おい。それは何の話だ？|無人島？=
-お前、僕は、ヴァンパイア貴族|の中でも、美食家として知られ|てるんだ。=
+無人島で作った料理は|すごかったですよね！=The food we made on the deserted island was great!#dupe
+藍堂センパイって、もう見た目|カラフルなだけの毒キノコしか|採らないでーー=You only picked colorful mushrooms.
+調理も何も考えていなかった|ですよね。フフフ……。=I bet you didn’t even think about what you were doing, or what to make with them. Heheh...
+おい。それは何の話だ？|無人島？=Hey. What are you talking about? A deserted island?
+お前、僕は、ヴァンパイア貴族|の中でも、美食家として知られ|てるんだ。=I’ll have you know I’m known as a gourmet within vampire aristocracy.
 
 # A60E8
-一緒にレストランで食事もした|だろう。良いキノコと悪い|キノコの区別くらいつくぞ！=
-でも藍堂センパイらしかった|ですよ。=
-なんだよそれ！こんな話|ばかりになるんだったら|連れ出さなきゃよかったよ。=
-え…………。=
-あれ？どうした？……。=
-それは……|本気で言っているんですか？=
-あ、いや……その。=
-私の事、そんなにキライ|ですか？=
-いつも意地悪してたのは|やっぱりそういうこと|なんですね。=
-ゴ、ゴメン！|そうじゃなくって、その……=
-フフフ……。=
-あっ！お前、ひっかけたな！？|この僕をもてあそぶなんて、|何て奴だ！=
-ウフフフ。こうやって|色んな事を言い合っていると|とても楽しいです。=
-センパイと一緒だと|楽しいんです。私。=
-<last><name>……。=
-……。=
+一緒にレストランで食事もした|だろう。良いキノコと悪い|キノコの区別くらいつくぞ！=We even dined together at a restaurant, didn’t we? I can at least tell the difference between a good mushroom and a bad one!
+でも藍堂センパイらしかった|ですよ。=But it was so like you~
+なんだよそれ！こんな話|ばかりになるんだったら|連れ出さなきゃよかったよ。=What!? If this is all you were going to talk about, I shouldn’t have taken you out!
+え…………。=Wha...?
+あれ？どうした？……。=Huh? What is it?
+それは……|本気で言っているんですか？=Is that... how you really feel?
+あ、いや……その。=A-Ah-- No...
+私の事、そんなにキライ|ですか？=Do you hate me that much?
+いつも意地悪してたのは|やっぱりそういうこと|なんですね。=That must be why you’re always so mean to me.
+ゴ、ゴメン！|そうじゃなくって、その……=I-I’m sorry! It’s not like that, I--
+フフフ……。=Hehehe...
+あっ！お前、ひっかけたな！？|この僕をもてあそぶなんて、|何て奴だ！=Ah! You tricked me!? You’re something alright, playing with me like that!
+ウフフフ。こうやって|色んな事を言い合っていると|とても楽しいです。=Ahahaha. But, it’s fun to talk to you about all kinds of things like this.
+センパイと一緒だと|楽しいんです。私。=It’s... fun to be with you.
+<last><name>……。=<name><last>...
+……。=...
 
 # A6134
-（藍堂センパイがふっと|微笑んだ。そして私に向かって|手を差し出した）=
-お前もわかってるだろうけど、|僕は最初、お前が気に入ら|なかった。=
-だって枢様に特別大事に|されてるし、そのありがたみも|わかってないみたいだったし…=
-なんでこんなちんちくりんが、|って思ったさ。=
-…あぁ～～違う！！|そんなことが言いたいわけじゃ|ないんだ。怒るな。=
-…うん、そうだ、そうやって|気にしているうちにどんどん|お前の…=
-優しさや、明るさが分かって|きて…=
-僕は思ってるんだ。お前に|出会えて良かった。って……=
-私もです。藍堂センパイ。=
-<last><name>。僕の気持ちを|受け取ってくれるか。=
-は、はい……。=
-（そして私は、静かに目を|閉じた）=
-（藍堂センパイの吐息が|近づいて来るのがわかる……）=
-（抑えきれない胸の鼓動……）=
-（そして、強く握られる手。|引き寄せられる私……）=
-（あ、男の人の手って、|こんなに大きいんだ……）=
-（そして……）=
+（藍堂センパイがふっと|微笑んだ。そして私に向かって|手を差し出した）=(Aido suddenly smiled and held out his hand to me.)
+お前もわかってるだろうけど、|僕は最初、お前が気に入ら|なかった。=As you know, I didn’t much take to you at first.
+だって枢様に特別大事に|されてるし、そのありがたみも|わかってないみたいだったし…=Even though Lord Kaname treated you with special care, you didn’t seem to show any appreciation. 
+なんでこんなちんちくりんが、|って思ったさ。=I thought, “why should someone so small as you”--
+…あぁ～～違う！！|そんなことが言いたいわけじゃ|ないんだ。怒るな。=Ah, no! That’s not what I was trying to say! Don’t get mad.
+…うん、そうだ、そうやって|気にしているうちにどんどん|お前の…=...Yeah, right. Whilst I was so preoccupied with you, I gradually...
+優しさや、明るさが分かって|きて…=began to see your kindness, and your light...
+僕は思ってるんだ。お前に|出会えて良かった。って……=That’s what I think. I’m glad I met you.
+私もです。藍堂センパイ。=Me too, Aido.
+<last><name>。僕の気持ちを|受け取ってくれるか。=<name><last>. Will you accept my feelings?
+は、はい……。=Y-Yes...
+（そして私は、静かに目を|閉じた）=(Without another word, I closed my eyes.)
+（藍堂センパイの吐息が|近づいて来るのがわかる……）=(I could feel Aido’s breath getting closer...)
+（抑えきれない胸の鼓動……）=(My heart was beating uncontrollably.)
+（そして、強く握られる手。|引き寄せられる私……）=(A hand grasped mine tightly and pulled me in.)
+（あ、男の人の手って、|こんなに大きいんだ……）=(This is how big a man’s hand is...)
+（そして……）=(The next thing I knew...)
 
-# A4D64
-えっ？何の音？=
-目を開けてみろ。<name>。=
-（そのとき私は|今までに見たことがない|光景を目にした）=
-（湖の水が私たちから放射状に|もの凄い勢いで凍り始めて！）=
-（凍った氷は、互いに|ぶつかり合い、砕けながらも|盛り上がりーー）=
-（まるで花が咲くように|湖全体に広まっていった。）=
-（さながら、その様子は、|湖そのものに巨大な氷のバラが|咲く様相だった）=
-素敵です……藍堂センパイ……=
-（そして……私たちを包む|蒼の景色とは対照的な……）=
-（藍堂センパイの|燃えるような熱い眼差しが|私に注がれていた）=
-（燃えるような熱い視線|が……）=
-（そして、私は静かに目を|閉じた。）=
-<name>。僕は君のことが……=
-（藍堂センパイが最後に何を|言ったかは聞こえなかった。）=
-（それでも私は、２人の|気持ちは通じ合っていると|信じている）=
+# A4D64 Aido good ending
+えっ？何の音？=Huh? What was that noise?
+目を開けてみろ。<name>。=Open your eyes, <name>.
+（そのとき私は|今までに見たことがない|光景を目にした）=(In front of me was a sight that I’d never seen before.)
+（湖の水が私たちから放射状に|もの凄い勢いで凍り始めて！）=(Right from where we were standing, the water of the lake began to freeze rapidly.)
+（凍った氷は、互いに|ぶつかり合い、砕けながらも|盛り上がりーー）=(Pieces of ice collided with each other, breaking apart and rising up...)
+（まるで花が咲くように|湖全体に広まっていった。）=(they spread throughout the lake like flowers in bloom.)
+（さながら、その様子は、|湖そのものに巨大な氷のバラが|咲く様相だった）=(The whole lake looked like one giant ice rose in bloom.)
+素敵です……藍堂センパイ……=It’s incredible, Aido...
+（そして……私たちを包む|蒼の景色とは対照的な……）=(And, in contrast to the icy blue landscape that surrounded us...)
+（藍堂センパイの|燃えるような熱い眼差しが|私に注がれていた）=(Aido looked at me with heated eyes.)
+（燃えるような熱い視線|が……）=(That look, burning with desire...)
+（そして、私は静かに目を|閉じた。）=(I quietly closed my eyes.)
+<name>。僕は君のことが……=<name>. I l...
+（藍堂センパイが最後に何を|言ったかは聞こえなかった。）=(I didn’t hear the end of what Aido said.)
+（それでも私は、２人の|気持ちは通じ合っていると|信じている）=(But, I believe that our feelings are the same.)
 
 # A9DCC
 （開かれた私の手に|冷たい感触が……）=
@@ -14593,7 +14594,7 @@ Sleep well...
 うん、よかったね。=
 
 # A2644
-無人島で作った料理は最高|でしたね！一条センパイの|包丁さばき、お見事でしたよ。=
+無人島で作った料理は最高|でしたね！一条センパイの|包丁さばき、お見事でしたよ。=The food we made on the deserted island was amazing!
 えっ？それ何の話かな？=
 なんだか、面白そうな夢だね？|詳しく教えてよ！=
 いや、ちょっととんでもない|夢なんで、また今度という事で|……=
@@ -14884,7 +14885,7 @@ Sleep well...
 そうですね。|悲しい伝説がなければ、美しい|バラの花で終わったのに……=
 
 # A1758
-無人島で作った料理は最高|でしたよね！=
+無人島で作った料理は最高|でしたよね！=The food we made on the deserted island was amazing!#dupe
 支葵センパイと一条センパイの|絶妙なコンビ。一番、無難に|こなしていましたよ。=
 
 # A8374

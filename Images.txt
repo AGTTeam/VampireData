@@ -1,4 +1,4 @@
-﻿==OP_CHR==
+==OP_CHR==
 036_00
 錐生 零=Zero Kiryu
 宮野 真守=Mamoru Miyano
@@ -616,6 +616,24 @@ NAS=NAS
 ヴァンパイア騎士DS=Vampire Knight DS
 ©樋野 まつり・白泉社/「ヴァンパイア騎士」 製作委員会=Matsuri Hino・Hakusensha/Vampire Knight Production Comittee
 ©D3 PUBLISHER=©D3 PUBLISHER
+
+==MG_SEL==
+002
+相性占い=Fortune Telling
+持ち物検査=Item Inspection
+プレゼント渡し=Gift Delivery
+着せ替えファッションチェック=Dress up Fashion Check
+
+004
+相性占い=Fortune Telling
+持ち物検査=Item Inspection
+プレゼント渡し=Gift Delivery
+着せ替えファッションチェック=Dress up Fashion Check
+パーティへおいで=Attending a Party
+夜歩きさん発見!=Catching Wanderers!
+気になる様子=Window Watching
+ワルツダンス=Waltz
+レベル：Eを倒せ=Defeating Level E’s
 
 ==MG1==
 012

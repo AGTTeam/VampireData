@@ -54,7 +54,7 @@
 <ch1>お金持ちになりたい<00><00><0A><ch2>ずっと元気でいたい<00><02>=<ch1>“To have a lot of money.”<00><00><0A><ch2>“To always be well.”<00><02>
 <ch1>ずっと元気でいたい<00><02>=<ch1>“To always be well.”<00><02>
 <ch1>よく寝ること<00><05><0A><ch2>よく食べること<00><06><0A><ch3>よく運動すること<00><07>=<ch1>“Getting a proper night’s rest.”<00><05><0A><ch2>“Eating well.”<00><06><0A><ch3>“Getting plenty of exercise.”<00><07>
-<ch1>それが務めだから<00><09><0A><ch2>秘密<00><0A><0A><ch3>守りたい人がいるから……<00><0B>=<ch1>“It’s part of my responsibility.”<00><09><0A><ch2>“That’s a secret.”<00><0A><0A><ch3>“Because there’s someone I want to protect...”<00><0B>
+<ch1>それが務めだから<00><09><0A><ch2>秘密<00><0A><0A><ch3>守りたい人がいるから……<00><0B>=<ch1>“It’s part of my responsibility.”<00><09><0A><ch2>“That’s a secret.”<00><0A><0A><ch3>“Because there’s someone I want|to protect...”<00><0B>
 <ch1>枢センパイはどう思います？<00><00><0A><ch2>零はどう思う？<00><01>=<ch1>“What do you think, Kaname?”<00><00><0A><ch2>“What do you think, Zero?”<00><01>
 <ch1>可愛くなりたい<00><00><0A><ch2>賢くなりたい<00><01><0A><ch3>仕事を身につけたい<00><02>=<ch1>“To be cute.”<00><00><0A><ch2>“To be smart.”<00><01><0A><ch3>“To get a job.”<00><02>
 <ch1>賢くなりたい<00><01><0A><ch2>仕事を身につけたい<00><02>=<ch1>“To be smart.”<00><01><0A><ch2>“To get a job.”<00><02>
@@ -79,7 +79,7 @@
 <ch1>ライフワークを見つけたい<00><01>=<ch1>“I want to find my life’s work.”<00><01>
 <ch1>はい、そうします<00><7F><0A><ch2>いえ、本当の夢は……<00><04>=<ch1>“Yes, I will.”<00><0A><ch2>“Actually, my real dream is...”<00><04>
 <ch1>はい、そうします<00><07><0A><ch2>いえ、本当の夢は……<00><08>=<ch1>“Yes, I will.”<00><07><0A><ch2>“Actually, my real dream is...”<00><08>
-<ch1>特技を生かしたもの<00><09><0A><ch2>頭脳を生かしたもの<00><0A><0A><ch3>人柄を生かしたもの<00><0B>=<ch1>“Something that will make use of my|skills.”<00><09><0A><ch2>“Something that I can use my |brain for.”<00><0A><0A><ch3>“Something that fits my|personality.”<00><0B>
+<ch1>特技を生かしたもの<00><09><0A><ch2>頭脳を生かしたもの<00><0A><0A><ch3>人柄を生かしたもの<00><0B>=<ch1>“Something that will make|use of my skills.”<00><09><0A><ch2>“Something that I can use my|brain for.”<00><0A><0A><ch3>“Something that fits my|personality.”<00><0B>
 <ch1>世の中のため<00><0D><0A><ch2>好きな人のため<00><0E><0A><ch3>自分のため<00><0F>=<ch1>“For society.”<00><0D><0A><ch2>“For the person I like.”<00><0E><0A><ch3>“For myself.”<00><0F>
 <ch1>仙人になりたい<00><00><0A><ch2>みんなのリーダーになりたい<00><01><0A><ch3>沢山の人にチヤホヤされたい<00><02>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to become a leader.”<00><01><0A><ch3>“I want to be spoiled by a lot of|people.”<00><02>
 <ch1>仙人になりたい<00><00><0A><ch2>沢山の人にチヤホヤされたい<00><02>=<ch1>“I want to be enlightened.”<00><00><0A><ch2>“I want to be spoiled by a lot of|people.”<00><02>
@@ -195,8 +195,8 @@
 <ch1>何がですか？<00><7F><0A><ch2>私もあげたい……<00><01>=<ch1>“What are you talking about?”<00><7F><0A><ch2>“I want you to have it...”<00><01>
 <ch1>あわてないでください<00><03><0A><ch2>ダメ<00><04>=<ch1>“Don’t be in such a hurry.”<00><03><0A><ch2>“You can’t.”<00><04>
 <ch1>落ち着きのないのはいやです<00><06><0A><ch2>本当にダメ<00><07>=<ch1>“If you’re going to be in such a|rush then I don’t want to.”<00><06><0A><ch2>“You really mustn’t.”<00><07>
-<ch1>落ち着きのないのはいやです<00><06>=<ch1>“I don’t want to do it if you’re going to be in such a rush.”<00><06>
-<ch1>やっぱりやめます<00><09><0A><ch2>ここです<00><0A>=
+<ch1>落ち着きのないのはいやです<00><06>=<ch1>“I don’t want to do it if you’re|going to be in such a rush.”<00><06>
+<ch1>やっぱりやめます<00><09><0A><ch2>ここです<00><0A>=<ch1>“We should stop.”<00><09><0A><ch2>“Here.”<00><0A>
 <ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><04>=<ch1>“I don’t mind.”<00><7F><0A><ch2>“I’d rather you didn’t.”<00><04>
 <ch1>う～ん、じゃあいいです<00><07>=<ch1>“Well, I guess it’s okay.”<00><07>
 <ch1>自分で決めます<00><09><0A><ch2>架院センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
@@ -217,8 +217,8 @@
 <ch1>う～ん、まぁ、いいかな<00><07>=<ch1>“Well, I guess that would be okay...”<00><07>
 <ch1>自分で決めます<00><09><0A><ch2>一条センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
 <ch1>慌てないでください<00><03><0A><ch2>ダメ<00><04>=<ch1>“Please don’t be so hasty.”<00><03><0A><ch2>“You can’t.”<00><04>
-<ch1>あせるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=<ch1>“I don’t want to do it if you’re in such a rush.”<00><06><0A><ch2>“You really mustn’t.”<00><07>
-<ch1>あせるのはいやです<00><06>=<ch1>“I don’t want to do it if you’re in such a rush.”<00><06>
+<ch1>あせるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=<ch1>“I don’t want to do it if you’re in|such a rush.”<00><06><0A><ch2>“You really mustn’t.”<00><07>
+<ch1>あせるのはいやです<00><06>=<ch1>“I don’t want to do it if you’re in|such a rush.”<00><06>
 <ch1>やっぱりイヤです<00><09><0A><ch2>ここです<00><0A>=<ch1>“I don’t think I can go through with|this after all.”<00><09><0A><ch2>“Here.”<00><0A>
 <ch1>いいですよ<00><7F><0A><ch2>いやです<00><02>=<ch1>“It’s fine.”<00><7F><0A><ch2> <ch1>いいですよ<00><7F><0A><ch2>いやです<00><02>“I don’t...”<00><02>
 <ch1>別にいいですよ<00><03>=<ch1>“Go ahead.”<00><03>
@@ -228,9 +228,9 @@
 <ch1>私が決めます……<00><09>=<ch1>I’ll pick...<00><09>
 <ch1>自分で決めます<00><09><0A><ch2>お任せします<00><0A>=<ch1>“I’ll decide.”<00><09><0A><ch2>“I’ll let you decide.”<00><0A>
 <ch1>何がですか？<00><7F><0A><ch2>私もあげたい<00><01>=<ch1>“What are you talking about?”<00><7F><0A><ch2>“I want to give it to you.”<00><01>
-<ch1>あわてるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=<ch1>“I don’t want to do it if you’re in such a rush.”<00><06><0A><ch2>“You really mustn’t.”<00><07>
-<ch1>あわてるのはいやです<00><06>=<ch1>“I don’t want to do it if you’re in such a rush.”<00><06>
-<ch1>はい、どうぞ<00><09><0A><ch2>やっぱりダメです<00><0A>=
+<ch1>あわてるのはいやです<00><06><0A><ch2>本当にダメ<00><07>=<ch1>“I don’t want to do it if you’re in|such a rush.”<00><06><0A><ch2>“You really mustn’t.”<00><07>
+<ch1>あわてるのはいやです<00><06>=<ch1>“I don’t want to do it if you’re in|such a rush.”<00><06>
+<ch1>はい、どうぞ<00><09><0A><ch2>やっぱりダメです<00><0A>=<ch1>“Go ahead.”<00><09><0A><ch2>“I don’t think I can go through with|this after all.”<00><0A>
 
 # AFA14
 vk_se00_11=
@@ -712,41 +712,6 @@ vk_se6_010=
 <01><03><04><00><16><02><00><01><48><00><00><00><02><00><01><48><01><00><00><01><03><04><00><17><01><0D><00><00>=
 #end of choice section
 
-# AB3E4
-最後の作業だ！|気を抜かないでやるぞ。=
-最後の作業だよ、|落ち着いていこう。=
-最後の作業だよ！|心を込めてやるよ。=
-
-# AB4A8
-うん、まあまあかな。|でも、|もっと描いてみたいかな……。=
-悪くないかな。|でももっと上手くなるように|もう一度やってみようかな？=
-まずまずの出来。|ここは、これでいいかな。=
-
-# AB56C
-落ち着いて、丁寧にやれば|結果、早くできるんだ。=
-集中……集中……。|無心でやるんだ。=
-轟木先生の様に、|気合いを入れて！|どうりゃー！！=
-
-# AB630
-よしっ！完璧だ！|一生懸命やったかいが|あったよ！=
-きたっ！凄いよ！|自分でも信じられない|くらいの出来だ！=
-画竜点睛！！|まるで轟木先生が|乗り移ったかの様な出来だよ！=
-
-# AB6F4
-わぁ、もう時間がないよ！=
-時間がない！急がなきゃ！=
-もうこんな時間！？|最後のがんばりを！=
-
-# AB7B8
-う～ん、ダメだ。|もう一度やった方が|いいかな･･････。=
-今ひとつの出来……|これでいいのかな？……。=
-うまくいかなかったみたい。|もっと描き込んだ方が|いいかも……。=
-
-# ABA04
-よしっ！うまくできたわ！=
-うん、いい感じ！=
-調子いいかも！=
-
 # AC210
 黒主　優姫=>>Yuki Cross
 黒主=>>Yuki
@@ -803,90 +768,7 @@ vk_se6_010=
 占い師=>>Fortune Teller
 レポーター=>>Reporter
 
-# ADADC
-最初は、トーン貼りだよ。=
-次は、トーン貼りだよ。=
-最後は、トーン貼りだよ。=
-
-# ADAF8
-最初は、ペン入れだよ。=
-次は、ペン入れだよ。=
-最後は、ペン入れだよ。=
-
-# ADB14
-最初は、ベタ入れだよ。=
-次は、ベタ入れだよ。=
-最後は、ベタ入れだよ。=
-
-# ADB30
-最初は、ホワイト入れだよ。=
-次は、ホワイト入れだよ。=
-最後は、ホワイト入れだよ。=
-
-# ADB4C
-最初は、トーン削りだよ。=
-次は、トーン削りだよ。=
-最後は、トーン削りだよ。=
-
-# ADB68
-最初は、ラフ描きだよ。=
-次は、ラフ描きだよ。=
-最後は、ラフ描きだよ。=
-
-# ADB84
-最初は、ホワイト吹きだよ。=
-次は、ホワイト吹きだよ。=
-最後は、ホワイト吹きだよ。=
-
-# ADBA0
-最初は、ベタフラ描きだよ。=
-次は、ベタフラ描きだよ。=
-最後は、ベタフラ描きだよ。=
-
-# ADBBC
-最初は、消しカス払いだよ。=
-次は、消しカス払いだよ。=
-最後は、消しカス払いだよ。=
-
-# ADBD8
-最初は、マンガクイズだよ。=
-次は、マンガクイズだよ。=
-最後は、マンガクイズだよ。=
-
-# ADBF4
-コマを分ける為に、ワク線を|はみ出さない様に引くんだ。|画面タッチでスタートだよ。=
-
-# ADC10
-ひいたトーン紙を絵に沿って|はみ出さない様に切るんだ。|画面タッチでスタートだよ。=
-
-# ADC2C
-ラフ線から仕上げの線を、|はみ出さない様に描くんだ。|画面タッチでスタートだよ。=
-
-# ADC48
-黒インクで塗りつぶすんだよ。|色が薄くついている辺りかな？|画面タッチでスタートだよ。=
-
-# ADC64
-ホワイト修正だよ。|黒が見えている辺りかな？|画面タッチでスタートだよ。=
-
-# ADC80
-トーンを削っていくよ。|点滅している範囲かな？|画面タッチでスタートだよ。=
-
-# ADC9C
-まずは、ラフを描いてみよう。|どの辺りから描こうかな？|画面タッチでスタートだよ。=
-
-# ADCB8
-筆に壺のホワイトをつけて、|マイクに息を吹き、細かく|綺麗な星模様を作ろう。=
-
-# ADCD4
-ベタでフラッシュ効果を描くよ|〇から×に向かって描いてね。|画面タッチでスタートだよ。=
-
-# ADCF0
-ラフ線を消した消しカスが、|いっぱい。画面外にはらおう。|画面タッチでスタートだよ。=
-
-# ADD0C
-マンガ家としての知識は、|ばっちりだったっけ？|画面タッチでスタートだよ。=
-
-# A1240
+# A1240 #debug?
 吸血する人を選んでくださいー=
 吸血直前のイベントが|ある章を選んでくださいー=
 
@@ -911,221 +793,221 @@ vk_se6_010=
 # A0A40
 選択肢を「洞窟に行く」に|してくださいや。=
 
-# A1250 Fortune telling minigame (FORTUNE)
-まだまだ彼との信頼関係は|これから築き上げる段階です。=
-あせらないで、じっくり|取り組みましょう。=
+# A1250 Fortune telling minigame (FORTUNE) – very formulaic. The phrasing of these is a little awkward
+まだまだ彼との信頼関係は|これから築き上げる段階です。=There is still more you must do to build trust with him.
+あせらないで、じっくり|取り組みましょう。=Don’t rush, take your time.
 
-# A147C
-彼との運気も好調の兆しを|見せています。=
-でも、つい油断して|他の男性の事も気になりがち。=
-気持ちのぶれが、せっかくの|運気を下げる事になりますので|注意してください。=
+# A147C Kaname
+彼との運気も好調の兆しを|見せています。=Your fortune appears to be good.
+でも、つい油断して|他の男性の事も気になりがち。=However, you tend to let your guard down and worry about other men.
+気持ちのぶれが、せっかくの|運気を下げる事になりますので|注意してください。=Please be aware that if you let your feelings get blurred, your luck may turn.
 
 # A1518
-彼との運気も絶好調なあなた。|もう迷いはないはずです。=
-彼と出会い親密になれた|この運命をかみしめ、=
-全てを捧げるつもりで、|彼と共に歩みましょう。=
+彼との運気も絶好調なあなた。|もう迷いはないはずです。=Your fortune couldn’t be better. There is no need for doubts.
+彼と出会い親密になれた|この運命をかみしめ、=You have become close and your fate is set,
+全てを捧げるつもりで、|彼と共に歩みましょう。=walk by his side with the intention of giving it your all.
 
 # A1B1C
-彼との運気も絶好調です。|何か彼にプレゼントを|しましょう。=
-彼が本来持ち得る良さを|いかせる選択が吉と出ます。=
-見えます……|月夜にたたずむ|彼の勇姿が……=
-ラッキーアイテムは、|『シルクハット＆マント』|です。=
+彼との運気も絶好調です。|何か彼にプレゼントを|しましょう。=Your fortune couldn’t be better. You should give him something as a gift.
+彼が本来持ち得る良さを|いかせる選択が吉と出ます。=Good things will come of choose an item that brings out the best in him.
+見えます……|月夜にたたずむ|彼の勇姿が……=I see it... a gallant figure standing in the moonlight...
+ラッキーアイテムは、|『シルクハット＆マント』|です。=Your lucky items are a “Tophat” and a “Cloak”.
 
 # A1C2C
-彼との運気は上昇の一途。=
-更なる高見を望むなら|あなたにも相応の代償を|払うことが必要です。=
-自らのすべてを彼に捧げる|覚悟が、定められた至福への|確実な足取りとなります。=
-ラッキーワードは、|『純血』です。=
+彼との運気は上昇の一途。=Your fortunes are steadily on the rise.
+更なる高見を望むなら|あなたにも相応の代償を|払うことが必要です。=If you want to achieve even greater heights, you will have to pay a price.#dupe
+自らのすべてを彼に捧げる|覚悟が、定められた至福への|確実な足取りとなります。=Steeling your determination to give him your all will ensure that you reach your destined bliss.
+ラッキーワードは、|『純血』です。=Your lucky word is “Pureblood”.
 
 # A1C9C
-彼との運気の良さも|順調な様です。=
-思い切っていつもと|違うあなたの姿を|見せるのも良い刺激となり=
-彼との運気も更に|上がる事でしょう。=
-ラッキーアイテムは、|『知的なドレス』です。=
+彼との運気の良さも|順調な様です。=Your fortune appears to be stable.
+思い切っていつもと|違うあなたの姿を|見せるのも良い刺激となり=You can incite change by boldly showing a different side of yourself.#dupe
+彼との運気も更に|上がる事でしょう。=Your luck with him is bound to go up even more.
+ラッキーアイテムは、|『知的なドレス』です。=Your lucky item is a “Chic Dress”.
 
 # A1A4C
-彼との運気も好調な|あなた。=
-さらに関係を深めるため|いままでと違った|彼の一面に注目すべきです。=
-見えます……|セクシーでいて男らしい|彼の姿が……=
-ラッキーアイテムは、|『フリルシャツ』です。=
+彼との運気も好調な|あなた。=Your fortune is promising.
+さらに関係を深めるため|いままでと違った|彼の一面に注目すべきです。=In order to deepen your relationship, you should pay attention to a side of him you’ve never seen before.
+見えます……|セクシーでいて男らしい|彼の姿が……=I can see it... Sexy and masculine...
+ラッキーアイテムは、|『フリルシャツ』です。=Your lucky item is a “Frilly Shirt”.
 
-# A1B4C
-彼との運気はまだまだな|ところです。=
-しかし、あなたが多くの人の|手助けをする事によって|運気は確実に上昇します。=
-やさしい彼はあなたが|つまづいても救いの手を|差し伸べてくれるでしょう。=
-ラッキーアイテムは、|『リボンのついた箱』です。=
+# A1B4C Zero
+彼との運気はまだまだな|ところです。=Your fortune is weak.#not sure how to make this one work with the ‘your fortune is’ phrasing...
+しかし、あなたが多くの人の|手助けをする事によって|運気は確実に上昇します。=However, if you help many people, your luck will increase.
+やさしい彼はあなたが|つまづいても救いの手を|差し伸べてくれるでしょう。=Someone as kind as him is sure to give you a helping hand if you stumble.
+ラッキーアイテムは、|『リボンのついた箱』です。=Your lucky item is a “box tied with ribbon”.
 
-# A19BC
-彼との運気もまだこれから|上がらなければなりません。=
-突然のハプニングでも|彼の意外な一面を受け入れる|事で運気は上昇します。=
-大事なポイントは、|最後には彼の事を|信じること。=
-ラッキーアイテムは、|『ウニ』です。=
+# A19BC 
+彼との運気もまだこれから|上がらなければなりません。=You must improve your fortunes with him.
+突然のハプニングでも|彼の意外な一面を受け入れる|事で運気は上昇します。=Your luck will increase by accepting an unexpected side of him, even if it happens suddenly.
+大事なポイントは、|最後には彼の事を|信じること。=What’s important is that you still believe in him when it’s over.
+ラッキーアイテムは、|『ウニ』です。=Your lucky item is a “sea urchin”.
 
 # A1C0C
-彼の魅力を更に引き立たせる|選択が吉と出るかも|しれません。=
-見えます……|あなたの為に戦う|白馬の騎士……=
-ラッキーアイテムは、|『剣』です。=
+彼の魅力を更に引き立たせる|選択が吉と出るかも|しれません。=Good things may happen if you pick things which will make him even more attractive.
+見えます……|あなたの為に戦う|白馬の騎士……=I can see it... a knight in shining armor riding a white horse...
+ラッキーアイテムは、|『剣』です。=Your lucky item is a “sword”.
 
 # A19AC
-更なる高みを望むなら|あなたにも相応の代償を|払うことが必要です。=
+更なる高みを望むなら|あなたにも相応の代償を|払うことが必要です。=If you want to achieve even greater heights, you will have to pay a price.#dupe
 
 # A1CE0
-彼との運気も比較的好調です。=
-ここは、思い切っていつもと|違うあなたの姿を|見せるのも良い刺激となり=
-彼との仲も更に|深まる事でしょう。=
-見えます……=
-ラッキーアイテムは、|『パワフルなドレス』です。=
+彼との運気も比較的好調です。=Your fortune is relatively promising.
+ここは、思い切っていつもと|違うあなたの姿を|見せるのも良い刺激となり=This is a good chance incite change by boldly showing a different side of yourself.
+彼との仲も更に|深まる事でしょう。=You will surely be able to get to know him even better.
+見えます……=I can see it...
+ラッキーアイテムは、|『パワフルなドレス』です。=Your lucky item is a “Bold Dress”.
 
 # A1AAC
-彼との運気も好調なあなた。|さらに運気を強めるため|いままでと違った=
-彼の一面に注目すべきです。|新しい発見もあること|でしょう。=
-見えます……|白馬にまたがる|りりしい彼の姿が……=
-ラッキーアイテムは、|『騎士服』です。=
+彼との運気も好調なあなた。|さらに運気を強めるため|いままでと違った=Your fortune is promising. You must change tact if you want to increase your luck even more.
+彼の一面に注目すべきです。|新しい発見もあること|でしょう。=You should pay attention to a different side of him. You may discover something new.
+見えます……|白馬にまたがる|りりしい彼の姿が……=I can see it... He’s riding on a white horse.
+ラッキーアイテムは、|『騎士服』です。=Your lucky item is a “Cavalry Outfit”.
 
 # A1B7C
-彼との運気もまだまだですが|根気よく彼をサポートして|あげると、=
-関係も良くなり運気も|上昇するでしょう。=
-見えます……|あなたの働きを側で|見守る彼の姿……=
-ラッキーアイテムは、|『塩ラーメン』です。=
+彼との運気もまだまだですが|根気よく彼をサポートして|あげると、=Your fortune is weak, but if you patiently support him,
+関係も良くなり運気も|上昇するでしょう。=your relationship will improve and your luck will rise.
+見えます……|あなたの働きを側で|見守る彼の姿……=I can see it... he is watching over you.
+ラッキーアイテムは、|『塩ラーメン』です。=Your lucky item is “shio ramen”.
 
 # A193C
-彼との運気をあげるなら|彼のことを理解する様|常に心がけましょう。=
-献身的であれば、|あなたの思いはきっと|伝わるはずです。=
-見えます……|今まで人に見せたことの|無いような彼の笑顔……=
-ラッキーワードは、|『子犬』です。=
+彼との運気をあげるなら|彼のことを理解する様|常に心がけましょう。=If you want to have better fortunes with him, you should endeavor to understand him.
+献身的であれば、|あなたの思いはきっと|伝わるはずです。=If you are devoted, your feelings will surely be conveyed.
+見えます……|今まで人に見せたことの|無いような彼の笑顔……=I can see it... A smile that he’s never shown anyone before.
+ラッキーワードは、|『子犬』です。=Your lucky word is “puppy”.
 
-# A185C
-彼に似合った選択が|吉と出るでしょう。=
-見えます……|りりしくたたずむ|彼の姿が……=
-ラッキーアイテムは、|『刀』です。=
+# A185C Ichijo
+彼に似合った選択が|吉と出るでしょう。=Good things will come if you pick things that suit him.
+見えます……|りりしくたたずむ|彼の姿が……=I can see it... His dignified standing posture...
+ラッキーアイテムは、|『刀』です。=Your lucky item is a “Katana”.
 
 # A1BFC
-自らのすべてを彼に捧げる|覚悟が思いをとげる|確実な一歩となります。=
+自らのすべてを彼に捧げる|覚悟が思いをとげる|確実な一歩となります。=Steeling your determination to give him your all will allow you to take a step forward.
 
 # A1CBC
-順調に彼との運気は|上がっています。=
-彼に更なる印象をつける為|思い切って着飾る事も|時には大事です。=
-見えます……|あなたを見て喜々とする|彼の姿が……=
-ラッキーアイテムは、|『珍しいドレス』です。=
+順調に彼との運気は|上がっています。=Your fortunes will steadily increase.
+彼に更なる印象をつける為|思い切って着飾る事も|時には大事です。=In order to make an even bigger impression, it is important to sometimes be bold in your fashion choices.
+見えます……|あなたを見て喜々とする|彼の姿が……=I can see it... He looks happy to see you.
+ラッキーアイテムは、|『珍しいドレス』です。=Your lucky item is an “Odd Dress”.
 
 # A156C
-彼との運気も好調なあなた。=
-さらに関係を深めるため|彼の格好良さに注目|すべきです。=
-ラッキーアイテムは、|『紋付き羽織袴』です。=
+彼との運気も好調なあなた。=Your fortune is promising.
+さらに関係を深めるため|彼の格好良さに注目|すべきです。=In order to deepen your relationship, you should pay attention to his good looks.
+ラッキーアイテムは、|『紋付き羽織袴』です。=Your lucky item is “formal Japanese male fashion”.
 
 # A1494
-彼との運気が上がるのは|これから。|その為の心がけも必要です。=
-未来を描き、何をやればいいか|一生懸命考える事が|運気上昇のポイント。=
-ラッキーアイテムは、|『透き通った丸い物』です。=
+彼との運気が上がるのは|これから。|その為の心がけも必要です。=Your fortunes will see an increase after this, but you must take care.#dupe
+未来を描き、何をやればいいか|一生懸命考える事が|運気上昇のポイント。=The key to increasing your luck is to envision the future and think hard about what you need to do.
+ラッキーアイテムは、|『透き通った丸い物』です。=Your lucky item is a “transparent round object”.
 
-# A188C
-彼との運気上昇はまだまだ|準備段階です。=
-今はとにかく、彼との楽しい|時間を過ごし運気を共有|しましょう。=
-彼のやさしさに触れることが|運気上昇のカギです。=
-ラッキーワードは、|『きもだめし』です。=
+# A188C Aido
+彼との運気上昇はまだまだ|準備段階です。=Your fortunes are just beginning.
+今はとにかく、彼との楽しい|時間を過ごし運気を共有|しましょう。=All you can do right now is share your fate with him and have a fun time together.
+彼のやさしさに触れることが|運気上昇のカギです。=Appealing to his kindness is the key to increasing your luck.
+ラッキーワードは、|『きもだめし』です。=Your lucky phrase is “test of courage”.
 
 # A18BC
-思い切った選択が|吉と出るかもしれません。=
-見えます……聴こえます……|高らかに奏でられる|歓喜のメロディ……=
-ラッキーアイテムは、|『ラッパ』です。=
+思い切った選択が|吉と出るかもしれません。=Good things may happen if you make a bold choice.
+見えます……聴こえます……|高らかに奏でられる|歓喜のメロディ……=I can see it... I can hear it... the sound of a joyous melody being played loudly...
+ラッキーアイテムは、|『ラッパ』です。=Your lucky item is a “Trumpet”.
 
 # A19FC
-彼との運気は上昇の一途。|このうえない、調子の|良さです。=
-自らのすべてを彼に捧げる|覚悟が自らが望む夢への|確実な足取りとなります。=
+彼との運気は上昇の一途。|このうえない、調子の|良さです。=Your fortunes are steadily on the rise. Things are looking great.
+自らのすべてを彼に捧げる|覚悟が自らが望む夢への|確実な足取りとなります。=Steeling your determination to give him your all will lend you a step closer to achieving your dreams.
 
 # A1710
-彼のと運気も好調ですが|油断は禁物。=
-自分の欲求に走りすぎず|彼の求めるものを|改めて確認しましょう。=
-ラッキーアイテムは、|『ゴージャスなドレス』|です。=
+彼のと運気も好調ですが|油断は禁物。=Your fortune is promising, but you mustn’t let your guard down.
+自分の欲求に走りすぎず|彼の求めるものを|改めて確認しましょう。=Don’t get too carried away with your own desires, but double check that you understand his.
+ラッキーアイテムは、|『ゴージャスなドレス』|です。=Your lucky item is a “Sweet Dress”.
 
 # A1C5C
-さらに関係を深めるため|いままでと違った|彼の一面に注目すべきです=
-見えます……|高貴で伝統的な彼の|姿が……=
-ラッキーアイテムは、|『楽団服』です。=
+さらに関係を深めるため|いままでと違った|彼の一面に注目すべきです=In order to deepen your relationship, you should pay attention to a side of him you’ve never seen before.
+見えます……|高貴で伝統的な彼の|姿が……=I can see it... Noble and traditional...
+ラッキーアイテムは、|『楽団服』です。=Your lucky item is a “Band Outfit”.
 
-# A15C0
-彼に振り向いてもらうには|まだまだ相当の努力が|必要です。=
-日々の事をまじめに取り組めば|そんなあなたの姿にきっと彼も|ふりむいてくれでしょう。=
-ラッキーワードは、|『ナイトゲーム』です。=
+# A15C0 Kain
+彼に振り向いてもらうには|まだまだ相当の努力が|必要です。=You still need to put in more effort to get him to notice you.
+日々の事をまじめに取り組めば|そんなあなたの姿にきっと彼も|ふりむいてくれでしょう。=If you take things seriously every day, you will be able to make him fall in love with you.
+ラッキーワードは、|『ナイトゲーム』です。=Your lucky phrase is “Night Game”.
 
 # A1C6C
-彼との運気はまだまだこれから|……だからといって闇雲に|走るのではなく=
-絶対にやってはいけない事|だけは気をつけましょう。=
-そうすれば、最終的に|運気が悪い方向に流れる|事を避けられます。=
-バッドワードは、|『無駄遣い』です。=
+彼との運気はまだまだこれから|……だからといって闇雲に|走るのではなく=Your fortune will increase... but that does not mean you should blindly run around in the dark.
+絶対にやってはいけない事|だけは気をつけましょう。=You must be careful to avoid doing something you would not be forgiven for.
+そうすれば、最終的に|運気が悪い方向に流れる|事を避けられます。=That way, you can avoid having your luck turn sour later.
+バッドワードは、|『無駄遣い』です。=Your unlucky word is “wasteful”.
 
 # A1ACC
-意外な選択が吉と出るかも|しれません。=
-見えます……|青い海、青い空、そよく風……|やさしくたたずむ彼の姿…=
-ラッキーアイテムは、|『フラワーレイ』です。=
+意外な選択が吉と出るかも|しれません。=Good things may happen if you make a surprising choice.
+見えます……|青い海、青い空、そよく風……|やさしくたたずむ彼の姿…=I can see it... blue seas, a blue sky, a gentle breeze... and his kind figure...
+ラッキーアイテムは、|『フラワーレイ』です。=Your lucky item is a “Flower Lei”.
 
 # A18DC
-自らのすべてを彼に捧げる|覚悟が思いを遂げる確実な|一歩になるでしょう。=
+自らのすべてを彼に捧げる|覚悟が思いを遂げる確実な|一歩になるでしょう。=Steeling your determination to give him your all will lead you one step closer to success.
 
 # A19CC
-運気は好調。彼もあなたのことを|気に掛けています。=
-思いを確実にする為、|時には変化を見せることが|大事です。=
-見えます……|驚きに満ちた彼の顔。|そしてそれは歓喜へと……=
-ラッキーアイテムは、|『大人っぽいドレス』です。=
+運気は好調。彼もあなたのことを|気に掛けています。=Things are promising. He cares for you too.
+思いを確実にする為、|時には変化を見せることが|大事です。=In order to crystalize those feelings, it is important to sometimes make a change.
+見えます……|驚きに満ちた彼の顔。|そしてそれは歓喜へと……=I can see it... His face is full of surprise. Then surprise turns to joy...
+ラッキーアイテムは、|『大人っぽいドレス』です。=Your lucky item is a “Glam Dress”.
 
 # A1A5C
-リラックスした彼の一面が|あなたを安らぎに|導くことでしょう。=
-ラッキーアイテムは、|『アロハシャツ』です。=
+リラックスした彼の一面が|あなたを安らぎに|導くことでしょう。=His relaxed side will make you feel at peace.
+ラッキーアイテムは、|『アロハシャツ』です。=Your lucky item is a “Hawaiian Shirt”.
 
 # A1770
-大事な秘密を隠し通す。|そんなあなたの努力が|運気上昇のポイント。=
-ラッキーワードは、|『かくれんぼ』です。=
+大事な秘密を隠し通す。|そんなあなたの努力が|運気上昇のポイント。=You must protect an important secret. Your efforts will be the key to your success.
+ラッキーワードは、|『かくれんぼ』です。=Your lucky phrase is “hide and seek”.
 
 # A191C
-彼との運気もまだまだ|これから。|ですがあせりは禁物です。=
-夢や希望を忘れず、彼に|接すると運気は上昇|するでしょう。=
-見えます……|彼とおちついて将来を|語るあなたの姿が……=
-ラッキーワードは、|『虹』です。=
+彼との運気もまだまだ|これから。|ですがあせりは禁物です。=Your fortunes are yet to come. You must not rush.
+夢や希望を忘れず、彼に|接すると運気は上昇|するでしょう。=Don’t forget your hopes and dreams, and you will be able to touch his heart and better your chances.
+見えます……|彼とおちついて将来を|語るあなたの姿が……=I can see it... He is calmly talking to you about the future...
+ラッキーワードは、|『虹』です。=Your lucky word is “Rainbow”.
 
 # A1B8C
-見えます……|大海原を雄々しく|ヒラヒラと舞う……=
-ラッキーアイテムは、|『マント』です。=
+見えます……|大海原を雄々しく|ヒラヒラと舞う……=I can see it... Majestically fluttering against the ocean...
+ラッキーアイテムは、|『マント』です。=Your lucky item is a “Cloak”.
 
 # A1BDC
-自らのすべてを彼に捧げる|覚悟が、思いをとげる|確実な一歩になります。=
+自らのすべてを彼に捧げる|覚悟が、思いをとげる|確実な一歩になります。=Steeling your determination to give him your all will lend you a step closer to realizing your desires.
 
-# A199C
-彼との運気も良い方向に|向かっています。=
-この流れをキープするには、|普段と違うあなたの姿を|見せる事です。=
-見えます……|何とも大胆なあなたの|姿が……=
-ラッキーアイテムは、|『魅惑のドレス』です。=
+# A199C Shiki
+彼との運気も良い方向に|向かっています。=Your fortunes are heading in the right direction.
+この流れをキープするには、|普段と違うあなたの姿を|見せる事です。=In order to keep this trend going, you need to show a different side of yourself.
+見えます……|何とも大胆なあなたの|姿が……=I can see it... You are astoundingly bold...
+ラッキーアイテムは、|『魅惑のドレス』です。=Your lucky item is an “Alluring Dress”.
 
 # A18CC
-芯が強く雄々しい彼の|姿があなた方の運気を|上昇させます。=
-ラッキーワードは、|『海賊』です。=
+芯が強く雄々しい彼の|姿があなた方の運気を|上昇させます。=His inner fortitude and majestic looks will boost your luck.
+ラッキーワードは、|『海賊』です。=Your lucky word is “pirate”.
 
 # A1D30
-彼との運気が上がるのは|まだまだこれからです。=
-積極的に彼の好みを|サポートすることが|吉となります。=
-あなたの方でも、それを|発信するコンディション|づくりが必要です。=
-見えます……|大勢の中で健やかに|過ごすあなたの姿が……=
-ラッキーワードは、|『休息』です。=
+彼との運気が上がるのは|まだまだこれからです。=You are still a way off increasing your fortunes.
+積極的に彼の好みを|サポートすることが|吉となります。=Good things will happen if you actively support what he likes.
+あなたの方でも、それを|発信するコンディション|づくりが必要です。=You must create an opportunity to show him so.
+見えます……|大勢の中で健やかに|過ごすあなたの姿が……=I can see it... You know how to manage yourself in a crowd...
+ラッキーワードは、|『休息』です。=Your lucky phrase is “break time”.
 
 # A1AFC
-彼との運気が上がるのは|これから……|その為の心がけも必要です。=
-彼が好む物をしっかり|意識して接することが|重要になります。=
-見えます……|彼の好きな事について|話をするあなたの姿が……=
-ラッキーワードは、|『綺麗な女性』です。=
+彼との運気が上がるのは|これから……|その為の心がけも必要です。=Your fortunes will see an increase after this, but you must take care.#dupe
+彼が好む物をしっかり|意識して接することが|重要になります。=It is important to be aware of what he likes.
+見えます……|彼の好きな事について|話をするあなたの姿が……=I can see it... You are talking to him about the things he likes. 
+ラッキーワードは、|『綺麗な女性』です。=Your lucky phrase is “a beautiful woman”.
 
 # A0F68
 守護係の仕事の疲れで|授業中なのについ|ウトウトと夢の中へ……=Exhausted from my work as a guardian, I accidentally started to doze off in class...
 
 # A0C10
-気になるあの人との|今日一日の運勢を|占って貰いましょう。=
+気になるあの人との|今日一日の運勢を|占って貰いましょう。=Get a reading for your day about a person of interest.
 
 # A0EC4
-お買い物に行きます。=
+お買い物に行きます。=Go shopping.
 
 # A0C84
-女子生徒達が待っています。|大事な風紀委員の仕事です。=
+女子生徒達が待っています。|大事な風紀委員の仕事です。=There are female students waiting. It’s an important part of a prefect’s job.
 
 # A0B7C
-頭が良くなる仕事を|こなしましょう。=
+頭が良くなる仕事を|こなしましょう。=Train your brain with work.
 
 # A0910
 ここは見晴らしがいい…=This is a good vantage point...
@@ -1155,77 +1037,77 @@ vk_se6_010=
 # A0DDC
 ちょっとくらいいいよね？|でも目が合ったら怒られる|かも。気をつけて見よう。=Just a little can’t hurt, right?|But if he spots me, he might get mad. I should be careful.
 
-# A09F4
-イケナイ子だね…。=
+# A09F4 Kaname
+イケナイ子だね…。=You’re a naughty girl...
 
 # A0FC8
-どうして覗いたりするの？|僕に興味があるなら覗いたりせ|ず、会いに来ればいい。=
+どうして覗いたりするの？|僕に興味があるなら覗いたりせ|ず、会いに来ればいい。=Why are you spying on me? If you’re interested in me, don’t just watch, you should come and see me.
 
 # A0F2C
-あまり関心出来ないね、こんな|事。そう、だったら直接、|僕の部屋に来ない？=
+あまり関心出来ないね、こんな|事。そう、だったら直接、|僕の部屋に来ない？=I don’t care much for something like this. Why not come to my room directly?
 
 # A0B18
-僕の事、もっと知りたい？|いろいろ教えてアゲルよ。=
+僕の事、もっと知りたい？|いろいろ教えてアゲルよ。=You want to know more about me? I will teach you all kinds of things.
 
-# A0BB8
-お前にそんな趣味があったとは|……|残念だ。=
+# A0BB8 Zero
+お前にそんな趣味があったとは|……|残念だ。=I’m disappointed you have this kind of hobby.
 
 # A0D98
-いつも一緒にいるのに、|まだ見飽きないって……|気分悪い……=
+いつも一緒にいるのに、|まだ見飽きないって……|気分悪い……=We’re always together, and you’re still not tired of seeing my face? That’s creepy...
 
 # A0958
-そんなに、|俺に興味があるんだ。|いや、おどろいた。=
+そんなに、|俺に興味があるんだ。|いや、おどろいた。=You’re that interested in me? No, I’m just surprised.
 
 # A0B30
-そんなに俺の事が知りたいなら、|部屋にこいよ。=
+そんなに俺の事が知りたいなら、|部屋にこいよ。=If you’re that interested in me, just come to my room.
 
-# A0D9C
-君がそんなことするなんて、|ちょっと驚いちゃった。=
+# A0D9C Ichijo
+君がそんなことするなんて、|ちょっと驚いちゃった。=I’m a bit surprised you’d do something like this.
 
 # A0ED4
-あんまりイイ趣味じゃないかな？|ストレスでも抱えているの……=
+あんまりイイ趣味じゃないかな？|ストレスでも抱えているの……=That’s not really such a good hobby, is it? You’re making me stressed...
 
 # A0E44
-僕に興味があるんだ～。|ふ～ん。=
+僕に興味があるんだ～。|ふ～ん。=So you’re interested in me? Hmmm~
 
 # A0FD0
-僕の事、|そんなに知りたいんだ。|お望みならいつでもいいよ。=
+僕の事、|そんなに知りたいんだ。|お望みならいつでもいいよ。=You want to know more about me that badly? I’m free any time you’d like.
 
-# A0B38
-そんな事したらはしたないぞ！=
+# A0B38 Aido
+そんな事したらはしたないぞ！=You have no manners!
 
 # A0EEC
-お前にそんな趣味があったなん|て、おどろきだ。|幻滅した……=
+お前にそんな趣味があったなん|て、おどろきだ。|幻滅した……=I’m surprised you have this kind of hobby. I’m disappointed...
 
 # A0AAC
-そ、そんなに、|僕に興味があるのか･･･。|ふ～ん。=
+そ、そんなに、|僕に興味があるのか･･･。|ふ～ん。=Y-You’re that interested in me? Hnn...
 
 # A0B20
-そんなに僕の事が知りたければ、|ちゃんとそう言えばいいだろ！=
+そんなに僕の事が知りたければ、|ちゃんとそう言えばいいだろ！=If you want to know more about me so bad, just say so!
 
-# A0CF8
-あきれたな……|お前、|そんな事するヤツだったのか。=
+# A0CF8 Kain
+あきれたな……|お前、|そんな事するヤツだったのか。=I’m shocked. I never painted you the type for something like this.
 
 # A0D80
-お前にそんな趣味があったなん|て、ちょっと驚いたな……=
+お前にそんな趣味があったなん|て、ちょっと驚いたな……=I’m kinda surprised you have this sort of hobby.
 
 # A0AD8
-しかし……|そんなに、俺に興味があるんだ。|ふ～ん。=
+しかし……|そんなに、俺に興味があるんだ。|ふ～ん。=But... You’re really that interested in me? Huh.
 
 # A0C04
-そんなに俺の事が知りたきゃ、|いっぱい教えようか？冗談だ。=
+そんなに俺の事が知りたきゃ、|いっぱい教えようか？冗談だ。=If you want to know about me so much, how about I tell you everything? Just kidding.
 
-# A0AE0
-きみって、そんな事するんだ？=
+# A0AE0 Shiki
+きみって、そんな事するんだ？=You do this kind of thing?
 
 # A0E78
-きみって結構、|マニアックなんだね。=
+きみって結構、|マニアックなんだね。=You’re... quite the maniac.
 
-# A0ED8 Shiki
+# A0ED8
 そんなに、俺に興味が|あるんだ～。|ふ～ん。=You've taken quite the interest in me, haven't you?
 
 # A0BF8
-俺の事知りたい？……いいよ。=
+俺の事知りたい？……いいよ。=You want to know about me? ...Okay.
 
 #Kaname Dancing Minigame
 # A0F34
@@ -1280,7 +1162,7 @@ vk_se6_010=
 大事なパーティーで|恥をかかせて！|一体キミって何なのさ！！=You embarrassed me at an important party! What in the world is up with you?!
 
 # A09E4
-呼吸が今ひとつあわなかったね。|次の機会まで、|練習するべきだ。=That didn’t go so smoothly. You should practise before next time.
+呼吸が今ひとつあわなかったね。|次の機会まで、|練習するべきだ。=That didn’t go so smoothly. You should practice before next time.
 
 # A0E88
 良くもなく悪くもなく……|あまり踊り慣れてないのか？=That was neither here nor there... Are you not really used to dancing?
@@ -1325,20 +1207,20 @@ vk_se6_010=
 
 #Yagari Dancing Minigame
 # A0F44
-ダンスは、もっとうまくなった|方が、早く大人になれるぞ。|小娘。=
+ダンスは、もっとうまくなった|方が、早く大人になれるぞ。|小娘。=The better you dance, the sooner you’ll grow up, Girl.
 
 # A0A70
-うまくはいかなかったが、|それもまた、いい思い出だ。=
+うまくはいかなかったが、|それもまた、いい思い出だ。=It didn’t go so well, but even that will make for a nice memory.
 
 # A0D10
-よかったんじゃないか。|結構楽しかったぜ。=
+よかったんじゃないか。|結構楽しかったぜ。=That was pretty good. I had fun.
 
 # A1360
-なかなか上手いもんだな。悪く|ない気分だったよ。=
-ふっ…この俺が、もっと踊り|たかったと思うなんて……|いや、なんでもない。=
+なかなか上手いもんだな。悪く|ない気分だったよ。=You’re pretty good at this. It wasn’t bad.
+ふっ…この俺が、もっと踊り|たかったと思うなんて……|いや、なんでもない。=Heh... Never thought I’d want to dance even more... No, ignore me. 
 
 # A0BD4
-お前がこんなにも、ダンスが|上手だとは、おどろいたな。|小娘なんて言って悪かったな。=
+お前がこんなにも、ダンスが|上手だとは、おどろいたな。|小娘なんて言って悪かったな。=I’m surprised you’re such a good dancer. Sorry for calling you a little girl.
 
 # A1ADC
 アノ人と一緒に|踊れるなんて夢の様！=
@@ -4364,7 +4246,7 @@ Sleep well...
 
 # A3798
 わぁ～、見て見て零！|ほら、人魂！=Woah~ Look there, Zero! A fireball!
-あ！何その|『んなわけねーだろ』|みたいな顔！=Ah! What’s with that look as if to say “you’re way off" ?!
+あ！何その|『んなわけねーだろ』|みたいな顔！=Ah! What’s with that look as if to say “you’re way off"?!
 わかってるよ。|架院センパイだよね、きっと。|あの人、炎を操れるから。=I know. It must be Kain’s, since he can manipulate fire.
 上級ヴァンパイアの|特殊能力か……=The special powers of an elite vampire, huh...?
 すごいよね。|私たちより寿命がうんと|長いだけじゃなくてーー=It’s amazing. Not only is their lifespan much longer than ours...
@@ -5766,7 +5648,7 @@ Sleep well...
 私は、人間とヴァンパイアが|共存できる世界を夢見るよ。=I dream of a world where humans and vampires can coexist.
 さあ、そろそろ|見回りも終わり。戻ろうか。=Right, it’s almost time for our patrol to be over. Shall we head back?
 （私と零がその場を後に|しようとしたその時……）=(Just as Zero and I made way to leave...)
-<name>。|今日のお務めは|もうおしまいかい？=<name>. Have you already finished your job for today?
+<name>。|今日のお務めは|もうおしまいかい？=<name>. Have you already finished your work for today?
 ナイト･クラスの寮長が|こんな所で何をしてるんです？=What’s the president of the Night Class doing here?
 錐生くんも御苦労さま。=Thanks for all your hard work too, Kiryu.
 気配も感じさせないとはな。|……あんたのような恐ろしい|ヴァンパイアもいるってのに、=I didn’t sense you at all.|...Even though there are terrifying vampires like you...
@@ -7333,11 +7215,11 @@ Sleep well...
 （虹が消え、みんなが帰って|からも、私はいつまでも|虹のあった場所を見ていた）=(Even after everyone had left, I continued to stare up at where the rainbow had been in the sky.)
 （胸の高鳴りはまだ続いて|いる私は夜の虹に与えられた|幸せの余韻に浸っていたーー）=(My heart continued to throb as I basked in the lingering memory of the Night Rainbow and the joy it brought me.)
 いけない、|そろそろ帰らないと。=It’s late. I really need to go home.
-（私は校舎を後にしようと|歩き始めた。その時ーー）=Just as I started walking to leave the school buildingーー)
+（私は校舎を後にしようと|歩き始めた。その時ーー）=Just as I started walking to leave the school building--)
 あれ？なに、これ……？=Huh? What’s this?
 （私の足元に|つぼみのバラの花束が|置かれていた）=(There, resting at my feet, was a bouquet of rose buds.)
 （私はその花束の意味を|すぐに理解した）=(Immediately, I understood the meaning behind the bouquet.)
-バラの花束……|つぼみのバラの花言葉は|『秘密』……=A bouquet of roses... Rose buds symbolize secrets.
+バラの花束……|つぼみのバラの花言葉は|『秘密』……=A bouquet of roses... Rose buds signify “a secret”.
 そっか……|やっぱり、誰かが私を|助けてくれたんだ。=Right. Somebody did help me after all.
 （バラの花束を拾い上げると|私はそれをギュッと|抱きしめたーー）=(I picked up the rose bouquet and squeezed it tight to my chest.)
 
@@ -13219,7 +13101,7 @@ Sleep well...
 # A1D44
 でも、チビの事は今でも……=But even now, what happened to Chibi is...
 ああ……そうだな……。=Yeah... You’re right...
-いろいろあったけど、|零と一緒でよかったよ。=A lots happened but, I’m glad we’re together.
+いろいろあったけど、|零と一緒でよかったよ。=A lot has happened but, I’m glad we’re together.
 私の言いたいことは……|それだけ……。=That’s all I wanted to say...
 <name>……。=<name>...
 
@@ -13527,7 +13409,7 @@ Sleep well...
 
 # A2168 Kaname dance party
 来てくれたんだね。嬉しいよ。|素敵なドレスだ。似合って|いるよ。とてもかわいい。=I’m glad you’re here. That’s a lovely dress. It’s very cute. It really suits you.
-枢センパイ……あまり|見つめないでください。|恥ずかしいな。=Kaname... Please don’t stare so much. It’s embarrassing.
+枢センパイ……あまり|見つめないでください。|恥ずかしいな。=Kaname... Please don’t stare so much. It’s embarrassing.#dupe
 さあ。パーティの始まりだ。=Come on, the party’s starting.
 枢センパイ、エスコート|お願いしてもいいですか？=Is it really okay for you to be escorting me, Kaname?
 もちろんだよ。それでは……|僕と踊って頂けますか？=Of course. Now then... Will you do me the honor of dancing with me?
@@ -14521,179 +14403,180 @@ Sleep well...
 いや、いいんだ。|聞き流してくれ。|お前ももう戻るんだ。いいな。=No, never mind. Forget I said anything. You should be getting back. Alright?
 はい…………夜刈先生……=Okay... Mr. Yagari.
 
-# A2360
-来てくれたんだ。よかった。|さぁ楽しんでいってね。|今日は特別な夜だよ！！=
-ドレスが似合ってるね……|ステキだよ。=
-あまり見つめないでください。|恥ずかしいです。=
-エ、エスコートお願いします。=
-喜んで。では、お姫様。|僕と踊って頂けますか？=
+# A2360 Ichijo dance party
+来てくれたんだ。よかった。|さぁ楽しんでいってね。|今日は特別な夜だよ！！=I’m so happy that you’re here! Come on, let’s go have fun. Tonight is a special night!
+ドレスが似合ってるね……|ステキだよ。=That dress suits you... It’s beautiful.
+あまり見つめないでください。|恥ずかしいです。=Please don’t stare so much. It’s embarrassing.#dupe
+エ、エスコートお願いします。=W-Will you escort me around?
+喜んで。では、お姫様。|僕と踊って頂けますか？=Gladly. Would you do me the honors, Princess?
 
 # A09A4
-楽しめた？<name>ちゃん。=
+楽しめた？<name>ちゃん。=Was that fun, <name>?
 
-# A0A58
-これが君の気持ちだね。|ありがとう。=
+# A0A58 
+これが君の気持ちだね。|ありがとう。=So this is how you feel. Thank you.
 
 # A0DD4
-こ、これは……えーと…|あ、ありがとう。=
+こ、これは……えーと…|あ、ありがとう。=T-This is... ah... t-thank you.
 
 # A4980
-もうパーティーも終わりだよ。|楽しかった？=
+もうパーティーも終わりだよ。|楽しかった？=The party’s over. Did you have a nice time?
 はい、みんなのおかげで。=Yes, thanks to everyone.#dupe
-そして、一条センパイの|おかげです。=
-よかった。君に笑顔が|戻って……女の子は笑顔が|一番。僕は本当に嬉しいんだ。=
-でも、パーティー終わり|なんですね……|なんだかさみしいな。=
-大丈夫だよ。君を励ますため|なら、こうやってヴァンパイア|も人間も一つになれる。=
-これは君の夢であって、|その夢を素晴らしいと感じて|いる僕たちがいる。=
-僕からお礼を言わせて貰うよ。|すばらしい夢をありがとう。=
-確かに、終わるのは惜しい|よね。なんだか……もっと|一緒にいたかったなぁ……=
-私もです。一条センパイ。=
-でも、終わりを次に|つなげることも大事だよ。|<name>ちゃん。=
-今夜はおやすみ、|疲れたでしょ。|また夢で逢おうね。=
-はい……一条センパイ。=
+そして、一条センパイの|おかげです。=And, because of you.
+よかった。君に笑顔が|戻って……女の子は笑顔が|一番。僕は本当に嬉しいんだ。=I’m glad to see your smile has returned. Women look loveliest when they’re smiling. I’m really happy.
+でも、パーティー終わり|なんですね……|なんだかさみしいな。=But, it seems a bit sad that the party’s already over.#dupe
+大丈夫だよ。君を励ますため|なら、こうやってヴァンパイア|も人間も一つになれる。=It’s alright. Just look how vampires and humans got together like this to cheer you up.
+これは君の夢であって、|その夢を素晴らしいと感じて|いる僕たちがいる。=That was your dream, and there are those of us who think that dream is wonderful.
+僕からお礼を言わせて貰うよ。|すばらしい夢をありがとう。=I want to say thank you. Thank you for having this wonderful dream.
+確かに、終わるのは惜しい|よね。なんだか……もっと|一緒にいたかったなぁ……=It is a shame it’s over. I wish... I we could have spent more time together...
+私もです。一条センパイ。=I feel the same, Ichijo.
+でも、終わりを次に|つなげることも大事だよ。|<name>ちゃん。=But endings are important for new beginnings, <name>.
+今夜はおやすみ、|疲れたでしょ。|また夢で逢おうね。=We’ll call it night for today, you must be tired. Let’s see each other in our dreams.
+はい……一条センパイ。=Yes... Ichijo.
 
 # A30DC
 一条センパイ……！どうして。=Ichijo! Why--?
-シッ！若葉さんが|起きちゃうよ。どうしても|君と話がしたくって……=
-……場所を変えてもいいかな。=
-誰もこないところがいいね。|そうだ、いい場所があるよ。=
-この星空を君に見せて|あげたかったんだ。=
-<name>ちゃん……。|改めて思い出すと、僕たち、|いろいろあったよね……。=
+シッ！若葉さんが|起きちゃうよ。どうしても|君と話がしたくって……=Shh! You’ll wake Wakaba.|I really wanted to talk to you...
+……場所を変えてもいいかな。=...Maybe we should go somewhere else.
+誰もこないところがいいね。|そうだ、いい場所があるよ。=Somewhere we can be alone. Yes, I know the perfect place.
+この星空を君に見せて|あげたかったんだ。=I wanted to show you this starry sky.
+<name>ちゃん……。|改めて思い出すと、僕たち、|いろいろあったよね……。=<name>... When I think it over, we’ve been through a lot...
 
 # A10E0
-聖ショコラトル･デーでは、|チョコの数がトップでした|よね？=
-うん、君がくれたおかげだよ。|自己新記録も出来たし、藍堂に|ちょっと自慢しちゃったよ。=
+聖ショコラトル･デーでは、|チョコの数がトップでした|よね？=On St. Xocolatl’s Day, you had the most number of chocolates, didn’t you?
+うん、君がくれたおかげだよ。|自己新記録も出来たし、藍堂に|ちょっと自慢しちゃったよ。=Yeah, thanks to the one you gave me. I set a new personal record, and I even got to brag to Aido about it.
 
 # A1B5C
-聖ショコラトル･デーは、|残念でしたね。=
-ああもう、<name>ちゃん|ってば、せっかく忘れていた|のに……=
-藍堂に一個差で獲得数、|負けちゃったんだよね。=
-そうでしたね……すみません。=
+聖ショコラトル･デーは、|残念でしたね。=It was a shame about St. Xocolatl’s Day.
+ああもう、<name>ちゃん|ってば、せっかく忘れていた|のに……=Agh, just when I’d forgotten all about it, <name>!
+藍堂に一個差で獲得数、|負けちゃったんだよね。=I lost to Aido by one.
+そうでしたね……すみません。=Right... I’m sorry.
 
 # A1A8C
-肝試しでは大活躍でしたね。=
-そうなんだよ、あんなに|一生懸命作った生首が一瞬に|して支葵に切り刻まれて……=
-あれは良くできていたのに、|もったいないです。=
-でも、極夜の花火は悪く|なかったよ。=
+肝試しでは大活躍でしたね。=You got very involved in the test of courage.
+そうなんだよ、あんなに|一生懸命作った生首が一瞬に|して支葵に切り刻まれて……=You’re right. The severed head I put hours into making got chopped to pieces by Shiki in the blink of an eye...
+あれは良くできていたのに、|もったいないです。=It was really well made too. It’s a shame.
+でも、極夜の花火は悪く|なかったよ。=But, the fireworks during the Polar Night weren’t bad.
 
 # A1B6C
-クライングローズの時は|大変だったね。=
-一条センパイも信じてくれて|いると思ったのに。少し疑って|いましたよね？=
-えっと、怪しい花屋さんが……=
-あっ、ずるい。ごまかした。=
+クライングローズの時は|大変だったね。=The Crying Rose incident was a difficult time.
+一条センパイも信じてくれて|いると思ったのに。少し疑って|いましたよね？=I thought you’d believe me, but you were actually a little suspicious, weren’t you?
+えっと、怪しい花屋さんが……=Um, the florist was suspicious...
+あっ、ずるい。ごまかした。=Ah, that’s cheating--!
 
 # A11E8
-でも、僕の贈ったドレス、|着て貰えてよかったよ。=
-あれは、本当にうれしかった|です。=
+でも、僕の贈ったドレス、|着て貰えてよかったよ。=But I’m glad you wore the dress I gave you.
+あれは、本当にうれしかった|です。=That made me really happy.
 
 # A1F88
-そういえば、アロマショップで|デートもしましたよね。=
-そうだね。本当は香りに|一番こだわってるのは|藍堂なんだけどねーー=
-僕は軽くたしなむくらいかな。=
-でも私が普段行かないところ|だったから楽しかったですよ。=
-うん、よかったね。=
+そういえば、アロマショップで|デートもしましたよね。=Come to think of it, we went for a date to an aromatherapy store.
+そうだね。本当は香りに|一番こだわってるのは|藍堂なんだけどねーー=We did. To tell you the truth, it’s actually Aido who’s more particular about scents...
+僕は軽くたしなむくらいかな。=I prefer a simpler approach.
+でも私が普段行かないところ|だったから楽しかったですよ。=But it’s a place I don’t usually go, so it was fun.
+うん、よかったね。=Yeah, it was nice.
 
 # A2644
 無人島で作った料理は最高|でしたね！一条センパイの|包丁さばき、お見事でしたよ。=The food we made on the deserted island was amazing!
-えっ？それ何の話かな？=
-なんだか、面白そうな夢だね？|詳しく教えてよ！=
-いや、ちょっととんでもない|夢なんで、また今度という事で|……=
-なんだ、残念だなぁ。=
+えっ？それ何の話かな？=Huh? What are you talking about?
+なんだか、面白そうな夢だね？|詳しく教えてよ！=That sounds like an interesting dream. Tell me all about it!
+いや、ちょっととんでもない|夢なんで、また今度という事で|……=No, it wasn’t really anything. I’ll tell you about it next time...
+なんだ、残念だなぁ。=Aw, that’s a shame.
 
-# A1F38
-ああ……そうだね……。=
-いろいろあったけど、|一条センパイとの思い出は|忘れられないものばかり。=
-センパイと一緒でよかった|です。=
-<name>ちゃん……。|ありがとう。=
+# A1F38 Chibi
+ああ……そうだね……。=Yeah... you’re right.
+いろいろあったけど、|一条センパイとの思い出は|忘れられないものばかり。=A lot has happened, but I’ll never forget the memories I made with you.
+センパイと一緒でよかった|です。=I’m grateful for the time we spent together.
+<name>ちゃん……。|ありがとう。=<name>... Thank you.
 
 # A3FC0
-その……そういえば、あまり|言えないような事も……。=
-そうだね……。許されない事|だとはわかってても正直、僕は|うれしかったよ。=
-いまだにあれは本当だったのか|信じられないくらいだ。=
-（急に沈黙がおとずれた……）=
-（いつも饒舌な一条センパイが|黙って私の目をみている……）=
-（普段ない、シチュエーション|に落ち着かない私……）=
-（一条センパイの瞳に吸い|込まれてしまいそう……もう、|うごけない……）=
-<name>ちゃん。君といると、|僕は自分が…=
-ヴァンパイアだということを|思い知らされてしまうんだ。=
-い……ち…じょう…センパイ。=
+その……そういえば、あまり|言えないような事も……。=But... I guess there were some things we can’t talk about too...
+そうだね……。許されない事|だとはわかってても正直、僕は|うれしかったよ。=You’re right... I know it was unforgivable, but honestly, I was really happy.
+いまだにあれは本当だったのか|信じられないくらいだ。=I still can’t believe it was real.
+（急に沈黙がおとずれた……）=(He suddenly fell quiet...)
+（いつも饒舌な一条センパイが|黙って私の目をみている……）=(The always-talkative Ichijo silently looked me in the eyes.)
+（普段ない、シチュエーション|に落ち着かない私……）=(I was unsettled by the unusualness of the situation...)
+（一条センパイの瞳に吸い|込まれてしまいそう……もう、|うごけない……）=(It felt like I was being sucked into his eyes. ...I can’t move...)
+<name>ちゃん。君といると、|僕は自分が…=<name>, when I’m with you, I...
+ヴァンパイアだということを|思い知らされてしまうんだ。=I realize that I’m a vampire.
+い……ち…じょう…センパイ。=I...chi...jo...
 
 # A1668
-そうだ……新しい相談事が|出来たんだ。聞いてくれる？=
-はい、もちろん。=
-僕の頭の中が、とある事で|一杯になってしまったんだ。=
+そうだ……新しい相談事が|出来たんだ。聞いてくれる？=Right... There was something else I wanted to ask you about. May I?
+はい、もちろん。=Of course.
+僕の頭の中が、とある事で|一杯になってしまったんだ。=My head’s been full of this one thing...
 
-# A8BB8
-それは、とても可愛くて、|とても強い心を持っている|女の子の事なんだ。=
-その女の子は、とても困難かも|しれない、夢の実現に向かって|歩いている。=
-僕はその女の子にどうにかして|自分の気持ちを伝えたいと|思っている。=
-普段はおしゃべりな僕なのに、|とても大事な事となると、|つい慎重になってしまう。=
-どうしたら、ちゃんと気持ちを|つたえられるかな？=
-難しい問題ですね。|でも、もしかしたら簡単かも。=
-もしかすると、その女の子も|一条センパイと同じ気持ちかも|しれません。=
-本当に？|それは是非確かめたいなぁ。=
-じゃあ私が、その女の子が|思っている言葉をせーので|言います。=
-一条センパイも、センパイが|思っている言葉を同時に言って|ください。=
-言葉が同じなら、ちゃんと|聞こえるはず。という事だね？=
-はい。じゃあ、いいですか？=
-わぁ、ちょっと待って。|心の準備をさせて。=
-いいよ。いくよ。=
-せーの！=
-誰？|大事な時に何で花火なの？=
-あ……そういえば、|極夜の花火が余ってるとか|理事長言ってたっけ……=
-なんでこんな時に……=
-でも、僕には君の言葉が|ちゃんと聞こえたよ。=
-ええっ！私は|一条センパイの言葉、|聞こえなかったです！=
-もう一度言ってください！=
-だめだよ。|こういう事は大事な時にしか|言わないんだ。ナイショだよ。=
-そんな……センパイ、|イジワルしないでください。=
-大丈夫だよ。ちゃんと|同じ言葉だったから……。=
-<name>ちゃん……。=
+# A8BB8 Ichijo best ending (good rose)
+それは、とても可愛くて、|とても強い心を持っている|女の子の事なんだ。=It’s about a girl who is very pretty and has a strong heart.
+その女の子は、とても困難かも|しれない、夢の実現に向かって|歩いている。=This girl is working to make her dream come true, even though the path might be difficult.
+僕はその女の子にどうにかして|自分の気持ちを伝えたいと|思っている。=I want to tell her how I feel about her.
+普段はおしゃべりな僕なのに、|とても大事な事となると、|つい慎重になってしまう。=But even though I’m normally a talkative person, when it comes to important things, I get scared.
+どうしたら、ちゃんと気持ちを|つたえられるかな？=How can get my feelings across?
+難しい問題ですね。|でも、もしかしたら簡単かも。=That’s a difficult question. But it might just have a simple solution.
+もしかすると、その女の子も|一条センパイと同じ気持ちかも|しれません。=The girl might just feel the same way you do.
+本当に？|それは是非確かめたいなぁ。=Really? I’d love to know for sure.
+じゃあ私が、その女の子が|思っている言葉をせーので|言います。=Then I’ll tell you what that girl is thinking,
+一条センパイも、センパイが|思っている言葉を同時に言って|ください。=and you should say how you feel at the same time.
+言葉が同じなら、ちゃんと|聞こえるはず。という事だね？=You mean if we both say the same thing, we’ll be able the hear it? 
+はい。じゃあ、いいですか？=Exactly. Alright, are you ready?
+わぁ、ちょっと待って。|心の準備をさせて。=Wah, one second! I need to mentally prepare myself--
+いいよ。いくよ。=I’m ready. Let’s go.
+せーの！=One, two...!
+誰？|大事な時に何で花火なの？=Who’s shooting fireworks as this crucial moment?
+あ……そういえば、|極夜の花火が余ってるとか|理事長言ってたっけ……=Ah... Now you mention it, I remember the headmaster saying there was a surplus of fireworks from the Polar Night. 
+なんでこんな時に……=Why now...?
+でも、僕には君の言葉が|ちゃんと聞こえたよ。=But I heard what you said.
+ええっ！私は|一条センパイの言葉、|聞こえなかったです！=Huh!? I didn’t catch a word of what you said!
+もう一度言ってください！=Please say it again!
+だめだよ。|こういう事は大事な時にしか|言わないんだ。ナイショだよ。=I can’t. You can only say these things when the time is right. I’m not telling.
+そんな……センパイ、|イジワルしないでください。=No way... Don’t be mean.
+大丈夫だよ。ちゃんと|同じ言葉だったから……。=It’s okay. It was the same.
+<name>ちゃん……。=<name>...
 
-# A76CC
-それは？=
-いままで僕は、いかにして寮長|の座を得るかを考えていた。|だけどーー=
-これに代わる懸案事項が|できたんだ。=
-枢の寮長の座は揺るぎない|からね。ナイト･クラスが|ある限り変わりそうにないよ。=
-そこで考えたのが、|今の副寮長の立場をいかに|充実させるかってこと。=
+# A76CC Ichijo neutral ending (conditions unknown)
+それは……@A76CC=It’s...
+それは？=It’s?
+いままで僕は、いかにして寮長|の座を得るかを考えていた。|だけどーー=Up until now, I’ve been thinking about how to become Dorm President, but...
+これに代わる懸案事項が|できたんだ。=now I have a different issue.
+枢の寮長の座は揺るぎない|からね。ナイト･クラスが|ある限り変わりそうにないよ。=Kaname’s position as Dorm President is unshakeable. As long as the Night Class exists, it’ll always be that way.
+そこで考えたのが、|今の副寮長の立場をいかに|充実させるかってこと。=So I’ve been thinking about how I can make my current position as Vice President more fulfilling.
 はあ？=
-ただ副寮長なだけじゃ面白く|ないから役職においてサポート|的なポストを用意してーー=
-それとのコラボレーションで、|枢の寮長に匹敵するユニットを|組もうかな？=
-なんて考えているんだ。=
-なんだか、面白そうですね。=
-うん。新しく併設する役職名も|決まったんだ。=
-え～何ですか？何ですか？=
-それはね……=
-それは……？=
-『寮母さん』。=
-あ、『副寮長』と|『寮母さん』のペアだと|あまりバランスが良くないね。=
-『寮長』は既に殿堂入りだから|そのうち『副寮長』を|『寮父さん』に進化させよう。=
-そうするとバランスがいいよ。|『寮父と寮母』これぞ、生涯を|通してのペアって感じだね。=
-はあ…………。=
-じゃあ、よろしくね。|『寮母』さん。=
-えっ！私ですか？！=
+ただ副寮長なだけじゃ面白く|ないから役職においてサポート|的なポストを用意してーー=Just being the vice president isn’t very exciting, so I thought if I set up a support role...
+それとのコラボレーションで、|枢の寮長に匹敵するユニットを|組もうかな？=I could collaborate with them to make a unit that would rival Kaname’s presidency.
+なんて考えているんだ。=Or, so I’ve been thinking~
+なんだか、面白そうですね。=That sounds kind of interesting.
+うん。新しく併設する役職名も|決まったんだ。=Yeah! I also came up with a name for the new post. 
+え～何ですか？何ですか？=Oooh? What? What it is?
+それはね……=Well, it’s...
+それは……？=It’s...?
+『寮母さん』。=“Dorm Matron”.
+あ、『副寮長』と|『寮母さん』のペアだと|あまりバランスが良くないね。=Ah, I guess “Vice President” and “Dorm Matron” don’t sound like a very balanced pair.
+『寮長』は既に殿堂入りだから|そのうち『副寮長』を|『寮父さん』に進化させよう。=The “Dorm President” is already an established name, so let’s make “Vice President” into “Dorm Patron”. 
+そうするとバランスがいいよ。|『寮父と寮母』これぞ、生涯を|通してのペアって感じだね。=Then things will balance out nicely. Dorm Patron and Dorm Matron, a pair for life.
+はあ…………。=Right...
+じゃあ、よろしくね。|『寮母』さん。=Well, I’m counting on you, Miss “Matron”!
+えっ！私ですか？！=Huh!? Me!?
 
-# A7B3C
-いかにして寮長の座を得るか？|これに代わる懸案事項なし|だね。=
-どんなにシミュレーション|しても枢の寮長の座は揺るぎ|ないからね。=
-それだけ、なんだかんだ|言ってもやっぱり、枢って|偉大なんだよ。=
-やっぱり、もっといろんなこと|を勉強しないとね。=
-今まで以上に、僕の読書ライフ|を充実させなくちゃ！=
-君も手伝って、くれるかい？=
-何がですか？=
-ヴァンパイアの歴史について|一から学ぼうと思うんだ。=
-しっかり学んで、純血種の|何たるかを知りーー=
-仲良くする方法や、言うことを|聞いて貰えそうなポイントを|研究するのさ。=
-これって、君の夢の実現にも|役立つんじゃない？=
-相手の事を知らなければ、|へたすれば話だって|噛み合わないよ。=
-そうですか……。=
-家から取り寄せるから、日課|として月明かりの下、毎晩一緒|にだまって読書をする。=
-これが地道な一歩だよね。=
-ええっ？|楽しいおしゃべりの日々は？=
-無知ほど恐ろしい事はない|からね。何事も勉強だよ。|うんうん。=
-知りたいこと、おもしろそうな|事が世の中にはまだまだ|いっぱいだ！！=
-さぁ、|これからも一緒に頑張ろう！=
-そんなぁ～。=
+# A7B3C Ichijo bad ending (give him the black rose)
+いかにして寮長の座を得るか？|これに代わる懸案事項なし|だね。=How can I become Dorm President? Nothing could be more important.
+どんなにシミュレーション|しても枢の寮長の座は揺るぎ|ないからね。=Even when I come up with different scenarios, Kaname’s position as Dorm President is too unshakeable.
+それだけ、なんだかんだ|言ってもやっぱり、枢って|偉大なんだよ。=No matter how I put it, that alone proves how great Kaname is.
+やっぱり、もっといろんなこと|を勉強しないとね。=I guess I have no choice but to study more.
+今まで以上に、僕の読書ライフ|を充実させなくちゃ！=I’ll have to enrich my reading life even more than before!
+君も手伝って、くれるかい？=Will you help me?
+何がですか？=With what?
+ヴァンパイアの歴史について|一から学ぼうと思うんだ。=I’m thinking I should study about the history of vampires again from scratch.
+しっかり学んで、純血種の|何たるかを知りーー=I’ll study hard, so I can truly get a grasp on purebloods...
+仲良くする方法や、言うことを|聞いて貰えそうなポイントを|研究するのさ。=and research points on how to get along with them and how to get them to listen.
+これって、君の夢の実現にも|役立つんじゃない？=Wouldn’t that be helpful for your dream too?
+相手の事を知らなければ、|へたすれば話だって|噛み合わないよ。=If you don’t know the other person well, you won’t be able to talk to them on the same page.
+そうですか……。=That’s true...
+家から取り寄せるから、日課|として月明かりの下、毎晩一緒|にだまって読書をする。=I’ll get some books from home, so we can spend every night reading together in the moonlight as part of a daily routine.
+これが地道な一歩だよね。=It’s a solid first step, right?
+ええっ？|楽しいおしゃべりの日々は？=Huh? What about spending time having nice chats?
+無知ほど恐ろしい事はない|からね。何事も勉強だよ。|うんうん。=There’s nothing more frightening than feeling ignorant. I have to learn everything. Yeah, that’s the way!
+知りたいこと、おもしろそうな|事が世の中にはまだまだ|いっぱいだ！！=There are still so many interesting things in the world that I want to know about!
+さぁ、|これからも一緒に頑張ろう！=Let’s keep doing our best!
+そんなぁ～。=This can’t be happening...
 
 # A5BF0 Chapter 7 Shiki
 支葵センパイ？！|……どうしたんですか？=
@@ -14824,7 +14707,7 @@ Sleep well...
 それも大事なことだ。=It’s important.#qc
 お前の幸せを願う者が、|意外と多いことを忘れるな？|それだけだ。=Remember that there’s other people out there hoping for your happiness. Quite a few, in fact. That’s all I wanted to say.
 
-# A2C50
+# A2C50 Shiki dance party
 あ、来た。=
 どうですか？今夜のドレス。=
 うん、似合ってる。=
@@ -15124,197 +15007,197 @@ Sleep well...
 しっ、失礼です！=
 まぁいいか。|決めるのは君だから……=
 
-# A41B8
-おっ、来たのか。|楽しんで来いよ。=
-もしかして、夜刈先生も|出られるんですか？=
-はっ、冗談だろ。|俺があいつらのお楽しみに参加|するなんて、ありえねえ。=
-あの……私……|先生と踊りたいです。=
-俺と？一体どうしたんだ？|もしかしてあの理事長に|何か言われたとか？=
-茶化さないでください。|私は本気です！=
-そうか……。|じゃあ、あいつらには悪いが|姫は頂く事としようか。=
-先生！=
-ただし、場所を変えるぞ。|いいな。=
-お前の気持ちに応えるため、|俺も紳士として接する。=
-今夜は、先生と生徒じゃない。|男と女だ。=
-<unk1>はい。男と女です！=
-ふっ、そんなまっすぐに|返されると調子が狂うぜ。=
+# A41B8 Yagari dance party
+おっ、来たのか。|楽しんで来いよ。=Oh, you’re here? I hope you have fun.
+もしかして、夜刈先生も|出られるんですか？=Aren’t you going to join in, Mr. Yagari?
+はっ、冗談だろ。|俺があいつらのお楽しみに参加|するなんて、ありえねえ。=You’ve got to be kidding. There’s no way I’d join in with that lot.
+あの……私……|先生と踊りたいです。=Um... I... wanted to dance with you.
+俺と？一体どうしたんだ？|もしかしてあの理事長に|何か言われたとか？=With me? What’s that about? Did the headmaster say something to you?
+茶化さないでください。|私は本気です！=Please don’t make fun of me. I’m being serious here!
+そうか……。|じゃあ、あいつらには悪いが|姫は頂く事としようか。=I see... Well, I feel sorry for them, but I guess I’ll escort you, Princess.
+先生！=Mr. Yagari!
+ただし、場所を変えるぞ。|いいな。=But, not here. Okay?
+お前の気持ちに応えるため、|俺も紳士として接する。=I’ll be a gentleman in response to your feelings.
+今夜は、先生と生徒じゃない。|男と女だ。=Tonight, we’re not teacher and pupil. We’re man and woman.
+<unk1>はい。男と女です！=<unk1>Yes, as man and woman!
+ふっ、そんなまっすぐに|返されると調子が狂うぜ。=Heh, it won’t work if you reply so straightforwardly like that.
 
 # A177C
-楽しめたか？小娘。=
-今夜は男と女でしたよね。|小娘はやめて下さい。=
-ああ悪かった。<name>。|今日のお前は悪くないぜ。=
+楽しめたか？小娘。=Are you having fun, girl?
+今夜は男と女でしたよね。|小娘はやめて下さい。=We’re facing each other as a man and woman tonight, aren’t we? Don’t call me girl.
+ああ悪かった。<name>。|今日のお前は悪くないぜ。=Ah, sorry <name>. You’re not bad tonight.
 
 # A1548
-<unk1>今夜は男と女でしたよね。|小娘はやめて下さい。=
+<unk1>今夜は男と女でしたよね。|小娘はやめて下さい。=<unk1>We’re facing each other as a man and woman tonight, aren’t we? Don’t call me girl.
 
 # A0934
-ありがとうな……|楽しい夜だったよ。=
+ありがとうな……|楽しい夜だったよ。=Thank you... I had a fun night.
 
 # A0A90
-これを俺に？悪いな。=
+これを俺に？悪いな。=You’re giving this to me? Thanks.
 
 # A0C28
-こ、これは……。=
+こ、これは……。=T-This is...
 
 # A4638
-結局パーティーに行かずじまい|だったな。よかったのか？=
-<unk1>ああ……みんなには悪いこと|しちゃったな……=
-まあいい。どうせ目の敵に|されるのは俺だ。俺に強引に|誘われたとでも言っておけ。=
-<unk1>そんな……=
-いいんだ。別にあいつらに|恨まれるのは望むところだ。=
-それに、お前が楽しかった|なら、それでいい。=
-<unk1>夜刈先生……=
-<unk1>いつまで、復讐をつづけるの|ですか？なんだか、終わりが|無いような……=
-さあ、どうだろうな。|ハンターでない自分は|想像できないしな。=
-<unk1>不器用なんですね……=
-ん？何だ。小娘が生意気な|口きいて。さあ、男と女は|ここまでだ。=
-こんな夜に、無粋な話題は|もういい。|さあ、もう帰って寝た寝た。=
-おやすみ。|良い夢、見るんだぞ。=
+結局パーティーに行かずじまい|だったな。よかったのか？=In the end, you didn’t get to go to the party. Is that okay?
+<unk1>ああ……みんなには悪いこと|しちゃったな……=<unk1>Yeah... I do feel a bit guilty, but...
+まあいい。どうせ目の敵に|されるのは俺だ。俺に強引に|誘われたとでも言っておけ。=Oh well. They’d only blame me anyway. Just tell them that I forced you to come with.
+<unk1>そんな……=<unk1>That’s...
+いいんだ。別にあいつらに|恨まれるのは望むところだ。=It’s fine. Being resented by them suits me just fine.
+それに、お前が楽しかった|なら、それでいい。=And if you had a good time, that’s all that matters.
+<unk1>夜刈先生……=<unk1>Mr. Yagari...
+<unk1>いつまで、復讐をつづけるの|ですか？なんだか、終わりが|無いような……=<unk1>How long will you continue to seek revenge? It seems like there’s no end in sight...
+さあ、どうだろうな。|ハンターでない自分は|想像できないしな。=I don’t know. I can’t imagine myself not being a hunter.
+<unk1>不器用なんですね……=<unk1>You don’t really have many social skills, do you?
+ん？何だ。小娘が生意気な|口きいて。さあ、男と女は|ここまでだ。=Hm? What’s with all the cheeky talk, little girl? So much for being a man and woman.
+こんな夜に、無粋な話題は|もういい。|さあ、もう帰って寝た寝た。=Enough with the tasteless talk on a fine evening like this. Hurry up and go to bed.
+おやすみ。|良い夢、見るんだぞ。=Good night. Sweet dreams.
 
 # A69DC
-眠れない……。=
-あの人のことが気になって|眠れないよ。=
-逢いたい……。=
-もしかすると、まだいるかも…|行こう……そして、この気持ち|を伝えよう。=
-夜刈先生！=
-どうした？こんな夜中に……|もどってきたのか？=
-先生もなぜここに？=
-ああ、ナイト･クラスの連中を|まいて来たのさ。=
-校舎にもどったら、案の定、|奴らカンカンだったぜ！=
-<name>を連れ出したのは俺だ！|って宣言してやったからな。|ハハハ。=
-ハハハじゃないですよ。|どうしてそんな火に油を注ぐ|様なことを……=
-私の為なんですね……。=
-大げさに言ってるだけさ。|気にすんな。=
-それで、お前は|なにしに来たんだ？=
-私……。|先生に逢いたくて……。|伝えたい事があって……=
-…………わかった。|お前も立派なレディって訳か。|で、何を伝えたいんだ？=
-……お前と初めて会ったときは|零の奴が大変な事になって|いた。=
-はい。夜刈先生がすごく冷静|で…零を本当に処刑しちゃう|のかと思って………=
-ふっ…。冷静だったわけじゃ|ねぇよ。あいつの、あんな姿は|見たくなかったしな……=
-そうですか。|そうですよね……。=
+眠れない……。=I can’t sleep.
+あの人のことが気になって|眠れないよ。=My mind is too occupied with thoughts of him...
+逢いたい……。=I want to see him...
+もしかすると、まだいるかも…|行こう……そして、この気持ち|を伝えよう。=He might still me there... I’m going to go, and I’ll tell him how I feel!
+夜刈先生！=Mr. Yagari!
+どうした？こんな夜中に……|もどってきたのか？=What are you doing back here so late?
+先生もなぜここに？=I could ask you the same.
+ああ、ナイト･クラスの連中を|まいて来たのさ。=I’m giving the Night Class the slip.
+校舎にもどったら、案の定、|奴らカンカンだったぜ！=When I got back to the school building, sure enough, they were all mighty pissed.
+<name>を連れ出したのは俺だ！|って宣言してやったからな。|ハハハ。=So I shouted, “I’m the one who took <name>! Hahaha.
+ハハハじゃないですよ。|どうしてそんな火に油を注ぐ|様なことを……=This isn’t a laughing matter! Why would you go and add more fuel to the fire...
+私の為なんですね……。=It was for me, wasn’t it?
+大げさに言ってるだけさ。|気にすんな。=You’re overthinking. Don’t let it get to you.
+それで、お前は|なにしに来たんだ？=So, why are you here?
+私……。|先生に逢いたくて……。|伝えたい事があって……=I... wanted to see you. There’s something I have to tell you.
+…………わかった。|お前も立派なレディって訳か。|で、何を伝えたいんだ？=...I get it. You’ve turned into a real lady, haven’t you? So, what did you want to say?
+……お前と初めて会ったときは|零の奴が大変な事になって|いた。=...When we first met, Zero was in a right state.
+はい。夜刈先生がすごく冷静|で…零を本当に処刑しちゃう|のかと思って………=Yeah... You were very calm... I really thought you were going to kill him. 
+ふっ…。冷静だったわけじゃ|ねぇよ。あいつの、あんな姿は|見たくなかったしな……=Heh... I wasn’t calm at all. I never wanted to see him like that.
+そうですか。|そうですよね……。=Right... Of course.
 
 # A1C4C
-そういや<name>とは骨董市に|いった事もあったな。=
-あのときの、|ハンター協会のイヤな感じは|よく覚えています。=
-そういうな。|あれでも俺の職場だ。=
-職場と言えば、先生の|ナイト･クラスでの|授業は忘れられません。=
+そういや<name>とは骨董市に|いった事もあったな。=Come to think of it, we went to that antique market too.
+あのときの、|ハンター協会のイヤな感じは|よく覚えています。=I still remember how uncomfortable it was in the Hunter Society’s Headquarters.
+そういうな。|あれでも俺の職場だ。=That’s the way it is. That’s where I work.
+職場と言えば、先生の|ナイト･クラスでの|授業は忘れられません。=Speaking of work, I’ll never forget your lesson with the Night Class.
 
 # A23C0
-ああ、俺も教師になったから|には、あれを一度はやって|みたいと思っていた。=
-よく覚えている。=
-えっ？あれって何ですか？=
-出来の悪い生徒にバケツを|持たせて廊下に立たせる。=
-ベタだが、教師なら恐らく|誰もがあこがれる指導だろ？=
-そ、そうですか？=
+ああ、俺も教師になったから|には、あれを一度はやって|みたいと思っていた。=Yeah, I always wanted to do that at least once, now that I’m a teacher.
+よく覚えている。=I remember it well.
+えっ？あれって何ですか？=Huh? What’s that?
+出来の悪い生徒にバケツを|持たせて廊下に立たせる。=Making a naughty student stand in the hallway with a bucket.
+ベタだが、教師なら恐らく|誰もがあこがれる指導だろ？=It’s cliche, but it’s probably the kind of thing every teacher longs to do.
+そ、そうですか？=I-Is that right?
 
 # A324C
-とにかくハードすぎる授業|でしたね。=
-そうか？あれはあれで|俺もあいつらも楽しんで|やってるんだぞ。=
-（誰かと同じ事言ってる……）=
-そうそう、忘れられないのは、|無人島での先生。=
-あんなにおなかをすかしていた|なんて……現れたときは、|本当の猛獣かと思いましたよ。=
-ん？それは何の話だ？=
-（あ！あれは夢の話だった！）=
-あ、すいません！|こっちの勘違いで……=
-女の子の妄想ってやつか？ |ボケ理事長といい勝負だぞ。=
+とにかくハードすぎる授業|でしたね。=But, wasn’t that class too hard?
+そうか？あれはあれで|俺もあいつらも楽しんで|やってるんだぞ。=You think? That aside, we both had our fun.
+（誰かと同じ事言ってる……）=(Are we talking about the same thing...?)
+そうそう、忘れられないのは、|無人島での先生。=Oh right! I’ll never forget seeing you on that deserted island!
+あんなにおなかをすかしていた|なんて……現れたときは、|本当の猛獣かと思いましたよ。=You were so hungry... When I saw you there, I really thought you were a beastman!
+ん？それは何の話だ？=Hm? What are you on about?
+（あ！あれは夢の話だった！）=(Ah! That was just a dream, wasn’t it?!)
+あ、すいません！|こっちの勘違いで……=I’m sorry! It was my mistake!
+女の子の妄想ってやつか？ |ボケ理事長といい勝負だぞ。=Is that what you call a girlish fantasy? You’re a good match for that idiot headmaster.
 
 # AAB5C
-そして……チビの事。=
-先生は知っていたんですね。|私に最初から、受け止める|勇気があればーー=
-みんなに心配かけないですんだ|のに……。=
-……気にするな。お前が気に|病むことじゃねえよ。それより|ショックだったろう……=
-はい…………=
-人とヴァンパイアの共存には、|避けて通れない現実がある。=
-それを片づけていくのが、|俺の役目だ。もっとも、結局は|ただの復讐な気もするが。=
-でも、レベル：Ｅは人間の|なれの果て。少し事情が違い|ますよね。=
-俺は、もう幾度となくこの目で|見てきた。愛していた者が突然|レベル：Ｅになる様を。=
-家族や、恋人がどんなに|悲しんだところでーー=
-命を受ければ俺たちハンターは|レベル：Ｅを狩らなければなら|ない。=
-見なれた光景のはずだが……|こんな俺でも心が痛むことが|あるんだぜ……=
-ヴァンパイアと関わるとは|そういう事だ。人としての|悲しみは避けて通れないのさ。=
-ん…？=
-その事は、零の件から|覚悟できています。=
-そうか……さすがは、|黒主の義娘だな。=
-お前は強いな。俺は安心して|ここを去っていける。=
-えっ？夜刈先生、|行ってしまうんですか？=
-ああ、どうやら少し|長居しすぎた様だ。=
-お前を始め、他の奴らと|いろいろと関わりすぎた。=
-そんな！|先生、行かないでください！=
-……関わっちまうと|後が辛くなる。そう思ったとき|が潮時なんだ。=
-明けたらすぐに立つ。|ボケ理事長によろしくな。=
-短い間だったが迷惑かけたな。|いろいろと楽しかったぜ。=
-私……私、|先生の事が好きです！|夜刈先生の事が大好きです！=
-はっ、|小娘がなにぬかしやがる。=
-私も一緒に連れて行って|ください！=
-……本気なのか？なら言ってお|く。いいか…よく聞け。お前は|お前自身の幸せや夢を考えろ。=
-俺のような奴や他人に|惑わされるんじゃない。=
-自分にとって何が大切なのか、|よく考えるんだな。=I’ve been thinking
-先生！私、明日の朝、|校門で待ってますから…|迎えに来てください！=
-ここから先、俺とお前は、|教師と生徒ではない。=
-ヴァンパイアに関わりつつも|異なる志を持つ者だ。|さっきの言葉ーー=
-冗談だとしても有難く|受け取っておくよ。=
-ちょっとだけ甘い夢を見させて|もらったよ。じゃあな。=
-（それでも……|私は夜刈先生が好きでした。）=
-（明け方早く……朝靄のかかる|頃、私は、正門の前でーー）=
-（ひたすら先生が迎えに来て|くれるのをまちました……）=
+そして……チビの事。=And... Chibi.
+先生は知っていたんですね。|私に最初から、受け止める|勇気があればーー=You knew, didn’t you? If only I’d had the courage to accept it then...
+みんなに心配かけないですんだ|のに……。=I wouldn’t have ended up worrying everyone.
+……気にするな。お前が気に|病むことじゃねえよ。それより|ショックだったろう……=Don’t worry about it. It’s not something you should trouble yourself with. I’m sure it was a big shock.
+はい…………=Yes...
+人とヴァンパイアの共存には、|避けて通れない現実がある。=That’s the unavoidable reality of human and vampire coexistence.
+それを片づけていくのが、|俺の役目だ。もっとも、結局は|ただの復讐な気もするが。=It’s my job to clean them up. But in the end, I guess it is just about revenge.
+でも、レベル：Ｅは人間の|なれの果て。少し事情が違い|ますよね。=But Level: E’s are ex-human’s aren’t they? Isn’t it a little different?
+俺は、もう幾度となくこの目で|見てきた。愛していた者が突然|レベル：Ｅになる様を。=I’ve seen it many a time before. A loved one suddenly turning into Level E’s.
+家族や、恋人がどんなに|悲しんだところでーー=No matter how sad their families and partners might be...
+命を受ければ俺たちハンターは|レベル：Ｅを狩らなければなら|ない。=If we receive the order, we hunters have no choice but to hunt Level E.
+見なれた光景のはずだが……|こんな俺でも心が痛むことが|あるんだぜ……=I should be used to it... but there are times when even I am left hurting.
+ヴァンパイアと関わるとは|そういう事だ。人としての|悲しみは避けて通れないのさ。=This is what it means to be involved with vampires. As a human, being faced with sadness is an inescapable fact. 
+ん…？=Hm...?
+その事は、零の件から|覚悟できています。=I know what’s going to happen to Zero, and I’m ready.
+そうか……さすがは、|黒主の義娘だな。=I see... I’d expect nothing less from Cross’ adopted daughter.
+お前は強いな。俺は安心して|ここを去っていける。=You’re strong. I can leave this place with peace of mind.
+えっ？夜刈先生、|行ってしまうんですか？=Huh? You’re leaving?
+ああ、どうやら少し|長居しすぎた様だ。=Yeah. It seems I stayed here a little too long.
+お前を始め、他の奴らと|いろいろと関わりすぎた。=I got too involved with you and the others.
+そんな！|先生、行かないでください！=You can’t! Please don’t leave, Mr. Yagari!
+……関わっちまうと|後が辛くなる。そう思ったとき|が潮時なんだ。=When you get involved... things start to hurt. That’s how you know it’s time to move on.
+明けたらすぐに立つ。|ボケ理事長によろしくな。=I’ll be on my feet as soon as the sun’s up. Give my regards to that idiot headmaster.
+短い間だったが迷惑かけたな。|いろいろと楽しかったぜ。=Sorry for the trouble I caused you in the short time I was here. It was fun.
+私……私、|先生の事が好きです！|夜刈先生の事が大好きです！=I-I... like you! I love you, Mr. Yagari!
+はっ、|小娘がなにぬかしやがる。=Hah. You seem to be missing the obvious, girl.
+私も一緒に連れて行って|ください！=Please take me with you!
+……本気なのか？なら言ってお|く。いいか…よく聞け。お前は|お前自身の幸せや夢を考えろ。=Are you being serious? Then, let me give you a piece of advice. Listen up. You need to think about your own happiness and your dream.
+俺のような奴や他人に|惑わされるんじゃない。=Don’t let yourself get misled by people like me or others.
+自分にとって何が大切なのか、|よく考えるんだな。=You need to think about what’s important to you.
+先生！私、明日の朝、|校門で待ってますから…|迎えに来てください！=I’ll be waiting for you at the school gate tomorrow morning... so please come and get me!
+ここから先、俺とお前は、|教師と生徒ではない。=We’re not teacher and student any more.
+ヴァンパイアに関わりつつも|異なる志を持つ者だ。|さっきの言葉ーー=We’re twp people who are both involved with vampires but have different aspirations. What you just said...
+冗談だとしても有難く|受け取っておくよ。=Even if it’s a joke, I’ll take it to heart.
+ちょっとだけ甘い夢を見させて|もらったよ。じゃあな。=It was only short, but it was a sweet dream. See you.
+（それでも……|私は夜刈先生が好きでした。）=(Even so... I like him.)
+（明け方早く……朝靄のかかる|頃、私は、正門の前でーー）=(Early in the morning, as the mist slowly lifted, I stood in front of the main gate.)
+（ひたすら先生が迎えに来て|くれるのをまちました……）=(Earnestly waiting for the him to come and pick me up...)
 
-# A4718
-お前には負けたよ。=
-後悔しないというのか？=
-俺は恐らくお前の夢は|かなえられない。=
-ハンターとして、ヴァンパイア|を始末することをやめるつもり|は毛頭ない。=
-それでもいいんだな？=
-はい。これからは、あなたと|共に夢を作っていきたい。=
-命の保証もないし、|敵は多いぞ。=
-はい…覚悟しています。=
-（新しい日の始まりを|知らせる朝日が昇る中、|私たちは旅立った……）=
-（２人の物語は今、始まった|ばかりだ。）=
-<name>……来るか？=
-夜刈先生……はい！=
+# A4718 Yagari good ending (don’t blame him for Chibi’s death)
+お前には負けたよ。=I lose. You win.
+後悔しないというのか？=Are you sure you won’t regret this?
+俺は恐らくお前の夢は|かなえられない。=I doubt that I could ever make your dream come true.
+ハンターとして、ヴァンパイア|を始末することをやめるつもり|は毛頭ない。=As a hunter, I don’t have the slightest intention of giving up killing vampires.
+それでもいいんだな？=Are you okay with that?
+はい。これからは、あなたと|共に夢を作っていきたい。=Yes, I am. From now on, I want to make my dream come true with you.
+命の保証もないし、|敵は多いぞ。=I can’t guarantee your safety, and you’ll have a lot of enemies.
+はい…覚悟しています。=I know... I’m ready.
+（新しい日の始まりを|知らせる朝日が昇る中、|私たちは旅立った……）=(As the morning sun rose, signaling the start of a brand new day, we set off...)
+（２人の物語は今、始まった|ばかりだ。）=(Our story together has just begun.)
+<name>……来るか？=You coming, <name>?
+夜刈先生……はい！=Yes, Mr. Yagari!
 
-# A6A84
-（待てども待てども……|結局、夜刈先生は現れません|でした……）=
-（寮に戻った私は、理事長に|呼び出され一通の手紙を渡され|ました。）=
-（夜刈先生からの|手紙でした……）=
-『<last><name>へ。|正直、夕べの告白は驚いた。=
-そして、同時に嬉しく思った。=
-だが、俺はお前に常に危険と|隣り合わせの生き方をさせる|わけにはいかない。=
-お前のことをかわいいと思えば|なおさらだ。=
-<name>には大事な家族がいて|仲間がいる。そいつらの思いを|裏切ってはいけないだろう。=
-何よりもお前の夢を、この場所|で叶えてほしい。=
-俺のことなら心配いらない。|どこかの空の下で生きている。=
-時々思い出すこともあるかも|しれないが、まあ、そんなもん|だと思えばいい。=
-そして、<name>の夢が実現|したときーー=
-その時、俺はハンターではない|ただの男としてお前の前に現れ|よう。=
-その日が|来ることを願っている。=
-追伸：|零の事をよろしくたのむ。|　　　　　　　　夜刈　十牙』=
-（私は理事長の前ながら、|思いっきり泣きました。）=
-（理事長もなぜか、思いっきり|泣いていました。）=
-（こうして、私の恋は、|ほろ苦い終わりを迎えました）=
-（まるで、初めて作った|あのチョコの味の様に……）=
+# A6A84 Yagari bad ending (blame him for Chibi’s death, regardless of the rose.)
+（待てども待てども……|結局、夜刈先生は現れません|でした……）=(I waited and waited, but Mr. Yagari never came...)
+（寮に戻った私は、理事長に|呼び出され一通の手紙を渡され|ました。）=(When I got back to the dormitory, the headmaster called me and gave me letter.)
+（夜刈先生からの|手紙でした……）=(It was a letter from Mr. Yagari.)
+『<last><name>へ。|正直、夕べの告白は驚いた。=“To <name><last>,|To be honest, I was surprised by your confession last night.
+そして、同時に嬉しく思った。=And, at the same time, happy.
+だが、俺はお前に常に危険と|隣り合わせの生き方をさせる|わけにはいかない。=But I can’t let you live in constant danger,
+お前のことをかわいいと思えば|なおさらだ。=even more so because I think of you as dear.
+<name>には大事な家族がいて|仲間がいる。そいつらの思いを|裏切ってはいけないだろう。=You have family and friends who treasure you. You can’t betray their feelings, can you?
+何よりもお前の夢を、この場所|で叶えてほしい。=More than anything else, I want you to make your dreams come true here.
+俺のことなら心配いらない。|どこかの空の下で生きている。=Don’t worry about me. I’ll be alive somewhere under the sky.
+時々思い出すこともあるかも|しれないが、まあ、そんなもん|だと思えばいい。=You might end up thinking about me from time to time, but, well, you can just think about it as one of those things.
+そして、<name>の夢が実現|したときーー=And when your dream comes true...
+その時、俺はハンターではない|ただの男としてお前の前に現れ|よう。=I will appear in front of you, not as a hunter, but as a man.
+その日が|来ることを願っている。=I hope that day will come.
+追伸：|零の事をよろしくたのむ。|　　　　　　　　夜刈　十牙』=P.S. Please take care of Zero for me.|　　　　　　　　Toga Yagari.
+（私は理事長の前ながら、|思いっきり泣きました。）=(I cried without restrain as I stood in front of the headmaster.)
+（理事長もなぜか、思いっきり|泣いていました。）=(For some reason, he was also crying too.)
+（こうして、私の恋は、|ほろ苦い終わりを迎えました）=(And so, my love came to a bittersweet end.)
+（まるで、初めて作った|あのチョコの味の様に……）=(Just like the taste of my first homemade chocolate...)
 
-# A8104
-お前……本気なのか？=
-一緒に来るなんて、自ら命を|投げ出してるようなもんだ。=
-チッ……よりによって|こんな時に……|言わんこっちゃない！=
-援護してくれ！頼んだぞ！=
-クッ！=
-うっ！=
-クソッ！=
-ううっ！=
-ダメだ……数が多い！|お前は逃げろ！=
-そんな、イヤです！=
-ここは俺が引きつける！|いいから行け！行くんだ！=
-イヤ！！=
-こんな時に大人を困らせる|もんじゃないぜ！|いい子だ、<name>！=
-お前はいい女になるぜ…|死ぬなよ！=
-夜刈先生！！=
-（新しい日の始まりを|知らせる朝日が昇る中、|戦いは終わった……）=
-（異変を察知してくれた零や|枢センパイたちが駆けつけて|くれたけど……）=
-（消え去ったレベル：Ｅと共に|あの人の姿も消えていた。）=
-（もう少し私が強ければ……|もう少し私に力があれば……）=
-（どこにいってしまったの？|あの人は）=
-私は信じている。|先生はきっと生きている。|信じて待とう。いつまでも……=
+# A8104 Yagari neutral ending (conditions unknown)
+お前……本気なのか？=Are you... serious?
+一緒に来るなんて、自ら命を|投げ出してるようなもんだ。=If you come with me, it’s the same as throwing your life away.
+チッ……よりによって|こんな時に……|言わんこっちゃない！=Tch... Now, of all times... Don’t say I didn’t warn you!
+援護してくれ！頼んだぞ！=Cover me! I’m counting on you!
+クッ！=Gah!
+うっ！=Ngh!
+クソッ！=Damn it!
+ううっ！=Uaah!
+ダメだ……数が多い！|お前は逃げろ！=It’s no good... There’s too many of them. You need to run!
+そんな、イヤです！=I won’t do that!
+ここは俺が引きつける！|いいから行け！行くんだ！=I’ll draw them away from here! You run! Just go!
+イヤ！！=No!!
+こんな時に大人を困らせる|もんじゃないぜ！|いい子だ、<name>！=Now’s not the time to mess with the grown-ups! You’re a good girl, <name>!
+お前はいい女になるぜ…|死ぬなよ！=You’re going to become a fine woman... Don’t you die!
+夜刈先生！！=Mr. Yagari!!
+（新しい日の始まりを|知らせる朝日が昇る中、|戦いは終わった……）=(As the morning sun rose, signaling the start of a brand new day, the battle ended.)
+（異変を察知してくれた零や|枢センパイたちが駆けつけて|くれたけど……）=(Zero and the others rushed to my aid, sensing that something was wrong, but...)
+（消え去ったレベル：Ｅと共に|あの人の姿も消えていた。）=(Both the Level E, and Mr. Yagari had vanished.)
+（もう少し私が強ければ……|もう少し私に力があれば……）=(If only I was stronger... If I only more power...!)
+（どこにいってしまったの？|あの人は）=(Where did he go?)
+私は信じている。|先生はきっと生きている。|信じて待とう。いつまでも……=I believe in him. He’s still alive. I will have faith and wait, for as long as it takes... 
 
 # A180C low intimacy Zero bloodlust
 自分が嫌になる………|この渇きを抑え続けてみせると|自分に誓っていたのに…=I hate myself... Even though I swore to myself that I’d keep this thirst under control...
@@ -15923,13 +15806,13 @@ Sleep well...
 うん、わかった。|迷惑かけちゃったね。=Yeah, I get it. I’ve caused you trouble.
 
 # A0E18
-枢に何て言えばいいのかな……=
+枢に何て言えばいいのかな……=I don’t know what I’m going to tell Kaname.
 
 # A0AB0
-錐生君には、内緒だね。=
+錐生君には、内緒だね。=This is a secret from Kiryu.
 
 # A0EDC
-こんな事になるなんて……|なんだかドキドキする。=
+こんな事になるなんて……|なんだかドキドキする。=For things to turn out like this... my heart is racing.
 
 # A16E0 Ichijo high intimacy bloodlust chapter 3
 手、握っていいかな？=Can I hold your hand?
@@ -16171,3 +16054,121 @@ Sleep well...
 
 # A0918
 咬ませる場所をタッチして|ください。一度咬まれた場所は|再度選択する事はできません。=Choose a location to be bitten. Once bitten, you cannot choose to be bitten in the same location again.
+
+# AB3E4 leftover text from Hoshizora no Comic Garden
+最後の作業だ！|気を抜かないでやるぞ。=
+最後の作業だよ、|落ち着いていこう。=
+最後の作業だよ！|心を込めてやるよ。=
+
+# AB4A8
+うん、まあまあかな。|でも、|もっと描いてみたいかな……。=
+悪くないかな。|でももっと上手くなるように|もう一度やってみようかな？=
+まずまずの出来。|ここは、これでいいかな。=
+
+# AB56C
+落ち着いて、丁寧にやれば|結果、早くできるんだ。=
+集中……集中……。|無心でやるんだ。=
+轟木先生の様に、|気合いを入れて！|どうりゃー！！=
+
+# AB630
+よしっ！完璧だ！|一生懸命やったかいが|あったよ！=
+きたっ！凄いよ！|自分でも信じられない|くらいの出来だ！=
+画竜点睛！！|まるで轟木先生が|乗り移ったかの様な出来だよ！=
+
+# AB6F4
+わぁ、もう時間がないよ！=
+時間がない！急がなきゃ！=
+もうこんな時間！？|最後のがんばりを！=
+
+# AB7B8
+う～ん、ダメだ。|もう一度やった方が|いいかな･･････。=
+今ひとつの出来……|これでいいのかな？……。=
+うまくいかなかったみたい。|もっと描き込んだ方が|いいかも……。=
+
+# ABA04
+よしっ！うまくできたわ！=
+うん、いい感じ！=
+調子いいかも！=
+
+# ADADC
+最初は、トーン貼りだよ。=
+次は、トーン貼りだよ。=
+最後は、トーン貼りだよ。=
+
+# ADAF8
+最初は、ペン入れだよ。=
+次は、ペン入れだよ。=
+最後は、ペン入れだよ。=
+
+# ADB14
+最初は、ベタ入れだよ。=
+次は、ベタ入れだよ。=
+最後は、ベタ入れだよ。=
+
+# ADB30
+最初は、ホワイト入れだよ。=
+次は、ホワイト入れだよ。=
+最後は、ホワイト入れだよ。=
+
+# ADB4C
+最初は、トーン削りだよ。=
+次は、トーン削りだよ。=
+最後は、トーン削りだよ。=
+
+# ADB68
+最初は、ラフ描きだよ。=
+次は、ラフ描きだよ。=
+最後は、ラフ描きだよ。=
+
+# ADB84
+最初は、ホワイト吹きだよ。=
+次は、ホワイト吹きだよ。=
+最後は、ホワイト吹きだよ。=
+
+# ADBA0
+最初は、ベタフラ描きだよ。=
+次は、ベタフラ描きだよ。=
+最後は、ベタフラ描きだよ。=
+
+# ADBBC
+最初は、消しカス払いだよ。=
+次は、消しカス払いだよ。=
+最後は、消しカス払いだよ。=
+
+# ADBD8
+最初は、マンガクイズだよ。=
+次は、マンガクイズだよ。=
+最後は、マンガクイズだよ。=
+
+# ADBF4
+コマを分ける為に、ワク線を|はみ出さない様に引くんだ。|画面タッチでスタートだよ。=
+
+# ADC10
+ひいたトーン紙を絵に沿って|はみ出さない様に切るんだ。|画面タッチでスタートだよ。=
+
+# ADC2C
+ラフ線から仕上げの線を、|はみ出さない様に描くんだ。|画面タッチでスタートだよ。=
+
+# ADC48
+黒インクで塗りつぶすんだよ。|色が薄くついている辺りかな？|画面タッチでスタートだよ。=
+
+# ADC64
+ホワイト修正だよ。|黒が見えている辺りかな？|画面タッチでスタートだよ。=
+
+# ADC80
+トーンを削っていくよ。|点滅している範囲かな？|画面タッチでスタートだよ。=
+
+# ADC9C
+まずは、ラフを描いてみよう。|どの辺りから描こうかな？|画面タッチでスタートだよ。=
+
+# ADCB8
+筆に壺のホワイトをつけて、|マイクに息を吹き、細かく|綺麗な星模様を作ろう。=
+
+# ADCD4
+ベタでフラッシュ効果を描くよ|〇から×に向かって描いてね。|画面タッチでスタートだよ。=
+
+# ADCF0
+ラフ線を消した消しカスが、|いっぱい。画面外にはらおう。|画面タッチでスタートだよ。=
+
+# ADD0C
+マンガ家としての知識は、|ばっちりだったっけ？|画面タッチでスタートだよ。=

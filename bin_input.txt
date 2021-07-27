@@ -1222,304 +1222,304 @@ vk_se6_010=
 # A0BD4
 お前がこんなにも、ダンスが|上手だとは、おどろいたな。|小娘なんて言って悪かったな。=I’m surprised you’re such a good dancer. Sorry for calling you a little girl.
 
-# A1ADC
-アノ人と一緒に|踊れるなんて夢の様！=
-音符の書かれたアイコンが|枠に収まったタイミングで|右画面をタッチします。=
-長いアイコンが来た場合は、|通過するまで画面にタッチ|し続けているのも忘れずに！=
-リズムに合わせて、アノ人と|の素敵なダンスタイムを|楽しもう！=
+# A1ADC waltz minigame (from the mini-game menu)
+アノ人と一緒に|踊れるなんて夢の様！=It’s like a dream come true to be able to dance with him!
+音符の書かれたアイコンが|枠に収まったタイミングで|右画面をタッチします。=Touch the right screen when the musical note icon fits into the frame.
+長いアイコンが来た場合は、|通過するまで画面にタッチ|し続けているのも忘れずに！=When you see a long note, make sure to keep pressing until its finished!
+リズムに合わせて、アノ人と|の素敵なダンスタイムを|楽しもう！=Let’s follow the rhythm and enjoy a lovely dance with him!
 
 # A31D8　Item sorting minigame (STUDY)
-<unk1>それでは、風紀委員恒例の|持ち物検査を行います！=
-<unk1>この学園のデイ･クラスと|ナイト･クラス。=
-<unk1>お互いが気持ちよく|学園生活を送るために|大事なこと……=
-<unk1>それは、お互いを深く|詮索しない！という事です。=
-<unk1>もし、ナイト･クラスに|関する物が見つかりましたら、|没収させてもらいます！=
-<unk1>私が持ち物を返すべき|だと思ったら、|上のアイコンへ。=
-<unk1>没収すべきだと思ったら、|下のアイコンへ、=
-<unk1>アイテムをタッチペンで|スライドさせます。=
-<unk1>というわけでご理解下さい！|零には、判定をお願いね。|右画面タッチではじめるよ！=
+<unk1>それでは、風紀委員恒例の|持ち物検査を行います！=<unk1>Alright, it’s time for us prefect’s usual inspection of everyone’s belongings!
+<unk1>この学園のデイ･クラスと|ナイト･クラス。=<unk1>This academy hosts both a Day Class and a Night Class.
+<unk1>お互いが気持ちよく|学園生活を送るために|大事なこと……=<unk1>In order to respect each other’s feelings and help school life proceed smoothly...
+<unk1>それは、お互いを深く|詮索しない！という事です。=<unk1>it’s important not to pry too deeply into what’s going on in the other class.
+<unk1>もし、ナイト･クラスに|関する物が見つかりましたら、|没収させてもらいます！=<unk1>If I find anything related to Night Class, I’ll confiscate it!
+<unk1>私が持ち物を返すべき|だと思ったら、|上のアイコンへ。=<unk1>If I should return the person’s belongings, drag it to the upper icon.
+<unk1>没収すべきだと思ったら、|下のアイコンへ、=<unk1>If I should confiscate it, drag it to the lower icon.
+<unk1>アイテムをタッチペンで|スライドさせます。=<unk1>Use the stylus to drag items.
+<unk1>というわけでご理解下さい！|零には、判定をお願いね。|右画面タッチではじめるよ！=<unk1>Everyone, please cooperate!|I’m counting on you to judge, Zero.|Touch the right screen to begin!
 
 # A1128
-偉いな。ここまで|きっちりやれるなんて……=
-風紀委員の仕事……|これからも頑張ってくれ。=
+偉いな。ここまで|きっちりやれるなんて……=I’m impressed you managed to be so precise.
+風紀委員の仕事……|これからも頑張ってくれ。=Keep working hard at your job as a prefect.
 
 # A0EC8
-さすがは風紀委員だ。|もう、俺は必要ないな。=
+さすがは風紀委員だ。|もう、俺は必要ないな。=You really are a prefect. You don’t even need me anymore.
 
 # A0BAC
-気にするな、|次うまくやればいい。|頼んだぞ。=
+気にするな、|次うまくやればいい。|頼んだぞ。=Don’t worry about it, it’ll go better next time. I’m counting on you.
 
 # A0E40
-ナイト･クラスのために、|何でこんなことを……=
+ナイト･クラスのために、|何でこんなことを……=Why do we have to do this for the Night Class...?
 
 # A0D74
-お前……やる気ないだろ？|こっちにも、とばっちりが|来るんだ。頼むぞ。=
+お前……やる気ないだろ？|こっちにも、とばっちりが|来るんだ。頼むぞ。=You’re not really feeling it, are you? We’re both going to end up feeling the backlash. I need you.
 
 # A09A8
-よし。=
+よし。=Alright.
 
 # A0D48
-ＯＫ。=
+ＯＫ。=Okay.
 
 # A0B58
-返すよ。=
+返すよ。=This can go back.
 
 # A0908
-いいぞ。=
+いいぞ。=Good.
 
 # A0F1C
-違うだろ。=
+違うだろ。=That’s not it.
 
 # A0CC4
-何だそれは？=
+何だそれは？=What the--?
 
 # A0A68
-違う。=
+違う。=No.
 
 # A0EF0
-没収だ。=
+没収だ。=We’ll be taking this.
 
 # A0BF0
-俺も？=
+俺も？=Me?
 
 # A0960
-没収。=
+没収。=Confiscated.
 
 # A0EFC
-いらんだろ。=
-
+いらんだろ。=They don’t need this.
+ 
 # A0E60
-いい調子だ。=
+いい調子だ。=Looking good.
 
 # A0E74
-塩ラーメンが･･･=
+塩ラーメンが･･･=The shio ramen...
 
 # A0D68
-返してやれ。=
+返してやれ。=We’ll give this back.
 
 # A0A0C
-休むな。=
+休むな。=Don’t stop.
 
 # A0A04
-手際が悪いぞ。=
+手際が悪いぞ。=You’re too clumsy.
 
 # A259C present delivery minigame (GUARDIAN)
-<unk1>はいはい！並んで並んで！|今日は特別に、|デイ･クラスのみなさんから、=
-<unk1>ナイト･クラスへの|プレゼントを渡すことが|出来ます！=
-<unk1>ただ、ナイト･クラスの|みなさんが自由に動くと|混乱がおきますので、=
-<unk1>風紀委員の私がデイ･クラスの|みなさんに代わって|プレゼントを手渡します！=
-<unk1>名前のゲートにプレゼントが|現れたら、タッチペンで|スライドさせて、=
-<unk1>ゲートと同じ名前の|センパイにプレゼントを|渡します。=
-<unk1>それでは、|右画面をタッチしたら|はじめまーす！=
+<unk1>はいはい！並んで並んで！|今日は特別に、|デイ･クラスのみなさんから、=<unk1>Attention, please! Line up! Today is a special day,
+<unk1>ナイト･クラスへの|プレゼントを渡すことが|出来ます！=<unk1>where the Day Class can give gifts to the Night Class!
+<unk1>ただ、ナイト･クラスの|みなさんが自由に動くと|混乱がおきますので、=<unk1>But, given that it’d only cause chaos if the Night Class were free to walk about,
+<unk1>風紀委員の私がデイ･クラスの|みなさんに代わって|プレゼントを手渡します！=<unk1>as a Prefect, I will hand over the presents on the Day Class’s behalf!
+<unk1>名前のゲートにプレゼントが|現れたら、タッチペンで|スライドさせて、=<unk1>When a present appears at the name gate, drag it with the stylus,
+<unk1>ゲートと同じ名前の|センパイにプレゼントを|渡します。=<unk1>and give it to the person who it matches.
+<unk1>それでは、|右画面をタッチしたら|はじめまーす！=<unk1>|Touch the right screen to start!
 
 # A0FA0
-<unk1>よしっ！うまく渡せたぞ！=
+<unk1>よしっ！うまく渡せたぞ！=<unk1>Alright! That went well!
 
 # A0AD4
-<unk1>はいっ！センパイ！=
+<unk1>はいっ！センパイ！=<unk1>Here you go!
 
 # A0FB0
-<unk1>デイ･クラスからです！|どうぞ！=
+<unk1>デイ･クラスからです！|どうぞ！=<unk1>Here! It’s from the Day Class!
 
 # A0A94
-<unk1>いけない！間違えた！=
+<unk1>いけない！間違えた！=<unk1>Oh no, I made a mistake!
 
 # A0E94
-<unk1>ゴメンなさい！センパイ！=
+<unk1>ゴメンなさい！センパイ！=<unk1>I’m sorry!
 
 # A0FDC
-<unk1>デイ･クラスから……|すみません！=
+<unk1>デイ･クラスから……|すみません！=<unk1>It’s from the Day Class... ah, oops!
 
 # A0A14
-<unk1>いけない！|ぼおっとしちゃった！=
+<unk1>いけない！|ぼおっとしちゃった！=<unk1>Oh no! I wasn’t paying attention!
 
 # A0DA0
-<unk1>ふぅ～…………って、|休んでる場合じゃないよ！=
+<unk1>ふぅ～…………って、|休んでる場合じゃないよ！=<unk1>*Yawn*|...Wait, this is no time to be napping!
 
 # A0BE0
-<unk1>もうすぐ、|受付をしめきりまーす！=
+<unk1>もうすぐ、|受付をしめきりまーす！=<unk1>It’s almost over!
 
 # A0E14
-<unk1>時間がない！|もうひとがんばりだよ！=
+<unk1>時間がない！|もうひとがんばりだよ！=<unk1>There’s no time! I have to push myself--!
 
 # A13E0
-<unk1>時間になりました！=
-<unk1>これで終了です。=
+<unk1>時間になりました！=<unk1>That’s time!
+<unk1>これで終了です。=<unk1>It’s over.
 
-# A0DAC
-がんばったね。ごくろうさま。=
+# A0DAC Shiki
+がんばったね。ごくろうさま。=You worked hard. Good job.
 
 # A0900
-風紀委員、エライ。=
+風紀委員、エライ。=I’m impressed, Prefect.
 
 # A0FE0
-沢山もらえて、うれしい。=
+沢山もらえて、うれしい。=I’m so happy, I got so many.
 
 # A0BE4
-ありがとう。|満足したら眠くなってきた……=
+ありがとう。|満足したら眠くなってきた……=Thanks. Now that’s done, I feel sleepy...
 
 # A0ADC
-一条さんにも、わけてあげよう。=
+一条さんにも、わけてあげよう。=I’ll give some to Ichijo.
 
-# A098C
-なかなかやるね！見直したよ！=
+# A098C Ichijo
+なかなかやるね！見直したよ！=That was pretty good! I’m seeing you in a different light!
 
 # A0D4C
-さすがは風紀委員！|良い仕事するね！=
+さすがは風紀委員！|良い仕事するね！=That’s our Prefect! Good job!
 
 # A0CB4
-こんなに沢山、うれしいな！|ありがとうね！=
+こんなに沢山、うれしいな！|ありがとうね！=I got so much... I’m so happy! Thank you!
 
 # A0C90
-みんなゴメンネ。|また一番にもらっちゃったよ。=
+みんなゴメンネ。|また一番にもらっちゃったよ。=Sorry everyone. Looks like I’m number one, yet again.
 
 # A0B70
-やった。枢に自慢しようかな。=
+やった。枢に自慢しようかな。=Yes! I wonder if I should show off to Kaname...
 
-# A0948
-よくがんばったね。|頭をなでてあげるよ。=
+# A0948 Kaname
+よくがんばったね。|頭をなでてあげるよ。=You worked hard. I should pat you on the head.
 
 # A0924
-いつもご苦労様、|僕の風紀委員さん。|ああ、錐生君の事じゃないよ。=
+いつもご苦労様、|僕の風紀委員さん。|ああ、錐生君の事じゃないよ。=Thank you for all your hard work, my dear Prefect. Oh, I didn’t mean Kiryu.
 
 # A0BF4
-こんなに沢山持ちきれないな。|ああ星煉、頼んだよ。=
+こんなに沢山持ちきれないな。|ああ星煉、頼んだよ。=I can’t hold all these. Ah, Seiren, if you please.
 
 # A0C44
-みんな悪いね。|僕ばかりもらってしまって。=
+みんな悪いね。|僕ばかりもらってしまって。=I’m sorry everyone, I was the only one to get anything...
 
 # A0E84
-藍堂、欲しいのかい？|何ならわけてあげてもいいよ。=
+藍堂、欲しいのかい？|何ならわけてあげてもいいよ。=Aido, do you want some? I don’t mind sharing.
 
-# A09C4
-お前にしては、なかなかやるな。=
+# A09C4 Aido
+お前にしては、なかなかやるな。=You did well, for you.
 
 # A0D88
-さすがは風紀委員！|良い仕事だったぞ！=
+さすがは風紀委員！|良い仕事だったぞ！=That’s the Prefect’s for you. You did a good job!
 
 # A0C74
-こんなに沢山、うれしいな！=
+こんなに沢山、うれしいな！=I’m happy, I got so many!
 
 # A0F90
-一条に勝った！ま、当然だな。=
+一条に勝った！ま、当然だな。=I beat Ichijo! Well, that’s only natural.
 
 # A0CA0
-枢様に勝ってしまった……|いいのだろうか……=
+枢様に勝ってしまった……|いいのだろうか……=I beat Lord Kaname... I hope that’s okay...
 
-# A0C78
-なかなかやるな！驚いたぜ。=
+# A0C78 Kain
+なかなかやるな！驚いたぜ。=You were pretty good! I’m surprised.
 
 # A0B98
-風紀委員の面目躍如だな。|良い仕事だ！=
+風紀委員の面目躍如だな。|良い仕事だ！=You lived up to your badge, Prefect. Good job!
 
 # A0AB8
-もう持ちきれないぞ。|ありがとな。=
+もう持ちきれないぞ。|ありがとな。=I can’t hold any more. Thank you.
 
 # A0BB0
-俺が一番だなんて、|ちょっと意外だったな。=
+俺が一番だなんて、|ちょっと意外だったな。=I’m a bit surprised I came in first place.
 
 # A0BEC
-お前のおかげさ。|頼りにしてるぞ、風紀委員。=
+お前のおかげさ。|頼りにしてるぞ、風紀委員。=It’s all thanks to you. We’re relying on you, Prefect.
 
 # A2050
 <unk1>陽の寮から抜け出したと|見られる生徒が６名！=<unk1>It looks like six students managed to sneak out of the Sun Dormitory!
 <unk1>またナイト･クラスの授業を|のぞきに来たんだよ。|もう、懲りないんだから！=<unk1>They’ve gone to peep at the Night Class again. Some people never learn!
-<unk1>右画面下のバーをスライドすると|画面がスクロールするから=<unk1>By sliding the bar at the bottom of the right screen, you can scroll the screen.
-<unk1>『デイ･クラス』の生徒を|見つけたらタッチして|捕まえるんだ。=<unk1>If you spot any Day Class students, tap on them once to catch them.
-<unk1>今夜も悪い子達を捕まえるよ！|右画面をタッチしたら|はじめるよ！=<unk1>I’ll catch anyone who’s misbehaving!|Touch the right screen to start!
+<unk1>右画面下のバーをスライドすると|画面がスクロールするから=<unk1>Slide the bar at the bottom of the right screen to scroll the background.
+<unk1>『デイ･クラス』の生徒を|見つけたらタッチして|捕まえるんだ。=<unk1>Catch the Day Class students by tapping on them once.
+<unk1>今夜も悪い子達を捕まえるよ！|右画面をタッチしたら|はじめるよ！=<unk1>I’ll stop anyone who’s misbehaving!|Touch the right screen to start!
 
 # A0EB0
-全員確保！|夜歩きさんは絶対|見逃さないからねっ！=
+全員確保！|夜歩きさんは絶対|見逃さないからねっ！=I’ll catch them all! I won’t let a single student get away! 
 
 # A0A1C
-全員確保！|風紀委員を甘く見ないでねっ！=
+全員確保！|風紀委員を甘く見ないでねっ！=I’ll catch them all! Don’t underestimate us Prefects! 
 
 # A0DD8
-５人確保！|おしい！あと１人なのに！=
+５人確保！|おしい！あと１人なのに！=I got five. Argh! There was only one more to go!
 
 # A09D8
-４人確保！|今ひとつ活躍できなかったよ……=
+４人確保！|今ひとつ活躍できなかったよ……=I got four. That’s not good enough...
 
 # A0B0C
 これじゃだめだよ！|学園の秘密が守れないよ！=This is no good! I won’t be able to protect the school’s secret!
 
 # A0E54
-アルテミスの扱いには|気をつけて。=
+アルテミスの扱いには|気をつけて。=Watch how you handle Artemis.
 
 # A0A54
-僕だよ。どうしたの？=
+僕だよ。どうしたの？=It’s me. Is something wrong?
 
 # A0F10
-なかなか腕を上げたね。=
+なかなか腕を上げたね。=You're getting pretty good at this.#qc
 
 # A0F04
-イテテ、僕に何をするんだ！=
+イテテ、僕に何をするんだ！=Ouch! What are you trying to do to me?
 
 # A0950
-危ないな！|普段の恨みか？=
+危ないな！|普段の恨みか？=That’s dangerous! Is this revenge?
 
 # A0C1C
-アルテミスは、痛いよ！=
+アルテミスは、痛いよ！=Artemis hurts us!
 
 # A0970
-いたっ、俺だ！|架院だ！=
+いたっ、俺だ！|架院だ！=Ow, it’s me! Kain!
 
 # A0D30
-危ない！|何か恨んでいるのか？=
+危ない！|何か恨んでいるのか？=Watch it! What do you have against me?
 
 # A0994
-お前か、見回りご苦労！=
+お前か、見回りご苦労！=It’s you? Thank you for patrolling.
 
 # A0BCC
-危ない！|気をつけてね=
+危ない！|気をつけてね=That’s dangerous! Be careful. 
 
 # A0980
-イテっ、僕だよ。=
+イテっ、僕だよ。=Ow, it’s me you know.
 
 # A08FC
-せっかくの読書が……=
+せっかくの読書が……=Just as I was about to read...
 
-# A0A88
-痛い。寝ていたのに……=
+# A0A88 Shiki
+痛い。寝ていたのに……=Ow. I was asleep...
 
 # A0CA8
-びっくりした……何事？=
+びっくりした……何事？=That scared me... What’s up?
 
 # A0B08
-アルテミス痛い……=
+アルテミス痛い……=The Artemis hurts...
 
 # A0F80
-俺にケンカ売ってるのか？=
+俺にケンカ売ってるのか？=Do you want to fight?
 
 # A0F98
-俺だ。何をするんだ？=
+俺だ。何をするんだ？=It’s me. What are you doing?
 
 # A0BC8
-それがガーディアンの仕事か？=
+それがガーディアンの仕事か？=Is this part of the Guardian’s job?
 
 # A0D70
-うっ！見つかった！=
+うっ！見つかった！=Agh! You found me!
 
 # A0C64
-理事長には内緒に……=
+理事長には内緒に……=Don’t tell the headmaster...
 
 # A09B8
-あっ！風紀委員！=
+あっ！風紀委員！=Ah! It’s the Prefect!
 
 # A0BA8
-格好良くなる秘訣を|知りたかった……=
+格好良くなる秘訣を|知りたかった……=I wanted to know the secret to looking good...
 
 # A0F18
-風紀委員ばかりズルイわ！=
+風紀委員ばかりズルイわ！=It’s not fair that you’re the only ones!
 
 # A0DE4
-お願いだから見逃して！=
+お願いだから見逃して！=Please, just overlook this!
 
 # A0C58
-見つかっちゃった！=
+見つかっちゃった！=Oh no, I got caught!
 
 # A0C70
-ゴメンなさい！帰ります！=
+ゴメンなさい！帰ります！=I’m sorry! I’ll go back!
 
 # A0AF4
 もう時間が無いよ！=I’m almost out of time!
@@ -1558,8 +1558,8 @@ vk_se6_010=
 あ、夜刈先生だ。|話しかけようかな？|どうしようかな？=Oh, it’s Mr. Yagari. Should I talk to him?
 
 # A1320
-あ……零だ。|やっぱり、一緒に行こう！=
-お～い、零～～！！|ちょっと待って～～！=
+あ……零だ。|やっぱり、一緒に行こう！=Oh... it’s Zero. I guess we should go together!
+お～い、零～～！！|ちょっと待って～～！=Heey, Zero! Wait for meeee!
 
 # A0AE8
 あ、夜刈先生だ……|話しかけようかな？|どうしようかな？=Oh, it’s Mr. Yagari... Should I talk to him?
@@ -2252,7 +2252,7 @@ Is this what they mean about being a ‘blow-by’?
 （真に受けてしまった様だ）=(I guess he heard me.)
 お前……=You...
 人がわざわざ心配して|やってるのに……最悪だな……=Even though you make everyone worry about you... That’s cold...
-…………=
+…………=...
 （え～っ？！そうだ、|零はあまりシャレが通じない|タイプの人間だった）=(Huh?! Oh right. Zero’s never been the type who can take a joke.)
 （これ以上何か言っても、|火に油を注ぎそうなので|私は黙ってしまった）=(I kept quiet, knowing that saying anything else would be like adding more fuel to the fire.)
 
@@ -2302,7 +2302,7 @@ Is this what they mean about being a ‘blow-by’?
 何だろ……？宿題はやったし|お使いも行ったし……=What could it be...? I’ve finished my homework and done my errands...
 ……あぁっっ！！=....AAAAH!!
 いっけないっ！忘れてた！|明日は……|聖ショコラトル･デー！！=Oh no! I forgot! Tomorrow is... St. Xocolatl’s Day!!
-ワークコマンドについての|説明を聞く？=Listen to the explanation about the work command?
+ワークコマンドについての|説明を聞く？=Should I explain about the work command?
 
 # AD860
 一日の始まりには、風紀委員の|仕事として、ワークコマンドが|始まるよ。=At the start of every day, the prefect’s jobs begin.
@@ -3155,7 +3155,7 @@ Sleep well...
 うん、ありがとう。対抗馬の|藍堂をおさえ、ダークホース|の支葵もごぼう抜き。=Yup~ Thank you. I was able to curb my antagonist, Aido, and overtake Shiki, the dark horse, too.
 完全なる勝利だったよ。=It was a complete success.
 すごいですね。ところで|枢センパイはどれくらい|もらったのでしょうね？=That’s amazing. By the way, how many did Kaname get?
-<unk1>………=
+<unk1>………=<unk1>...
 あれ？どうしたんですか？|浮かない顔で……|一条センパイ。=Oh? What’s wrong? You look down... Ichijo?
 <name>ちゃん……|この世で一番優しい言葉って|何か知ってる？=<name>, do you what the nicest words in this world are?
 えっ……？|どうしたんですか？突然に。=Huh...? What’s up? Asking that suddenly...
@@ -4003,7 +4003,7 @@ Sleep well...
 喫茶店でパフェがいい！=Even better; parfait!
 塩ラーメン！=Shio ramen!
 パフェ！=Parfait!
-……………………=
+……………………=......
 （うう……お互い一歩も|譲らないこの状況……|どうする？妥協するかな……）=(Ngh... Neither of us are willing to back down... What should I do? Do I give in...?)
 
 # A0F58
@@ -4066,9 +4066,9 @@ Sleep well...
 
 # A5968 after defeating the Level E, when Aido provides support
 アァアアア………！！！=AAAAGH...!
-お前みたいな奴、|見ているだけで気分が悪い。=
+お前みたいな奴、|見ているだけで気分が悪い。=People like you make me sick just looking at you.
 藍堂センパイ……！！=Aido...!!
-粉々になってしまえば|いいんだ……！！=
+粉々になってしまえば|いいんだ……！！=Just turn to dust...!
 （藍堂センパイに|身体を凍らされた|ヴァンパイアはーー）=(The body of the vampire who was frozen by Aido...)
 （一瞬で粉々に砕かれて|さらさらと姿を消した……）=(shattered into small pieces then disappeared completely...)
 <last><name>。お前も、|こういう危険なことはやめろ。=<name><last>. You should stop doing these dangerous things.
@@ -7119,7 +7119,7 @@ Sleep well...
 架院センパイ……あれ……=Kain... That’s...
 あれは……まさか……！！=It’s... Can it be...!?
 （私と架院センパイは|しばらく言葉もなく|見とれてしまった）=(The two of us just stood there for a while, silently watching it.)
-ナイトレインボウ……|まさか本当に見られるなんて|な。=
+ナイトレインボウ……|まさか本当に見られるなんて|な。=A Night Rainbow... I never thought we’d actually be able to see one.
 架院センパイ！|外に行きましょう！！|もっと近くで見ましょう！=Kain, let’s go outside! We should get closer to it!
 
 # ADD28
@@ -11533,7 +11533,7 @@ Sleep well...
 どうもありがとう。|とても楽しかったよ、<name>。|それとチビ。=Thank you, <name>. And Chibi. I had a lot of fun.
 枢センパイ。|また、チビと|遊んであげてください。=I hope you’ll play with us again, Kaname.
 もちろんだよ。=Of course.
-チビが遊んでほしそうだ。|そういうわけにもいかないね。=
+チビが遊んでほしそうだ。|そういうわけにもいかないね。=#qc unused?
 
 # AEE38 Aido Chibi 1
 うっ！何だこの臭い…|うわっ、|犬が何でこんな所に…！？=Ugh, what is that smell...?|Woah, what’s a dog doing here?!
@@ -14539,7 +14539,7 @@ Sleep well...
 これに代わる懸案事項が|できたんだ。=now I have a different issue.
 枢の寮長の座は揺るぎない|からね。ナイト･クラスが|ある限り変わりそうにないよ。=Kaname’s position as Dorm President is unshakeable. As long as the Night Class exists, it’ll always be that way.
 そこで考えたのが、|今の副寮長の立場をいかに|充実させるかってこと。=So I’ve been thinking about how I can make my current position as Vice President more fulfilling.
-はあ？=
+はあ？=Hah?
 ただ副寮長なだけじゃ面白く|ないから役職においてサポート|的なポストを用意してーー=Just being the vice president isn’t very exciting, so I thought if I set up a support role...
 それとのコラボレーションで、|枢の寮長に匹敵するユニットを|組もうかな？=I could collaborate with them to make a unit that would rival Kaname’s presidency.
 なんて考えているんだ。=Or, so I’ve been thinking~
@@ -14818,7 +14818,7 @@ Sleep well...
 じゃあまず……ちょっと|ワガママですけどいいですか？=
 支葵センパイ……私にだけの|笑顔を見せて下さい。=
 そんなのでいいの？……はい。=
-………=
+………=...
 …笑顔になっていいですよ？=
 …もうなっているけど。=
 え…=

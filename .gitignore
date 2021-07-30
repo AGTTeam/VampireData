@@ -3,7 +3,7 @@ repack*
 out_*
 font_data.bin
 dictionary.asm
-*_output.*
+*_output*
 *.nds
 *.xdelta
 bmpcache.txt

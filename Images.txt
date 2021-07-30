@@ -250,16 +250,16 @@ NAS=NAS
 漢字=Kanji
 英数=English
 
-==GALLERY==
+==GALLERY== #some of these are direct lines of dialogue
 008
-黒主学園ナイトクラス=Cross Academy Night Class
+黒主学園ナイトクラス=The Night Class
 貰ってやってもいいぞ=You can have it.
-新記録更新!=New Record!
-もう我慢できない=I can't take it anymore.
+新記録更新!=A new record!
+もう我慢できない=I can’t bear it any longer.
 よく頑張ったな=You did a good job.
 ・・・まずい。=...Not good.
-はい、あ～ん♪=Yes, ahh♪
-きゃっ！す、滑った！=Kyah! I slipped!
+はい、あ～ん♪=Say aaah~!
+きゃっ！す、滑った！=Eep! I slipped!
 ヴァンパイアの最期=Vampire's Last Stand
 相合傘=Umbrella Sharing
 ヴァンパイアハンターの男=Vampire Hunter
@@ -268,43 +268,43 @@ NAS=NAS
 モデルのお仕事=Working as a Model
 彼女の夢=Her Dream
 因縁のバケツ=Bucket of Fate
-ナイト・レイン=Night Rain
+ナイト・レインボウ=Night Rainbow
 かけられた疑惑=Suspicions
 バカヤロウ！=Idiot!
 俺を頼って=You can count on me.
 僕と踊っていただけますか？=May I have this dance?
-枢先輩と旋律=Kaname and Senri
+枢先輩と旋律=Kaname and a Melody
 ダイヤモンド･ダスト=Diamond Dust
 抗えない衝動=Irresistible Urges
 
 012
-純血種の業=Pureblood Work
+純血種の業=A Pureblood’s World
 恍惚のご馳走=Feast of Ecstasy
-足元に跪いて=Keel at my feet.
-少し我慢してね=Just be patient, okay?
+足元に跪いて=Kneeling Down
+少し我慢してね=Just a little, okay?
 ・・・おいしい。=...Delicious.
 図書館では静かに=Quiet in the library.
 ショッピングデー=Shopping Day
-ハンター協会にて=At the Vampire Hunter Association
+ハンター協会にて=The Hunter Society
 連れて行ってやる=I'll take you there.
 君の媚薬=Your Love Potion
-たまには甘えたい=I'd like to be spoiled every once in a while.
+たまには甘えたい=I want to be spoiled.
 
 014
-キスは好き？=Do you like to kiss? #i think this is a reference to the reoccurring fish pun
+キスは好き？=Do you like kissers?
 料理をしよう！枢＆零=Let's Cook! (Kaname & Zero)
 料理をしよう！藍堂＆架院=Let's Cook! (Aido & Kain)
 料理をしよう！一条＆支葵=Let's Cook! (Ichijo & Shiki)
-くぞ、リリィ！=Come on, Lily!
-くすぐったい。That tickles!
-危機一髪=Close Call
+くぞ、リリィ！=Giddyup, Lily!
+くすぐったい。That tickles.
+危機一髪=A Close Call
 久しぶりの感覚=A Feeling of Long Ago
-よ、よしよし、チビちゃん！=Alright, Chibi!
-一条センパイとタマ？=Ichijo and Tama? #i'm guessing tama is the cat
-僕がすべて受け止めてあげる=I'll take care of everything.
+よ、よしよし、チビちゃん！=G-Good boy, Chibi!
+一条センパイとタマ？=Ichijo and Tama(?)
+僕がすべて受け止めてあげる=I'll take it all.
 
 016
-チビの思い出と零の気持ち=Chibi's Memories and Zero's Feelings
+チビの思い出と零の気持ち=Zero’s Feelings#limited room
 本当は好きだった=I really liked that dog. #given the context i'm assuming it's talking about chibi, but i could be wrong
 チビを忘れない=I won't forget Chibi.
 チビの分まで生きるんだ=I'll live on, for Chibi.
@@ -320,15 +320,14 @@ NAS=NAS
 ラスト･ダンス　夜刈=Last Dance (Yagari)
 背徳と欲望と=Immortality and Desire
 まだ、できない=I can't yet.
-アイス･ブルーの契り=Vow of an Icy Blue
-灼熱の焔との契り=Vow of a Scorching Flame
+アイス･ブルーの契り=Ice Blue Vow
+灼熱の焔との契り=Red Hot Vow
 あなたに捧げる契り=My Promise to You
 極上のデザート=A Fantastic Desert
-幼馴染はもういい=My childhood friend is enough.
-さあ、僕達の時間を始めよう=Let's begin our time together.
-僕は君のことが=My only desire is you.
-いつまでも見守っている=I will always be watching over you.
-
+幼馴染はもういい=Not As Childhood Friends
+さあ、僕達の時間を始めよう=Let's start a life together.
+僕は君のことが=I love…
+いつまでも見守っている=I will watch over you.
 020
 ナイショだよ=That's a secret.
 私にだけの笑顔=A Smile Only for Me
@@ -352,12 +351,12 @@ NAS=NAS
 相性占い=Fortune Telling
 持ち物検査=Item Inspection
 プレゼント渡し=Gift Delivery
-着せ替えファッションチェック=Dress up Fashion Check
+着せ替えファッションチェック=Dress Up
 パーティへおいで=Attending a Party
-夜歩きさん発見!=Catching Wanderers!
+夜歩きさん発見!=Catching Trespassers!
 気になる様子=Window Watching
 ワルツダンス=Waltz
-レベル：Eを倒せ=Defeating Level E’s
+レベル：Eを倒せ=Level E Battle
 
 ==MG1==
 012
@@ -382,9 +381,9 @@ NAS=NAS
 架院=Kain
 
 ==WC==
-000 #all of the translations are below the japanese phrases in the image
+000 
 睡眠=Rest
-占い=Fortune
-装飾=Decorate
-風紀=Gaurdian
+占い=Fate
+装飾=Shop
+風紀=Work
 学習=Study

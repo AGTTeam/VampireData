@@ -42,7 +42,7 @@
 <ch1>知ってます<00><08><0A><ch2>だからモテるんですね<00><09><0A><ch3>うわべだけでしょう？<00><0A>=<ch1>“I know.”<00><08><0A><ch2>“That’s why you’re so popular.”<00><09><0A><ch3>“Isn’t that just a facade?”<00><0A>
 <ch1>アダ名で呼んでいいですか<00><00><0A><ch2>このアダ名、好きですか<00><01><0A><ch3>本当にワイルドなんですか<00><02>=<ch1>“Can I call you that?”<00><00><0A><ch2>“Do you like that nickname?”<00><01><0A><ch3>“Are you really that wild?”<00><02>
 <ch1>女の子が怖い？<00><04><0A><ch2>枢センパイが怖い？<00><05><0A><ch3>ブラッディローズが怖い？<00><06>=<ch1>“You’re scared of girls?”<00><04><0A><ch2>“You’re scared of Kaname?”<00><05><0A><ch3>“You’re scared of the Bloody Rose?”<00><06>
-<ch1>血が怖い<00><08><0A><ch2>枢センパイが怖い<00><09><0A><ch3>学校のテストが怖い<00><0A>=<ch1>“I’m scared of blood.”<00><08><0A><ch2>“I’m scared of Kaname.”<00><09><0A><ch3>“I’m scared of our exams.”<00>
+<ch1>血が怖い<00><08><0A><ch2>枢センパイが怖い<00><09><0A><ch3>学校のテストが怖い<00><0A>=<ch1>“I’m scared of blood.”<00><08><0A><ch2>“I’m scared of Kaname.”<00><09><0A><ch3>“I’m scared of our exams.”<00><0A>
 <ch1>好きです<00><00><0A><ch2>わかりません<00><01><0A><ch3>嫌いな人もいます<00><02>=<ch1>“Yes, I do."<00><00><0A><ch2>“I'm not sure."<00><01><0A><ch3>“I like some of them…"<00><02>
 <ch1>明るくて親しみやすい所<00><04><0A><ch2>二面性がある所<00><05><0A><ch3>高貴で王子様っぽい所<00><06>=<ch1>“You’re easy to be friends with."<00><04><0A><ch2>“There are two sides to you."<00><05><0A><ch3>“You’re like a prince."<00><06>
 <ch1>そうです<00><08><0A><ch2>みなさんが好きです<00><09><0A><ch3>一条センパイが好きです<00><0A>=<ch1>“That’s right.”<00><08><0A><ch2>“I like everyone.”<00><09><0A><ch3>“I like you, Ichijo.”<00><0A>
@@ -734,7 +734,7 @@ vk_se6_010=
 教師=>>Professor
 ヴァンパイア=>>Vampire
 男子生徒=>>Boy
-星煉=>>Seiren
+星煉=　　Seiren
 遠矢　莉磨=>>Rima Toya
 先生=>>Student
 子供=>>Child
@@ -10229,7 +10229,7 @@ Sleep well…
 今更フォローされても|嬉しくないです……！=You don’t have to agree with me!
 じゃあ、こういうのはどうだ？|<last><name>は、毒はないけど|別のものを持っている……=Then, how about this? You’re not poisonous <name><last>, but you do possess something else.
 何ですか？別のものって。|どうせロクなものじゃ|ないんでしょうけど……=What’s that? …Though, I’m sure it’s nothing good.
-ふふ……媚薬さ。|男の本能をかきたてる……|フェロモンみたいの。=Hehe… An aphrodisiac. Something that stirs up a man’s instincts, like a pheromone.
+ふふ……媚薬さ。|男の本能をかきたてる……|フェロモンみたいの。=Hehe… An aphrodisiac. Something that stirs up a man’s instincts, like a pheromone.#tc love potion?
 えっ……そ、そんなもの|あるわけないじゃない|ですか……！=Wha-- There’s no way that can be right…!
 さあ……どうかな。|自分で気付いてないだけ|じゃない？=Well, I wonder~ Maybe you just haven’t realized?
 <name>ちゃんは|お子様だからね。フフッ。=You are just a child, after all. Heheh.
@@ -10336,7 +10336,7 @@ Sleep well…
 いろんな種類がいますね。|これ、何て魚だろう……|一条センパイ、わかります？=There’s all sorts of things. I wonder what kind of fish this is… Do you have any idea, Ichijo?
 （あれ？無視された。|心なしか、目がぼんやりして|いるような……）=(Oh? He ignored me. Maybe I’m just imagining things, but he looks kind of tired…)
 （さすがの一条センパイも|この日差しじゃきついの|かな？）=(I guess even for Ichijo, being out in this bright sunlight must be hard.)
-……ねえ、<name>ちゃん。|ここだけの話だけど、|キスって、好き？=…Hey, <name>. Between you and me, do you like Kissers?
+……ねえ、<name>ちゃん。|ここだけの話だけど、|キスって、好き？=…Hey, <name>. Between you and me, do you like kissers?
 え……！？|な、何ですか！！突然！！|一条センパイってば……！=Huh…!? W-What are you asking me all of the sudden!? Ichijo!!
 <name>ちゃんはどうなのかな？|好き？きらい？=Well? Do you like them? Do you hate them?
 それは……その……=I…
@@ -10346,7 +10346,7 @@ Sleep well…
 へえ～、そうなんだ。|<name>ちゃんは好きなんだ……=Heh~ I see. So you like them, <name>…
 あ、あの……|そんな意味深な言い方、|しないでもらえますか？=U-Um… Could we stop with this deep talk?
 どうしてって……|恥ずかしいから……！=Why? B-Because it’s so embarrassing, that’s why!
-恥ずかしい？|どうしてそう思うの。|僕も好きだよ、キス。=Embarrassing? What makes you think that? I like them too, Kissers.
+恥ずかしい？|どうしてそう思うの。|僕も好きだよ、キス。=Embarrassing? What makes you think that? I like them too, kissers.
 え……？|一条センパイも……？=Huh…? You do, Ichijo?
 （一条センパイが|こっちに近づいて来る……|どうしよう……？）=(Ichijo is coming towards me… What should I do…?)
 そんなに好きなら、|僕からあげるよ。目を閉じて。=If you like them that much, I’ll give you one. Close your eyes.
@@ -10364,14 +10364,14 @@ Sleep well…
 い、一条センパイ！|何やってるんですか！|人の口に魚なんか突っ込んで！=I-Ichijo! What are you doing!? Shoving a fish in someone's mouth!
 え？……<name>ちゃんが|好きだって言うから|食べさせてあげたのに。=Huh…? But you said you liked it so I was going to let you eat one.
 へ……？=What…?
-これ。キス。=Here. A Kisser.
+これ。キス。=Here. A kisser.
 あ、ああ……|魚のキス、ですか……=O-Oh… You meant Kissing Fish.
 １匹くらい|<name>ちゃんがつまみ食い|しても、多分大丈夫。=It’s probably fine even if you have one before dinner.
-キス、|結構いっぱい獲れてるから。|だから遠慮なく食べてよね。=I caught a lot of Kissers, so you don’t have to hold back.
+キス、|結構いっぱい獲れてるから。|だから遠慮なく食べてよね。=I caught a lot of kissers, so you don’t have to hold back.
 生のままでなんか|食べられませんよ！=I can’t eat it raw!
 だって、すごい好きみたい|だから、そのままでもいける|のかなって思ったんだ。=Well, you seem to like them a lot, so I thought it might be fine to have as is.
 もうっ……！ひどいです！|一条センパイ！=Ngh…! You’re awful, Ichijo!
-あれ……？もしかして、|違うほうのキスだと思った？=Huh…? Were you thinking of another kind of Kissers?
+あれ……？もしかして、|違うほうのキスだと思った？=Huh…? Were you thinking of another kind of kissers?
 なっ……！|そ、そんな事は……=Wha--? T-That’s--!
 クスッ。=Hehe.
 もう！知りません！！|一条センパイなんて！！=Honestly! I’m not even going to answer that!
@@ -10712,7 +10712,7 @@ Sleep well…
 （零の言うとおり、|ここは無難にしておいた方が|いいのかも）=(It’s probably best to play things on the safe side, like Zero said.)
 
 # A174C
-じゃあ、次はこのお魚たち。|キスがたくさん。あとは|カレイとか、カサゴとか。=Okay, next up we have… fish. That’s a lot of Kissers. And there’s also Flounder and Scorpionfish…
+じゃあ、次はこのお魚たち。|キスがたくさん。あとは|カレイとか、カサゴとか。=Okay, next up we have… fish. That’s a lot of kissers. And there’s also Flounder and Scorpionfish…
 白身魚が多いね。|だれが調理しようか？=That is a lot of white fish. Who should cook it?
 あ、はい……そうですね……=Ah, right. Let’s see…
 

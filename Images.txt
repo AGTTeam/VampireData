@@ -1,4 +1,4 @@
-﻿==OP_CHR==
+==OP_CHR==
 036_00
 錐生 零=Zero Kiryu
 宮野 真守=Mamoru Miyano
@@ -69,10 +69,10 @@ ON/OFF
 
 060_00
 プロデューサー=Producers
-前田 佳代子=Kayoko Maeda #can't find
+前田 佳代子=Kayoko Maeda
 鈴木 淳=Jun Suzuki
 アシスタント　プロデューサ=Assistant Producer
-茂木 美玲=Mirei Mogi #can't find
+茂木 美玲=Mirei Mogi #can't find, works for D3
 ディレくター=Directors
 和久田　貴浩　（アフェクト）=Takahiro Wakuta (Affect)
 村山 達郎　（アフェクト）=Tatsuro Murayama (Affect) #possibly found?
@@ -86,17 +86,17 @@ ON/OFF
 
 062_00
 グラフィック=Graphics
-岩来 みなみ　（アフェクト）=Minami Iwarai (Affect) #i'm just going to stop writing can't find at this point because i can't find any of these
+岩来 みなみ　（アフェクト）=Minami Iwaki (Affect) 
 福島 由喜　（アフェクト）=Yuki Fukushima (Affect)
-野平 里奈　（アフェクト）=Rina Nohei (Affect)
-大楠 紀子 （株式会社フェローズ）=Noriko Ookusu (Fellows Co.)
-緒形 祐 （株式会社フェローズ）=Yu Ogata (WINDS Co., Ltd.)
-安部 知栄子 （株式会社フェローズ）=Chieko Abe (WINDS Co., Ltd.)
-安田 真子 （株式会社フェローズ）=Mako Yasude (WINDS Co., Ltd.)
-竹内 朝子 （株式会社フェローズ）=Chouko Takeuchi (WINDS Co., Ltd.)
+野平 里奈　（アフェクト）=Rina Nohira (Affect)
+大楠 紀子 （株式会社フェローズ）=Noriko Ookusu (Fellows Co.)#can't find
+緒形 祐 （株式会社フェローズ）=Yu Ogata (WINDS Co., Ltd.)#can't find
+安部 知栄子 （株式会社フェローズ）=Chieko Anbe (WINDS Co., Ltd.)
+安田 真子 （株式会社フェローズ）=Masako Yasuda (WINDS Co., Ltd.)
+竹内 朝子 （株式会社フェローズ）=Asako Takeuchi (WINDS Co., Ltd.)
 竹村 友美 （株式会社フェローズ）=Tomomi Takemura (WINDS Co., Ltd.)
-廣野 和子 （株式会社フェローズ）=Kazuko Hirono (WINDS Co., Ltd.)
-沢田 寿理=Juri Sawada
+廣野 和子 （株式会社フェローズ）=Kazuko Hirono (WINDS Co., Ltd.)#can't find
+沢田 寿理=Juri Sawada#can't find
 
 063_00
 スクリプト=Script
@@ -113,7 +113,7 @@ ON/OFF
 野村 教裕 （有限会社ノーマライズ）=Norihiro Nomura (Normalize LLC)
 青木 秀由基 （有限会社ノーマライズ）=Hideyuki Aoki (Normalize LLC)
 大畠 和也 （有限会社ノーマライズ）=Kazuya Ohata (Normalize LLC)
-河野 翔 （有限会社ノーマライズ）=Sho Kono (Normalize LLC)
+河野 翔 （有限会社ノーマライズ）=Shou Kono (Normalize LLC)
 
 065_00
 音響制作=Sound Design
@@ -133,7 +133,7 @@ ON/OFF
 マーケティング部 販売企画チーム=Marketing Department Sales Planning Team
 赤井 隆史=Takashi Akai
 望月 綠=Midori Mochizuki
-日田 裕次郎=Yujiro  Nitsuta
+日田 裕次郎=Yujiro Nitsuta
 中江 理紗=Risa Nakae
 マーケティング部 宣伝広喔チーム=Marketing Department Advertising and Promotion Team #if this is too long feel free to shorten it
 城田 雄一郎=Yuichiro Shirota
@@ -144,12 +144,12 @@ ON/OFF
 
 067_00
 スペシャルサンクス=Special Thanks
-齋藤 大成=Taisei Saito
+齋藤 大成=Daisei Saitoh
 小笠原 洋=Hiroshi Ogasawara
-字原 似=
+字原 直似=Naoi Azahara
 杉山 忍=Shinobu Sugiyama
 杉崎 祐一=Yuichi Sugizaki
-大熊 達矢=
+大熊 達矢=Tatsuya Okuma
 阿部 ひとみ=Hitomi Abe
 小西 裕二=Yuji Konishi
 田中 潔=Kiyoshi Tanaka
@@ -169,7 +169,7 @@ ON/OFF
 渡部 洋子=Yoko Watanabe
 横井 太地=Taiji Yokoi
 棚瀬 信次=Shinji Tanase
-立花 宏且= Tachibana #can't find a translation for given name but i'm pretty sure the kanji is right?
+立花 宏且=Hiroshi Tachibana #can't find
 渡辺 浩一=Koichi Watanabe
 堀 恵木=Keiki Hori
 小嶋 正樹=Masaki Ojima
@@ -202,7 +202,7 @@ NAS=NAS
 伊藤 裕二=Yuji Ito
 
 072_00
-©樋野 まつり・白泉社/「ヴァンパイア騎士」 製作委員会=Matsuri Hino・Hakusensha/Vampire Knight Production Comittee
+©樋野 まつり・白泉社/「ヴァンパイア騎士」 製作委員会=Matsuri Hino・Hakusensha/Vampire Knight Production Committee
 ©D3 PUBLISHER=©D3 PUBLISHER
 
 ==ADV==
@@ -211,7 +211,7 @@ NAS=NAS
 
 ==BD_MATERIAL==
 000
-彼と血の証を結ぶ場所にタッチ=Touch the place where he and his blood are bound. #i think that this one doesn't make sense out of context
+彼と血の証を結ぶ場所にタッチ=Touch the site to be bound in blood. #shortened for space + avoiding letters with descenders (e.g. p, g) – alternative suggestions welcome!
 
 ==CHAR==
 007
@@ -335,287 +335,29 @@ NAS=NAS
 ２人の物語=A Tale of Two
 ＴＨＥ ＥＮＤ=The End
 
-==GL_TITLE== #i have no idea what these even are so some might be weird out of context
-001
-みんなでおめでとう！=Congratulations everyone!
-
-002
-あの大切な出会い=That Precious Encounter
-
-003
-特別なー冊=A Special Book
-
-004
-アニメ化！桃花仙幻記=Anime adaptation! Peach Blossom Chronicles
-
-005
-病院の父=Hospitalized Father
-
-006
-残念だったね=I'm sorry to hear that.
-
-007
-気をつけろ！=Look out!
-
-008
-ケーキはいかが？=Would you like some cake?
-
-009
-酔っちゃった？=Are you drunk?
-
-010
-嫉妬=Jealousy
-
-011
-切ないうわごと=Painful Ramblings
-
-012
-こっちが得だ！=I'm getting it!
-
-013
-憧れのクラスメイト=Classmate of Longing
-
-014
-懐柔な跡取り=Nostalgic Heir
-
-015
-君の夢は・１=Your dream is ・ 1
-
-016
-君の夢は・2=Your dream is　・ 2
-
-017
-強引な駆け引き=Pushy Tactics
-
-018
-結ぱれた二人=United Couple
-
-019
-ウェディングベル=Wedding Bell
-
-020
-過去をふりきって=Let go of the past.
-
-021
-いらっしゃーい！=Welcome!
-
-022
-はかどらない作業=Slow Work
-
-023
-キャンパスの人気者=Campus Favorite
-
-024
-水もしたたる…=A splash of water...
-
-025
-パーティの惨劇=Tragedy of the Party
-
-026
-オレに買わせてよ=Let me buy it!
-
-027
-たまらない想い=Irresistible Desire
-
-028
-気持ちを確かめて=See how you feel.
-
-029
-会場でも人気者=Venue Favorite
-
-030
-離さないからな！=I won't let go!
-
-31
-謝罪=Apology
-
-32
-徹夜明けに=The Dawn After an All Nighter
-
-33
-パーティの華=Flower of the Party
-
-34
-買い食いです=I'm buying a meal.
-
-35
-貴方にもありがとう！=Thank you, too!
-
-36
-朝焼けの中で=In the Morning Glow
-
-37
-浮かびました！=I just got it!
-
-38
-暖かい腕の中=In Your Warm Arms
-
-39
-一人暗がりで=Alone in the Dark
-
-40
-不意打ちです=It's a surprise.
-
-41
-自分の居場所=Where I Belong
-
-42
-今夜は離しません=I won't let you go tonight.
-
-43
-幸せの終着点=The Endpoint of Hapiness
-
-44
- れ、ペン先！！
-
-45
-なぜ、私が？！=Why me?!
-
-46
-吹雪の中で=Inside the Snowstorm
-
-47
-体をあたためて=Warm yorself up.
-
-48
-なかなか、いけるな…=It's not that bad...
-
-49
-ただ、無心に=Just be mindless.
-
-50
-仕方が無い奴らだ=They have no choice.
-
-51
-頼れるエリート=The Dependable Elite
-
-52
-冷ややかな視線=Cold Stare
-
-53
-星空の下の一時
-
-54
-見せ付けてやれ=Show them.
-
-55
-覚悟の口付け=The Kiss of Preparedness
-
-56
-二人で原稿チェック=Two People's Manuscript Check
-
-57
-南国の風の中=In the Tropical Breeze
-
-58
-熱演=Enthusiastic Performance
-
-59
-君のおかげだよ！=I owe you!
-
-60
-今日はありがとう！=Thanks for today!
-
-61
-国際交流？！=International exchange?!
-
-彼女にあやまれ=Go easy on her.
-
-63
-ねえ、僕を食べてみて=Hey, try to eat me. #whahthaha??????
-
-64
-腹ペコの収録=Hungry Recordings
-
-65
-艶やかな少女？=A Beautiful Girl?
-
-66
-それは純白の誘惑=That's pure white temptation.
-
-67
-真実の顔=The Face of Truth
-
-68
-対面=Meeting
-
-69
-君と星空の下で=Beneath the Starry Sky with You
-
-70
-迎えに来たよ=I've come for you.
-
-71
-君を乗せて=I'll carry you.
-
-72
-鷺娘の舞=Dance of the Egret
-
-73
-デラックスパフェ！=Deluxe parfait!
-
-74
-一緒にすぺろう！=Let's work together!
-
-75
-ヤドリギの下で=Under the Mistletoe
-
-76
-深夜の内緒話=Late Night Secret Talk
-
-77
-迫真の演技=Realistic Performance
-
-78
-溢れ出る願い=Overflowing Desire
-
-79
-父と娘=Father and Daughter
-
-80
-君は僕が守るよ=I'll protect you.
-
-81
-付き合っちゃおうか？=Will you go out with me?
-
-82
-美しい仲間たちと=With Beautiful Friends
-
-83
-秘密のキス=A Secret Kiss
-
-84
-病院の響=Hibiki of the Hospital
-
-85
-響ＶＳ恭一エンド=Hibiki VS Kyouichi End
-
-86
-桜の下で=Beneath the Cherry Blossoms
-
-87
-轟木ＶＳ神埼エンド=Todoroki VS Kanzaki End
-
-88
-亮ＶＳ響エンド=Ryo VS Hibiki End
-
-89
-一触即発=Critical Situation
-
-90
-待ってください！=Please wait!
-
-91
-憧れの人と=With the Person I Admire
-
-92
-亮ＶＳ轟木エンド=Ryo VS Todoroki End
-
 ==MAIN==
 006
 ヴァンパイア騎士DS=Vampire Knight DS
-©樋野 まつり・白泉社/「ヴァンパイア騎士」 製作委員会=Matsuri Hino・Hakusensha/Vampire Knight Production Comittee
+©樋野 まつり・白泉社/「ヴァンパイア騎士」 製作委員会=Matsuri Hino・Hakusensha/Vampire Knight Production Committee
 ©D3 PUBLISHER=©D3 PUBLISHER
+
+==MG_SEL==
+002
+相性占い=Fortune Telling
+持ち物検査=Item Inspection
+プレゼント渡し=Gift Delivery
+着せ替えファッションチェック=Dress up Fashion Check
+
+004
+相性占い=Fortune Telling
+持ち物検査=Item Inspection
+プレゼント渡し=Gift Delivery
+着せ替えファッションチェック=Dress up Fashion Check
+パーティへおいで=Attending a Party
+夜歩きさん発見!=Catching Wanderers!
+気になる様子=Window Watching
+ワルツダンス=Waltz
+レベル：Eを倒せ=Defeating Level E’s
 
 ==MG1==
 012

@@ -126,6 +126,7 @@ z=5
 ｾ=4
 ｿ=5
 ﾜ=6
+
 # Common phrases
 Day Class=
 Night Class=
@@ -133,11 +134,13 @@ Cross Academy=
 St. Xocolatl’s Day=
 Night Rainbow=
 test of courage=
+
 # Names
 Kaname=
 Ichijo=
 Chibi=
 Zero=
+
 # Common words
 coexistence=
 chocolate=
@@ -159,6 +162,7 @@ rose=
 eyes=
 okay=
 Girl=
+
 # Conjunctions
 something=
 anything=

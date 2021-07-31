@@ -884,14 +884,14 @@ TEXTの表示速度を設定します。=Set the text speed.
 襲い来るレベル:Ｅをアルテミス|（タッチペン）で倒すぞ！||赤いポイントを|タッチするのがコツ。|上手くいかなくてもアノ人の|助けが入るかも？|= Touch the red points and defeat| the incoming Level E!|| If things go badly, maybe he’ll| come to help?
 
 !FILE:CharacterNames
-   玖蘭　枢   =Kaname Kuran
-   藍堂　英   =Aido Hanabusa
-   架院　暁   =Kain Akatsuki
-  一条　拓麻  =Takuma Ichijo
-  支葵　千里  =Senri Shiki
-  錐生　零    =Zero Kiryu
-  夜刈　十牙  =Toga Yagari
-  黒主　優姫  =Yuki Cross
+   玖蘭　枢   =>>Kaname Kuran
+   藍堂　英   =>>Aido Hanabusa
+   架院　暁   =>>Kain Akatsuki
+  一条　拓麻  =>>Takuma Ichijo
+  支葵　千里  =>>Senri Shiki
+  錐生　零    =>>Zero Kiryu
+  夜刈　十牙  =>>Toga Yagari
+  黒主　優姫  =>>Yuki Cross
 
 !FILE:AdditionalText
 #Party intro - Kaname
@@ -937,7 +937,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 もう少しシックだと、|僕の好みだよ。=I’d prefer something a little more chic.
 ああ、僕の想像通りだよ。|とても素敵なレディだ。=Oh, it’s just as I imagined. You’re make a fine lady.
 何て事だ|ドレスから、知性があふれ|出している……素晴らしい。=My, that dress is just overflowing with wit… It’s wonderful.
-美しさは知を生み、知は美しさ|を生み出す。それを体言してく|れるなんて……最高だよ。=Beauty begets wisdom, and wisdom begets beauty. That look just proves it… it’s incredible. 
+美しさは知を生み、知は美しさ|を生み出す。それを体言してく|れるなんて……最高だよ。=Beauty begets wisdom, and wisdom begets beauty. That look just proves it… it’s incredible.
 素敵だ……|是非、エスコートさせて|下さい。マドモアゼル。=Beautiful… Please allow me to escort you, Mademoiselle.
 ずいぶんと頑張ったね。|ご苦労様。=I can see you’ve put in a lot of effort. Good work.
 僕以外の男性に|あまり見て欲しくないな……=I don’t want anyone but me to see you…
@@ -972,7 +972,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 あっははは！|そのドレスって……変だよ。=Ahahaha! That dress is so weird.
 面白いね。|お前にはお似合いだよ。=Interesting… It suits you.
 個性的だね。|言っておくが褒めてるんじゃ|ないぞ。=…Unique. And for the record, that’s not a compliment.
-オイシイね。|さすがは風紀委員だ。=It’s nice. I expected as much, from a prefect like you. 
+オイシイね。|さすがは風紀委員だ。=It’s nice. I expected as much, from a prefect like you.
 へぇ～別人かと思ったよ。|あまりにも普段と違うからさ。=Heh, I almost thought you were someone else. It’s very different.
 シックで良い感じ|なんじゃないの。|ドレスだけは。=It’s nice and chic. The dress, that is.
 結構大人っぽいんだね。|見直したよ。=You look very mature. I’ve reevaluated you.
@@ -1064,19 +1064,19 @@ TEXTの表示速度を設定します。=Set the text speed.
 #Dress comments - Zero
 いいドレスだな。悪くない。=It’s a nice dress. Not bad.
 お前らしくていいよ。|うん、すごくいい。=It’s very you. Yeah, it’s nice.
-おどろいた…|そういうの、似合うんだ…=I’m surprised… 
+おどろいた…|そういうの、似合うんだ…=I’m surprised…
 悪い、思わず見てしまった…=Sorry, I didn’t mean to stare…
 何からしくないな。=It’s not you.
 ちょっと堅い雰囲気だな。=It’s a little stiff.
 それがお前の…|いや、やめておくよ。=So that’s your-- No, never mind.
 良くもなく、|悪くもなくってとこか。=It’s neither here nor there.
 うん…|まだ５年は早いんじゃないか？=Yeah… I think you’re probably five years too early to be wearing that.
-確かに露出は多いけど、|あまりピンとこないな。=It’s pretty revealing but… it doesn’t land right. 
+確かに露出は多いけど、|あまりピンとこないな。=It’s pretty revealing but… it doesn’t land right.
 へぇー、|そういうの着るんだ…=Heh, so you wear this kind of thing.
 お前にしては、|がんばった方だと思うよ。=I think you’ve done well for yourself.
 お前……マジなのか？=Are you… serious?
 これは……|似合ってるんじゃないか……|ククッ=It… really suits you… haha…
-俺を元気付けようと、|そんな面白い格好を……|すまないな。=You wore that stupid thing to cheer me up… sorry. 
+俺を元気付けようと、|そんな面白い格好を……|すまないな。=You wore that stupid thing to cheer me up… sorry.
 おい……|俺にケンカ売ってるだろ？=Hey… Are you trying to start a fight with me?
 ああ……|そういう顔もするんだ……=Oh… So you have this side to you too…
 そんなにアネキ風吹かせたい|のか？=You want to look like my older sister that bad?
@@ -1089,14 +1089,14 @@ TEXTの表示速度を設定します。=Set the text speed.
 
 Extra comments (if too many accessories are worn) -Kaname
 フフフ……|君ってやっぱり面白い。=Heheh… You’re always so amusing.
-君のチャレンジ精神には、|敬意を表するよ。=I admire your willingness to challenge the norm. 
+君のチャレンジ精神には、|敬意を表するよ。=I admire your willingness to challenge the norm.
 いいんだよ。|君がそれでいいなら……=It’s okay. If you like it…
 
 Extra comments - Aido
 クスクス……|何だか似合っているよ。=Hehehe… It kind of suits you.
 なんだか頑張りすぎ？|らしくない感じだ。=Aren’t you trying way too hard? It’s not you.
 ふーん、|そういう趣味なんだ……=Hm, so this is your style…
- 
+
 Extra comments - Kain
 あはは、|それは面白すぎだ！=Ahaha, that’s too funny!
 おいおい、いいのか？|そんなモンつけちゃって。=Oi, oi, are you sure about wearing that?
@@ -1332,7 +1332,7 @@ Date over - Zero
 君は勇気のある子だ。|だからこそ、気をつけて欲しい。=You are a brave one. That’s all the more reason I wish you would be careful.
 君が傷つく姿は見たくない……|これっきりにしてほしい……=I don’t want to see you get hurt. I hope this will be the last time.
 君を傷つけようとするものは、|この僕がゆるさない！|例えなんびとであろうとも！=I won’t forgive anyone who tries to hurt you! No matter who they are!
-こんなに危ないことを……|お願いだから、|もっと僕を頼ってほしい……=Falling into such a dangerous situation… Please, rely on me more. 
+こんなに危ないことを……|お願いだから、|もっと僕を頼ってほしい……=Falling into such a dangerous situation… Please, rely on me more.
 君が無事でなによりだ。|でも、あまり|頑張りすぎないようにね。=All that matters it that you’re safe. But, you shouldn’t try so hard.
 君に、ガーディアンの仕事は|過酷だ。|できれば、やらせたくない……=I know that being a Guardian is a tough job. I wouldn’t want you to do it if I could help it…
 君をこんな目にあわせて……|錐生　零は一体何をやって|いるんだ。=Putting you in danger… What is Zero Kiryu doing…?
@@ -1396,7 +1396,7 @@ Date over - Zero
 いつもこんな危い事|しているの？=Are you always doing such dangerous things?
 キミが傷つくと悲しむ奴がいる|よ。=There are people who’ll be sad if you get hurt.
 気が強い女の子……|結構好き。=You’re strong-willed… I like that.
-結構やるね。びっくりした。=You’re quite good. I’m surprised. 
+結構やるね。びっくりした。=You’re quite good. I’m surprised.
 あんまりがんばると、疲れるよ。=If you work too hard, you’ll get tired.
 風紀委員ってもう一人|いたよね？|でも、ここに居ない……=There’s another prefect, isn’t there? But he’s not here.
 取り返しのつかない|事になる……|やめた方がいい。=One day something will happen that can never be undone… You should stop.
@@ -1405,7 +1405,7 @@ Date over - Zero
 大丈夫か？！|俺にまかせろ！=Are you okay? Leave this to me!
 危ない！|下がってろ！=It’s dangerous! Stay back!
 お前の事は、俺が守る！=I’ll protect you!
-こいつに触れるな！醜い魂が！=Don’t touch her with your tainted souls!#tc 
+こいつに触れるな！醜い魂が！=Don’t touch her with your tainted souls!#tc
 お前の悲しみは、|俺が消してやる……=I’ll put you out of your misery…
 ２度とお目にかかりたくないな。|消えろ！=I never want to see you again. Disappear!
 ケガはないか？|無茶ばっかりしやがって。=Are you hurt? That was too reckless.
@@ -1420,7 +1420,7 @@ Date over - Zero
 #Level E minigame - Yagari
 小娘！|大丈夫か！？=Girl! Are you okay?
 ヴァンパイアは…|始末する！=Vampire… This is the end!
-ちっ…数が多い…|ここは俺が引きつける！=Tch… There’s so many… I’ll draw them away. 
+ちっ…数が多い…|ここは俺が引きつける！=Tch… There’s so many… I’ll draw them away.
 俺を恨みながら逝け。|ヴァンパイア……！=Resent me and die, Vampires!
 お前達が|いかに『弱い』存在か、|教えてやるぜ。=I’ll show you just how weak you are.
 ふっ…|俺の本領発揮だな！=Heh… This is where I’m best!

@@ -17,7 +17,7 @@
 <ch1>鋭い気配<00><00><0A><ch2>怪しい気配<00><01>=<ch1>A piercing presence.<00><00><0A><ch2>A mysterious presence.<00><01>
 <ch1>ありがとう<00><00><0A><ch2>零……<00><01><0A><ch3>意外と優しいじゃん<00><02>=<ch1>“Thank you.”<00><00><0A><ch2>“Zero…”<00><01><0A><ch3>“That was unexpectedly nice of you.”<00><02>
 <ch1>おせっかいだよ<00><00><0A><ch2>零って……<00><01><0A><ch3>ごめんね<00><02>=<ch1>“You didn’t have to barge in.”<00><00><0A><ch2>“Hey, Zero…”<00><01><0A><ch3>“I’m sorry.”<00><02>
-<ch1>藍堂　英<00><03><0A><ch2>架院　暁<00><04><0A><ch3>他の人……=<ch1>Hanabusa Aido<00><03><0A><ch2>Akatsuki Kain<00><04><0A><ch3>Someone else…
+<ch1>藍堂　英<00><03><0A><ch2>架院　暁<00><04><0A><ch3>他の人……=<ch1>Hanabusa Aido<00><03><0A><ch2>Akatsuki Kain<00><04><0A><ch3>Someone else…<00><00>
 <ch1>一条　拓麻<00><05><0A><ch2>支葵　千里<00><06><0A><ch3>他の人……<00><01>=<ch1>Takuma Ichijo<00><05><0A><ch2>Senri Shiki<00><06><0A><ch3>Someone else…<00><01>
 <ch1>玖蘭　枢<00><7F><0A><ch2>錐生　零<00><02><0A><ch3>誰にも渡さない<00><07>=<ch1>Kaname Kuran<00><7F><0A><ch2>Zero Kiryu<00><02><0A><ch3>Don’t give it away.<00><07>
 <ch1>聖ショコラトル･デー|楽しかったですか？<00><00><0A><ch2>沢山のチョコはどうしました？<00><01>=<ch1>“Did you enjoy St. Xocolatl’s Day?”<00><00><0A><ch2>“What did you do with the chocolate?”<00><01>
@@ -837,7 +837,7 @@ vk_se6_010=
 やさしい彼はあなたが|つまづいても救いの手を|差し伸べてくれるでしょう。=Someone as kind as him is sure to give you a helping hand if you stumble.
 ラッキーアイテムは、|『リボンのついた箱』です。=Your lucky item is a “box tied with ribbon”.
 
-# A19BC 
+# A19BC
 彼との運気もまだこれから|上がらなければなりません。=You must improve your fortunes with him.
 突然のハプニングでも|彼の意外な一面を受け入れる|事で運気は上昇します。=Your luck will increase by accepting an unexpected side of him, even if it happens suddenly.
 大事なポイントは、|最後には彼の事を|信じること。=What’s important is that you still believe in him when it’s over.
@@ -991,7 +991,7 @@ vk_se6_010=
 # A1AFC
 彼との運気が上がるのは|これから……|その為の心がけも必要です。=Your fortunes will see an increase after this, but you must take care.#dupe
 彼が好む物をしっかり|意識して接することが|重要になります。=It is important to be aware of what he likes.
-見えます……|彼の好きな事について|話をするあなたの姿が……=I can see it… You are talking to him about the things he likes. 
+見えます……|彼の好きな事について|話をするあなたの姿が……=I can see it… You are talking to him about the things he likes.
 ラッキーワードは、|『綺麗な女性』です。=Your lucky phrase is “a beautiful woman”.
 
 # A0F68
@@ -1217,7 +1217,7 @@ vk_se6_010=
 
 # A1360
 なかなか上手いもんだな。悪く|ない気分だったよ。=You’re pretty good at this. It wasn’t bad.
-ふっ…この俺が、もっと踊り|たかったと思うなんて……|いや、なんでもない。=Heh… Never thought I’d want to dance even more… No, ignore me. 
+ふっ…この俺が、もっと踊り|たかったと思うなんて……|いや、なんでもない。=Heh… Never thought I’d want to dance even more… No, ignore me.
 
 # A0BD4
 お前がこんなにも、ダンスが|上手だとは、おどろいたな。|小娘なんて言って悪かったな。=I’m surprised you’re such a good dancer. Sorry for calling you a little girl.
@@ -1429,10 +1429,10 @@ vk_se6_010=
 <unk1>今夜も悪い子達を捕まえるよ！|右画面をタッチしたら|はじめるよ！=<unk1>I’ll stop anyone who’s misbehaving!|Touch the right screen to start!
 
 # A0EB0
-全員確保！|夜歩きさんは絶対|見逃さないからねっ！=I’ll catch them all! I won’t let a single student get away! 
+全員確保！|夜歩きさんは絶対|見逃さないからねっ！=I’ll catch them all! I won’t let a single student get away!
 
 # A0A1C
-全員確保！|風紀委員を甘く見ないでねっ！=I’ll catch them all! Don’t underestimate us Prefects! 
+全員確保！|風紀委員を甘く見ないでねっ！=I’ll catch them all! Don’t underestimate us Prefects!
 
 # A0DD8
 ５人確保！|おしい！あと１人なのに！=I got five. Argh! There was only one more to go!
@@ -1471,7 +1471,7 @@ vk_se6_010=
 お前か、見回りご苦労！=It’s you? Thank you for patrolling.
 
 # A0BCC
-危ない！|気をつけてね=That’s dangerous! Be careful. 
+危ない！|気をつけてね=That’s dangerous! Be careful.
 
 # A0980
 イテっ、僕だよ。=Ow, it’s me you know.
@@ -13359,7 +13359,7 @@ Sleep well…
 僕みたいなイイ男をけって|いくんだからさ。ね、枢。=You’ve picked a good man, like me. Right, Kaname?
 あれ？枢、|もしかして怒ってる？=Huh? Kaname? Have I made you angry?
 いや…………=No…..
-えっと、邪魔者は|早々に退散かな？じゃあね。|枢、<name>ちゃん。=Um, guess it’s high time the intruder takes their leave then? See you later, Kaname, <name>. 
+えっと、邪魔者は|早々に退散かな？じゃあね。|枢、<name>ちゃん。=Um, guess it’s high time the intruder takes their leave then? See you later, Kaname, <name>.
 一条…ありがとう……=Ichijo… Thank you…
 
 # A4B84 Shiki appears after A5DA4 (Kaname route)
@@ -14413,7 +14413,7 @@ Sleep well…
 # A09A4
 楽しめた？<name>ちゃん。=Was that fun, <name>?
 
-# A0A58 
+# A0A58
 これが君の気持ちだね。|ありがとう。=So this is how you feel. Thank you.
 
 # A0DD4
@@ -14516,13 +14516,13 @@ Sleep well…
 本当に？|それは是非確かめたいなぁ。=Really? I’d love to know for sure.
 じゃあ私が、その女の子が|思っている言葉をせーので|言います。=Then I’ll tell you what that girl is thinking,
 一条センパイも、センパイが|思っている言葉を同時に言って|ください。=and you should say how you feel at the same time.
-言葉が同じなら、ちゃんと|聞こえるはず。という事だね？=You mean if we both say the same thing, we’ll be able the hear it? 
+言葉が同じなら、ちゃんと|聞こえるはず。という事だね？=You mean if we both say the same thing, we’ll be able the hear it?
 はい。じゃあ、いいですか？=Exactly. Alright, are you ready?
 わぁ、ちょっと待って。|心の準備をさせて。=Wah, one second! I need to mentally prepare myself--
 いいよ。いくよ。=I’m ready. Let’s go.
 せーの！=One, two…!
 誰？|大事な時に何で花火なの？=Who’s shooting fireworks as this crucial moment?
-あ……そういえば、|極夜の花火が余ってるとか|理事長言ってたっけ……=Ah… Now you mention it, I remember the headmaster saying there was a surplus of fireworks from the Polar Night. 
+あ……そういえば、|極夜の花火が余ってるとか|理事長言ってたっけ……=Ah… Now you mention it, I remember the headmaster saying there was a surplus of fireworks from the Polar Night.
 なんでこんな時に……=Why now…?
 でも、僕には君の言葉が|ちゃんと聞こえたよ。=But I heard what you said.
 ええっ！私は|一条センパイの言葉、|聞こえなかったです！=Huh!? I didn’t catch a word of what you said!
@@ -14544,13 +14544,13 @@ Sleep well…
 それとのコラボレーションで、|枢の寮長に匹敵するユニットを|組もうかな？=I could collaborate with them to make a unit that would rival Kaname’s presidency.
 なんて考えているんだ。=Or, so I’ve been thinking~
 なんだか、面白そうですね。=That sounds kind of interesting.
-うん。新しく併設する役職名も|決まったんだ。=Yeah! I also came up with a name for the new post. 
+うん。新しく併設する役職名も|決まったんだ。=Yeah! I also came up with a name for the new post.
 え～何ですか？何ですか？=Oooh? What? What it is?
 それはね……=Well, it’s…
 それは……？=It’s…?
 『寮母さん』。=“Dorm Matron”.
 あ、『副寮長』と|『寮母さん』のペアだと|あまりバランスが良くないね。=Ah, I guess “Vice President” and “Dorm Matron” don’t sound like a very balanced pair.
-『寮長』は既に殿堂入りだから|そのうち『副寮長』を|『寮父さん』に進化させよう。=The “Dorm President” is already an established name, so let’s make “Vice President” into “Dorm Patron”. 
+『寮長』は既に殿堂入りだから|そのうち『副寮長』を|『寮父さん』に進化させよう。=The “Dorm President” is already an established name, so let’s make “Vice President” into “Dorm Patron”.
 そうするとバランスがいいよ。|『寮父と寮母』これぞ、生涯を|通してのペアって感じだね。=Then things will balance out nicely. Dorm Patron and Dorm Matron, a pair for life.
 はあ…………。=Right…
 じゃあ、よろしくね。|『寮母』さん。=Well, I’m counting on you, Miss “Matron”!
@@ -15072,7 +15072,7 @@ Sleep well…
 私……。|先生に逢いたくて……。|伝えたい事があって……=I… wanted to see you. There’s something I have to tell you.
 …………わかった。|お前も立派なレディって訳か。|で、何を伝えたいんだ？=…I get it. You’ve turned into a real lady, haven’t you? So, what did you want to say?
 ……お前と初めて会ったときは|零の奴が大変な事になって|いた。=…When we first met, Zero was in a right state.
-はい。夜刈先生がすごく冷静|で…零を本当に処刑しちゃう|のかと思って………=Yeah… You were very calm… I really thought you were going to kill him. 
+はい。夜刈先生がすごく冷静|で…零を本当に処刑しちゃう|のかと思って………=Yeah… You were very calm… I really thought you were going to kill him.
 ふっ…。冷静だったわけじゃ|ねぇよ。あいつの、あんな姿は|見たくなかったしな……=Heh… I wasn’t calm at all. I never wanted to see him like that.
 そうですか。|そうですよね……。=Right… Of course.
 
@@ -15114,7 +15114,7 @@ Sleep well…
 家族や、恋人がどんなに|悲しんだところでーー=No matter how sad their families and partners might be…
 命を受ければ俺たちハンターは|レベル：Ｅを狩らなければなら|ない。=If we receive the order, we hunters have no choice but to hunt Level E.
 見なれた光景のはずだが……|こんな俺でも心が痛むことが|あるんだぜ……=I should be used to it… but there are times when even I am left hurting.
-ヴァンパイアと関わるとは|そういう事だ。人としての|悲しみは避けて通れないのさ。=This is what it means to be involved with vampires. As a human, being faced with sadness is an inescapable fact. 
+ヴァンパイアと関わるとは|そういう事だ。人としての|悲しみは避けて通れないのさ。=This is what it means to be involved with vampires. As a human, being faced with sadness is an inescapable fact.
 ん…？=Hm…?
 その事は、零の件から|覚悟できています。=I know what’s going to happen to Zero, and I’m ready.
 そうか……さすがは、|黒主の義娘だな。=I see… I’d expect nothing less from Cross’ adopted daughter.
@@ -15197,7 +15197,7 @@ Sleep well…
 （消え去ったレベル：Ｅと共に|あの人の姿も消えていた。）=(Both the Level E, and Mr. Yagari had vanished.)
 （もう少し私が強ければ……|もう少し私に力があれば……）=(If only I was stronger… If I only more power…!)
 （どこにいってしまったの？|あの人は）=(Where did he go?)
-私は信じている。|先生はきっと生きている。|信じて待とう。いつまでも……=I believe in him. He’s still alive. I will have faith and wait, for as long as it takes… 
+私は信じている。|先生はきっと生きている。|信じて待とう。いつまでも……=I believe in him. He’s still alive. I will have faith and wait, for as long as it takes…
 
 # A180C low intimacy Zero bloodlust
 自分が嫌になる………|この渇きを抑え続けてみせると|自分に誓っていたのに…=I hate myself… Even though I swore to myself that I’d keep this thirst under control…

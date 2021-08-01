@@ -362,6 +362,10 @@ NAS=NAS
 012
 パーティを抜けますか？=Do you want to leave the party?
 
+==MG09==
+013
+マドにパラグラスを重ねてください=Look inside with the binoculars
+
 ==V_GALLERY==
 004
 玖蘭 枢 cv. 岸尾 だいすけ=Kaname Kuran cv. Daisuke Kishio
@@ -379,6 +383,9 @@ NAS=NAS
 玖蘭=Kuran
 藍堂=Aido
 架院=Kain
+
+==VKGM07==
+確保=Caught
 
 ==WC==
 000 

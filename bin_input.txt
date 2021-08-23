@@ -11248,7 +11248,7 @@ Sleep well…
 （私の恩人の枢センパイは、|私に生きるための喜びと、|命をくれたーー）=(Kaname, my savior, gave me the joy of life.)
 （私の育ての親の理事長は、|私に人間としての生活と、|名前をくれたーー）=(The Headmaster, the man who raised me, gave me a name and normal life.)#human life may be better here to distinguish it from the life of a vampire, but I didn't think that was necessarily what they were trying to imply. I don't think the protag is aware that they're actually a vampire here, assuming it's the same as with Yuki
 （そしてーー）=(And…)
-（黒主学園の夜空は、|今日もキレイな星の光で|包まれているーー）=(The night sky filled with stars gave me a view of Cross Academy bathed in starlight.
+（黒主学園の夜空は、|今日もキレイな星の光で|包まれているーー）=(The night sky filled with stars gave me a view of Cross Academy bathed in starlight.)
 （私は空を見ながら、|零が来るのを待っていたーー）=(I was gazing up at the stars while waiting for Zero to show up.)
 よお。=Hey.
 遅い！零！|まったく、ガーディアンの|仕事を何だと思ってるの！？=You're late, Zero! Gosh, do you care about your guardian duty at all!?
@@ -11335,7 +11335,7 @@ Sleep well…
 （デイ･クラスの女子生徒が|ナイト･クラスの皆さんの|元へ駆け寄ろうとしている）=(The girls from the Day Class rushed to meet the Night Class.)
 あ！待ちなさい！=Hey! Wait!
 （あっという間に私の前に|人垣ができてしまう）=(Before I knew it, a crowd had formed before my very eyes.)
-風紀委員さんが倒れているよ。|みんな、道を開けて|くれないかな……？=Our prefect has falled down. Would you all please let me through?
+風紀委員さんが倒れているよ。|みんな、道を開けて|くれないかな……？=Our prefect has fallen down. Would you all please let me through?
 （優しく、それでいて|有無を言わさない声が響く）=(His gentle, yet forceful voice echoed through the crowd.)
 （私の前の人垣が、ゆっくりと|左右に道を開けていくーー）=(The crowd in front of me slowly opened a path for him.)
 （デイ･クラスの生徒たちは|触れるのも許されない、という|様にその人をよけているーー）=(It is forbidden to touch a Day Class student, so he avoided any physical contact.)
@@ -11436,13 +11436,13 @@ Sleep well…
 わん！わん！！=Woof! Woof!!
 （零がチビを胸に抱いて、|リリィに乗って走っている|ーー）=(Zero was riding Lily, with Chibi in his arms.)
 見ろよ、<name>。|チビが楽しそうだぞ！！=Look, <name>. I think Chibi’s enjoying himself!#gender
-（零はリリィの上から|話しかけてくる）=(He was shouting to me while sat on Lily’s back.)
+（零はリリィの上から|話しかけてくる）=(He was shouting to me while he sat on Lily’s back.)
 （零はチビ以上に楽しそうだ）=(I think Zero’s having more fun than Chibi…)
 無理しないでよ？=Don’t overdo it, okay?
 大丈夫だよ。なあ、チビ！=It’ll be fine. Right, Chibi?
 わん！！=Woof!!
 なんだか楽しそう……ずるい。|零とチビばっかり……=It looks fun… I’m jealous.
-（呟きが聞こえたのか、|零とチビを乗せたリリィが、|私の所へやって来て止まるー）=(I don’t know if it’s coz he heard me mumbling, but Zero steered Lily my way.)
+（呟きが聞こえたのか、|零とチビを乗せたリリィが、|私の所へやって来て止まるー）=(I don’t know if it’s because he heard me mumbling, but Zero steered Lily my way.)
 <name>も一緒に乗るか？=Do you want to try, <name>?
 俺と一緒ならリリィも|大人しく乗せてくれるってさ。=If you’re with me, Lily won’t give you any trouble.
 （う～ん。楽しそうだけど、|リリィは怖いし……）=(That does sound fun, but Lily’s so scary…)
@@ -11456,7 +11456,7 @@ Sleep well…
 そうか？お前っていつも|なんだかんだ言って楽しそう|だけど……=Really? You always look like you’re having fun.
 違うよ！|零とこんな風にするのが|久しぶりっていう意味！=That’s different! I mean that it’s been ages since we did something like this together!
 これもみんなチビのお陰だよ。|ありがと、チビ。=It’s all thanks to Chibi.
-（私と零はしばらくして、|リリィを馬屋に返したーー）=(We kept continued for a little longer, and then Zero returned Lily to the stables.)
+（私と零はしばらくして、|リリィを馬屋に返したーー）=(We continued for a little longer, and then Zero returned Lily to the stables.)
 ありがとうな、リリィ。=Thank you, Lily.
 楽しかったね、零。=That was great, Zero!
 ああ、まあ……=Yeah, I guess…
@@ -11469,7 +11469,7 @@ Sleep well…
 枢センパイ、|どうしてそれを……？=H-How do you…?
 錐生くんに聞いたよ。=Kiryu told me.
 <name>の調子が悪いのも、|その子に自分の食べる物を|分けていたからだってね。=You haven’t been yourself because you’ve been splitting up your food to feed him.#qc chibi’s gender
-（零……余計な事を）=(Zero… What’d he go and tell Kaname that for?)
+（零……余計な事を）=(Zero… Why’d he go and tell Kaname that for?)
 その、バラ園で|見つけたんです。|脚をケガしていて……=I-I found him in the rose garden. His leg was hurt, and I just--
 <name>。|別に<name>を責めてる訳じゃ|ないよ。=I wasn’t trying to reprimand you, <name>.
 脚のケガを介抱して|あげたんだね？|<name>は優しいね。=You tended to his injured leg, didn’t you? You’re always so kind.
@@ -11516,7 +11516,7 @@ Sleep well…
 そ、そんな事……！=W-What!?
 （まっすぐ私を見つめる|枢センパイの視線が照れ臭くて|私はチビを振り向いた）=(I became conscious of Kaname’s eyes watching me, and turned to look at Chibi instead.)
 わかった！|遠くに投げようとするから|タイミングが合わないんだ。=I know! It must be because I’m trying to throw the ball too far away that he can’t figure out the timing.
-いい？チビ。|今度は真上に投げるからね？|どっちが取れるか競争ね？=Okay, Chibi. I’m going to throw it straight up this time, alright? Let’s have a little contest to see which of us can catch it first!
+いい？チビ。|今度は真上に投げるからね？|どっちが取れるか競争ね？=Okay, Chibi. I’m going to throw it straight up this time. Let’s see which of us can catch it first!
 （ボールは夜空に向かって|高々と舞い上がったーー）=(I sent the ball flying high into the night sky.)
 どっちが取れるかな？=Who’s it gonna be?
 （私とチビは空から落ちてくる|ボールの行方を、左右に|フラつきながら追ったーー）=(Chibi and I chased after the ball as it fell from the sky.)
@@ -11540,7 +11540,7 @@ Sleep well…
 はい、バラ園で|見つけたんです。|脚をケガしていて……=I found him in the rose garden. His leg was hurt.#gender
 チビっていうんです。|仲良くしてあげて下さい。=His name’s Chibi. Please play nice with him, now.#gender
 仲良く……？=Play nice…?
-なぜ僕がお前の犬なんかと|仲良くしなければならない|んだ！お前、単純すぎるぞ！=Why do I play nice with a dog? You’ve got a screw loose, you know!
+なぜ僕がお前の犬なんかと|仲良くしなければならない|んだ！お前、単純すぎるぞ！=Why should I play nice with a dog? You’ve got a screw loose, you know!
 もしかして、藍堂センパイって|犬が苦手なんですか？=Could it be that you’re not good with dogs?
 苦手？そんなはずがあるか！|僕に苦手な物なんか、無いん|だからな。=Not good with dogs? As if! I’m good at everything!
 じゃあ、どうしてそんな|嫌そうな顔するんですか？=Then why do you look so uncomfortable?
@@ -11652,11 +11652,11 @@ Sleep well…
 おい、気をつけろよ。<last>。|ここは結構高いからな。=Oi, watch it <last>. That’s pretty high up.
 はい。@AF128=I’ll be careful.
 （私はゆっくりとチビの所へと|見張り台を登り始めたーー）=(I slowly started to climb up to the lookout balcony.)
-（チビのいる場所は見張り台の|淵で、少しバランスを崩せば|すぐに落ちてしまいそうだ）=(The place where Chibi was stood was right on the edge of the balcony and I was scared I might loose my balance.)
+（チビのいる場所は見張り台の|淵で、少しバランスを崩せば|すぐに落ちてしまいそうだ）=(The place where Chibi stood was right on the edge of the balcony and I was scared I might loose my balance.)
 大丈夫だから、チビ。|こっちにおいで。=It’s okay, Chibi. Come here.
 （チビは興奮したような|警戒の鳴き声を続けている）=(Chibi kept crying out in alarm.)
 どうしたの？チビ。=What’s wrong, Chibi?
-俺に任せろ、<last>。=Leave tis to me, <last>.
+俺に任せろ、<last>。=Leave it to me, <last>.
 （後ろからやってきた|架院センパイが、|チビの前に立つーー）=(Kain came up from behind me and took a look at Chibi.)
 大丈夫ですか？|架院センパイ。|あんなに怖がってるのに。=Is he okay? Other than being spooked…#gender
 実はな、あいつ、|脚にバラのトゲが|刺さってるんだ。=It looks like he actually has a rose thorn stuck in his leg.#gender
@@ -11917,7 +11917,7 @@ Sleep well…
 チビと一緒だったら、|１人でも出かけられるな。=If you’re with Chibi, I guess you’ll be fine on your own.
 うん！|行ってきます、理事長！|ありがとうございました！=Right!|I’m heading out now, Headmaster! Thank you!
 あ、<name>……=Ah, <name>--!
-（理事長は何か言いたそう|だったけど、私は気にせずに|チビを連れて出ていったーー）=(I didn’t hear the headmaster call out to me, and left with Chibi before he got a chance to finish what he was about to say.)
+（理事長は何か言いたそう|だったけど、私は気にせずに|チビを連れて出ていったーー）=(I didn't hear the headmaster call out to me. I left with Chibi before he got a chance to finish his sentence.)
 う～ん……=Nnn…
 理事長……|どうするんですか？=Headmaster… What should we do?
 ……うん。|ちょっとマズいね、これは。=…Yeah. We’re in a bit of a pickle, aren’t we?
@@ -11930,12 +11930,12 @@ Sleep well…
 （元気いっぱいのチビは、|声を掛けてきた子供に|嬉しそうに尻尾を振っている）=(He energetically wagged his tail at the children who had called out.)
 かわいいなあ、|ワンちゃん、ワンちゃん。=Doggy, doggy! You’re so cute!
 ふふ。チビも外を散歩できて|嬉しいんだね。=Hehe, I guess you must love being out too, Chibi!
-私もチビがいれば心強いな。|私の事も守ってね、チビ。=I feel reassured when I have here. You’ll protect me if anything happens, won’t you boy?
+私もチビがいれば心強いな。|私の事も守ってね、チビ。=I feel reassured when I have you here. You’ll protect me if anything happens, won’t you boy?
 （私はチビを連れて、|公園にやってきたーー）=(I took Chibi to the park.)
 チビ！ここなら思いっきり|走れるよ！！=You can run as much as you like here!
 （チビは天気のいい|公園の芝生を嬉しそうに|駆け回ったーー）=(Chibi happily frolicked around the grass in the sun.)
 おお。|元気のいいワンちゃんじゃな。=My, that is one energetic little doggy.
-（公園のベンチに腰掛けている|おじいさんが、チビを見つけて|声をかけてくれる）=(An old man sat on bench spotted Chibi and called out to him.)
+（公園のベンチに腰掛けている|おじいさんが、チビを見つけて|声をかけてくれる）=(An old man sitting on a bench spotted Chibi and called out to him.)
 ほほほ。よし、いい子だ。|おやつをやろうな。=Oh-ho-ho, well aren’t you a good boy? Let me see what nice treats I have for you.
 （おじいさんは買い物袋から|犬のおやつを取り出すと|チビに与えてくれた）=(The old man took out some dog treats from his shopping bag and gave them to Chibi.)
 おじいさん。|ありがとうございます！=That’s very kind of you!
@@ -11998,7 +11998,7 @@ Sleep well…
 レベル：Ｅに落ちるのは|人も犬も同じ。=Be it human or dog, they will eventually fall to Level E.
 やがて理性を失い、|手当たり次第に人を襲う|ヴァンパイアになる。=They’ll lose all reason and become a vampire who attacks humans indiscriminately.
 レベル：Ｅ……|俺と、同じ……=Level E… Just like me…
-信じられない気持ちもわかる。|きみは何もしなくていい。|今夜、僕は街へ出る。=I know that it might be hard to believe. You don’t have to do anything. I’m going to head into town myself tonight.
+信じられない気持ちもわかる。|きみは何もしなくていい。|今夜、僕は街へ出る。=I know it might be hard to believe. You don’t have to do anything. I’m going into town myself tonight.
 また犠牲が出る前に、|あの犬を始末しなければ|いけないからね。=I have to put an end to that dog before it kills again.
 ……俺も行く。=…I’ll come too.
 きみも……？=You will?
@@ -12065,7 +12065,7 @@ Sleep well…
 優しいね、支葵は。|……僕も、そう願うよ。=You’re very kind, Shiki.|…I thought the same.
 #common
 う～ん、……チビ？|どうしたの？=Nngh… Chibi? What’s wrong?
-（チビが枕もとで|私に向かって鳴いている）=(Chibi was stood by my pillow, whimpering.)
+（チビが枕もとで|私に向かって鳴いている）=(Chibi stood by my pillow, whimpering.)
 どうして|そんな声で鳴いてるの？チビ。=Why do you sound so upset?
 （チビを抱き上げた私は、|チビの左脚ににじむ血に|気がついたーー）=(I picked him up and noticed blood oozing down his left leg.)#gender
 チビ！|脚をケガしてるじゃない！|どうしたの！？=Chibi! Your leg is injured! What happened!?

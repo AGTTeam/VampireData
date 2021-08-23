@@ -11533,7 +11533,7 @@ Sleep well…
 どうもありがとう。|とても楽しかったよ、<name>。|それとチビ。=Thank you, <name>. And Chibi. I had a lot of fun.
 枢センパイ。|また、チビと|遊んであげてください。=I hope you’ll play with us again, Kaname.
 もちろんだよ。=Of course.
-チビが遊んでほしそうだ。|そういうわけにもいかないね。=#qc unused?
+チビが遊んでほしそうだ。|そういうわけにもいかないね。=Chibi seemed like he wanted to play. How could I not?
 
 # AEE38 Aido Chibi 1
 うっ！何だこの臭い…|うわっ、|犬が何でこんな所に…！？=Ugh, what is that smell…?|Woah, what’s a dog doing here?!

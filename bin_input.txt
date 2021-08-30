@@ -809,7 +809,7 @@ vk_se6_010=
 
 # A1B1C
 彼との運気も絶好調です。|何か彼にプレゼントを|しましょう。=Your fortune couldn’t be better. You should give him something as a gift.
-彼が本来持ち得る良さを|いかせる選択が吉と出ます。=Good things will come of choose an item that brings out the best in him.
+彼が本来持ち得る良さを|いかせる選択が吉と出ます。=Good things will come if you choose an item that brings out the best in him.
 見えます……|月夜にたたずむ|彼の勇姿が……=I see it… a gallant figure standing in the moonlight…
 ラッキーアイテムは、|『シルクハット＆マント』|です。=Your lucky items are a “Tophat” and a “Cloak”.
 
@@ -853,7 +853,7 @@ vk_se6_010=
 
 # A1CE0
 彼との運気も比較的好調です。=Your fortune is relatively promising.
-ここは、思い切っていつもと|違うあなたの姿を|見せるのも良い刺激となり=This is a good chance incite change by boldly showing a different side of yourself.
+ここは、思い切っていつもと|違うあなたの姿を|見せるのも良い刺激となり=This is a good chance to incite change by boldly showing a different side of yourself.
 彼との仲も更に|深まる事でしょう。=You will surely be able to get to know him even better.
 見えます……=I can see it…
 ラッキーアイテムは、|『パワフルなドレス』です。=Your lucky item is a “Bold Dress”.
@@ -1175,7 +1175,7 @@ vk_se6_010=
 
 #Kain Dancing Minigame
 # A0A28
-お前、アレはないだろ。|頼むぜ？=Come on, you can do better than this	. I’m counting on you.
+お前、アレはないだろ。|頼むぜ？=Come on, you can do better than this. I’m counting on you.
 
 # A0F60
 いや、俺がヘタだったのかな|……|それとも……=Ah, I guess I’m not very good at this… Else…
@@ -2568,7 +2568,7 @@ Should we get going?
 （一条センパイならきっと|喜んでくれると思うし！）=(I think it’d make him really happy!)
 （決意を固めると|私は一条センパイの元へ）=(With renewed determination, I made my way to Ichijo.)
 あ、あの……一条センパイ！|こ、これ、チョコです。|良かったら、どうぞ！=U-Um… Ichijo. T-This chocolate. Please take it, if you’d like!
-えっ？僕にくれるの？|いやぁ～感激だな～|<name>ちゃん、ありがとう！=Huh? You’re giving it to me? Wow~ I’m honored~ Thank you,  <name>!
+えっ？僕にくれるの？|いやぁ～感激だな～|<name>ちゃん、ありがとう！=Huh? You’re giving it to me? Wow~ I’m honored~ Thank you, <name>!
 い、一条センパイっ|そんなに抱きしめられると|……！=I-Ichijo, if you hug me like that--!
 キャー！！|ずるい！風紀委員ばっかり！|職権乱用よーー！！=Whaa--!! That’s so unfair! Why only the prefects?! That’s an abuse of power!!
 あははは！ごめんごめん|嬉しくって、つい。=Ahahaha! Sorry, sorry. I was just so happy.
@@ -6938,7 +6938,7 @@ Sleep well…
 # AA6AC
 （私の目の前には、|神秘的な光をたたえた７色の|虹がかかっていたーー）=(Before my very eyes, a seven-colored rainbow was hanging in the sky radiating an ethereal light.)
 キレイ……=It’s so pretty.
-（いつの間にか集まっていた|みんなも、夜の虹を見て|その美しさに見とれている）=(Before I realized, everyone gathered to look at the Night Rainbow and became enchanted by its beauty.)
+（いつの間にか集まっていた|みんなも、夜の虹を見て|その美しさに見とれている）=(Before I realized, everyone met to look at the Night Rainbow and had been charmed by its beauty.)
 これがナイトレインボウ。|なんて美しい……=The Night Rainbow, how exquisite…
 まさか本当に|見られるなんてな。=I can hardly believe my eyes.
 すごい……=Amazing…
@@ -9712,7 +9712,7 @@ Sleep well…
 えっと、それは、その……=U-Um, that’s…
 ふふ……赤くなった。一体何を|考えていたんだい？今度２人の|時に聞かせてくれるかな？=Hehe… You’ve turned red. What did you have in mind? Next time when we’re alone together, maybe you could tell me.
 さあ、もう少し市場を回って|みようか。人が多いからーー=Well, let’s explore the market a little more. There are so many people here…
-はぐれてはいけないよ、|<name>……=It’s be no good if we were to get separated.
+はぐれてはいけないよ、|<name>……=It’d be no good if we were to get separated.
 （あっ……枢センパイ、|私の手、握ってくれた……|照れるけど……嬉しい）=(Ah… Kaname took my hand… I’m so embarrassed… and happy…)
 （このままずっと手をつないで|いたいな、枢センパイと……）=(I wish I could stay like this, holding hands with Kaname forever…)
 
@@ -12563,7 +12563,7 @@ Sleep well…
 （無数の銃弾に体を貫かれた|チビは、断末魔をあげて|その場に崩れ落ちるーー）=(Hit by an endless flurry, Chibi let out an agonizing yelp and slumped to the ground.)
 <name>！大丈夫か！？=<name>! Are you okay!?
 （私を救ってくれたのは、|零だったーー）=(Zero had saved me.)
-（零は、私の前に立つ、|枢センパイを睨みつけたーー）=(He glared at Kaname, who was standing in front of me.)
+（零は、私の前に立つ、|枢センパイを睨みつけたーー）=(He glared at Kaname, who stood in front of me.)
 玖蘭枢！あんたを|見損なったぞ。<name>を|危険な目に遭わせるなんて！=I’m disappointed in you, Kuran! Putting <name> at risk!
 錐生くん……悪かったね。=Kiryu… I’m sorry.
 <name>。もう大丈夫だ。=You’re safe now, <name>.
@@ -13358,7 +13358,7 @@ Sleep well…
 <name>ちゃんに関わる時にだけ|出てくる部分だよ。だから、枢|をしっかりわかってあげてね。=That side of him only comes out when you’re involved. Please do your best and be understanding.
 僕みたいなイイ男をけって|いくんだからさ。ね、枢。=You’ve picked a good man, like me. Right, Kaname?
 あれ？枢、|もしかして怒ってる？=Huh? Kaname? Have I made you angry?
-いや…………=No…..
+いや…………=No…
 えっと、邪魔者は|早々に退散かな？じゃあね。|枢、<name>ちゃん。=Um, guess it’s high time the intruder takes their leave then? See you later, Kaname, <name>.
 一条…ありがとう……=Ichijo… Thank you…
 

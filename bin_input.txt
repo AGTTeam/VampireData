@@ -14995,17 +14995,17 @@ Sleep well…
 # A4B0C Shiki appears after A52C0 (Yagari route)
 物好きだね、風紀委員。=What strange tastes you have, Prefect.
 支葵センパイ！いつの間に。=Shiki! How long have you been there?
-どこが良かったの？=
-夜刈先生はみなさんの敵だけど|悪い人じゃありません！=
-別に敵だとか思ってない。人間|にしては根性あるって思うし。=
-でも、それとこれとは別。|どう見ても人を幸せにする|タイプじゃないんじゃない？=
-えっ……。=
-風紀委員……|自分の幸せとか夢、ちゃんと|考えた方がいいよ。=
-苦労するだけ。=
-わかっています。=
-自分から進んで苦労なんて、|しないほうがいい。そういう|趣味なの？=
-しっ、失礼です！=
-まぁいいか。|決めるのは君だから……=
+どこが良かったの？=What do you like about him?
+夜刈先生はみなさんの敵だけど|悪い人じゃありません！=Mr. Yagari might be your enemy, but he's not a bad person!
+別に敵だとか思ってない。人間|にしては根性あるって思うし。=I never said I thought of him as an enemy. I think he has guts, for a human.
+でも、それとこれとは別。|どう見ても人を幸せにする|タイプじゃないんじゃない？=But, this is different. He doesn't exactly strike me as the type who could make another person happy, you know?
+えっ……。=Ah...
+風紀委員……|自分の幸せとか夢、ちゃんと|考えた方がいいよ。=Prefect… You should think hard about your own happiness and your dream.
+苦労するだけ。=It will be difficult.
+わかっています。=I know that.
+自分から進んで苦労なんて、|しないほうがいい。そういう|趣味なの？=You shouldn't be so willing to make things hard on yourself. Or is that what you're into?
+しっ、失礼です！=T-That's rude!
+まぁいいか。|決めるのは君だから……=Oh well. It's your decision…
 
 # A41B8 Yagari dance party
 おっ、来たのか。|楽しんで来いよ。=Oh, you’re here? I hope you have fun.

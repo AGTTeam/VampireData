@@ -12982,15 +12982,15 @@ Sleep well…
 ちょっと、おしゃべりが過ぎた|かな……|ゴメンね。僕は戻るよ。=Ah, I might have said too much. I’m sorry. I’ll go now.
 
 # A4080 Shiki appears after A83DC (Zero route)
-ふうん……やっぱり|風紀委員同士なんだ……=
-支葵センパイ……|聞いていたんですか？=
-なんか、ガッカリ。=
-風紀委員同士で情がうつった？=
-もっと面白い子かと思ってた。=
-どういう意味ですか……=
-ヴァンパイアも人間も関係なく|ちゃんと相手の中身を見てるん|だってそう、思ってたから。=
-楽なほうに逃げてない？|他にも道はあると思うけど？=
-まぁいいか。=
+ふうん……やっぱり|風紀委員同士なんだ……=Hm... Your fellow member of the Disciplinary Committee...
+支葵センパイ……|聞いていたんですか？=Shiki, you overheard?
+なんか、ガッカリ。=How disappointing.
+風紀委員同士で情がうつった？=You've fallen for him?
+もっと面白い子かと思ってた。=I took you for a girl of more intrigue.
+どういう意味ですか……=What's that supposed to mean?
+ヴァンパイアも人間も関係なく|ちゃんと相手の中身を見てるん|だってそう、思ってたから。=I believed you would judge a person, humans and vampires alike, by the contents of their heart.
+楽なほうに逃げてない？|他にも道はあると思うけど？=Have you fled to what is easier, or do you think there is no other path to take?
+まぁいいか。=Nevertheless...
 
 # A58D8 Yagari appears after A83DC (Zero route)
 零か……|そうか、やはり……=Zero, huh? It figures.
@@ -13363,18 +13363,18 @@ Sleep well…
 一条…ありがとう……=Ichijo… Thank you…
 
 # A4B84 Shiki appears after A5DA4 (Kaname route)
-玖蘭寮長か……|やっぱりそうだよね。=
-支葵センパイ！いつの間に！=
-寮長は凄いよね。|君には特別優しいし。=
-別にそういう訳じゃ……=
-じゃあどうして？=
-俺もまけてないと思うけど……=
-えっそれは？=
-俺、君にはけっこう優しいと|思うけど。=
-えっ…。=
-冗談。=
-…もう一人の風紀委員は|どうするの？=
-まぁいいや。=
+玖蘭寮長か……|やっぱりそうだよね。=Dorm President Kuran?|Yes, of course.
+支葵センパイ！いつの間に！=Shiki! How long have you been there!?
+寮長は凄いよね。|君には特別優しいし。=He's incredible, isn't he?|And he's especially kind to you.
+別にそういう訳じゃ……=That's not why.
+じゃあどうして？=Why then?
+俺もまけてないと思うけど……=I don't intend to lose however.
+えっそれは？=Wh-What!?
+俺、君にはけっこう優しいと|思うけど。=Not everyone receives the kindness I've shown you.
+えっ…。=Wha-!?
+冗談。=I'm joshing you.
+…もう一人の風紀委員は|どうするの？=And the other prefect? What about him?
+まぁいいや。=Well, no matter.
 
 # A9334 Yagari appears after A5DA4 (Kaname route)
 玖蘭枢……そうか、やはり……=Kaname Kuran, huh? It figures.
@@ -13734,17 +13734,17 @@ Sleep well…
 ああ…一条センパイ……=Ichijo…
 
 # A438C Shiki appears after A78FC (Aido route)
-ふーん、藍堂さんなんだ。=
-支葵センパイ！|聞いていたんですか？=
-気になったから……=
-藍堂さん、ね……………プッ。=
-で、藍堂さんなんだ……………=
-今……笑いましたよね？=
-ホントは仲良し……|意地張りすぎ。|子どもみたい……プッ。=
-うう……すごくバカにされて|いる様な……=
-じゃあね…………プッ。=
-こんなに笑ったの初めて。=
-ひっどーい！支葵センパイ！=
+ふーん、藍堂さんなんだ。=Hm, so it's Aido.
+支葵センパイ！|聞いていたんですか？=Shiki! Did you overhear?
+気になったから……=Curiosity got the best of me.
+藍堂さん、ね……………プッ。=So, Aido, huh?|Hmph...
+で、藍堂さんなんだ……………=Aido... Yeah, I get it.
+今……笑いましたよね？=You laughed just now, didn't you?
+ホントは仲良し……|意地張りすぎ。|子どもみたい……プッ。=What true friendship... I was too stubborn, like a child.
+うう……すごくバカにされて|いる様な……=*Sigh* How could I be so stupid?
+じゃあね…………プッ。=See you around... Pff...
+こんなに笑ったの初めて。=I've never seen you laugh so hard.
+ひっどーい！支葵センパイ！=That's not fair! Shiki!
 
 # A43C0 Yagari appears after A78FC (Aido route)
 藍堂英とは……|これは驚いたな……=Hanabusa Aido… Now there’s a surprise.
@@ -14081,16 +14081,16 @@ Sleep well…
 あの……一条センパイ……=Um… Ichijo…
 
 # A3E70 Shiki appears after A61CC (Kain route)
-架院さんか……そうなんだ。=
-そこにいたら、見えてた。=
-その……=
-風紀委員は頼れる男が好き|なんだ？=
-えっ、別にそんなことは……=
-もう一人の風紀委員じゃ|頼りにならないんだ。=
-そ、そんなこと言っていません！=
-俺も頼りにならない？=
-そ……それは……|難しい質問です。=
-ならないって思ってる。|まぁ別にいいけど。=
+架院さんか……そうなんだ。=Kain, hm? I see.
+そこにいたら、見えてた。=If you were there, that means you saw.
+その……=So that's it...
+風紀委員は頼れる男が好き|なんだ？=You like a guy you can rely on, do you, Prefect?
+えっ、別にそんなことは……=What? It's not like that.
+もう一人の風紀委員じゃ|頼りにならないんだ。=Your fellow prefect, can you not rely on him?
+そ、そんなこと言っていません！=I-I never said that!
+俺も頼りにならない？=And me? Can you not depend on me either?
+そ……それは……|難しい質問です。=Th-That's... It's not that simple.
+ならないって思ってる。|まぁ別にいいけど。=You don't feel that you can.|Well, no matter.
 
 # A452C Yagari appears after A61CC (Kain route)
 架院暁……ふん、あいつか……=Akatsuki Kain… Hmph. Him?
@@ -14373,14 +14373,14 @@ Sleep well…
 お前の最高のパートナーに|なるかもな、あの人なら。=Knowing him, he might just be the best partner for you.
 
 # A3F90 Shiki appears after A71D8 (Ichijo route)
-そう、風紀委員は一条さんが|いいんだ。=
-支葵センパイ！聞いていたん|ですか？=
-一条さん……うらやましい。=
-モテるっていいね。=
-う…………。=
-俺もモテたいな。君に。=
-ええ……？=
-どうすればいいか、後で|一条さんに聞こう。じゃあね。=
+そう、風紀委員は一条さんが|いいんだ。=Of course. Ichijo will be good to you, Prefect.
+支葵センパイ！聞いていたん|ですか？=Shiki! Did you overhear?
+一条さん……うらやましい。=Ichijo... I envy you.
+モテるっていいね。=It's nice to feel wanted.
+う…………。=*Sigh*
+俺もモテたいな。君に。=I desire to feel wanted too.|By you.
+ええ……？=What?
+どうすればいいか、後で|一条さんに聞こう。じゃあね。=I'll consult Ichijo as to what I should do later. Goodbye.
 
 # A6D24 Yagari appears after A71D8 (Ichijo route)
 一条拓麻とは……驚いたな……=Takuma Ichijo… Now there’s a surprise.
@@ -14993,8 +14993,8 @@ Sleep well…
 それじゃあね。<name>ちゃん。=Goodbye, <name>.
 
 # A4B0C Shiki appears after A52C0 (Yagari route)
-物好きだね、風紀委員。=
-支葵センパイ！いつの間に。=
+物好きだね、風紀委員。=What strange tastes you have, Prefect.
+支葵センパイ！いつの間に。=Shiki! How long have you been there?
 どこが良かったの？=
 夜刈先生はみなさんの敵だけど|悪い人じゃありません！=
 別に敵だとか思ってない。人間|にしては根性あるって思うし。=

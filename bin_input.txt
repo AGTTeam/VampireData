@@ -1,4 +1,4 @@
-# B0360
+﻿# B0360
 <ch1>シナリオへ<00><03><0A><ch2>吸血テストへ<00><01><0A><ch3>サウンドテストへ<00><7F>=
 <ch1>１章<00><01><0A><ch2>２章<00><02><0A><ch3>次<00><7F>=
 <ch1>３章<00><03><0A><ch2>４章<00><04><0A><ch3>次<00><7F>=
@@ -12982,7 +12982,7 @@ Sleep well…
 ちょっと、おしゃべりが過ぎた|かな……|ゴメンね。僕は戻るよ。=Ah, I might have said too much. I’m sorry. I’ll go now.
 
 # A4080 Shiki appears after A83DC (Zero route)
-ふうん……やっぱり|風紀委員同士なんだ……=Hm... Your fellow member of the Disciplinary Committee...
+ふうん……やっぱり|風紀委員同士なんだ……=Hm… Your fellow member of the Disciplinary Committee…
 支葵センパイ……|聞いていたんですか？=Shiki, you overheard?
 なんか、ガッカリ。=How disappointing.
 風紀委員同士で情がうつった？=You've fallen for him?
@@ -12990,7 +12990,7 @@ Sleep well…
 どういう意味ですか……=What's that supposed to mean?
 ヴァンパイアも人間も関係なく|ちゃんと相手の中身を見てるん|だってそう、思ってたから。=I believed you would judge a person, humans and vampires alike, by the contents of their heart.
 楽なほうに逃げてない？|他にも道はあると思うけど？=Have you fled to what is easier, or do you think there is no other path to take?
-まぁいいか。=Nevertheless...
+まぁいいか。=Nevertheless…
 
 # A58D8 Yagari appears after A83DC (Zero route)
 零か……|そうか、やはり……=Zero, huh? It figures.
@@ -13372,7 +13372,7 @@ Sleep well…
 えっそれは？=Wh-What!?
 俺、君にはけっこう優しいと|思うけど。=Not everyone receives the kindness I've shown you.
 えっ…。=Wha-!?
-冗談。=I'm joshing you.
+冗談。=I wasn't being serious.
 …もう一人の風紀委員は|どうするの？=And the other prefect? What about him?
 まぁいいや。=Well, no matter.
 
@@ -13737,12 +13737,12 @@ Sleep well…
 ふーん、藍堂さんなんだ。=Hm, so it's Aido.
 支葵センパイ！|聞いていたんですか？=Shiki! Did you overhear?
 気になったから……=Curiosity got the best of me.
-藍堂さん、ね……………プッ。=So, Aido, huh?|Hmph...
-で、藍堂さんなんだ……………=Aido... Yeah, I get it.
+藍堂さん、ね……………プッ。=So, Aido, huh?|Hmph…
+で、藍堂さんなんだ……………=Aido… Yeah, I get it.
 今……笑いましたよね？=You laughed just now, didn't you?
-ホントは仲良し……|意地張りすぎ。|子どもみたい……プッ。=What true friendship... I was too stubborn, like a child.
-うう……すごくバカにされて|いる様な……=*Sigh* How could I be so stupid?
-じゃあね…………プッ。=See you around... Pff...
+ホントは仲良し……|意地張りすぎ。|子どもみたい……プッ。=You actually get along… You're both so stubborn, like children… Heh…
+うう……すごくバカにされて|いる様な……=Ngh, why do I feel like you're just making fun of me?
+じゃあね…………プッ。=See you around… Pff…
 こんなに笑ったの初めて。=I've never seen you laugh so hard.
 ひっどーい！支葵センパイ！=That's not fair! Shiki!
 
@@ -14083,13 +14083,13 @@ Sleep well…
 # A3E70 Shiki appears after A61CC (Kain route)
 架院さんか……そうなんだ。=Kain, hm? I see.
 そこにいたら、見えてた。=If you were there, that means you saw.
-その……=So that's it...
+その……=So that's it…
 風紀委員は頼れる男が好き|なんだ？=You like a guy you can rely on, do you, Prefect?
 えっ、別にそんなことは……=What? It's not like that.
 もう一人の風紀委員じゃ|頼りにならないんだ。=Your fellow prefect, can you not rely on him?
 そ、そんなこと言っていません！=I-I never said that!
 俺も頼りにならない？=And me? Can you not depend on me either?
-そ……それは……|難しい質問です。=Th-That's... It's not that simple.
+そ……それは……|難しい質問です。=Th-That's… It's not that simple.
 ならないって思ってる。|まぁ別にいいけど。=You don't feel that you can.|Well, no matter.
 
 # A452C Yagari appears after A61CC (Kain route)
@@ -14375,7 +14375,7 @@ Sleep well…
 # A3F90 Shiki appears after A71D8 (Ichijo route)
 そう、風紀委員は一条さんが|いいんだ。=Of course. Ichijo will be good to you, Prefect.
 支葵センパイ！聞いていたん|ですか？=Shiki! Did you overhear?
-一条さん……うらやましい。=Ichijo... I envy you.
+一条さん……うらやましい。=Ichijo… I envy you.
 モテるっていいね。=It's nice to feel wanted.
 う…………。=*Sigh*
 俺もモテたいな。君に。=I desire to feel wanted too.|By you.
@@ -14999,7 +14999,7 @@ Sleep well…
 夜刈先生はみなさんの敵だけど|悪い人じゃありません！=Mr. Yagari might be your enemy, but he's not a bad person!
 別に敵だとか思ってない。人間|にしては根性あるって思うし。=I never said I thought of him as an enemy. I think he has guts, for a human.
 でも、それとこれとは別。|どう見ても人を幸せにする|タイプじゃないんじゃない？=But, this is different. He doesn't exactly strike me as the type who could make another person happy, you know?
-えっ……。=Ah...
+えっ……。=Ah…
 風紀委員……|自分の幸せとか夢、ちゃんと|考えた方がいいよ。=Prefect… You should think hard about your own happiness and your dream.
 苦労するだけ。=It will be difficult.
 わかっています。=I know that.

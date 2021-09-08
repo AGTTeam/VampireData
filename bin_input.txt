@@ -714,8 +714,8 @@ vk_se6_010=
 
 # AC210
 黒主　優姫=>>Yuki Cross
-黒主=>>Yuki
-優姫=>>Cross
+黒主=Yuki<00>
+優姫=Cross<00>
 錐生　零=>>Zero Kiryu
 玖蘭　枢=>>Kaname Kuran
 夜刈　十牙=>>Toga Yagari

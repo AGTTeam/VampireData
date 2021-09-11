@@ -1,0 +1,165 @@
+*************************************************************************
+*                                                                       *
+*                      VAMPIRE KNIGHT DS ENDING GUIDE                   *
+*                                                                       *
+*************************************************************************
+
+Each character has 3 possible endings. These are determined by the number of intimacy points with the chapter and which rose is given to them in chapter 7. Zero and Yagari's routes also have extra conditions, depending on the number of blood-sucking events for Zero, and the number of times you've scored the worst rank in the Level E Battle minigame for Yagari.
+
+                         ============================
+                                  Rose Guide         
+                         ============================
+
+Each rose has a different effect on that character's intimacy points.
+
+Black Rose: -300
+White and Blue Rose: -30
+Yellow Rose: 0 (no change)
+White Rose: +30
+Orange Rose: +70
+Purple Rose: +100
+
+
+                  ******************************************
+                  *               Zero Kiryu               *
+                  ******************************************
+
+TRUE END:
+-Had your blood sucked by Zero at least once
+-Protagonist 'PHYSICAL' stat should be 350 or more
+-Intimacy with Zero 650 or more
+
+NORMAL END:
+-Had your blood sucked by Zero at least once
+-Protagonist 'PHYSICAL' stat should be 350 or more
+-Intimacy with Zero less than 650
+
+BAD END:
+-Never had your blood sucked by Zero
+-Protagonist 'PHYSICAL' stat less than 350
+
+PHYSICAL stat raised by:
+-Fortune Telling (FORTUNE)
+-Dress Up Fashion Check (REST)
+
+
+                  ******************************************
+                  *              Kaname Kuran              *
+                  ******************************************
+
+TRUE END:
+-Protagonist 'INTELLECT' stat should be 400 or more
+-Intimacy with Kaname 700 or more
+
+NORMAL END:
+-Protagonist 'INTELLECT' stat should be 400 or more
+-Intimacy with Kaname less than 700
+
+BAD END:
+-Protagonist 'INTELLECT' stat less than 400
+
+INTELLECT stat raised by:
+-Gift Delivery (GUARDIAN)
+-Fortune Telling (FORTUNE)
+
+
+                  ******************************************
+                  *              Takuma Ichijo             *
+                  ******************************************
+
+TRUE END:
+-Protagonist 'KNOWLEDGE' stat should be 400 or more
+-Intimacy with Ichijo 700 or more
+
+NORMAL END:
+-Protagonist 'KNOWLEDGE' stat should be 400 or more
+-Intimacy with Ichijo less than 700
+
+BAD END:
+-Protagonist 'KNOWLEDGE' stat less than 400
+
+KNOWLEDGE stat raised by:
+-Item Inspection (STUDY)
+-Fortune Telling (FORTUNE)
+-Window Watching
+
+
+                  ******************************************
+                  *              Aido Hanabusa             *
+                  ******************************************
+
+TRUE END:
+-Protagonist 'EXPERIENCE' stat should be 400 or more
+-Intimacy with Aido 700 or more
+
+NORMAL END:
+-Protagonist 'EXPERIENCE' stat should be 400 or more
+-Intimacy with Aido less than 700
+
+BAD END:
+-Protagonist 'EXPERIENCE' stat less than 400
+
+EXPERIENCE stat raised by:
+-Item Inspection (STUDY)
+-Gift Delivery (GUARDIAN)
+-Fortune Telling (FORTUNE)
+-Attending a Party
+-Catching Trespassers
+
+
+                  ******************************************
+                  *              Akatsuki Kain             *
+                  ******************************************
+
+TRUE END:
+-Protagonist 'WORK' stat should be 400 or more
+-Intimacy with Kain 700 or more
+
+NORMAL END:
+-Protagonist 'WORK' stat should be 400 or more
+-Intimacy with Kain less than 700
+
+BAD END:
+-Protagonist 'WORK' stat less than 400
+
+WORK stat raised by:
+-Item Inspection (STUDY)
+-Fortune Telling (FORTUNE)
+-Catching Trespassers
+
+
+                  ******************************************
+                  *               Senri Shiki              *
+                  ******************************************
+
+TRUE END:
+-Protagonist 'CHARM' stat should be 400 or more
+-Intimacy with Shiki 700 or more
+
+NORMAL END:
+-Protagonist 'CHARM' stat should be 400 or more
+-Intimacy with Shiki less than 700
+
+BAD END:
+-Protagonist 'CHARM' stat less than 400
+
+CHARM stat raised by:
+-Fortune Telling (FORTUNE)
+-Dress Up Fashion Check (REST)
+-Attending a Party
+
+
+                  ******************************************
+                  *               Toga Yagari              *
+                  ******************************************
+
+TRUE END:
+-Scored the lowest rank in the Level E Battle Minigame less than 2 times
+-Intimacy with Yagari 700 or more
+
+NORMAL END:
+-Scored the lowest rank in the Level E Battle Minigame less than 2 times
+-Intimacy with Yagari less than 700
+
+BAD END:
+-Scored the lowest rank in the Level E Battle Minigame more than 2 times

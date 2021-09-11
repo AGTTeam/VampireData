@@ -24,7 +24,7 @@
 <ch1>あげる<00><00><0A><ch2>あげない<00><01>=<ch1>Give it to him.<00><00><0A><ch2>Don’t give it to him.<00><01>
 <ch1>聖ショコラトル･デー|大活躍でしたね？<00><00><0A><ch2>新記録でました？<00><01>=<ch1>“St. Xocolatl’s Day was a great|success, wasn’t it?”<00><00><0A><ch2>“Did you set a new record?”<00><01>
 <ch1>聖ショコラトル･デーって|好きですか？<00><00><0A><ch2>甘い物って好きですか？<00><01>=<ch1>“Did you like St. Xocolatl’s Day?”<00><00><0A><ch2>“Do you like sweet things?”<00><01>
-<ch1>聖ショコラトル･デー|終わっちゃいましたね<00><00><0A><ch2>沢山もらえましたね<00><01>=<ch1>“St. Xocolatl’s Day is done with, huh?”<00><00><0A><ch2>“You got a lot, didn’t you?”<00><01>
+<ch1>聖ショコラトル･デー|終わっちゃいましたね<00><00><0A><ch2>沢山もらえましたね<00><01>=<ch1>“St. Xocolatl’s Day is done with,|huh?”<00><00><0A><ch2>“You got a lot, didn’t you?”<00><01>
 <ch1>莉磨さんからはチョコを|もらいました？<00><00><0A><ch2>プレゼントってどう思います？<00><01>=<ch1>“Did you get chocolate from Rima?”<00><00><0A><ch2>“What did you think of your gifts?”<00><01>
 <ch1>楽しかったです<00><01><0A><ch2>楽しくなかったです<00><02>=<ch1>“It’s been fun.”<00><01><0A><ch2>“I didn’t enjoy it.”<00><02>
 <ch1>パフェは譲らない<00><02><0A><ch2>妥協して塩ラーメン<00><03>=<ch1>Don’t concede.<00><02><0A><ch2>Compromise.<00><03>
@@ -87,7 +87,7 @@
 <ch1>仙人になりたい=<ch1>“I want to be enlightened.”<00><00>
 <ch1>はい、そうします<00><04><0A><ch2>いえ、本当の夢は……<00><05>=<ch1>“Yes, I will.”<00><04><0A><ch2>“Actually, my real dream is…”<00><05>
 <ch1>人間の事<00><09><0A><ch2>ヴァンパイアの事<00><0A><0A><ch3>色んなウラの事<00><0B>=<ch1>“About humans.”<00><09><0A><ch2>“About vampires.”<00><0A><0A><ch3>“About the flip side of all sorts of|things.”<00><0B>
-<ch1>社交的にするコツ<00><0D><0A><ch2>周りに優しくするコツ<00><0E><0A><ch3>変わり者と付き合うコツ<00><0F>=<ch1>“Tips on socializing.”<00><0D><0A><ch2>“Tips on being kind.”<00><0E><0A><ch3>“Tips on getting to know someone who’s a bit different.”<00><0F>
+<ch1>社交的にするコツ<00><0D><0A><ch2>周りに優しくするコツ<00><0E><0A><ch3>変わり者と付き合うコツ<00><0F>=<ch1>“Tips on socializing.”<00><0D><0A><ch2>“Tips on being kind.”<00><0E><0A><ch3>“Tips on getting to know someone|who’s a bit different.”<00><0F>
 <ch1>一条センパイはどう思います？<00><00><0A><ch2>支葵センパイはどう思います？<00><01>=<ch1>“What do you think, Ichijo?”<00><00><0A><ch2>“What do you think, Shiki?”<00><01>
 <ch1>物知りな人になりたい<00><00><0A><ch2>キレ者になりたい<00><01><0A><ch3>心身ともに美しい人になりたい<00><02>=<ch1>“To become knowledgeable.”<00><00><0A><ch2>“To become sophisticated.”<00><01><0A><ch3>“To become beautiful.”<00><02>
 <ch1>キレ者になりたい<00><01><0A><ch2>心身ともに美しい人になりたい<00><02>=<ch1>“To become sophisticated.”<00><01><0A><ch2>“To become beautiful.”<00><02>
@@ -7155,7 +7155,7 @@ Sleep well…
 ふう……なんとか|あまり濡れずにすんだね。=Phew… It looks like we just about managed to avoid getting wet through.
 ねえ、<name>ちゃん。=Say, <name>.
 なんですか？一条センパイ。=What is it, Ichijo?
-正直に言うと、ヴァンパイアと|人間が本当に分かりあうなんて|すごく難しい事だと思う。=To be honest, I think it would be very difficult for vampires and humans to truly come to understand each other.
+正直に言うと、ヴァンパイアと|人間が本当に分かりあうなんて|すごく難しい事だと思う。=To be honest, I think it would be difficult for vampires and humans to truly come to understand each other.
 それでも、君のような|考えを持っている人間がいる|だけで、僕は嬉しいよ。=But, just knowing that there are humans who think the way you do, I’m really happy.
 ……雨が止んできたね。|やっぱりただの|通り雨だったのかな。=…The rain’s stopped. I guess it really was just a shower.
 そうだね。|雨上がりの晴れた空って|まぶしいんだよなあ……=It could be. Now that the rain has stopped, the sky is so bright.
@@ -7203,7 +7203,7 @@ Sleep well…
 ……雨が止んできた。|やっぱりただの通り雨だった。=The rain’s letting up already. I guess it was just a surprise shower.
 そうかも……|はぁ……ギラギラした太陽って|一番嫌い。=Possibly. *Sigh* There’s nothing worse than a blazing sun without a cloud in sight.
 （私と支葵センパイは廊下の端|に近づき外を眺めてみた）=(Shiki and I approached the corridor’s edge and looked outside.)
-（雨上がりの夜空の|雲の隙間から、強い光の月が|その姿を見せていた）=(High in the night sky, the moon peered through the gaps in the clouds and reflected off the fallen rain.)
+（雨上がりの夜空の|雲の隙間から、強い光の月が|その姿を見せていた）=(High in the night sky, the moon peered through the clouds and reflected off the fallen rain.)
 支葵センパイ……あれ……=Shiki, look!
 あれって……|もしかして……！！=That’s… Could it be…?
 （私と支葵センパイは|しばらく言葉もなく|見とれてしまった）=(The two of us just stood there for a while, silently watching it.)
@@ -9039,7 +9039,7 @@ Sleep well…
 人間は数で言ったら圧倒的に|多いですからね。全てを敵に|まわすと、流石に大変だ。=That’s because humans are overwhelmingly abundant. If one was to make an enemy of all of them, it would be rather tough.
 結局……この学園でも、|僕達の正体はナイショのまま。=In the end, even at this academy, our true identity remains a secret…
 人間の側に異質なものを|受け付ける度量がない以上ーー=For as long as humans are intolerant to anything different…
-真の友好などなく、|感情のもつれは続くばかり……|残念なことです。=There can be no real friendship, only the continuation of estranged emotions… It is a shame
+真の友好などなく、|感情のもつれは続くばかり……|残念なことです。=There can be no real friendship, only the continuation of estranged emotions… It is a shame.
 さすが、|副寮長はわかってらっしゃる、|ってとこか。=How well-informed you are, Vice-President.
 結局ヴァンパイア側は、感情|云々以前に単に需要としても、|人間を必要としている。=Ultimately, vampires have a demand for humans, and feelings aside, they need them.#tc
 お前達の存在と所業が|知れ渡ると人間の側も|だまっちゃいない。しかしーー=If word of your existence and acts became known, human’s would not just sit back and take it lightly. However…
@@ -9254,7 +9254,7 @@ Sleep well…
 んん～？？|見間違いかな？|私ちょっと疲れているのかな…=Hm?? Am I hearing things? I guess I am a bit tired…
 風紀委員もあの先生と同じ……|からかうと面白い。=Prefect, you’re just like that teacher… fun to tease.
 失礼です！私にはあんなに、|からかい甲斐はありません！=H-Hey! I don’t think there’s any reason for you to tease me like that!
-誰がからかい甲斐があるって？|小娘、大体、人の授業中に|何やってんだ！=And who do you suggest is worth teasing? What are you even doing during someone else’s class, little girl??
+誰がからかい甲斐があるって？|小娘、大体、人の授業中に|何やってんだ！=And who do you suggest is worth teasing? What are you even doing during someone else’s class, little girl?
 す、すみませーん！=I-I’m sorry!
 あーあ、クスッ…=Aah~ Heh…
 笑ってる、|絶対に笑ってるよぉ！=You’re laughing! You’re totally laughing!
@@ -13069,7 +13069,7 @@ Sleep well…
 お前は、ちょっと目を離すと|何をするかわらないからな。=I can’t take my eyes off you for a second.
 
 # A11F0
-レベル：Ｅに襲われてピンチの|時は、零ってのんびりラーメン|食べてたよね？=When I was in a bad situation being attacked by a Level E, you were casually eating shio ramen, weren’t you?
+レベル：Ｅに襲われてピンチの|時は、零ってのんびりラーメン|食べてたよね？=When I was in trouble - being attacked by a Level E, you were casually eating shio ramen, weren’t you?
 しょうがないだろ……|塩ラーメンは大事だからな。=I couldn’t help it… Shio ramen is important.
 
 # A182C
@@ -13429,7 +13429,7 @@ Sleep well…
 それに枢センパイが|いてくれたから……=And of course, because you were there…
 <unk1>フッ…………。=<unk1>Heh…
 でも、終わってしまうのが、|とてもさみしい。=But, it’s sad that it’s over.#dupe
-そうだね。楽しかっただけに、|名残惜しい。こんなに平和で|穏やかな夜は久しぶりだよ。=You’re right. It was fun. It’s been a long time since I’ve last had the pleasure of such a calm and peaceful night.
+そうだね。楽しかっただけに、|名残惜しい。こんなに平和で|穏やかな夜は久しぶりだよ。=You’re right. It was fun. It’s been a long time since I’ve last had the pleasure of a calm and peaceful night.
 <name>のおかげだね。=It’s thanks to you, <name>.
 そんな、言いすぎです。=You’re exaggerating.
 そんな事はないよ。できる事な|ら、ずっと君が傍にいてこうし|て踊っていられたらいいのに。=That’s not true. If it were possible, I wish I could dance like this with you by my side forever.
@@ -14230,11 +14230,11 @@ Sleep well…
 そんな……。私、嬉しいです、|でも…。=I’m happy to hear that, but…
 （そうだ、私の気持ちも|ちゃんと伝えなきゃ……）=(Right, I should tell him properly how I feel.)
 私、センパイの事が……|その……=Kain, I… um…
-楽しみだよ…でも、変な|恋人でも出来たらイヤだが…|なんてな。=I look forward to it, but… I don’t want to have a someone strange for a girlfriend.
+楽しみだよ…でも、変な|恋人でも出来たらイヤだが…|なんてな。=I look forward to it, but… I don’t want to have someone strange for a girlfriend.
 お前は俺にとってかわいい……|妹の様な存在だ。=I think you’re cute… as a little sister.
 妹？……=Little sister?
 ああ、悪い、少し|馴れ馴れしかったか？お前|見てると、英を思い出すんだ。=Oh, sorry. Am I being a bit too over-familiar? Just that when I look at you, it makes me think of Hanabusa.
-……と、気を悪くするな。俺に|とっては放っておけないという|意味なんだから。=…So, don’t be offended. I just mean that I can’t leave you along.
+……と、気を悪くするな。俺に|とっては放っておけないという|意味なんだから。=…So, don’t be offended. I just mean that I can’t leave you alone.
 ふ…これからは、英と瑠佳に|加えて、お前の面倒も見るハメ|になりそうだ。=I feel like I’m going to have to take care of you too, never mind Hanabusa and Ruka.
 ま、悪くないか、よろしくな。=Well, it’s not so bad. Let’s get along.
 あ……ありがとう……|ございます……=T…Thank… you…

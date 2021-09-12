@@ -14579,42 +14579,42 @@ Sleep well…
 そんなぁ～。=This can’t be happening…
 
 # A5BF0 Chapter 7 Shiki
-支葵センパイ？！|……どうしたんですか？=
-君がどうしているかなって|思って……=
-何かもう|どうしたらいいのか……=
-うん……。こんなことになって|俺も戸惑ってる……。=
-でも……。=
-夢、あきらめてない？=
-それは…………。=
-ヴァンパイアと人間が接する|事で犠牲が出る事もあるって、|一条さん言ってた。=
-でも、それだけじゃない。|仕事に行くと、ヴァンパイアも|人間も協力してやってるし。=
-あんまり気にしなかったけど、|よく考えると、すごく良いこと|だと思う。=
-うまく共存しているところ|だってある。悪いことばかり|じゃない。=
-だから、|君も夢をあきらめないで。=
-一度見においでよ。俺の仕事。=
-うん…………。=
+支葵センパイ？！|……どうしたんですか？=Shiki!? What are you doing?
+君がどうしているかなって|思って……=I was wondering what you were up to.
+何かもう|どうしたらいいのか……=Nothing really. What would you like to do?
+うん……。こんなことになって|俺も戸惑ってる……。=Hm… I'm confused though.
+でも……。=Tell me…
+夢、あきらめてない？=Have you given up on your dream?
+それは…………。=It's complicated…
+ヴァンパイアと人間が接する|事で犠牲が出る事もあるって、|一条さん言ってた。=Ichijo said that contact between vampires and humans could cause someone to get hurt.
+でも、それだけじゃない。|仕事に行くと、ヴァンパイアも|人間も協力してやってるし。=But it's not so simple. When vampires and humans work together, they can accomplish so much.
+あんまり気にしなかったけど、|よく考えると、すごく良いこと|だと思う。=I never cared much about it before, but now that I think about it, I think it's a wonderful thing.
+うまく共存しているところ|だってある。悪いことばかり|じゃない。=There are places where they live together comfortably. It doesn't have to be all bad.
+だから、|君も夢をあきらめないで。=So I think you should hold onto your dream.
+一度見においでよ。俺の仕事。=Come see me sometime. At work.
+うん…………。=Yeah…
 
 # A23D8 Shiki lower intimacy
-でも……。君はあんまり|ファッションとか興味ない|んだっけ……=
-いえ……|別にそういうわけじゃ……=
-いいよ、無理しなくて……=
-共存してやってる仕事は、|いくらでもあるから……興味が|他にあってもいいんじゃない？=
+でも……。君はあんまり|ファッションとか興味ない|んだっけ……=But you're not terribly interested in fashion.
+いえ……|別にそういうわけじゃ……=No, that's not true. I--
+いいよ、無理しなくて……=No, it's fine really.
+共存してやってる仕事は、|いくらでもあるから……興味が|他にあってもいいんじゃない？=We do so much together already. It's okay that we have different interests, isn't it?
 
 # A6894
-そうだ、明日の夜、|ダンスパーティーを開くん|だって。=
-君を元気づけようと、ナイト･|クラスのみんなともう一人の|風紀委員で計画したんだ。=
-俺も驚いた。=
-えっ、支葵センパイが驚いた|のですか？=
-そこは、驚かなくていいよ。=
-……すみません。=
-ちょっとは、元気でた？=
-……明日の夜やるから、|絶対来て。=
-絶対行きます。|支葵センパイ……それじゃ……=
+そうだ、明日の夜、|ダンスパーティーを開くん|だって。=By the way, we're holding a dance party tomorrow night.
+君を元気づけようと、ナイト･|クラスのみんなともう一人の|風紀委員で計画したんだ。=To cheer you up. Everyone from the Night Class and your fellow Prefect all came together to plan it.
+俺も驚いた。=I was surprised too.
+えっ、支葵センパイが驚いた|のですか？=What!? You were surprised too?
+そこは、驚かなくていいよ。=Am I not allowed to be?
+……すみません。=…Sorry.
+ちょっとは、元気でた？=It's fine. Cheer up.
+……明日の夜やるから、|絶対来て。=It's tomorrow night. I'd like you to come.
+絶対行きます。|支葵センパイ……それじゃ……=I'll be there.|Shiki, I, uh…
 （花言葉は、|“情熱的な愛情”……|センパイ、まさか……）=(In the language of flowers, purple roses signify “passionate love”. Could it be…?)
-君に似合うと思うよ。=
-支葵センパイ……|ありがとうございます！=
-それじゃあ、俺は戻るね。|またね、<name>。=
-はい！ありがとうございます！=
+君に似合うと思うよ。=I think it suits you.
+支葵センパイ……|ありがとうございます！=Shiki…|Thank you!
+それじゃあ、俺は戻るね。|またね、<name>。=Well, I'll be going now.|See you later, <name>.
+はい！ありがとうございます！=See you later! And thanks again!
 
 # A3A00 Zero appears after A6894 (Shiki route)
 支葵先輩ってお前……|おどろいたな……=You and Shiki… I’m surprised.
@@ -14708,123 +14708,123 @@ Sleep well…
 お前の幸せを願う者が、|意外と多いことを忘れるな？|それだけだ。=Remember that there’s other people out there hoping for your happiness. Quite a few, in fact. That’s all I wanted to say.
 
 # A2C50 Shiki dance party
-あ、来た。=
-どうですか？今夜のドレス。=
-うん、似合ってる。=
-支葵センパイに服のことで|ほめられるとすっごくうれしい|です！=
-大げさ。=
-うん……じゃ、|俺と踊ってくれませんか？|これでいい？風紀委員。=
+あ、来た。=Good, you came.
+どうですか？今夜のドレス。=What do you think of my dress?
+うん、似合ってる。=Yeah. It looks good on you.
+支葵センパイに服のことで|ほめられるとすっごくうれしい|です！=I can't believe you're really complimenting me on my clothes! I'm relieved!
+大げさ。=You exaggerate.
+うん……じゃ、|俺と踊ってくれませんか？|これでいい？風紀委員。=Right. Well, will you dance with me? May I, Prefect?
 
 # A0AA8
-楽しかった？<name>。=
+楽しかった？<name>。=Did you enjoy that?
 
 # A0DFC
-ありがと。本当にうれしい。=
+ありがと。本当にうれしい。=Thank you. This means so much to me.
 
 # A0A80
-これは……そうなんだ……=
+これは……そうなんだ……=This is… I see…
 
 # A35BC
-もうパーティーも終わる。|楽しかった？=
-そして、支葵センパイが|いたから……=
-ふーん。ならいいけど。=
+もうパーティーも終わる。|楽しかった？=The party's over.|Did you have a good time?
+そして、支葵センパイが|いたから……=And you were there…
+ふーん。ならいいけど。=Hm. Then I'm glad.
 でも、終わってしまうのが|とてもさみしいです。=But, it’s sad that it’s over.#dupe
-じゃ、また今度一緒に踊ろう。=
-なんだか残念。もう少し踊って|いたかった。=
-私もです。支葵センパイ。=
-でも時間。|おやすみ……夢で逢おうね。=
+じゃ、また今度一緒に踊ろう。=Well, we'll have to dance again sometime.
+なんだか残念。もう少し踊って|いたかった。=It's a shame though. I would have liked to have just one more dance.
+私もです。支葵センパイ。=Yeah, me too.
+でも時間。|おやすみ……夢で逢おうね。=But it's late. Good night… We'll dance again in your dreams.
 
 # A2408
-支葵センパイ……！どうして。=Shiki! Why--?
-となりの子が起きちゃう。|場所を変えよう。=
-思い出の場所。=
-思い出の場所･･･|センパイとは|素敵な思い出がいっぱいですね。=
-君とキレイなものを沢山見た。=
+支葵センパイ……！どうして。=Shiki! What are--?
+となりの子が起きちゃう。|場所を変えよう。=We'll wake your neighbor. Let's go somewhere else.
+思い出の場所。=Somewhere memorable.
+思い出の場所･･･|センパイとは|素敵な思い出がいっぱいですね。=Somewhere memorable… But I have so many wonderful memories with you, Shiki.
+君とキレイなものを沢山見た。=We've seen such lovely things together.
 
 # A10C8
-前にここで踊りましたよね。=
-うん、水がキラキラして|キレイだった。=
+前にここで踊りましたよね。=We danced here once.
+うん、水がキラキラして|キレイだった。=We did. The water was sparkling. It was beautiful.
 
 # A1348
-君もキレイだったよ。=
+君もキレイだったよ。=You were beautiful.
 
 # A2740
-極夜の花火。=
-花火は風紀委員で買い出しに|行ったんですよ。=
-そう。花火はうるさいけど|キレイだよね。|みんな喜んでたし。ありがと。=
-一条さんの作った生首。=
-あれは……良くできてはいた|けど、キ、キレイだとは……=
-どうして？出来たてでキレイな|新品だったのに。=
-でも、|俺がバラバラにしちゃった。|一条さん、ゴメン。=
+極夜の花火。=Remember the Polar Night fireworks?
+花火は風紀委員で買い出しに|行ったんですよ。=As part of the Disciplinary Committee, I had gone out to buy them.
+そう。花火はうるさいけど|キレイだよね。|みんな喜んでたし。ありがと。=Right. The fireworks were loud, but they were pretty. Everyone was so happy. Thank you.
+一条さんの作った生首。=Then there was the severed head Ichijo made.
+あれは……良くできてはいた|けど、キ、キレイだとは……=It was super well made, but… Lovely?
+どうして？出来たてでキレイな|新品だったのに。=And why not? It was made so beautifully, with such care.
+でも、|俺がバラバラにしちゃった。|一条さん、ゴメン。=But I ripped it to shreds. I'm sorry, Ichijo.
 
 # A1C7C
-ナイトレインボウも見たよね。=
-この時、自分の夢に確信が|もてました。ナイトレインボウ|もキレイだったし。=
-結局、誰かが作ってくれたの|かな？=
-空気中の水分を操るなら|あの人か……=
+ナイトレインボウも見たよね。=We saw a Night Rainbow too.
+この時、自分の夢に確信が|もてました。ナイトレインボウ|もキレイだったし。=I was so determined to make my dream come true. The Night Rainbow was mesmerizing.
+結局、誰かが作ってくれたの|かな？=In the end, somebody made the rainbow though, huh?
+空気中の水分を操るなら|あの人か……=Who would have controlled the moisture in the air like that?
 
 # A1220
-クライングローズも花は|キレイだった。=
-そうですね。|悲しい伝説がなければ、美しい|バラの花で終わったのに……=
+クライングローズも花は|キレイだった。=The Crying Rose was quite lovely too.
+そうですね。|悲しい伝説がなければ、美しい|バラの花で終わったのに……=Yeah. If not for that sad legend, I wouldn't have ended up with such a pretty rose.
 
 # A1758
 無人島で作った料理は最高|でしたよね！=The food we made on the deserted island was amazing!#dupe
-支葵センパイと一条センパイの|絶妙なコンビ。一番、無難に|こなしていましたよ。=
+支葵センパイと一条センパイの|絶妙なコンビ。一番、無難に|こなしていましたよ。=You and Ichijo made for an awesome pair. You were fantastic.
 
 # A8374
-特に、支葵センパイの|一本釣り。見事でしたよ。=
-でも、首にタコが這ったのは、|いくら何でも…|うう、思い出しただけでも……=
-ん。何の話？=
-いけない！|あれは夢の話だった。=
-変な夢。|風紀委員が魚を口でくわえて。|って……=
-もう、何でもないですから！=
-変なの。=
-君の夢、きっと大変だと思う。=
-あれから俺、考えてみたんだ。|君が大事だと思う人が、突然|レベル：Ｅになって悲しくて…=
-どうしようもないこととか、|この先、起きるかもしれない。=
-でも、諦めないで頑張ってる|君はすごく偉い。=
-みんなが君の考えてること|理解したら悲劇もきっと少なく|なると思うよ。=
-……あきらめていないよね？=
-強いね。君、弱いのに|強いから、ほっとけない。=
-いろいろあったけど、|支葵センパイと一緒で|よかった。=
-私の言いたいことは……|それだけ……=
-もう少し一緒にいてもいい。=
-ダメ？=
-いいえ……=
+特に、支葵センパイの|一本釣り。見事でしたよ。=Especially when you were fishing. That was a sight to see.
+でも、首にタコが這ったのは、|いくら何でも…|うう、思い出しただけでも……=But that octopus crawling on my neck, yuck! Just thinking about it makes my skin crawl.
+ん。何の話？=Huh? What octopus?
+いけない！|あれは夢の話だった。=Shoot! That was just a dream I had.
+変な夢。|風紀委員が魚を口でくわえて。|って……=That's a strange dream. And you put this fish in your mouth?
+もう、何でもないですから！=No! Just forget it!
+変なの。=Strange indeed.
+君の夢、きっと大変だと思う。=I can't imagine how hard that's been for you.
+あれから俺、考えてみたんだ。|君が大事だと思う人が、突然|レベル：Ｅになって悲しくて…=I was thinking about it. A person who's important to you suddenly becoming a Level E, it's depressing.
+どうしようもないこととか、|この先、起きるかもしれない。=It could happen to someone I could care about, and I would be helpless to stop it.
+でも、諦めないで頑張ってる|君はすごく偉い。=But the way you never give up and always do your best, you're amazing.
+みんなが君の考えてること|理解したら悲劇もきっと少なく|なると思うよ。=I'm sure if everyone could think like you, the world would be a little less tragic.
+……あきらめていないよね？=You'll never give up. Isn't that right?
+強いね。君、弱いのに|強いから、ほっとけない。=You're strong. You're weak, but you're strong too, so I have to watch over you.
+いろいろあったけど、|支葵センパイと一緒で|よかった。=So much has happened, but I'm glad you were with me, Shiki.
+私の言いたいことは……|それだけ……=That's it. That's all I want to say.
+もう少し一緒にいてもいい。=Will you stay with me a little longer?
+ダメ？=Is that okay?
+いいえ……=Y-Yeah…
 
 # A3A84
-俺、ヴァンパイアと人間の共存|とか考えたこともなかった。=
-でも最近、人間も悪くない……|って思う時がある。=
-仕事で人間と関わるのも、|そんなに面倒じゃなくなった。|最近、楽しいかもって思える。=
-君のおかげかも。=
-それって、君の夢が叶ったって|ことかな。=
-何か、そういうの悪くないよね。=
-私もセンパイに伝えたい事が|あります。=
-私、支葵センパイの事、|好きです。=
-寡黙だけど、心の中はとても|あたたかい……=
-そして強さとやさしさも|持っている、そんなセンパイが|大好きです！=
+俺、ヴァンパイアと人間の共存|とか考えたこともなかった。=I had never given much thought to the coexistence of vampires and humans.
+でも最近、人間も悪くない……|って思う時がある。=But lately, I've been thinking that humans aren't all that bad.
+仕事で人間と関わるのも、|そんなに面倒じゃなくなった。|最近、楽しいかもって思える。=Engaging with humans at work isn't too troublesome anymore. It's even been rather fun recently.
+君のおかげかも。=It's thanks to you.
+それって、君の夢が叶ったって|ことかな。=I wonder if that means your dream has come true.
+何か、そういうの悪くないよね。=It's not so bad, is it?
+私もセンパイに伝えたい事が|あります。=There's something I'd like to say to you too.
+私、支葵センパイの事、|好きです。=I… like you, Shiki.
+寡黙だけど、心の中はとても|あたたかい……=You're quiet, but your heart burns true.
+そして強さとやさしさも|持っている、そんなセンパイが|大好きです！=You're so kind and strong. I really like you, Shiki!
 
 # A7D1C
-………ありがと……=
-……俺、人間のことを特別に|思うとか、考えたことなかった|けど、君は別だと思う。=
-君といると、一条さんや莉磨と|いるときみたいに、落ち着く。=
-ん～と…|よく眠れるってカンジ。=
-だから俺、君のこと大切だって|思う。=
-支葵センパイ…そう言って|もらえて、私もうれしいです。=
-うん。よかった。=
-私の夢の実現のためには|まだまだやるべき事があると|思うんです。=
-それにはもっとみんなの事…|支葵センパイの事を知りたい、|そこから始めたいんです。=
-なんでもいいよ。言って。|力になる。=
-じゃあまず……ちょっと|ワガママですけどいいですか？=
-支葵センパイ……私にだけの|笑顔を見せて下さい。=
-そんなのでいいの？……はい。=
+………ありがと……=Thank you.
+……俺、人間のことを特別に|思うとか、考えたことなかった|けど、君は別だと思う。=I've never thought much of others, especially humans. But I think you're special.
+君といると、一条さんや莉磨と|いるときみたいに、落ち着く。=When I'm with you, I feel calm like I do with Ichijo or Rima.
+ん～と…|よく眠れるってカンジ。=How can I put it? It's like a deep slumber.
+だから俺、君のこと大切だって|思う。=You feel precious to me.
+支葵センパイ…そう言って|もらえて、私もうれしいです。=Shiki, it makes me so happy to hear you say that.
+うん。よかった。=Good. I'm glad.
+私の夢の実現のためには|まだまだやるべき事があると|思うんです。=I think there's still more work to be done to make my dream a reality.
+それにはもっとみんなの事…|支葵センパイの事を知りたい、|そこから始めたいんです。=To do that, I want to understand everyone. To understand you. That's where I want to start.
+なんでもいいよ。言って。|力になる。=Your wish is my command. You can depend on me.
+じゃあまず……ちょっと|ワガママですけどいいですか？=Then, to start, I'm going to be a little selfish. Is that okay?
+支葵センパイ……私にだけの|笑顔を見せて下さい。=Shiki, just once, will you smile for me?
+そんなのでいいの？……はい。=If you so desire, yes.
 ………=…
-…笑顔になっていいですよ？=
-…もうなっているけど。=
-え…=
-くすくす……=
-そんなにおかしい？=
-いえ、もう、なんだか…|ありがとうございます。=
+…笑顔になっていいですよ？=Smile whenever you're ready.
+…もうなっているけど。=I'm already doing it.
+え…=Huh?
+くすくす……=*Giggle*
+そんなにおかしい？=Is something funny?
+いえ、もう、なんだか…|ありがとうございます。=No, i-it's nothing.|Thank you, Shiki.
 
 # A6348
 好き…？=
@@ -16007,50 +16007,50 @@ Sleep well…
 おいしかった。よかったよ。=It’s delectable. I had hoped it would be.
 
 # A0C20
-欲しい……。=
+欲しい……。=I want it.
 
 # A0D78
-わかっているよね？|意外といじわる。=
+わかっているよね？|意外といじわる。=You know what I mean.|Why do you torment me?
 
 # A1CCC
-そうなんだ……=
-離さない。=
-ね…はやく…=
+そうなんだ……=Really?
+離さない。=Don't fight it.
+ね…はやく…=I'm growing impatient.
 
 # A092C
-そんなの…………いやだな。=
+そんなの…………いやだな。=I understand. That's too bad.
 
 # A0AF0
-だめ？=
+だめ？=No?
 
 # A1138
-動かないで……=
+動かないで……=Be still.
 
 # A1100
-ダメって、ウソだよね。=
-いやだ……あきらめない。=
+ダメって、ウソだよね。=No? You don't mean that.
+いやだ……あきらめない。=I won't give up. Not until I've had it.
 
 # A0EA4
-どこからでもいいよね？=
+どこからでもいいよね？=Anywhere would be fine, right?
 
 # A1160
-俺の一番好きなところでいい？=
-やっぱり自分で決めさせて|下さい……=
+俺の一番好きなところでいい？=May I do it in my favorite spot?
+やっぱり自分で決めさせて|下さい……=Actually, let me decide. Please.
 
 # A1698
-怒っちゃった……ゴメン。=
+怒っちゃった……ゴメン。=I'm frustrated. I'm sorry.
 
 # A0EAC
-また、いいよね？=
+また、いいよね？=We've done it once already.
 
 # A0A78
-バレてもいいや、|すごくおいしいもの。=
+バレてもいいや、|すごくおいしいもの。=The danger of getting caught makes it all the more delicious.
 
 # A0B60
-風紀委員の男に撃たれたって|いいかも。=
+風紀委員の男に撃たれたって|いいかも。=Perhaps being shot by your fellow Prefect wouldn't be so bad.
 
 # A0968
-一条さんには内緒だよ。=
+一条さんには内緒だよ。=Don't let Ichijo know about this.
 
 # A0918
 咬ませる場所をタッチして|ください。一度咬まれた場所は|再度選択する事はできません。=Choose a location to be bitten. Once bitten, you cannot choose to be bitten in the same location again.

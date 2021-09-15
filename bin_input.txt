@@ -14827,42 +14827,42 @@ Sleep well…
 いえ、もう、なんだか…|ありがとうございます。=No, i-it's nothing.|Thank you, Shiki.
 
 # A6348
-好き…？=
-俺、よく一条さんや莉磨に|マイペースだって言われる|けど、それでも好きなの？=
-はい、私そういうところが|好きなんです。=
-でも、私もマイペースでは|負けてませんから！=
-ふーん。ならいいんじゃない？=
-思い切って聞いちゃいますが、|デートとかしてくれますか？=
-いいよ。=
-お買い物なんかも付き合って|くれますか？=
-平気。=
-買い物が長い。と|ケンカになっても、|先に謝ってくれますか？=
-うん、いいよ。=
-…怒って私が先に帰っても、|ほっといてくれますか？=
-そこはダメです！|支葵センパイ、女心が|全然わかってないですね。=
-そんなの、わからない……|なんかめんどくさくなって|きた。=
-めんどくさがっちゃダメです！|そこは、これからみっちり教え|ますから。=
-いいですね。=
-うん。風紀委員……|頼もしい……=
-あれ？これでいいのかな？=
+好き…？=You like me?
+俺、よく一条さんや莉磨に|マイペースだって言われる|けど、それでも好きなの？=Ichijo and Rima always say I can be a little stubborn. That doesn't bother you?
+はい、私そういうところが|好きなんです。=Nope. I like that about you.
+でも、私もマイペースでは|負けてませんから！=Don't expect me to give in to your stubbornness though!
+ふーん。ならいいんじゃない？=Hm, I guess it's alright then.
+思い切って聞いちゃいますが、|デートとかしてくれますか？=I'm just gonna ask, okay? Will you go on a date with me?
+いいよ。=I will.
+お買い物なんかも付き合って|くれますか？=You'll take me out shopping?
+平気。=Sure.
+買い物が長い。と|ケンカになっても、|先に謝ってくれますか？=It'll take all day. If we get in a fight, you promise to apologize first?
+うん、いいよ。=Sure thing.
+…怒って私が先に帰っても、|ほっといてくれますか？=If I get super mad and go home, will you give me some space?
+そこはダメです！|支葵センパイ、女心が|全然わかってないですね。=Wrong answer! Shiki, you don't understand girls at all!
+そんなの、わからない……|なんかめんどくさくなって|きた。=I don't know… This is getting kind of annoying.
+めんどくさがっちゃダメです！|そこは、これからみっちり教え|ますから。=You can't just get annoyed! Don't worry. I'll teach everything you need to know.
+いいですね。=Deal?
+うん。風紀委員……|頼もしい……=Deal. Prefect, I can't wait.
+あれ？これでいいのかな？=Wait! Is this really happening?
 
 # A5280
-君は俺の仕事の事とか|知ってる？=
-よくわからないです。|それより支葵センパイと|いられれば……と思って。=
-興味ないんだ。=
-す、すいません。=
-最近、俺、仕事が面白い気が|するんだよね。=
-そうでしたか……=
-ちょっと残念。あんまり一緒に|いる意味はないかも。=
-付き合っても話、合わないん|じゃない。=
-あ、ゴメン、明日仕事。|寝坊すると莉磨に怒られる。=
-もう少し、服とかに関心を|持ってもいいんじゃない。|じゃあね、風紀委員。=
-そ、そんな……支葵センパイ！=
-（支葵センパイの仕事の事は、|正直、考えた事がなかった）=
-（ただ、センパイといられれば|それでいいという甘い考え…）=
-（好きになるという事は、|自己満足じゃダメだなんて|考えた事がなかった）=
-（もっと私がファッションに|興味さえ持っていれば、違った|未来もあったのかもしれない）=
-こうなったら、今度会った|ときは、キレイになって絶対|見返してやる！=
+君は俺の仕事の事とか|知ってる？=My job, do you know anything about it?
+よくわからないです。|それより支葵センパイと|いられれば……と思って。=Not really. If I could be with you, I thought…
+興味ないんだ。=You aren't interested.
+す、すいません。=I-I'm sorry.
+最近、俺、仕事が面白い気が|するんだよね。=I actually haven't felt like my work was so uninteresting lately.
+そうでしたか……=I had no idea.
+ちょっと残念。あんまり一緒に|いる意味はないかも。=I'm rather disappointed. Perhaps it doesn't make much sense for us to be together.
+付き合っても話、合わないん|じゃない。=Even if we did go out, it wouldn't work.
+あ、ゴメン、明日仕事。|寝坊すると莉磨に怒られる。=Sorry, but I've got work tomorrow. Rima will be angry if I oversleep.
+もう少し、服とかに関心を|持ってもいいんじゃない。|じゃあね、風紀委員。=It wouldn't hurt to be a little more interested in fashion. Good night, Prefect.
+そ、そんな……支葵センパイ！=W-Wait! Shiki!
+（支葵センパイの仕事の事は、|正直、考えた事がなかった）=(Honestly, I never really thought about Shiki's job.)
+（ただ、センパイといられれば|それでいいという甘い考え…）=(But I was so hopeful that we could be together.)
+（好きになるという事は、|自己満足じゃダメだなんて|考えた事がなかった）=(I never thought he wouldn't like me for being so careless with my appearance.)
+（もっと私がファッションに|興味さえ持っていれば、違った|未来もあったのかもしれない）=(If I had only been more interested in fashion, maybe we would have had a different future.)
+こうなったら、今度会った|ときは、キレイになって絶対|見返してやる！=That's it then! I'll make myself pretty so the next time we meet he'll look at me the way I look at him!
 
 # A91C4 Chapter 7 Yagari
 夜刈先生？！|……どうしてここに？=Mr. Yagari?! |…What are you doing here?

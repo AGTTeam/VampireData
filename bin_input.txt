@@ -714,8 +714,8 @@ vk_se6_010=
 
 # AC210
 黒主　優姫=>>Yuki Cross
-黒主=Yuki<00>
-優姫=Cross<00>
+黒主= Yuki<00>
+優姫=Cross <00>
 錐生　零=>>Zero Kiryu
 玖蘭　枢=>>Kaname Kuran
 夜刈　十牙=>>Toga Yagari
@@ -724,16 +724,16 @@ vk_se6_010=
 一条　拓麻=>>Takuma Ichijo
 支葵　千里=>>Senri Shiki
 
-# AC240 leave double spacings
-？？？=>>???
-女子生徒１=>>Girl  1
-女子生徒２=>>Girl  2
-女子生徒３=>>Girl  3
-女子生徒４=>>Girl  4
+# AC240
+？？？=>>   ???   #keep the spaces
+女子生徒１=>>   Girl  1   #keep the spaces
+女子生徒２=>>   Girl  2   #keep the spaces
+女子生徒３=>>   Girl  3   #keep the spaces
+女子生徒４=>>   Girl  4   #keep the spaces
 理事長=>>ｿHeadmaster
 教師=>>Professor
 ヴァンパイア=>>Vampire
-男子生徒=>>Boy
+男子生徒=>>   Boy   #keep the spaces
 星煉=　　Seiren<00>
 遠矢　莉磨=>>Rima Toya
 先生=>>Student
@@ -753,9 +753,9 @@ vk_se6_010=
 レベル：Ｅ=>>Level E
 おじさん=>>Old Man
 ハンター=>>Hunter
-チビ=>>Chibi
-全員=>>All
-リリィ=>>Lily
+チビ=>>   Chibi   #keep the spaces
+全員=>>   All   #keep the spaces
+リリィ=>>   Lily   #keep the spaces
 おじいさん=>>Old Man
 キャスター=>>News Caster
 レベル：Ｅ犬=>>Level E Dog
@@ -763,8 +763,8 @@ vk_se6_010=
 委員長=>>Class Rep
 早園　瑠佳=>>Ruka Souen
 夜刈＆一条=>>Yagari & Ichijo
-子犬=>>Puppy
-女子生徒=>>Girl
+子犬=>>   Puppy   #keep the spaces
+女子生徒=>>   Girl   #keep the spaces
 占い師=>>Fortune Teller
 レポーター=>>Reporter
 

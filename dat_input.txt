@@ -797,7 +797,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 !FILE:ShowingDresses
 枢センパイこんばんは！|このドレス、どうですか？=Good evening, Kaname!
 藍堂センパイこんばんは！|このドレス、どうですか？=Good evening, Aido!
-架院センパイこんばんは！|このドレス、どうですか？=Good evening, Akatsuki!
+架院センパイこんばんは！|このドレス、どうですか？=Good evening, Kain!
 一条センパイこんばんは！|このドレス、どうですか？=Good evening, Ichijo!
 支葵センパイこんばんは！|このドレス、どうですか？=Good evening, Shiki!
 零こんばんわ！|このドレス、どう？=Hey, Zero!
@@ -884,14 +884,14 @@ TEXTの表示速度を設定します。=Set the text speed.
 襲い来るレベル:Ｅをアルテミス|（タッチペン）で倒すぞ！||赤いポイントを|タッチするのがコツ。|上手くいかなくてもアノ人の|助けが入るかも？|= Touch the red points and defeat| the incoming Level E!|| If things go badly, maybe he’ll| come to help?
 
 !FILE:CharacterNames
-   玖蘭　枢   =Kaname Kuran
-   藍堂　英   =Aido Hanabusa
-   架院　暁   =Kain Akatsuki
-  一条　拓麻  =Takuma Ichijo
-  支葵　千里  =Senri Shiki
-  錐生　零    =Zero Kiryu
-  夜刈　十牙  =Toga Yagari
-  黒主　優姫  =Yuki Cross
+   玖蘭　枢   = Kaname Kuran
+   藍堂　英   = Aido Hanabusa
+   架院　暁   = Kain Akatsuki
+  一条　拓麻  = Takuma Ichijo
+  支葵　千里  = Senri Shiki
+  錐生　零    = Zero Kiryu
+  夜刈　十牙  = Toga Yagari
+  黒主　優姫  = Yuki Cross
 
 !FILE:AdditionalText
 #Party intro - Kaname

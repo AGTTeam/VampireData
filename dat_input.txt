@@ -1432,6 +1432,8 @@ Date over - Zero
 零……|まだ若いな…。=Zero… You’re still young.
 小娘。|お前、甘やかされ過ぎだな。=You’ve been too spoiled, Girl.
 おまえ仮にも|ガーディアンだろうが！=And you’re supposed to be a Guardian!?
+
+!FILE:MinigameSelect
 枢センパイかな？=Kaname?
 藍堂センパイかな？=Aido?
 架院センパイかな？=Kain?

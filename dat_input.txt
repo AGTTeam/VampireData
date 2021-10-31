@@ -1,11 +1,11 @@
 
 !FILE:DataErrors
-データを読めませんでした。|電源を切って、カードを|差し込み直してください。=Unable to read data. Please turn off the power and reinsert the game.
-データが壊れています。|全てのデータを初期化します。=Data corrupted. Formatting all data.
-データが壊れています。|選んだデータを初期化します。=Data corrupted. Formatting selected data.
-データを書けませんでした。|電源を切って、カードを|差し込み直してください。=Unable to write data. Please turn off the power and reinsert the game.
-データの初期化に|失敗しました。|電源を切って、カードを|差し込み直してください。=Failed to format data. Please turn off the power and reinsert the game.
-データが壊れています。|データを削除しても|よろしいですか？=Data corrupted. Do you wish to delete the data?
+データを読めませんでした。|電源を切って、カードを|差し込み直してください。=Unable to read data. Turn off the DS and reinsert the game.
+データが壊れています。|全てのデータを初期化します。=Data corrupted.|Formatting all data.
+データが壊れています。|選んだデータを初期化します。=Data corrupted.|Formatting selected data.
+データを書けませんでした。|電源を切って、カードを|差し込み直してください。=Unable to write data. Turn off the DS and reinsert the game.
+データの初期化に|失敗しました。|電源を切って、カードを|差し込み直してください。=Failed to format data. Turn off the DS and reinsert the game.
+データが壊れています。|データを削除しても|よろしいですか？=Data corrupted.|Delete?
 
 !FILE:NameEntry
 苗字を入力して下さい。=Enter given name.|(*For save slot identification only)
@@ -965,7 +965,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 何だかお前らしくないなぁ。=It’s not really you.
 ずいぶんと堅苦しいね。=It’s a bit Victorian.
 結構無理していない？=Aren’t you trying a bit too hard?
-おー！そのドレスは……|く、頑張ってるな。=Oh, that dress… Heh, you real went all out, didn’t you?
+おー！そのドレスは……|く、頑張ってるな。=Oh, that dress… Heh, you really went all out, didn’t you?
 魅せるね。|あとは本人の成長待ちかな？=It’s charming. I guess the rest will grow in, huh?
 セクシーだね。|ドレスだけは。=Very sexy. The dress, that is.
 仮装パーティーだっけ？|今日は。=Was it a costume party today…?
@@ -1039,7 +1039,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 #Dress comments - Shiki
 センス的には、|古いんじゃないの。=It’s not old-fashioned.
 力強い感じだよね……|そういうのダルイ……=It gives a powerful impression… It makes me tired…
-ん……|もっと自然な感じの方がいい。=Mm… I think a natural look would be better.
+ん……|もっと自然な感じの方がいい。=Mm… I think a more natural look would be better.
 ずいぶんおとなしいね……=It’s quite reserved…
 あんまり、似合ってない。=It doesn’t really suit you.
 君のキャラクターには|合わない……=It doesn’t suit your character.
@@ -1078,7 +1078,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 これは……|似合ってるんじゃないか……|ククッ=It… really suits you… haha…
 俺を元気付けようと、|そんな面白い格好を……|すまないな。=You wore that stupid thing to cheer me up… sorry.
 おい……|俺にケンカ売ってるだろ？=Hey… Are you picking a fight with me?
-ああ……|そういう顔もするんだ……=So you have this side to you too…
+ああ……|そういう顔もするんだ……=Oh… So you have this side to you too…
 そんなにアネキ風吹かせたい|のか？=You want to look like my older sister that bad?
 まるでお前じゃないみたいだ。|驚いた。=It’s like it’s not even you. I’m surprised.
 あまり背伸びしてもロクな事|ないぞ。=It’s not good to be too tall.
@@ -1157,7 +1157,7 @@ Dress up - Kaname
 うん、悪くはないね。|これからも、|おしゃれに頼んだよ。=Yes, it’s not bad. I’ll be counting on you.
 君が気に入っているなら、|それでいい。……悪くはないよ。=If you like it, that’s enough. …It’s not bad.
 美のセンスは、|経験と共に培われるものさ。|期待しているよ。=A sense of beauty comes with experience. I have high hopes for you.
-くすっ……君は、|相変わらずユーモアのセンスが|抜群だね。=You have a great sense of humor, as always.
+くすっ……君は、|相変わらずユーモアのセンスが|抜群だね。=Heh… You have a great sense of humor, as always.
 おや？忘れ物かな？|僕に合うセンスが……|見あたらない……=Hm? Did you forget something?|I’m not sure how this suits me…
 頑張ったんだね……|君の努力は認めるよ。=You did your best… I appreciate your effort.
 僕をこんなにしてしまう|君って……恐ろしい……=That you would make me into something like this… It’s frightful…
@@ -1188,7 +1188,7 @@ Dress up - Kain
 今まで意識したことはなかったん|だが、これってもしかして、イケ|てるって言うんじゃないか？？=I’ve never really noticed it before but, could this be what the call “a badass”?
 イイ感じだと、素直に思うよ。|これからは、ワイルド＆ビュー|ティーセンパイって呼んでくれ。=I think it’s pretty neat. From now on, you can call me “Wild and Beautiful”.
 お前って言いセンスしてるよな。|これからも素敵なコーディネイト|たのんだぞ。=So this is your fashion sense. I’ll be counting on you for coordination tips.
-うん、悪くないな。|こういうのをカジュアルって|言うのか？=Not bad. Is this what they call the ‘casual look’?
+うん、悪くないな。|こういうのをカジュアルって|言うのか？=Yeah, not bad. Is this what they call the ‘casual look’?
 イケてる…イケてない…イケて|る…イケてない……イケてる！|なんだ、そうだったのか！=Is it hot… or not…? It’s hot… it’s not…|…It’s hot! Yeah, that’s it!
 来年の舞踏祭には、|この格好で出てみようかな。=I might wear this outfit to next year’s ball.
 これがどういう事かは、|いくらファッションにうとい俺|でも…わかるぞ……=Even a fashion-novice like me… can see what’s going on here.
@@ -1298,7 +1298,7 @@ Date over - Kain
 夢の中とはいえ、普段出来ない|楽しい体験だった。|また、頼むな。=This might just be a dream, but I got to experience something fun that I wouldn’t normally do. Let’s do this again.
 結構がんばっているんだな。|次もたのむぞ。=You tried really hard. I’ll be counting on you next time too.
 お前のセンスには、正直疑問を|感じる。支葵に相談した方が|いいんじゃないのか？=To be honest, I have doubts about your fashion sense. Maybe you should talk to Shiki?
-何バカな夢を見ているんだ？|お前にはやるべき事があるんだ|ろう。=What kinds of stupid dreams do you have? Don’t you have better things to do?
+何バカな夢を見ているんだ？|お前にはやるべき事があるんだ|ろう。=What kinds of stupid dreams do you have? Isn’t there something better you should be doing?
 
 Date over – Ichijo
 本当に素敵な夢をありがとう。|また次も会えたらいいね。=Thanks for the lovely dream. I hope we see each other again.
@@ -1331,7 +1331,7 @@ Date over - Zero
 君はひどい人だ。|あまり僕をドキドキさせないで|欲しい……=You are cruel. Please don’t make my heart race like this…
 君は勇気のある子だ。|だからこそ、気をつけて欲しい。=You are a brave one. That’s all the more reason I wish you’d be careful.
 君が傷つく姿は見たくない……|これっきりにしてほしい……=I don’t want to see you get hurt. I hope this will be the last time.
-君を傷つけようとするものは、|この僕がゆるさない！|例えなんびとであろうとも！=I won’t forgive anyone who tries to hurt you!
+君を傷つけようとするものは、|この僕がゆるさない！|例えなんびとであろうとも！=I won’t forgive anyone who tries to hurt you! No matter who they are!
 こんなに危ないことを……|お願いだから、|もっと僕を頼ってほしい……=Falling into such a dangerous situation… Please, rely on me more.
 君が無事でなによりだ。|でも、あまり|頑張りすぎないようにね。=All that matters it that you’re safe. But, you shouldn’t try so hard.
 君に、ガーディアンの仕事は|過酷だ。|できれば、やらせたくない……=I know being a Guardian is tough. I wouldn’t want you to do it if I could help it…
@@ -1351,7 +1351,7 @@ Date over - Zero
 全く無鉄砲な奴だな。|でも、そんなお前がほっとけ|ない僕も無鉄砲なのかな？=You’re too rash. But, maybe I’m also rash for not being able to leave you alone?
 お前の相棒も無責任だよね。|お前も大変だ。=Your partner is really irresponsible. What a handful you are.
 お前にガーディアンは|向いてないよ。|もう錐生にまかせたら？=You’re not cut out to be a Guardian. Why don’t you just leave it to Kiryu?
-また、危ないことを……|この事は、理事長に報告する。|追って沙汰を待つように。=Getting into danger, again… Just wait, I’m going to report this to the headmaster.
+また、危ないことを……|この事は、理事長に報告する。|追って沙汰を待つように。=Getting into danger, again… I’m going to report this to the headmaster. Don’t do anything until you hear back from him.
 
 #Level E minigame - Kain
 大丈夫か？！|俺にまかせろ！=Are you okay? Leave this to me!
@@ -1410,7 +1410,7 @@ Date over - Zero
 ２度とお目にかかりたくないな。|消えろ！=I never want to see you again. Disappear!
 ケガはないか？|無茶ばっかりしやがって。=Are you hurt? That was too reckless.
 どうしていつも危ない橋を|渡るんだ？！|心配させやがって……=Why must you always go out on a limb!? Making me worry…
-あまり無茶をすると理事長が|悲しむぞ。|あんな男でも、お前の父親だ。=If you keep being so reckless, you’ll make the headmaster sad. He’s still your father.
+あまり無茶をすると理事長が|悲しむぞ。|あんな男でも、お前の父親だ。=If you keep being so reckless, you’ll make the headmaster sad. Despite it all, he’s still your father.
 よくこらえたな。|これからもお互いガーディアン|として頑張ろう。=You put up a good fight.|Let’s keep doing our best as guardians.
 俺が来なかったらどうする|つもりだったんだ？|まぁ、がんばったよ。=What were you going to do if I hadn’t come!? Well, I guess you did you best.
 醜いヴァンパイアは、|俺たちの手で葬るんだ。|いいな？=We’ll bury these unsightly vampires ourselves. Got it?
@@ -1447,7 +1447,7 @@ Date over - Zero
 支葵センパイに決めたよ。=Shiki it is!
 零に決めたよ。=Zero it is!
 私が買った服をあの人に|着てもらってデートとか……|夢の中だしいいよね？=If I could pick an outfit for my special someone…
-誰がいいかな？=Let’s see…
+誰がいいかな？=Who should I pick?
 白いバラにしようかな……=A white rose?
 黒いバラにしようかな……=A black rose?
 つぼみのバラにしようかな……=A rose bud?
@@ -1714,7 +1714,7 @@ Date over - Zero
 黄色いバラの花言葉･･･|「きまぐれな愛」|=Yellow roses signify…|“whimsical love”.
 オレンジのバラの花言葉･･･|「絆」|=Orange roses signify…|“bonds”.
 紫のバラの花言葉は･･･|「情熱的な愛」|=Purple roses signify…|“passionate love”.
-花言葉を確認したい|バラを選択してください。|=Select a rose to view.
+花言葉を確認したい|バラを選択してください。|=Choose a rose.
 !FILE:Letters
 0=
 1=

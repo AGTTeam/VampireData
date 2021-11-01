@@ -935,7 +935,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 ちょっと僕には|刺激が強すぎるみたいだ。=It’s a little overpowering for my tastes.
 なんだか君らしくないね。=It doesn’t really seem like you.
 もう少しシックだと、|僕の好みだよ。=I’d prefer something a little more chic.
-ああ、僕の想像通りだよ。|とても素敵なレディだ。=Oh, it’s just as I imagined. You’re make a fine lady.
+ああ、僕の想像通りだよ。|とても素敵なレディだ。=Oh, it’s just as I imagined. You make a fine lady.
 何て事だ|ドレスから、知性があふれ|出している……素晴らしい。=My, that dress is just overflowing with wit… It’s wonderful.
 美しさは知を生み、知は美しさ|を生み出す。それを体言してく|れるなんて……最高だよ。=Beauty begets wisdom, and wisdom begets beauty. That look just proves it… It’s incredible.
 素敵だ……|是非、エスコートさせて|下さい。マドモアゼル。=Beautiful… Please allow me to escort you, Mademoiselle.
@@ -944,7 +944,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 君のイメージを|修正する必要があるのかな？=Was there any need to modify your image?
 背伸びしたいのは|わかるけど……ふぅ……=I know you want to be taller, but… Heh.
 サービス精神旺盛だね。|悪くはないよ。=It’s very hearty. Not bad.#tc
-意外と似合っているね……|悪くはないよ。=It suits you surprisingly well. Not bad.
+意外と似合っているね……|悪くはないよ。=It suits you surprisingly well.|Not bad.
 個性って大事な事だね。|悪くはないよ。=Individuality is important, isn’t it? It’s not bad.
 今日は調子が悪いのかな？=Are you not feeling well today?
 君はもう、一人前のレディー|だったんだね。=You’re already a proper lady.
@@ -1119,7 +1119,7 @@ Extra comments - Zero
 
 Leave party - Kaname
 じゃあ、僕は行くよ。|またね。=I should be going now.|See you later.
-次はどんなドレスかな？|楽しみだよ。=What will you wear next? I look forward to it.
+次はどんなドレスかな？|楽しみだよ。=What will you wear next?|I look forward to it.
 もういくの？……また|来てくれるよね？=You’re leaving?|…You’ll come again, won’t you?
 
 Leave party - Aido
@@ -1144,7 +1144,7 @@ Leave party - Shiki
 
 Leave party - Zero
 俺はもう行く。=I’m gonna go, then.
-お前もやっぱり、|女だったんだな。|いや、いい意味でだ。=You really are a girl, huh? No, I meant it in a good way.
+お前もやっぱり、|女だったんだな。|いや、いい意味でだ。=You really are a girl, huh?|No, I meant it in a good way.
 いつもと違うお前が|見られたよ。|来てくれて良かった。=I got to see a side of you I don’t normally see. I’m glad you came.
 
 Dress up - Kaname
@@ -1155,7 +1155,7 @@ Dress up - Kaname
 これこそ僕の求めていたもの。|さすがは君だ。ありがとう。=This is exactly what I was after. You know me well. Thank you.
 どう？|君が満足なら僕も嬉しいよ。=How is it? If you’re happy, then I’m happy.
 うん、悪くはないね。|これからも、|おしゃれに頼んだよ。=Yes, it’s not bad. I’ll be counting on you.
-君が気に入っているなら、|それでいい。……悪くはないよ。=If you like it, that’s enough. …It’s not bad.
+君が気に入っているなら、|それでいい。……悪くはないよ。=If you like it, that’s enough.|…It’s not bad.
 美のセンスは、|経験と共に培われるものさ。|期待しているよ。=A sense of beauty comes with experience. I have high hopes for you.
 くすっ……君は、|相変わらずユーモアのセンスが|抜群だね。=Heh… You have a great sense of humor, as always.
 おや？忘れ物かな？|僕に合うセンスが……|見あたらない……=Hm? Did you forget something?|I’m not sure how this suits me…
@@ -1327,11 +1327,11 @@ Date over - Zero
 キミの事は、僕が守る！=I will protect you!
 誰であろうが僕に逆らうこと|などできると思うな！=Don’t think you’re any match for me!
 哀れな……|もう楽になっていいんだよ。=Pitiful thing… May you find peace.
-悲しい宿命を背負った者よ。|その重荷を解き放とう。=I will release you from your fate.
+悲しい宿命を背負った者よ。|その重荷を解き放とう。=I will release you from your sad fate.
 君はひどい人だ。|あまり僕をドキドキさせないで|欲しい……=You are cruel. Please don’t make my heart race like this…
 君は勇気のある子だ。|だからこそ、気をつけて欲しい。=You are a brave one. That’s all the more reason I wish you’d be careful.
-君が傷つく姿は見たくない……|これっきりにしてほしい……=I don’t want to see you get hurt. I hope this will be the last time.
-君を傷つけようとするものは、|この僕がゆるさない！|例えなんびとであろうとも！=I won’t forgive anyone who tries to hurt you! No matter who they are!
+君が傷つく姿は見たくない……|これっきりにしてほしい……=I don’t want to see you get hurt.|I hope this will be the last time.
+君を傷つけようとするものは、|この僕がゆるさない！|例えなんびとであろうとも！=I won’t forgive anyone who tries to hurt you. No matter who they are!
 こんなに危ないことを……|お願いだから、|もっと僕を頼ってほしい……=Falling into such a dangerous situation… Please, rely on me more.
 君が無事でなによりだ。|でも、あまり|頑張りすぎないようにね。=All that matters it that you’re safe. But, you shouldn’t try so hard.
 君に、ガーディアンの仕事は|過酷だ。|できれば、やらせたくない……=I know being a Guardian is tough. I wouldn’t want you to do it if I could help it…

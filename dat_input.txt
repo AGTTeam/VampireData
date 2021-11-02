@@ -1064,7 +1064,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 #Dress comments - Zero
 いいドレスだな。悪くない。=It’s a nice dress. Not bad.
 お前らしくていいよ。|うん、すごくいい。=It’s very you. Yeah, it’s nice.
-おどろいた…|そういうの、似合うんだ…=I’m surprised…
+おどろいた…|そういうの、似合うんだ…=I’m surprised… It really suits you.
 悪い、思わず見てしまった…=Sorry, I didn’t mean to stare…
 何からしくないな。=It’s not you.
 ちょっと堅い雰囲気だな。=It’s a little stiff.
@@ -1129,7 +1129,7 @@ Leave party - Aido
 
 Leave party - Kain
 じゃ、もう俺は行くぞ。=I should get going.
-あんまり、|がんばりすぎるなよ。=Don’t try too hard.
+あんまり、|がんばりすぎるなよ。=Don’t wear yourself out.
 次も楽しみにしてるぞ……|じゃあな。=I’m looking forward to next time… See you.
 
 Leave party - Ichijo
@@ -1139,7 +1139,7 @@ Leave party - Ichijo
 
 Leave party - Shiki
 じゃあ、俺は行くね。=Okay, I’m going now.
-いい勉強になったかも……|仕事に活かせる。=It was a good learning experience… I can use it in my work.
+いい勉強になったかも……|仕事に活かせる。=It was a good learning experience…|I can use it in my work.
 また楽しみにしているよ……|じゃあね。=I’m looking forward to next time. Bye.
 
 Leave party - Zero
@@ -1309,7 +1309,7 @@ Date over – Ichijo
 
 Date over - Shiki
 たぶん俺も同じ夢を|見ているよ。……わかる？=I’m probably having the same dream. …Get it?
-楽しかった。|また会おう……|期待している。=That was fun. Let’s do it again… I’m looking forward to it.
+楽しかった。|また会おう……|期待している。=That was fun. Let’s do it again…|I’m looking forward to it.
 退屈しなかった……|また来て。=I didn’t get bored… We should do this again.
 寝てばかりじゃ、駄目だよ。=It’s no good to just sleep.
 変な夢にはもう出たくない。=I don’t want to be in anymore weird dreams.
@@ -1446,7 +1446,7 @@ Date over - Zero
 一条センパイに決めたよ。=Ichijo it is!
 支葵センパイに決めたよ。=Shiki it is!
 零に決めたよ。=Zero it is!
-私が買った服をあの人に|着てもらってデートとか……|夢の中だしいいよね？=If I could pick an outfit for my special someone…
+私が買った服をあの人に|着てもらってデートとか……|夢の中だしいいよね？=If I could pick an outfit for my special someone… It’s just a dream!
 誰がいいかな？=Who should I pick?
 白いバラにしようかな……=A white rose?
 黒いバラにしようかな……=A black rose?

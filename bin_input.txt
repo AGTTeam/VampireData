@@ -9807,7 +9807,7 @@ Sleep well…
 もっと、突きたい球とキューが|直線状に並ぶようにしなきゃ|駄目だ。=You need to make sure that you’re holding the cue in a straight line with the ball that you want to hit.
 こ、こうですか？=L-Like this?
 違う、腕はもっと、こう……=No, your arm should be more like this…
-（ど、どうしよう……|架院センパイの身体が、|すごい密着してる……！）=(W-What should I do…? Kain is stood so close to me--!)
+（ど、どうしよう……|架院センパイの身体が、|すごい密着してる……！）=(W-What should I do…? Kain is standing so close to me--!)
 そう、そのまま……|滑らせるように打ってみろ。=Right, just like that… Try to hit it as you’re sliding the cue.
 （そんな……|ドキドキしちゃって|打つどころじゃないよ！）=(How…!? My heart is racing so fast, I’ll never be able to hit anything!)
 や、やってみます……えいっ！=I-I’ll try… Here goes…
@@ -11230,7 +11230,7 @@ Sleep well…
 おい！|いい加減に起きろ、小娘！=Hey, snap out of it! Girl!
 あ…………キャァアーーー！！|獣が！お願い、食べないで！=Ah! Aaaaaaah!! Please, Mr. Beastman! Please don't eat me!
 誰が獣だ！|しっかりしろ、|ちゃんと俺を見ろ！=What beastman!? Calm down! Look at me!
-あ……れ？夜刈先生……？|ここは……理事長室の前？=M-Mr. Yagari? Why are we in front of the ｈeadmaster's office?
+あ……れ？夜刈先生……？|ここは……理事長室の前？=M-Mr. Yagari? Why are we in front of the headmaster's office?
 通りかかったら、|どういうわけかあんたが|廊下にぶっ倒れてたんだ。=I was passing by and found you collapsed on the floor in the hallway.
 せっかく助けてやったのに、|獣呼ばわりするとは、|とんだご挨拶だな……！=I go through the trouble of helping you, and you call me a beast. You should work on your greetings.
 す、すみません……！|ちょっと変な夢見てて……|あれ？でも私ーー=I-I'm sorry. I was having a weird dream… Wait, I…

@@ -1281,7 +1281,7 @@ Extra date comments - Zero
 
 Date over -Kaname
 こんな素敵な体験が出来て、|まるで夢のようだよ。|ありがとう。=This has been a wonderful experience. It’s like a dream come true. Thank you.
-夢の中の夢……そう、|いい夢を見させて貰ったよ。|またね。=A dream within a dream… It’s been great. See you soon.
+夢の中の夢……そう、|いい夢を見させて貰ったよ。|またね。=A dream within a dream… It’s been lovely. See you soon.
 楽しかったよ。|でも、もうお目覚めの|キスが必要かな？=I had fun. But, will you need a kiss to wake up?
 夢から覚めて。|勉強…がんばるんだよ。=Wake up. You should study…
 起きて。|もう、起きていいんだよ……=Wake up. It’s time to get up…
@@ -1740,7 +1740,7 @@ Date over - Zero
 －=
 父=
 母=
-鳥=>>Birdｿ
+鳥=>>Bird
 <01><00><0D>=
 <01><00><0D>=
 <01><00><0D>=

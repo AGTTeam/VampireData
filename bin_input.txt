@@ -8958,7 +8958,7 @@ Sleep well…
 あれ？|零。こんなところで|何してるの？=Ah, Zero? What are you doing here?
 「あれ？零」じゃない。|俺たちの仕事はーー=Don’t “ah, Zero” me. Our job…
 こいつらがおとなしく授業を|受けているか、そいつを|見張るのが仕事だろう。=Is to keep an eye on that lot and make sure they’re behaving and taking their classes.
-あれ？そうだっけ？|大丈夫だよ。=Ah? Is that all?|That’s no problem.
+あれ？そうだっけ？|大丈夫だよ。=Ah, right.|Well, it’s all good.
 ナイト･クラスは|みんないい人たちばかり|だから。=Everyone in the Night Class is responsible.
 フン、どうだか。そういえば、|お前さっきこいつらの授業を|見てみたいとか言ってたよな？=Hmph, how exactly?|Speaking of, you said you wanted to see their lessons, right?
 うん。興味ない？=Yeah, aren’t you curious?
@@ -8967,26 +8967,26 @@ Sleep well…
 とにかく、あいつらバカみたい|に頭いいことは確かだ。|くやしいが、そこは認める。=All I’m saying is that they're stupidly smart. It pains me to say it, but I have to admit that.
 バカみたいに頭がいい？|それって頭いいの？悪いの？=Stupidly smart? Do you mean they’re smart… or not?
 とにかくだ。授業なんか|見てもしょうがないぞ。=Never mind. Just, there’s no point in watching their lessons.
-あ、でもお前は、|憧れの玖蘭センパイが見られれば|それでいいんだったな。=Oh, actually you’d be happy as long as you could see your beloved Kaname, right?
+あ、でもお前は、|憧れの玖蘭センパイが見られれば|それでいいんだったな。=Oh, actually you’d be happy as long as you could see your beloved Kuran, right?
 零ったら、バカにしないでよ。=Don’t treat me like a idiot, Zero!
 純粋に学生として|どんなことを学んでいるのか、|興味あるんだから。=I’m purely interested in what they’re learning, student to student.
 はぁ？なんだその|面白くもない冗談は？=Huh? What kind of unfunny joke is that?
-う～っ！もうバカにして！|あったまきたっ！ちょっと|自分が成績いいからって！=Ngh, stop making fun of me! I’m getting really annoyed! Just because you have good grades--!
+う～っ！もうバカにして！|あったまきたっ！ちょっと|自分が成績いいからって！=Ngh, stop making fun of me! You’re so annoying! Just because you have good grades--!
 はぁ？ =Huh?
 うるせ！|そっちこそバカ！=Shut it! You’re the idiot!
-バーカ！=Iidioot!
-うるせー！授業中だ！|静かにしろ！=Can it! We’re in the middle of class! Be quiet!
+バーカ！=Idiiooot!
+うるせー！授業中だ！|静かにしろ！=Can it! We’re in the middle of class!|Be quiet!
 あ、零の師匠さんだ。=Ah, it’s Zero’s master.
-師匠、こんなところで|なにやってるんですか？=Master, what are you doing here?
+師匠、こんなところで|なにやってるんですか？=Master? What are you doing here?
 なにやってんですか|じゃねえ！授業中だ！=What am I doing here!? I’m in the middle of class!
 そういえば、零の師匠って|先生になったんだっけ？=That reminds me, didn’t your master become a teacher here, Zero?
 どうもそうらしいな。=Seems like it.
 お前ら仮にも|ガーディアンだろうが！=You’re supposed to be Guardians!
 そのお前らがよりによって|授業妨害を率先して|どうすんだ？！=Why are you of all people making an example of interrupting my class?
 ったく、ボケ理事長といい|お前らといい…|おとなしく警備してろよ！=Sheesh, why can’t that idiot headmaster, and you lot, just do your job and keep guard?
-<unk1>（ったく、そうでなくても、|こっちは大変なのに）=<unk1>(Good grief, it’s not like things aren’t tough enough as it is around here.)#tc
+<unk1>（ったく、そうでなくても、|こっちは大変なのに）=<unk1>(Good grief, things are tough enough as it is around here.)#tc
 行っちゃったね。=He’s gone…
-しかし、師匠も何で教師なんか|引き受けたんだろう。=Still, I wonder why my master decided to become a teacher.
+しかし、師匠も何で教師なんか|引き受けたんだろう。=Still, I wonder why my master agreed to become a teacher.
 確か、倫理だったよね。|ちょっと覗いてみようか？=He’s teaching Ethics, right? Want to take a peek?
 俺は興味ないから、|先に行ってる。|ほどほどにな。=I’m not interested so I’m gonna go back first. Don’t overdo it.
 うん、わかった。=Yeah, I know.
@@ -10264,23 +10264,23 @@ Sleep well…
 （ん……？架院センパイ、|さっきから、同じ所、|行ったり来たりしてない？）=(Hm, isn’t that the direction he just came from? Why’s he going that way?)
 あ、あの……|架院センパイ……？=U-Um, Kain…?
 <last>……！いい所に来た。=Cross! You came at a good time.
-いい所にって……|どうかしたんですか？=What’s happened?
+いい所にって……|どうかしたんですか？=What happened?
 ああ、実は……その……|助けてくれ。道に迷った。=Ah, well… the truth is… I need your help. I’m lost.
 ええっ！？|か、架院センパイに限って|迷子だなんて……！=Huh!? You, getting lost just seems so…
 俺もそう思うんだが、|さっきからどうも同じところを|まわっているような‥=I thought the same, but it appears I’ve wandering in circles for a while now.
 （知らなかった……|架院センパイって|方向音痴なのかな……）=(Kain’s bad at directions? I had no idea…)
-<last>は、どうなんだ？|見たところ、迷ってるわけでは|なさそうだが‥=What is it, Cross? You don’t look like you’re lost to me, but…
+<last>は、どうなんだ？|見たところ、迷ってるわけでは|なさそうだが‥=What about you, Cross? You don’t look like you’re lost to me, but…
 ええ、何となくですけど……|でも、それだけじゃ不安なので|自分の通って来た道にーー=Yes, I think I just about know where we are. I was worried about it, so as I was walking here…
 浜辺で拾った白い小石を|置いてきました。=I left little white stones that I found on the beach along the route.
 なるほど、置石か。|<last>って、結構しっかり|してるな。=I see, stones to mark the path… You sure have it together, Cross.
-そりゃ……ワガママが服を着て|歩いてるような人たちばかり|毎日、相手にしてますからね。=Well, that’s because I’m always having to deal with people who just selfishly wear clothes and go wandering.#tc not really sure how this connects. They get hot and discard the clothes, maybe?
-ふっ……ワガママが|服を着て、か。|上手い事言うじゃないか。=Heh, people who selfishly wear clothes? That’s a good one.
+そりゃ……ワガママが服を着て|歩いてるような人たちばかり|毎日、相手にしてますからね。=Well, that’s because I’m always having to deal with people who like to walk on thin ice.#tc Turns out this is an idiom. I couldn’t find a good definition of it, but I got the sense that it’s about people who don’t care about what harm they cause and just do what they want. The pun part is because they’re literally walking around in circles, so I thought the ice reference to Aido (who always causes Kain trouble) might fit.
+ふっ……ワガママが|服を着て、か。|上手い事言うじゃないか。=Heh, walk on thin ice, huh? That’s a good one.
 もう、笑い事じゃないですよ。=It’s no laughing matter.
 悪い悪い。でも<last>は、|いつもデイ･クラスを|まとめたりーー=Sorry, sorry. But you’re always rounding up the Day Class…
 ナイト･クラスを|フォローしたりして……多分、|面倒見がいいんだろうな。=and assisting the Night Class. You must be good at looking after people.
-そうですか？|自分では|意識した事ないですけど……=Do you think so? I’ve never really thought about it like that…
-何だかんだ言って、結構|甘えられるのが好きなんじゃ|ないのか？=You say that, but I’m sure you probably like to be looked after, right?
-え……？と、突然、|何を言い出すんですか？=Huh…? W-What are you asking me, all of the sudden?
+そうですか？|自分では|意識した事ないですけど……=You think so? I’ve never really thought about it like that…
+何だかんだ言って、結構|甘えられるのが好きなんじゃ|ないのか？=You say that, but I’m sure you probably enjoy having people depend on you, right?
+え……？と、突然、|何を言い出すんですか？=Huh…? W-What are you asking me all of the sudden?
 いや……もし<last>がいいって|言ったら、俺も「甘え」という|ヤツを実行してみたい、とか。=Well, just… If you’re okay with it, I wouldn’t mind trying this ‘being spoilt’ thing, I guess.
 か、架院センパイ？|あの……えっと……=K-Kain? That’s… um…
 ダメか？=No good?
@@ -10289,9 +10289,9 @@ Sleep well…
 （あ……架院センパイに、|手、握られちゃった……）=(Ah… Kain’s holding my hand.)
 （大きくて、骨っぽくて……|男の人の手って感じがする）=(His hand is so big and bony… It feels like a man’s hand.)
 あ、あの……甘えるって、|これだけでいいんですか？|手をつなぐだけで……=U-Um, is this enough? Just holding hands…
-ああ……普段うるさい英と|一緒のせいか、いささか心細く|なったらしい。=Yeah… Since I’m normally with Hanabusa who is so loud, I just felt a bit lonely.
+ああ……普段うるさい英と|一緒のせいか、いささか心細く|なったらしい。=Yeah… Since I’m normally with Hanabusa who is so loud, I just felt|a bit lonely.
 だから、しばらくこうしていて|もらえると助かる。=That’s why I just want to stay like this for a bit.
-<last>の手、たまには人間の|感触も悪くないな……=Your hand… Some human-contact once in a while isn’t so bad.
+<last>の手、たまには人間の|感触も悪くないな……=Your hand… Some human-contact isn’t so bad once in a while.
 （何か……|普段の架院センパイからは|想像もつかないな……）=(I never would have imagined the usual-Kain doing something like this.)
 （いつもは、|すごく大人っぽくて、|男らしい人なのに……）=(He’s always so mature and manly…)
 ふう、暑くて明るいところに|長くいたせいか思ったより|体力が消耗してるな。=Phew. Maybe it’s because I’ve been out all day in this hot sun, but I’m feeling more drained than I thought.
@@ -10309,13 +10309,13 @@ Sleep well…
 
 # A3070
 ところで……|さっきから気になってるんだが|道……これで合ってるのか？=By the way, I’ve been wondering about this for a while, but… is this really the right road?
-はい、だって、白い小石が|ちゃんと置いてありますし……=Yes. Look, there are little white stones there, and--
+はい、だって、白い小石が|ちゃんと置いてありますし……=Yes. Look, there are the little white stones, and--
 ああっ！と、鳥が……|小石をくわえて飛んでいく！=Aah! T-That bird! It’s carrying a white stone while it’s flying around!
 あっちの鳥は、別の所に石、|置いていったぞ。=That bird’s leaving stones in different places.
 あああ……もしかして、道、|間違ってるかもしれません！=Aaaah…! We might have been following the wrong path!
 私たち、どうやって|帰ればいいんでしょう？=How are we ever going to get back!?
-本当だな……=Good point…
-ん……？あれ？|あそこに誰か居ませんか？|人影が見える……=Hm…? Oh? I think I see something… Is someone there?
+本当だな……=Good question…
+ん……？あれ？|あそこに誰か居ませんか？|人影が見える……=Hm…? Oh? I think I see something…|Is someone there?
 
 # ACD34 Ichijo isladn
 ……もう行きませんか？=…Maybe we should get going?#these two lines are from Kain’s route, not sure why they appear here
@@ -10330,9 +10330,9 @@ Sleep well…
 あ、は、はい！|お疲れ様です、一条センパイ！=Ah y-yes! You’ve been working hard, Ichijo!
 結果はこれからだけどね。=We’ve yet to see the result, though.
 すごいですね！|いつの間に網なんか……=That’s amazing! Making a net in no time…
-いいでしょ？|島に流れ着いたワイヤーくずを|使ったんだ。=It’s pretty nifty, right? I used some scraps of wire that had washed up on the island.
-どうせやるなら本格的にって、|投網を編んでみたんだ……|あ、ひいてる。=I figured if I was going to do this, I should do it properly, so I wove together a throw net.|Ah, it’s pulling.
-わあ～……すごい！大漁～！|貝も魚もいっぱいかかってる！=Wow~ It’s a great catch! There are so many fish and shell fish!
+いいでしょ？|島に流れ着いたワイヤーくずを|使ったんだ。=It looks good, right? I used some scraps of wire that had washed up on the island.
+どうせやるなら本格的にって、|投網を編んでみたんだ……|あ、ひいてる。=I figured if I was going to do this, I should do it properly, so I made a throw net. Ah, it’s pulling.
+わあ～……すごい！大漁～！|貝も魚もいっぱいかかってる！=Wow~ It’s a great catch! There are so many fish and shellfish!
 いろんな種類がいますね。|これ、何て魚だろう……|一条センパイ、わかります？=There’s all sorts of things. I wonder what kind of fish this is… Do you have any idea, Ichijo?
 （あれ？無視された。|心なしか、目がぼんやりして|いるような……）=(Oh? He ignored me. Maybe I’m just imagining things, but he looks kind of tired…)
 （さすがの一条センパイも|この日差しじゃきついの|かな？）=(I guess even for Ichijo, being out in this bright sunlight must be hard.)
@@ -10346,7 +10346,7 @@ Sleep well…
 へえ～、そうなんだ。|<name>ちゃんは好きなんだ……=Heh~ I see. So you like them, Yuki…
 あ、あの……|そんな意味深な言い方、|しないでもらえますか？=U-Um… Could we stop with this deep talk?
 どうしてって……|恥ずかしいから……！=Why? B-Because it’s so embarrassing, that’s why!
-恥ずかしい？|どうしてそう思うの。|僕も好きだよ、キス。=Embarrassing? What makes you think that? I like them too, kissers.
+恥ずかしい？|どうしてそう思うの。|僕も好きだよ、キス。=Embarrassing? What makes you think that? I like them too.
 え……？|一条センパイも……？=Huh…? You do, Ichijo?
 （一条センパイが|こっちに近づいて来る……|どうしよう……？）=(Ichijo is coming towards me… What should I do…?)
 そんなに好きなら、|僕からあげるよ。目を閉じて。=If you like them that much, I’ll give you one. Close your eyes.
@@ -10362,7 +10362,7 @@ Sleep well…
 それじゃ入んないよ、|<name>ちゃん。|もっと口、大きく開けて。=It won’t fit with that, Yuki. Open your mouth wider.
 モゴッ……！！あうぅ……！！|ケホッ……ケホッ……！！=*Cough!!* Augh…!|*Cough, cough!!*
 い、一条センパイ！|何やってるんですか！|人の口に魚なんか突っ込んで！=I-Ichijo! What are you doing!? Shoving a fish in someone's mouth!
-え？……<name>ちゃんが|好きだって言うから|食べさせてあげたのに。=Huh…? But you said you liked it so I was going to let you eat one.
+え？……<name>ちゃんが|好きだって言うから|食べさせてあげたのに。=Huh…? But you said you liked it so I was going to let you have one now.
 へ……？=What…?
 これ。キス。=Here. A kisser.
 あ、ああ……|魚のキス、ですか……=O-Oh… You meant Kissing Fish.
@@ -10378,8 +10378,8 @@ Sleep well…
 えー……勘違いしたのは|<name>ちゃんじゃない。=Eh~ But wasn’t it just a misunderstanding on your half, Yuki?
 まあ……|それはそうですけど……=Well… I guess that’s true…
 それじゃあ。もうひとつの|キスなんかどうかな？=Then how about a different kind of kiss?
-えっ……急にそんな。=Huh…? So suddenly--
-大丈夫、だれもいないし、|なんなら、あそこの洞窟に|場所を変えようか？=It’s fine, no one’s around, but if you want, we could move to that cave over there?
+えっ……急にそんな。=Huh…? Y-You--
+大丈夫、だれもいないし、|なんなら、あそこの洞窟に|場所を変えようか？=Don’t worry, no one’s around. But if you want, we could move to that cave over there?
 
 # A2138
 と、とりあえずこの魚を持って|元いた所に戻りましょう。=I-I think we’d better take this fish back with us first.
@@ -10398,10 +10398,10 @@ Sleep well…
 何してるんですか？|海面をじっと見つめて……=Why are you just staring at the water like that?
 魚をつかまえる為に|潮の流れを見てるとか？=Are you watching the flow of the tide hoping to catch some fish?
 ううん、別に。|キレイな海だなって思って。=No, not really. I was just thinking how gorgeous the sea is.
-えっ……それだけですか？|ただ、見てただけ……？|食料の調達は……？=Seriously? That’s it? You’re just looking out at the ocean. What about looking for food?
+えっ……それだけですか？|ただ、見てただけ……？|食料の調達は……？=That’s it? You’re just looking out at the ocean…? What about looking for food?
 ああ、そうそう。|さっき、小さなカニを|つかまえたんだけどーー=Oh yeah. I did catch a little crab a little bit ago, but it escaped.
 逃げられちゃった。|でも、生き物を捕まえるのって|楽しい。=I didn’t know catching little creatures like that could be so thrilling.
-もう……そんなこと言ってる|場合じゃないですよ。|私たち、いつこの島をーー=Ugh, now’s not really the time for fun. We still have no idea how we’re going to get off this island.
+もう……そんなこと言ってる|場合じゃないですよ。|私たち、いつこの島をーー=Agh, now’s not really the time for fun. We still have no idea how we’re going to get off this island.
 脱出できるかわからないん|ですよ？とにかく食べて、|体力付けないと……！=Anyway, right now we need to focus on sustenance to keep our energy up!
 うん。|風紀委員の言う通りだ……=Yes, you’re absolutely correct.
 （ほっ……良かった。|やる気になってくれたみたい。|って、あれ……？）=(Whoa! That worked. Looks like he’s finally motivated to help out.)
@@ -10415,37 +10415,38 @@ Sleep well…
 ありがと。=I’m flattered.
 （ああ！支葵センパイ、釣竿が|なくても自分の特殊能力で|釣りができちゃうんだ）=(Even without a fishing rod, Shiki was able to fish just by relying on his own unique abilities.)
 たくさん獲れてますよ～！|ナマコが６匹に、|タコが４匹……=There’s so many~! Six sea cucumbers, four octopi…
-おいしそう！|でも、ナマコはちょっと|気持ち悪いですね。=I bet the octopi will be really yummy! The sea cucumbers not so much though, huh?
-どうやって|料理しましょうか……=I wonder how we should prepare them…
+おいしそう！|でも、ナマコはちょっと|気持ち悪いですね。=I bet the octopi will be really yummy! The sea cucumbers are a bit unappetizing though…
+どうやって|料理しましょうか……=I wonder how we should prepare them.
 あっ！支葵センパイ、|何やってるんですか！=Ah! Shiki, what are you doing!?
 せっかく獲ったのに、|海に戻しちゃうなんて……！=You worked so hard to catch them, and now you’re throwing them back!?
 キャッチアンドリリース。|あまり美しくないものは、|海に帰って貰う。=Catch and release fishing. The not so attractive ones will be returned to the sea.
 ああっ、もったいない！|タコは食べられます！|最後の１匹だけでも……！=Aw, what a waste! We can still eat the octopi! Can’t we keep just one?
 ダメだよ、風紀委員。|そんなに身を乗り出すと……=Be careful. Don’t lean so far over the edge or you’ll--
 えっ……？|あっ……きゃあーーっ……！=Huh?|Y-Yaaaaaaah!
-（お、落ちる……！|海に、まっ逆さま……！）=(Falling… Face first into the water…)
+（お、落ちる……！|海に、まっ逆さま……！）=(Falling… Face first into the water--!!)
 危ない！！=I told you to be careful!
 （あれ……私……|助かった……みたい）=(I… I think I’ve… been saved.)
 （支葵センパイの|腕の中にいる……引っ張り|戻してくれたんだ……）=(There I was in Shiki’s outstretched arms.)
 君、いつも頑張りすぎ。=You always get yourself into these situations.
 ちょっと心配になる…。=You had me worried.
 ご、ごめんなさい、|支葵センパイ……=I-I’m sorry, Shiki.
-疲れたでしょ？|俺も疲れちゃった。=Are you tired? I’m quite fatigued myself.
+疲れたでしょ？|俺も疲れちゃった。=You must be tired. I’m quite fatigued myself.
 あそこの洞窟で休もう。|眠くなってきた。=Let’s go rest in that cave over there. I’m feeling sleepy.
 そういえば、まだ|支葵センパイに|抱きしめられたまま……=By the way, you’re still holding on to me…#this line feels really out of place even in Japanese. I’m thinking it’s maybe supposed to be her inner monologue and they just forget to add the parentheses
+どうしよう……@AAC0C=(What should I do?)
 
 # A0DC0
-このまま連れて行く。=I'll lead the way.
+このまま連れて行く。=I'll take you.
 
 # A0AA4
 じゃあ、ここで。=Here then.
 
 # A1554
-……そ、そろそろ|戻りませんか？=Let's just go back, okay?
+……そ、そろそろ|戻りませんか？=We should probably be getting back…
 
 # A260C
-（支葵センパイに……|お姫様だっこ……）=(Shiki still had his hand around my wrist, almost like a young girl and her doll.)
-（そんなに|強く抱きしめられたら|苦しいです……）=(It would start to hurt if he continued to squeeze so tightly.)
+（支葵センパイに……|お姫様だっこ……）=(Shiki carried me there… Bridal style…)
+（そんなに|強く抱きしめられたら|苦しいです……）=(He was holding me so tightly that it almost began to hurt.)
 あ、あの、支葵センパイ……|もう大丈夫ですから、|離して下さい……=U-Um, Shiki? I'm okay now, so you can let go.
 そうだね。わかってる。|でも……不思議。=Right. Alright. It's strange though.
 このまま離したくない感じ……|君のこと。=This feeling… I don't want to let you go.
@@ -10456,20 +10457,21 @@ Sleep well…
 ねえ……|ほっぺた触ってもいい？=Hey, would it be alright if I touched your cheek?
 （支葵センパイの|細くて長い指が、|私の頬の上を滑ってく……）=(Shiki gently slid his long, slender finger down my cheek.)
 閉じて。=Close your eyes.
+は、はい……@AB1A4=O-Okay…
 （何だか|肌に吸い付くような……吸い|付きすぎるような感触……）=(Somehow the feeling of his touch lingered on my skin as if it were stuck.)
 （そして、生臭い匂い……）=(Then there was a fishy smell…)
 ん……？生臭い匂い……？|あっ……！キャーーーー！！！=Hm? A fishy smell? Ah! Yaaaaaaa!!
 タコ！タコが～～！！|首にタコが這ってる～～！！=An octopus? An octopus tentacle!! There's an octopus tentacle slithering on my neeeeck!!
-あ、それ、さっきのタコだ。=Yeah. That's the octopus from before.
-し、支葵センパイ！|いつの間に|そんな離れた所に……？=Sh-Shiki, when did you leave!?
+あ、それ、さっきのタコだ。=Ah, that's the octopus from before.
+し、支葵センパイ！|いつの間に|そんな離れた所に……？=Sh-Shiki, when did you get so far away…!?
 ずっと、|私の目の前にいるもんだと|思ってました……！=I thought you were right in front of me the whole time!
-そんな風紀委員は可愛いけど|さすがに|タコとのコラボは勘弁。=You were so adorable, and I hoped you would forgive me if I got the octopus back for you.
-ちょっ……支葵センパイ！|そんな悠長な事言ってないで|助けて下さいよ～～！！=Shiki, just…! Just forget about the octopus and come help me!!
+そんな風紀委員は可愛いけど|さすがに|タコとのコラボは勘弁。=You do look cute like that, although I don’t really want to compete with an octopus.#tc Since this is the preface to the bite scene, I’m wondering if by ‘コラボ’ he means sharing Yuki’s neck or the like.
+ちょっ……支葵センパイ！|そんな悠長な事言ってないで|助けて下さいよ～～！！=Shiki, just…! Don’t just stand there, help me!!
 風紀委員って可笑しい。|皆にも見せたかった。=You're so strange, Prefect. I wanted to show the others.
 特に玖蘭寮長と|風紀委員の男。=Especially to Dorm President Kuran and your friend in the Disciplinary Committee.
-一番見られたくない|２人です！！=Those two would want to see it the least!!
-もう……思い出させないで|下さい！こっちは気持ち|悪かったんですから！=Ugh! This wasn't fun at all, so please don't remind me of it later!
-ごめん…………フッ。=Sorry… Hmph.
+一番見られたくない|２人です！！=Those are the last two people I’d want to see that!!
+もう……思い出させないで|下さい！こっちは気持ち|悪かったんですから！=Ugh, let’s never talk of this again! Just thinking about it is knocking me sick!
+ごめん…………フッ。=Sorry… Heh.
 今、支葵センパイ|笑いましたね？=You just laughed, didn't you?
 知らない。=I don't know.
 #Yagari island
@@ -10478,18 +10480,18 @@ Sleep well…
 いや、そもそも|どうして俺はこんな所に|来ちまったんだ？=How did I even end up here in the first place?
 くそっ……今は、|そんな事はどうでもいい！|とにかく腹が減った！！=Damn… None of that matters right now! All I know is that I’m hungry!
 鳥か？！=A bird?
-ああ、俺は何をやっている|んだ。対ヴァンパイア用の銃で|撃っても仕方ないだろうが。=Yeah, what am I doing? I could just shoot it with my anti-vampire gun.
+ああ、俺は何をやっている|んだ。対ヴァンパイア用の銃で|撃っても仕方ないだろうが。=Yeah, what am I doing? No one would blame me if I just shot it with my anti-vampire gun.
 こうなったら、|ヴァンパイアを追って|旅してきた俺の本領発揮だな。=This kind of thing is my specialty, given all the time I spend traveling around chasing after vampires.
 ギャア！ギャア！=Caw! Caw!
 チッ！逃がすか！|こうなったら手取りだ！=Tch! Trying to get away from me? I’ll have to pull out all the stops!
 みんな、|どこまで食料調達に|行ったんだろう……=How far could they all have gone in search of food?
 ん？そこにいるのは、誰……？|おーい……もしもーし？=Hm? Who’s that over there…?|Hey! …Hello?
-うおおおお～～～っ！！=Uoooogh!!
+うおおおお～～～っ！！=Graaah!!
 キャアアアァアアア！！|何！？獣！？助けて～～！！=Eeeeek!! A-A bear!?|Heeeeelp!!!
 くそ、案外すばやいな……！|３日ぶりにメシが食えると|思ったのに……！！=Damn, that bugger’s fast. Here I thought I could finally eat something for the first time in three days--!
 くっそ、腹が減った！=Ugh, I’m so hungry!
 ああ、怖かった……|さっきのあの雄叫び、|何だったんだろう？=Aah, that was so scary… What in the world was that noise I heard earlier?
-クマとか、トラとか？|いや、もっと|得体の知れない生物かも……=A bear… or a tiger? No, maybe it was something more exotic…
+クマとか、トラとか？|いや、もっと|得体の知れない生物かも……=A bear… or a tiger? No, it sounded like it could have been something more exotic…
 ひゃっ……こ、今度は何！？=Waagh! W-What now!?
 空がダメなら、海ってことだ！|よし！|今日は刺身三昧といくか！=If the sky is no good, then the ocean will have to do! I’m going to have an all-you-can eat sashimi feast!
 キャアアアァアアア！！|う、海坊主？=Gyaaaaaaaaah!!|A-A sea monster!?
@@ -10566,29 +10568,29 @@ Sleep well…
 支葵、それほめてるのかい？=Was that a compliment just now, Shiki?
 一応ね。何を獲ったの？|ふーん、キスがいっぱい。=More or less. What did you catch? Hmm, that's a lot of fish.
 支葵は、キス好きなの？=They're kissing fish. Do you like kissers, Shiki?
-好きかも。|美味しいから。キス。=I suppose so. I like the taste of kissers.
+好きかも。|美味しいから。キス。=I suppose so. I like the taste.
 
 # A6AD8
 （そんなに、キス、キスって|連呼しないで欲しいな……|さっきの事、思い出しちゃう）=(I wish they would stop talking about kissers… It makes me think about what happened earlier.)
-<name>ちゃん。|何、さっきから|ひとりで赤くなってるの？=Yuki, what are you blushing about?
+<name>ちゃん。|何、さっきから|ひとりで赤くなってるの？=What are you blushing about, Yuki?
 え……？いいえ、|別に何でもありません！=Huh…? I-It’s nothing!
 （もう、一条センパイってば！|絶対わかってて言ってるよ、|あれ……）=(Ichijo…! He asked me already knowing the answer--!)
 一条さん。ご苦労様。|沢山獲ってくれてありがとう。|運ぶのは僕に任せて。=Ichijo, you must be tired after catching all these. Let me help you carry them.
 うわ……す……すごい！=Whoa! Amazing!
 （支葵センパイの血の鞭が|縦横無尽に網を裁断し）=(Shiki's blood whip flitted back and forth slicing the net.)
-（ひゅんひゅんと|飛びかって、あっという間に|魚をまとめ上げた）=(A few deft movements of his arm and Shiki had gathered up all the fish.)
+（ひゅんひゅんと|飛びかって、あっという間に|魚をまとめ上げた）=(A few deft movements of his arm and Shiki had tied all of the fish together.)
 へえ。考えたね、支葵。|手弁当みたくまとまったよ。=Hey, nice thinking, Shiki. It's almost like a packed lunch.
 これなら楽に持てる。=This will make it easier to carry.
-（うん、この二人はやっぱり|いいコンビって感じ……！）=(I felt like those two really made a great pair.)
-（こんなサバイバルな環境|だからこそ、コンビプレーは|大事だよね！）=(And working well together is super important in survival situations like this!)
+（うん、この二人はやっぱり|いいコンビって感じ……！）=(Those two really make a great pair.)
+（こんなサバイバルな環境|だからこそ、コンビプレーは|大事だよね！）=(And working well together is vital in survival situations like this!)
 よいしょっと……重い。|ねえ、少し持って。=Actually… It's pretty heavy. Hey, could you help carry it?
 うん。半分貸して。=Sure. Give me half.
 私も手伝います！=I'll help too!
-じゃ、集合場所に戻ろうか。|ふふ、みんなの驚く顔が見たい|なあ。=Alright, let's get back to the meeting spot. Hmhm, I can't wait to see the surprised look on all their faces.
-ふぁあ……俺、疲れちゃった。=*Yawn* I'm exhausted.
+じゃ、集合場所に戻ろうか。|ふふ、みんなの驚く顔が見たい|なあ。=Alright, let's get back to the meeting spot. Hehe, I can't wait to see the surprised look on their faces.
+ふぁあ……俺、疲れちゃった。=*Yawn*|I'm exhausted.
 だめだよ、支葵。|これから料理もしないと|いけないんだから。=We can't rest yet, Shiki. We still have to prepare the food.
 メンドくさいなあ……=I'd really rather not.
-でも、これだけ沢山獲れたん|ですからーー=But we've caught so much.
+でも、これだけ沢山獲れたん|ですからーー=But we've have so fish.
 みんなで力を合わせて|おいしいものを作りましょう！=We can all work together and make something really delicious!
 
 # AA8AC
@@ -11019,14 +11021,14 @@ Sleep well…
 一条センパイ、|魚介類に話しかけてる……=Ichijo, you named them?
 タコやイカに一条さんの情が|移る前に、さっさと始めようよ|風紀委員。=Prefect, let's hurry and get started before Ichijo gets too attached to the seafood.
 ……そうですね。|あ、あの、一条センパイ！|そろそろ何か作りませんか？=…Yeah. U-Um, Ichijo! Shouldn't we make something now?
-うちの組だけ、出来上がりが|遅れると、みなさんを空腹の|まま待たせてしまうんで……=We don't want to be the only group to finish late and make everyone wait while they're still hungry.
+うちの組だけ、出来上がりが|遅れると、みなさんを空腹の|まま待たせてしまうんで……=We don't want to be the only group to finish late and make everyone wait while they're hungry.
 ああ、そうだね<name>ちゃん。|わかったよ。=Yes, you're absolutely right, Yuki.
 それにしても、この金網、|どうやって手に入れたん|ですか？本格的……=By the way, where'd you get this wire screen? It's like one you would buy at the store.
 島に流れ着いてた|ワイヤーくずで、|一条さんが作った。=Ichijo made it out of some wire that washed up on shore.
 え……？本当ですか？|すごいです！一条センパイ！=Wait, really!? That's amazing, Ichijo!
 ふふ、別にそれくらい|たいした事ないよ。=Hehehe, it's nothing really. Anybody could have done it.
-何か、キャンプ場で|バーベキューしている様な|気分になってきました。=It's weird, but it almost feels like we're barbequing at a campsite.
-本当だね。|僕もワクワクして来たよ！|ねえ支葵、楽しいね。=It does, doesn't it? It's exciting! Hey, Shiki, this is fun, isn't it?
+何か、キャンプ場で|バーベキューしている様な|気分になってきました。=It almost feels like we're barbequing at a campsite.
+本当だね。|僕もワクワクして来たよ！|ねえ支葵、楽しいね。=It does, doesn't it? It's exciting!|Hey, Shiki, this is fun, isn't it?
 とりあえず、おなか空いた。|さっさと作って食べようよ、|一条さん。=Right now I'm just hungry. Let's cook the food and eat already, Ichijo.
 はいはい、わかったよ。|それじゃ、美味しいごはんの|ために、皆で頑張ろうね。=Alright, alright. Let's get cooking and make something really tasty.
 じゃあ、まずは簡単そうな|タコとイカを使って、|何か作りましょうか。=Okay, let's start with the octopus and the squid first. They seem easier to prepare.
@@ -11036,8 +11038,8 @@ Sleep well…
 # A3DB0
 じゃあ、タコとイカの料理は|一条センパイにお願いしても|いいですか？=Well, could you cook the octopus and the squid, Ichijo?
 もちろんだよ<name>ちゃん。|僕に任せておいて。|フフ、腕が鳴るよ！=You've got it, Yuki. I was hoping to do it anyway, hehe!
-（そう言ってニコっと笑うと、|一条センパイは、空高く|タコとイカを放り投げた）=(Ichijo laughed and smiled as he said that. Then he tossed the octopus and the squid high in the air.)
-わっ……！|い、一条センパイ、何を……？=Waa! I-Ichijo, what're you…?
+（そう言ってニコっと笑うと、|一条センパイは、空高く|タコとイカを放り投げた）=(Ichijo smiled as he said that. Then he tossed the octopus and the squid high in the air.)
+わっ……！|い、一条センパイ、何を……？=Wah! I-Ichijo, what're you…?
 （うわぁ……すごい！|宙に舞ったタコとイカが|一条センパイの包丁でーー）=(Wow! That's amazing! The octopus and squid danced and fluttered in the air.)
 （あっという間に、|キレイな輪切りに|なっちゃった……！）=(Ichijo sliced them cleanly with a knife as they hung in the air!)
 （そして輪切りがそのまま、|網の上に並べられて行く！）=(Then the slices fell onto the wire screen in neat rows!)
@@ -11045,24 +11047,24 @@ Sleep well…
 うん、すごい。|アクロバットみたい。=That was impressive, like an acrobat.
 いやあ、やめてよ二人とも。|照れちゃうよ。=Oh, stop it, you two. You're making me blush.
 枢の作ってくれた、この|石包丁の切れがいいんだよ。=This stone knife Kaname made did all the work. It's extremely sharp.
-うん！|何か、早速いいにおいが|してきましたね……！=Hey, that smells good already!
+うん！|何か、早速いいにおいが|してきましたね……！=It already smells amazing!
 
 # A5000
 じゃあ、タコとイカの料理は|支葵センパイにお願いしても|いいですか？=Well, could you cook the octopus and the squid, Shiki?
-んー……わかった。|メンドクサイけど、|やってみる。=Yeah, alright. I'd rather not, but I'll do it.
+んー……わかった。|メンドクサイけど、|やってみる。=Yeah, alright. It’s a pain, but I'll do it.
 風紀委員、下がってて。|危ないから。=Prefect, duck. I don't want you to get hurt.
-え？危ないから……って、|何をするつもりなんですか？|支葵センパイ……わっ！！=Huh? What do you mean? What are you going to do? Shiki, waa!!
+え？危ないから……って、|何をするつもりなんですか？|支葵センパイ……わっ！！=Huh? What do you mean? What are you going to do, Shiki? Waah!!
 （支葵センパイ、またさっきの|力を使って、タコとイカを|めった打ちに……！）=(Shiki used his same power again, this time to strike the octopus and squid a million different ways.)
-（あぁ……タコもイカも|原型がなくなる程こま切れ、|というかぐちゃぐちゃに……）=(He beat them up into a million tiny pieces. I couldn't even tell what they used to be.)
+（あぁ……タコもイカも|原型がなくなる程こま切れ、|というかぐちゃぐちゃに……）=(He cut them up into a million tiny pieces. I couldn't even tell what they used to be.)
 あれ。|ちょっとやりすぎたかな。|どう思う？風紀委員。=Oh, I might have overdone it a little. What do you think, Prefect?
-あ、えっと……|た、タタキみたいですね！=Oh, well… I-It looks like flaked tuna, doesn't it!?
+あ、えっと……|た、タタキみたいですね！=Oh, well… I-It looks like flaked tuna, doesn't it?
 （こ、これで一応フォローに|なってるかな？）=(What does he plan on doing next?)
 （『何やってるんですか！？』|とか言ったら、支葵センパイ|傷つきそうだし……）=(I wonder if he would feel hurt if I questioned his method…)
 これで終わり。=I'm done.
 えっ！？このまま！？|焼いたりとか、何かに混ぜたり|とかしないんですか？=What!? You're leaving it like that? You're not going to cook it or mix it with anything? Nothing at all?
 タタキなら、|普通に食べられる。|そういう料理。=People eat flaked tuna this way, so it's fine.
 で、でも、正直言うと|これはタタキというより|離乳食っぽいというか……=Y-Yeah, but, to be honest, this looks more like baby food than flaked tuna.
-って、支葵センパイ、|聞いてないよ！もう向こうに|行っちゃってるし……！=Hey, Shiki, you're not even listening! Hmph, he's already gone…
+って、支葵センパイ、|聞いてないよ！もう向こうに|行っちゃってるし……！=Hey, Shiki, you're not even listening! Ah, he's already gone…
 う～ん……大丈夫かな？これ。=Hmm… Will this really be okay to eat?
 
 # A7E40
@@ -11070,15 +11072,15 @@ Sleep well…
 大丈夫なの？|<name>ちゃん一人で……=Are you sure, Yuki? Will you be alright by yourself?
 風紀委員だって|コドモじゃないんだから。|一条さん、心配しすぎ。=You worry too much, Ichijo. She's not a child.
 大丈夫です。|ここはどーんと大船に|乗ったつもりでいてください。=I'm sure. Just sit back and relax. I've got this all under control.
-えっと、まずは|足を切り落として、|それから輪切りにして……=Now, first I cut off the tentacles and then cut them into slices…
-わ……！ツルっと滑って|イカが飛んだ……！キャッ！|タコの吸盤が、腕に……！！=Waa! The squid's all slippery and it flew out of my hand! Ah! The octopus is stuck to my arm!!
+えっと、まずは|足を切り落として、|それから輪切りにして……=Now, first I’ll cut off the tentacles and then cut them into slices…
+わ……！ツルっと滑って|イカが飛んだ……！キャッ！|タコの吸盤が、腕に……！！=Wah! The squid's all slippery and it flew out of my hand! Ah! The octopus is stuck to my arm!!
 い、痛い！すごい|タコに吸い付かれてる……！=Ow! That hurt. Those octopus suckers really stick on good!
 大船に乗ったつもりでいろって|言ったばっかりなのに……=Weren't you just saying you had everything under control?
 もう、<name>ちゃん。|危なっかしくて|見ていられないよ。=Yuki, you're going to hurt yourself.
 ここは僕に任せて？ね？=Why don't you let me handle it from here?
 は、ハイ……ごめんなさい、|役に立たなくて……=O-Okay… Sorry for being so useless.
 いいんだよ。|そんなに気にしないで。=That's quite alright. Don't worry about it.
-（そう言ってニコっと笑うと、|一条センパイは、空高くタコと|イカを放り投げた）=(Ichijo laughed and smiled as he said that. Then he tossed the octopus and the squid high in the air.)
+（そう言ってニコっと笑うと、|一条センパイは、空高くタコと|イカを放り投げた）=(Ichijo smiled as he said that. Then he tossed the octopus and the squid high in the air.)
 す……すごい！|すごいです、一条センパイ！|思わず、見とれちゃいました！=Th-That was incredible, Ichijo! I was totally mesmerized!
 フフ、やめてよ<name>ちゃん。|そんなに誉められると、|照れちゃうよ。=Hehe, stop, Yuki. All the praise is making me blush.
 最初から一条さんに任せれば|よかったんじゃない。=We should have just left it to Ichijo from the start.
@@ -11088,87 +11090,87 @@ Sleep well…
 はい、ありがとうございます、|一条センパイ……！=Alright. Thanks, Ichijo!
 
 # A1464
-さて、次はこのサザエみたいな|大きな貝ですね。=Now, let's do something with this big mollusk-looking thing.
-これは簡単だよね。|ただ焼くだけで|いいんでしょう？=That one's really simple. Just roast it over the fire, and that should do it.
-そうですね……|誰に焼いてもらおうかな？=Okay… So who's going to roast it?
+さて、次はこのサザエみたいな|大きな貝ですね。=Now, let's do something with these big mollusk-looking things.
+これは簡単だよね。|ただ焼くだけで|いいんでしょう？=That one's really simple. Just roast them over the fire, and that should do it.
+そうですね……|誰に焼いてもらおうかな？=Okay… So who's going to roast them?
 
 # A38CC
-じゃあ、貝を焼くのは|一条センパイに|お任せしてもいいですか？=Well, since you know the most about it, could you roast it, Ichijo?
+じゃあ、貝を焼くのは|一条センパイに|お任せしてもいいですか？=Well, since you know the most about it, could you roast them, Ichijo?
 うん、わかったよ。|<name>ちゃんと支葵は|別の作業してていいからね。=Yeah, no problem. And that way you and Shiki can take care of the other work.
-よろしくお願いします。|一条センパイ。=Thanks, Shiki. I don't know what we'd do without you.
+よろしくお願いします。|一条センパイ。=Thanks, Ichijo. I don't know what we'd do without you.
 一条センパイ、|そろそろ焼けましたか……？|って、わっ！=Ichijo, are they almost done cooking?|Oh wow…
 な、何で貝が、全部輪切りに|なってるんですか？=Wh-Why did you slice up all the shellfish?
 え？だって、こうした方が|良く火が通ると思ってさ。|生焼けだと危ないでしょう？=Huh? I thought it was better to cook them like this. I'm pretty sure they're dangerous to eat raw.
-ああ、つぼ焼きみたいにしたら|美味しそうだったのに……=Okay. I just think they look so tasty when they're cooked in their shell is all.
-あれ？<name>ちゃんの|そのリアクション……|僕、もしかして失敗した？=Oh no. Seeing your reaction, Yuki, are you disappointed?
+ああ、つぼ焼きみたいにしたら|美味しそうだったのに……=Right. I just think they look so tasty when they're cooked in their shell is all.
+あれ？<name>ちゃんの|そのリアクション……|僕、もしかして失敗した？=Oh no. Seeing your reaction, Yuki, did I do the wrong thing?
 い、いえ……まだ|わかりませんよ！|食べてみたら意外とーー=N-No, not at all. I haven't even tasted them yet!
-おいしいかもしれませんし|……ね？=Maybe I'll be surprised and they're even more scrumptious this way… Yeah?
+おいしいかもしれませんし|……ね？=Maybe I'll be surprised and they'll be even better this way… Yeah?
 
 # A3DE0
-じゃあ、貝を焼くのは|支葵センパイに|お任せしてもいいですか？=Shiki, can you roast it for us?
-これってただ焼くだけ？=All I do is cook it?
+じゃあ、貝を焼くのは|支葵センパイに|お任せしてもいいですか？=Shiki, can you roast them for us?
+これってただ焼くだけ？=All I do is cook them?
 支葵、シンプルな料理ほど|ちゃんと気を配って作らなきゃ|いけないんだよ。=Don't underestimate it, Shiki. The simpler the food, the more carefully you have to prepare it.
-あはは……普通に焼けば|大丈夫ですよ。じゃ、後は|よろしくお願いしますね。=Ahaha, just cook it like anything else, and it should be fine. Well, we'll leave you to it.
-支葵センパイ、|貝の焼き具合はどうですか？=Shiki, how's the cooking coming on those shellfish?
-よくわからない……、|貝の中から変な汁が出てきた。=I don't have a clue. This weird juice started coming out of the shell.
-いいんですよ。つぼ焼きって|そういうものですから。=That's perfect. That's normal when you cook it in its shell.
-うわぁ……おいしそう。|先につまみ食いしたく|なっちゃいました。=Wow! That looks delicious. I'm tempted to taste one right now.
+あはは……普通に焼けば|大丈夫ですよ。じゃ、後は|よろしくお願いしますね。=Ahaha, just cook them like anything else, and it should be fine. Well, we'll leave you to it.
+支葵センパイ、|貝の焼き具合はどうですか？=Shiki, how's the shellfish coming along?
+よくわからない……、|貝の中から変な汁が出てきた。=I don't have a clue. This weird juice started coming out of the shells.
+いいんですよ。つぼ焼きって|そういうものですから。=That's perfect. That's normal when you cook them in their shells.
+うわぁ……おいしそう。|先につまみ食いしたく|なっちゃいました。=Wow! They look delicious. I'm tempted to taste one right now.
 そういう|行儀の悪いことすると、|一条さんに怒られる。=Ichijo gets upset when people are ill-mannered like that.
 あ……あはは、冗談です！|後で、みんなで|一緒に食べましょう。=I… Ahaha, it was just a joke! I'll wait until later, so we can all try them together.
 
 # A5B18
 じゃあ……お二人に任せます。|私、次の料理の下準備して|おきますね。=I'll let you two take care of this one while I get stuff ready for the next dish.
 うん、わかったよ、|<name>ちゃん。|さ、支葵、焼くよ。=You got it, Yuki. Come on, Shiki. Let's get cooking.
-どうやって焼くの？=Cook it how?
-このままじゃ、中まで|火が通りにくいだろう？何せ、|固い殻に覆われてるんだから。=Well, it probably won't cook very thoroughly like this due to its hard shell.
-だから、|なるべく小さくした方が、|良く焼けるんじゃないかな。=I bet it will cook better if we break it into smaller pieces. What do you think?
+どうやって焼くの？=Cook them how?
+このままじゃ、中まで|火が通りにくいだろう？何せ、|固い殻に覆われてるんだから。=Well, they probably won't cook very thoroughly like this due to those hard shells.
+だから、|なるべく小さくした方が、|良く焼けるんじゃないかな。=I bet they’ll cook better if we break them into smaller pieces.
 ふーん……なるほど。=Yeah, that makes sense.
 そうだ、|お二人に言い忘れてたん|ですけど……=By the way, you two, I forgot to tell you earlier.
-貝、焼き終わったら、これ|お皿代わりに使って下さい……|って、えっ！？=Once it's cooked, you should serve it in its own shell, so… Wh-What-re you…!?
-一条センパイ、|貝を空中に放り投げて……|ま、まさか！=Ichijo, why'd he toss it in the air like that? Don't tell me!
-わーっ！|な、何やってるんですか！|一条センパイ！=Waah! Ichijo, what are you two doing!?
-何って、小さく切った方が|良く火が通ると思って……|あれ？いけなかった？=I thought it would cook better if we broke it into smaller pieces. Why? Is that bad?
+貝、焼き終わったら、これ|お皿代わりに使って下さい……|って、えっ！？=Once they’re cooked, you should serve them in their shells, so…|Wh-What-re you…!?
+一条センパイ、|貝を空中に放り投げて……|ま、まさか！=Ichijo, why'd he toss them into the air like that? Don't tell me!
+わーっ！|な、何やってるんですか！|一条センパイ！=Waah! What are you two doing!?
+何って、小さく切った方が|良く火が通ると思って……|あれ？いけなかった？=I thought they would cook better if we broke them into smaller pieces. Why? Is that bad?
 ああいう貝は、|そのまま網に乗せて焼くだけで|いいんですよ……！=You can just put shellfish like that on the screen and cook it directly on the fire!
 えっ！？うそ？大変……！|支葵、ストーップ！=What!? Really? Oh no! Shiki, stop!
-ああ……|支葵センパイの鞭さばきで、|殻も中身も粉々に……！=*Sigh* Too late. Shiki's already smashed it into a zillion pieces with his whip.
+ああ……|支葵センパイの鞭さばきで、|殻も中身も粉々に……！=*Sigh* Too late. Shiki's already smashed them into a zillion pieces with his whip.
 何？なんか言った？風紀委員。|一条さんも。=What? Did somebody say something?
 あーあ、遅かったか……=Darn. We didn't get his attention soon enough.
-で、これどうするの？|焼けばいいの？粉々だけど。=I smashed it into little pieces, so what now? Should we cook it?
-一応、|焼いてみましょうか……=Yeah, we can still try to cook it.
+で、これどうするの？|焼けばいいの？粉々だけど。=I smashed them into little pieces, so what now? Should we cook them?
+一応、|焼いてみましょうか……=Yeah, we can still try to cook them.
 
 # A2064
 さあ、残るはお魚ですね。|すごい、キスがいっぱい！=Now, all that's left is the fish. Wow, there are so many kissers!
-白身でクセがないから、|どう料理してもきっと|おいしいよね。=It's white meat and there's nothing weird about it, so they should be good no matter how we prepare them.
+白身でクセがないから、|どう料理してもきっと|おいしいよね。=Its clean white meat, so they should be good no matter how we prepare them.
 そうですね。|お刺身でもいいし、|焼いてもいいし……=So many possibilities. We could eat them raw like sushi or cook them over the fire…
-早くそれ、|片付けて終わりにしようよ。|俺、もう飽きた。こういうの。=Can we speed this up and finish already? I'm losing interest in all this.
+早くそれ、|片付けて終わりにしようよ。|俺、もう飽きた。こういうの。=Can we speed this up and finish already? I'm losing interest.
 わ、わかりました。|それじゃ、最後の魚料理は……=R-Right. Just one more thing to prepare.
 
 # A34CC
 じゃあ、一条センパイに|お願いしていいですか？=Would you take care of it, Ichijo?
-うん、任せて。|というか、そこで見ていて。|すぐに終わるから。=Yeah, leave me to it. Don't go too far though, it'll be ready in no time.
+うん、任せて。|というか、そこで見ていて。|すぐに終わるから。=Yeah, leave me to it. Just watch, it'll be ready in no time.
 え？すぐに終わるって|どういう意味……=Huh? What do you mean it'll be ready in no time?
 （す、すごい……！あっという|間に、キスが一条センパイの|包丁でさばかれていく……！）=(Whoa! Ichijo prepared and fileted the kissers with his knife in an instant!)
 はい、出来上がり！|キスのお刺身だよ。|しかも、お頭付き！=And the fish is served! It's kisser sashimi, served whole even!
-わぁ～……鮮やかー！|お見事です、一条センパイ！=Waa, the presentation is amazing! You could serve this in a fancy restaurant, Ichijo!
+わぁ～……鮮やかー！|お見事です、一条センパイ！=Wah, the presentation is amazing!|You could serve this in a fancy restaurant, Ichijo!
 さすが、一条さん。=Impeccable as always, Ichijo.
 やだなあ……|二人とも、やめてよ！|恥ずかしいよ。=It's not so great. You two stop it! You're embarrassing me.
-でも…もっとほめて。=I do appreciate the praise though.
+でも…もっとほめて。=I don’t mind if you continue, though…
 とにかく、|無事に料理が完成して|良かったですね！=That's it, I guess. We prepared all the food without any problems. What a relief!
 
 # A5040
 じゃあ、支葵センパイ、|お願いします。|私と一条センパイはーー=We'll let you handle it, Shiki.
 あっちで、|出来上がったものを、|運ぶ準備しておきますから。=Ichijo and I will start bringing the rest of the food over to the others.
 頑張ってね、支葵。=Good luck, Shiki.
-あ、行っちゃった、二人とも…|とりあえず……=And they're gone… Where do I begin?
-細かく切ればいいのかな。=I guess I could cut them into little pieces first.
+あ、行っちゃった、二人とも…|とりあえず……=And they're gone…|Where do I begin?
+細かく切ればいいのかな。=I guess I could cut them into slices.
 皮だけになった。|身がなくなった……=All that's left is the skin. There's no meat.
 支葵センパイ、どうですか？|具合は……あ、あれ？|何ですかそれ？=Shiki, how's it going? How are the fi-- Wh-What is that?
 キス……の皮。|うろこのおかげで皮になった。=The skin from the kissers. This is what was left after removing all the scales.
 肝心の、食べる部分は？|白身の所……=And the edible part? Where's the meat?
 刻んでるうちになくなった。=I lost it while I was slicing the fish.
 本当だ……|キレイに皮だけ残ってる。|はぁあ……=Well… the skin looks really nice. *Sigh*
-風紀委員、|何でうなだれてるの。=Why do you feel so disheartened, Prefect?
-い、いえ、何でもありません。|とりあえず、皮に塩ふって|焼いてみましょうか。=Oh, I don't. Really. Anyway, why don't we go ahead and sprinkle some salt on the skin and bake it?
+風紀委員、|何でうなだれてるの。=Why do you look so disheartened, Prefect?
+い、いえ、何でもありません。|とりあえず、皮に塩ふって|焼いてみましょうか。=Oh, I’m not. Really. Anyway, why don't we go ahead and sprinkle some salt on the skin and bake it?
 北京ダックみたい……=Like Peking duck…
 あ……なるほど。|シャケも皮の部分が一番好き|って言う人もいるしーー=Y-Yeah. Some people do say the skin is their favorite part of a salmon.
 意外と|いけるかもしれませんね。|キスの皮焼き。=Grilled kisser skin might be better than expected.
@@ -15745,7 +15747,7 @@ Sleep well…
 じゃあ、早速……=So, without any further ado…
 
 # A0C0C choose あわてないで
-おい、今さら……|イジワルするなよ。=After all this time… Don’t be mean.
+おい、今さら……|イジワルするなよ。=Saying that now… Don’t be so mean.
 
 # A0F5C choose ダメ
 だめって……どうしてだ？=I can’t…? Why?
@@ -15760,7 +15762,7 @@ Sleep well…
 怒らせてわるかったな。悪い。=You must be mad. I’m sorry.
 
 # A1500 choose やっぱりダメです
-……さすがの俺も、|あきらめきれない……=…As expected, I just can’t give up…
+……さすがの俺も、|あきらめきれない……=…As expected, it’s hard to give up…
 
 # A0A8C
 そこを…？おまえ大胆だな…=There? You’re awfully bold…
@@ -15900,7 +15902,7 @@ Sleep well…
 ふぅ…なんだか、|ものすごく満足。=*Sigh*|I feel so satisfied now.
 
 # A0C24
-もうみんなに、バレたっていい|って思っちゃうね。=I accidentally started thinking that I wouldn’t mind even if everyone found out.
+もうみんなに、バレたっていい|って思っちゃうね。=I feel like I wouldn’t care even if everyone found out about this now.
 
 # A0D60
 枢が知ったら…殺され|ちゃうな。でも、それでも|いいかもって思えちゃうよ…。=If Kaname knew about this… He’d kill me. But I think I’d be okay with that…
@@ -15999,7 +16001,7 @@ Sleep well…
 
 # A16D4
 なんだ……|そんなにだめなんだ。=Why not? Is it really so wrong?
-眠くなったから帰って寝る。=I’m feeling tired. I’m going to go home and lie down.
+眠くなったから帰って寝る。=I’m feeling tired. I’m going to go back and lie down.
 
 # A0E34
 もう後戻りできないよ。=There’s no going back now.
@@ -16018,11 +16020,11 @@ Sleep well…
 
 # A1CCC
 そうなんだ……=Really?
-離さない。=Don't fight it.
+離さない。=I won’t let go.
 ね…はやく…=I'm growing impatient.
 
 # A092C
-そんなの…………いやだな。=I understand. That's too bad.
+そんなの…………いやだな。=That’s… difficult.
 
 # A0AF0
 だめ？=No?
@@ -16031,7 +16033,7 @@ Sleep well…
 動かないで……=Be still.
 
 # A1100
-ダメって、ウソだよね。=No? You don't mean that.
+ダメって、ウソだよね。=No? You don't mean that, right?
 いやだ……あきらめない。=I won't give up. Not until I've had it.
 
 # A0EA4
@@ -16042,7 +16044,7 @@ Sleep well…
 やっぱり自分で決めさせて|下さい……=Actually, let me decide. Please.
 
 # A1698
-怒っちゃった……ゴメン。=I'm frustrated. I'm sorry.
+怒っちゃった……ゴメン。=I made you mad. I'm sorry.
 
 # A0EAC
 また、いいよね？=We've done it once already.

@@ -1420,10 +1420,10 @@ Date over - Zero
 #Level E minigame - Yagari
 小娘！|大丈夫か！？=Girl! Are you okay?
 ヴァンパイアは…|始末する！=Vampire… This is the end!
-ちっ…数が多い…|ここは俺が引きつける！=Tch… There’s so many… I’ll draw them away.
+ちっ…数が多い…|ここは俺が引きつける！=Tch… There’s so many…|I’ll draw them away.
 俺を恨みながら逝け。|ヴァンパイア……！=Resent me and die, Vampires!
 お前達が|いかに『弱い』存在か、|教えてやるぜ。=I’ll show you just how weak you are.
-ふっ…|俺の本領発揮だな！=This is my calling!
+ふっ…|俺の本領発揮だな！=Hmph… This is my calling!
 ふう……！|危ねえ所だったな。=That was a close call.
 優しさだけでは、ただ|悲しみを背負い込むだけだ。=Being kind will only bring you grief.
 大人を困らせるもんじゃないぜ。=Don’t go causing trouble for us grownups.

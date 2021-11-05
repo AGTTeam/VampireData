@@ -957,7 +957,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 あまり無茶はよくない。|もっとリラックスして。=You shouldn’t push yourself. Try to relax…
 
 #Dress comments - Aido
-いいドレスだね。|うん、確かにドレスはいいよ。=It’s a nice dress. Yeah, it is.
+いいドレスだね。|うん、確かにドレスはいいよ。=It’s a nice dress. Yeah, the dress is, at least.
 何か濃いよね。似合わない……=It’s a bit intense. It doesn’t suit you…
 なんだか、目障りだ。=It’s a bit offensive to the eyes.
 う～ん、なんだかなぁ……|もうちょっと落ち着けば？=Well, it’s kinda… Maybe you should tone it down a bit?

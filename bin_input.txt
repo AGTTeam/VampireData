@@ -1092,7 +1092,7 @@ vk_se6_010=
 お前にそんな趣味があったなん|て、ちょっと驚いたな……=I’m kinda surprised you have this sort of hobby.
 
 # A0AD8
-しかし……|そんなに、俺に興味があるんだ。|ふ～ん。=But… You’re really that interested in me? Huh.
+しかし……|そんなに、俺に興味があるんだ。|ふ～ん。=You’re really that interested in me? Huh.
 
 # A0C04
 そんなに俺の事が知りたきゃ、|いっぱい教えようか？冗談だ。=If you want to know about me so much, how about I tell you everything? Just kidding.
@@ -1667,7 +1667,7 @@ vk_se6_010=
 確かにガキの頃から|世話にはなってるが|義息子になった覚えはない！=You might have looked after me ever since I was a kid, but I don’t remember becoming your adopted son!
 僕だってさ、たまには親として|思春期の義娘と義息子と|大いに語り合いたいの！=Sometimes I want to talk to my adolescent daughter and adoptive son as a parent!
 青春の悩みとかさ～。ないの？=Like, about the toils of youth~ Don’t you have any?
-はぁ……|この学園には人の話を|聞かない奴が多すぎる。=Sigh… There are too many people who never listen to a word they’re told.
+はぁ……|この学園には人の話を|聞かない奴が多すぎる。=*Sigh…* There are too many people who never listen to a word they’re told.
 錐生くん、|リラックスリラックス。で、|今夜のクラス入れ替えは？=Kiryu, you should lighten up. So, how was tonight’s changeover?
 いつも通り問題ナシです！=There were no problems, as usual!
 何が問題ナシだ？|ありまくりだ。=“No problems"? There are plenty.
@@ -2008,7 +2008,7 @@ I’ll be down in a second!
 （零は藍堂センパイを|見据えるとブラッディローズを|構えた！）=(Zero was staring straight at Aido, Bloody Rose locked and loaded!)
 零！！=Zero!!
 邪魔が入ったな、英。=The Cavalry has arrived, Hanabusa.
-ふぅ～|いいとこだったのに～。=Sigh~ Right at the good part~
+ふぅ～|いいとこだったのに～。=*Sigh* Right at the good part~
 血の香りに酔って、|われを忘れたか、|ヴァンパイア。=Did you lose yourself, drunk on the scent of blood, Vampire?
 見境なしに銃を向けるなんざ|随分血の気が多いな、|風紀委員。=You’re certainly hot-blooded, pointing your gun at us without hesitation, you dog.
 己の欲望を抑えきれない|獣風情が何を言う？=What kind of lowly beasts are you, that you can’t even suppress your own appetite?
@@ -2142,7 +2142,7 @@ I’ll be down in a second!
 そんなものを俺に向けて……|あぶない。=Pointing that thing at me… It’s dangerous.
 （呆れたような冷めた表情で|私を見つめる支葵センパイ）=(Shiki stared at me with a cold, shocked expression.)
 （夜の闇を思わせるような瞳が|表情を読み取ろうとする私の|視線を阻むように伏せられた）=(His dark eyes turned away from mine, making it difficult to read his expression.)
-はぁ……疲れちゃった。=Sigh… I’m worn out.
+はぁ……疲れちゃった。=*Sigh…* I’m worn out.
 た、ため息を|つかないでください！|ここで何してるんですか？=P-Please don’t sigh, you’ll make me feel tired too! What are you doing here?
 別に……何もしてない。=Nothing… in particular.
 や、夜間の無断外出は|校則違反です！=G-Going out at night without permission is a violation of the school rules!
@@ -2294,7 +2294,7 @@ Is this what they mean about being a ‘blow-by’?
 （人間との共存を望む|平和的なヴァンパイアもいる）=(There are also civil vampires, who want to coexist with humans.)
 （枢センパイのような……）=(Like Kaname…)
 （仲良くしてほしいなんて|私のワガママなのかな……）=(Is it selfish of me to want everyone to get along…?)
-ふぅ……=Sigh…
+ふぅ……=*Sigh…*
 （小さくため息をついて|寝返りを打った）=(I rolled over with a small sigh.)
 （その時、何か大切なことを|忘れてしまったような|落ち着かない気分になった）=(And then I got a sinking feeling, like I was forgetting something important.)
 何だろ……？宿題はやったし|お使いも行ったし……=What could it be…? I’ve finished my homework and done my errands…
@@ -2316,7 +2316,7 @@ Is this what they mean about being a ‘blow-by’?
 （前日の今日は|誰にどんなチョコを渡すか|その話題でもちきり！）=(Today is the day before, where finding out who is giving what to each person is the talk of the town!)
 （年頃の女の子だったら誰|だって憧れの人にチョコを渡し|たい、そう願うのは当然だ）=(It’s almost a given that all the single girls will have a special someone they want to give chocolate to.)
 （好きな人のことを思いながら|チョコを作ったり、あれこれ|選んだり……）=(Dithering over what to make whilst thinking of your special someone…)
-はぁ……=Sigh…
+はぁ……=*Sigh…*
 ため息なんかついて|昨日も見回り大変だったの？=That was a big sigh. Did something bad happen when you were making your rounds yesterday?
 うん、そんなとこかな。=Yeah, something like that.
 <name>は誰に|チョコレート渡すの？=Who are you going to give your chocolate to, Yuki?
@@ -2349,7 +2349,7 @@ Should we get going?
 （支葵センパイの場合……）=(As for Shiki…)
 えっ……|…………で、何の用？=Oh…?|…So, what do you want?
 （普通に無視されそう！|表情まで目に浮かぶ！|想像するだけで恐い……）=(He normally just ignores me! I can just picture his expression! It’s scary to imagine…)#tc
-（ふぅ……|聖ショコラトル･デーか……）=(Sigh… St. Xocolatl’s Day, huh…?)
+（ふぅ……|聖ショコラトル･デーか……）=(Aah… St. Xocolatl’s Day, huh…?)
 私には無縁かも……=It’s not really something I can get involved in…
 何？何か言った？=Hm? Did you say something?
 うぅんっ、何でもない。|こっちの話だから、はははは。=No, it was nothing. Just talking to myself, hahaha.
@@ -2399,13 +2399,13 @@ Should we get going?
 理事長！|脅かさないでください！=Headmaster! Don’t scare me like that!
 ふっふふ……<name>も|乙女ちゃんだったわけだ！|あんなに頑なだったのに～！=Hehehe… So you really are a fair maiden! Although you were acting so stubborn~!
 何で理事長が|小躍りするんです？=Why are you jumping for joy?
-はぁ……これはただ単に|小腹がすいたからその……=Sigh… It’s just that I was feeling a little hungry, so…
+はぁ……これはただ単に|小腹がすいたからその……=*Sigh…* It’s just that I was feeling a little hungry, so…
 下手な言い訳言っちゃって！|いじらしいぞ、<name>！|で、誰に渡すの？=I won’t fall for that excuse! Don’t play innocent, Yuki! So, who are you going to give it to?
 そ、それは……|まだ決めてないです。=T-That’s… I still haven’t decided.
 えぇ～？普通手作りチョコって|あげる相手を思って作るもの|じゃないの？=Eeh~? Don’t people normally think of who they’d like to give it to before making the chocolate?
 例外もあるんです！|ていうか、邪魔ですから|早く出てってくださいっ！=There are exceptions! Like, if someone happened to interrupt, so… please hurry up and leave!
 わっ！追い出された！|義娘に追い出された！|家庭内暴力？キレる十代？=Wah! I’m being evicted, by my own adopted daughter! Domestic violence? Teenage rebellion?
-はぁ……こうなるから|内緒にしてたのに……|さてと、気を取り直して！=Sigh… This is why I was trying to keep it a secret… Right then, time for a re-think!
+はぁ……こうなるから|内緒にしてたのに……|さてと、気を取り直して！=*Sigh…* This is why I was trying to keep it a secret… Right then, time for a re-think!
 （それから夜明け近くまで|チョコレート作りに奮闘した）=(After that, I stayed up to near dawn struggling with the chocolate-making.)
 （頑張ったけど……結局|手作りチョコはたった一粒しか|できなかった）=(I tried my best, and yet… in the end, I was only able to make a single chocolate…)
 バックアップ用意しておいて|助かったよ……って|自分のこと信用しなさすぎ！？=Good thing I’d already prepared a backup… Wait, does that mean I never had any faith in myself!?
@@ -2969,7 +2969,7 @@ Should we get going?
 はい！藍堂センパイのために|作ったんです。藍堂センパイの|ためにだけ……=Yes! I made it for you. Just for you…
 <last><name>……=Yuki Cross…
 （ひょいっと肩をすくめると|藍堂センパイは少し困った|ような表情で……）=(Aido shrugged his shoulders, looking slightly troubled…)
-まいったぁ～|またもらっちゃった。はぁ～|僕はとことん罪な男だね。=Goodness me~ I got another one. Sigh~ I really am a sinful man.
+まいったぁ～|またもらっちゃった。はぁ～|僕はとことん罪な男だね。=Goodness me~ I got another one. Aah~ I really am a sinful man.
 （言葉とは裏腹に得意げな|笑顔を見せる藍堂センパイ）=(Despite his words, Aido was smiling proudly.)
 （その表情が可愛らしくて|つい私まで笑顔になって|しまう）=(His expression was so sweet that it made me smile.)
 ふふふっ……=Hehehe…
@@ -3356,7 +3356,7 @@ Sleep well…
 おやすみ……=Night…
 
 # A46A8
-ふぅ……緊張したなぁ……。|まだ心臓がドキドキしてる……=Sigh… I feel tense… My heart still hasn’t stopped pounding.
+ふぅ……緊張したなぁ……。|まだ心臓がドキドキしてる……=*Sigh…* I feel tense… My heart still hasn’t stopped pounding.
 （一人きりになった途端|ほっと肩の力が抜けていく）=(As soon as I was alone, my shoulders dropped in relief.)
 ふふっ……|正式に今日という日は|無事終わりました……=Hehe… Today is officially over…
 （生まれて初めて男の人に|手作りチョコを作った|聖ショコラトル･デーがーー）=(St. Xocolatl’s Day, the reason I made homemade chocolates for the first time ever, is over…)
@@ -3402,7 +3402,7 @@ Sleep well…
 # A46E0
 （今夜は|色んなことがありすぎて……|早くベッドに入りたい気分）=(So many things happened today… I want to hurry up and get into bed.)
 （頭の中を整理したい。|それに、まだ高鳴ってる鼓動を|どうにかしなきゃ……）=(But first, I need to gather my thoughts. I still have to do something about this pounding heartbeat…)
-はぁ……|やっぱり自分の部屋って|落ち着く～……=Sigh… As I thought, being in my room really does help me calm down~…
+はぁ……|やっぱり自分の部屋って|落ち着く～……=*Sigh…* As I thought, being in my room really does help me calm down…
 あれ……？ベッドの上に|何か置いてある……=Hm…? Something has been left on top on my bed…
 これは……=This is…
 （真っ白な|バラの花束だった……）=(A bouquet of snow white roses…)
@@ -3515,7 +3515,7 @@ Sleep well…
 １時間、ず～っと先生の話を|聞いてるだけ？=Do they just listen to the teacher for the who~le hour?
 う～ん、僕なら|ちょっと飽きちゃうなぁ。=Mmm, I think I might lose interest.
 ナイト･クラスは|研究とかディベートが中心……=The Night Class’s lessons are focused on stuff like research and debates…
-はあ……僕、こういう雰囲気、|ちょっと苦手かも。=Sigh… I think, I might not like this atmosphere after all.
+はあ……僕、こういう雰囲気、|ちょっと苦手かも。=*Sigh…* I think, I might not like this atmosphere after all.
 みんなちゃんと聞いてて、|えらいなぁ。=Everyone else is listening intently, how admirable.
 もっと楽しい感じかなって|思っていたけど……じゃあ|僕は、読書でもしようかな。=I got the impression that it’d be more fun than this but… Maybe I’ll just read my book.
 一条さん、それじゃあ|授業に出てる意味、ない……=Ichijo, if you’re going to do that, then there’s no point in you being in the lesson…
@@ -3808,7 +3808,7 @@ Sleep well…
 思いっきりほっぺた|ぶっ叩かれた。=He slapped my cheek with all his might.
 そ、そうでしたね……=Y-Yeah, I remember…
 枢様って、お前のことになると|怖いんだよ。=When it concerns you, Lord Kaname gets really scary.
-それだけ枢様はお前の事を|大切にしていらっしゃる……|ああ……イラつく！=That’s how much he cares about you… Sigh… It pisses me off.
+それだけ枢様はお前の事を|大切にしていらっしゃる……|ああ……イラつく！=That’s how much he cares about you… *Sigh…* It pisses me off.
 <last><name>。どうして枢様に|馴れ馴れしく近寄ってくる？|人間の小娘のくせに……！=Yuki Cross, how come you act so over-familiar with him? You’re just a small human child…!
 そ、それは枢センパイが|私の命の恩人で……=T-That’s because Kaname saved my life…
 子供の頃から|お世話になっていた|人だからです。=I’ve been indebted to him since I was a child.
@@ -4257,7 +4257,7 @@ Sleep well…
 カッコイイ人ばっかりだし、|頭もいいし、羨ましい！=They’re not just cool and good-looking, but smart too. I’m jealous!
 お前……ナイト･クラスの|出待ちしてるミーハーな奴|みたいだな。=You’re… like one of those crazy fangirls who wait for the Night Class to come out every day.
 え？だってそれは、零が|正直に言えっていうから……！=Huh? I was just saying that because you asked…!
-はぁ……もうわかった。|もういい。=Sigh… I get it. Enough.
+はぁ……もうわかった。|もういい。=*Sigh…* I get it. Enough.
 
 # A2DE8
 本当はね、怖いと思ってる。|ちょこっとだけど……=To tell you the truth, I find them scary. Only a little, though…
@@ -4803,7 +4803,7 @@ Sleep well…
 
 # A29B0 choose このアダ名、好きですか
 このアダ名、好きですか？=Do you like being called by that nickname?
-はぁ……|気に入ってるとでも思ったか？=Sigh… Do you think it suits me?
+はぁ……|気に入ってるとでも思ったか？=*Sigh…* Do you think it suits me?
 英のとばっちりで|偶然付いちまった|呼び名だってのに。=I was only given that name because I happened to be with Hanabusa at the time.
 そ、そうですよね。|藍堂センパイのとばっちり……=I-I guess that’s true. Since the girls wanted to give Aido a nickname…
 いとこ同士とはいえ、|藍堂センパイと一緒にいると|色々と大変じゃないですか？=You may be cousins, but don’t you get into all kinds of trouble when you’re with Aido?
@@ -5455,7 +5455,7 @@ Sleep well…
 まったく、枢様の気を|わずらわせないでほしいね。=Honestly, I wish Lord Kaname would stop bothering with you.
 ……英。その辺にしておけ。|玖蘭寮長が睨んでるぞ。=…Hanabusa. Leave it at that. President Kuran is glaring at you.
 うっ……！=Ngh…!
-もう……先に行くよ？=Sigh… Can I go on ahead?
+もう……先に行くよ？=*Sigh…* Can I go on ahead?
 支葵、いい子だから|もう少し待ってて。ね？=Shiki, be a good boy and wait just a little longer. Okay?
 は～いはい。=Alright, I get it.
 とにかく、今のうちに|ナイト･クラスの皆さんは|移動してください！=It really is time for the Night Class to be going!
@@ -6407,7 +6407,7 @@ Sleep well…
 そんなに怒らないで。=Don’t be mad.
 知りません！=I’m not!
 でも、<name>ちゃんは|ふくれっつらも可愛いね。=But, your pouting face is cute too, Yuki.
-もう……|一条センパイには負けました。=Sigh… I can’t win against you.
+もう……|一条センパイには負けました。=*Sigh…* I can’t win against you.
 
 # A8588 choose 変わり者と付き合うコツ
 お互い、それは悩み所だよね。=It takes both parties, that’s the problem.
@@ -6486,7 +6486,7 @@ Sleep well…
 （支葵センパイは|難しい顔をして|黙り込んでしまった）=(Shiki just frowned and went completely silent.)
 （でも、すごく真剣に|考えてくれてるみたい……）=(But he does seem to thinking about it very seriously…)
 ……しらない。=…I don’t know.
-そんなあ……=A-All right…
+そんなあ……=A-Alright…
 ふふ。支葵はすごく|優秀な子だから努力なんて|した事がないからね。=Hehe, Shiki is so talented he’s never had to struggle for success.
 ちょっと難しい質問|だったかな。=So you can imagine how such a question would be difficult for him.
 （難しい質問……かな？）=(I guess it is a tough question.)
@@ -6869,7 +6869,7 @@ Sleep well…
 （必死に頑張っていたことが、|かえって周りに迷惑を|かけていたなんてーー）=(I was really trying my best, but I just ended up bothering the people around me…)#dupe
 （それに気付かなかった自分が|恥ずかしくて悔しくて）=(I was so embarrassed and mortified that I hadn’t even noticed it.)#dupe
 （でも、なによりも|ナイトレインボウを見ることが|出来なかった…それが一番…）=(And what’s worse, is that I never even got to see a Night Rainbow…)#dupe
-はあ……|なにしてるんだろう、私……=*Sigh*…|What am I even doing?
+はあ……|なにしてるんだろう、私……=*Sigh…*|What am I even doing?
 （立ち止まると、私は深々と|ため息をついた……）=(I stopped walking, and let out a heavy sigh.)#dupe
 （ため息をつくと、|また少しずつたまらない気持が|押し寄せてきた）=(As I sighed, the unbearable feeling began to creep back up on me.)#dupe
 （私は思わず|その場を走りだしてしまった|その途端ーー）=(Without thinking, I just started running. And then--)
@@ -11552,11 +11552,11 @@ Sleep well…
 苦手？そんなはずがあるか！|僕に苦手な物なんか、無いん|だからな。=Not good with dogs? As if! I’m good at everything!
 じゃあ、どうしてそんな|嫌そうな顔するんですか？=Then why do you look so uncomfortable?
 いや…ただ…ちょっと……|おい犬！|僕によく顔を見せろ！=No… I just…|Oi, dog! Let me get a good look at you!
-うわ！！=Woah!
+うわ！！=Wah!
 （チビが藍堂センパイに|なつこうと吠えると、|藍堂センパイは飛び上がった）=(When Chibi enthusiastically barked in reply, Aido jumped out of his skin.)
 な、なんだ、急に！！=W-What was that--?!
 藍堂センパイと|遊びたいんじゃないですか？|チビは人懐っこいから。=It looks like he wants to play with you. He’s very friendly.#gender
-あ、遊びたい……？|そんな人なつっこい犬なんて|初めて見た！=H-He wants to play? I’ve never met such a friendly dog before!
+あ、遊びたい……？|そんな人なつっこい犬なんて|初めて見た！=H-He wants to play? I’ve never met such a friendly dog before.
 僕の屋敷の庭にいた犬は、|しつけが徹底されていたしな。=The dog at my mansion was trained so strictly.
 おい！僕の服の裾を舐めるな！|汚れるだろう！=Hey! Don’t lick my clothes! You’ll get them dirty!
 （再びチビが吠えると、|藍堂センパイはその場から|逃げ出してしまった）=(Chibi let out another bark which sent Aido running.)
@@ -11577,17 +11577,17 @@ Sleep well…
 （藍堂センパイって、|やっぱり変……）=(Aido really is a weird one.)
 なんだかんだいっても、|まだまだ子犬だな。僕について|これないじゃないか。=At any rate, he’s still just a puppy. He’ll never be able to keep up with me.#gender
 ダメですよ、そんなに速く|走ったら。=You shouldn’t run so fast--!
-僕に追い付くなんて|１０００年早いよ！=He’s a thousand years too early to catch up with me!
+僕に追い付くなんて|１０００年早いよ！=You’re a thousand years too early to catch up with me!
 （藍堂センパイは知らぬ間に|湖の近くまでチビを連れて|走ってきていたーー）=(Aido had unwittingly lead them both near the lake.)
 （私は追いかけっこをする|藍堂センパイとチビを|追って来たーー）=(I ran after them.)
 藍堂センパイ！|どこまで行くんですか！？=Aido! How far are you going?!
 そんなのこいつに聞いてよ！=Ask him!#gender
-おっと。この辺りは危ないな。|湖があるから……=Woah. This is dangerous. We are near the lake…
+おっと。この辺りは危ないな。|湖があるから……=Woah. This is dangerous. We’re too near the lake…
 もう少し離れた所に|向かわないと……=We’d better move somewhere else--
 なんだ！？=What!?
 （藍堂センパイとチビの|追いかけっこが湖に|さしかかった時ーー）=(Chibi was chasing Aido with such momentum--)
 （勢いあまって走ってきた|チビが湖に落ちてしまった）=(He fell right into the lake.)
-まさか……湖に落ちたのか？=Don’t tell me he fell in!
+まさか……湖に落ちたのか？=Don’t tell me he fell in!?
 （チビはおぼれそうになって|苦しい鳴き声を上げている）=(Chibi let out a pained cry, as if he was drowning.)
 待ってて！チビ！|今行くからね！！=Hold on, Chibi! I’m coming!!
 （私は後先を考えずに|湖の中に飛び込んだーー）=(I jumped into the lake without a shred of hesitation.)
@@ -11597,8 +11597,8 @@ Sleep well…
 （藍堂センパイが水に|手を当てると、そこから湖の|水が氷に変貌していくーー）=(Aido touched the water with his hand, and from it, turned the water into ice.)
 （藍堂センパイはその氷の橋を|渡って、私とチビの元へ優雅に|歩いてきたーー）=(He gracefully stepped onto the ice bridge and walked over to where we were.)
 まったく、無鉄砲だなあ、|お前は。=Honestly. You’re too rash.
-（藍堂センパイはあきれ気味に|そう言うと、私とチビを湖から|引きあげてくれた）=(Amazed, Aido pulled us both out of the water.)
-だ、大丈夫です。|藍堂センパイ、|ありがとうございます。=H-He’s okay. Thank you, Aido!#gender
+（藍堂センパイはあきれ気味に|そう言うと、私とチビを湖から|引きあげてくれた）=(Dumbfounded, Aido pulled us both out of the water.)
+だ、大丈夫です。|藍堂センパイ、|ありがとうございます。=W-We’re both okay. Thank you, Aido!#gender
 まったく、|お前はいつも無茶をするなあ。=Goodness. You’re always so reckless.
 そうか……その犬のこと、|お前そんなに可愛がって|いるのか。=…You must really like that dog, huh?
 （藍堂センパイは水に濡れた|私とチビを見つめると、|吹き出した）=(Aido looked at the two of us, soaking wet, and burst out laughing.)
@@ -11617,10 +11617,10 @@ Sleep well…
 うわわ！冷たい！！=Agh! It’s cold!
 こ、こら！飛びつくなよ！！|僕までびちょびちょになる|だろ！=Hey! Don’t jump on me! I’ll get soaked too!
 （藍堂センパイは再び|チビから逃げだすように|走り去っていったーー）=(Aido proceeded to run away again.)
-ひどい目に遭ったね。|大丈夫？チビ。=What an awful day. Are you alright, Chibi?
+ひどい目に遭ったね。|大丈夫？チビ。=That was awful. Are you alright, Chibi?
 でもよかったね、藍堂センパイ|に遊んでもらって……=It was nice that you got to play with Aido though…
 <last><name>！|今日は楽しかったよ。=Yuki Cross! I had fun today.
-何かあったら僕に言うんだぞ！=Let me know if you need any help!
+何かあったら僕に言うんだぞ！=Let me know if you need anything!
 （藍堂センパイは|少し離れた所から|私にお礼を言ってきた）=(Aido kept his distance as he shouted his reply.)
 
 # AF128 Kain Chibi 1
@@ -11636,8 +11636,8 @@ Sleep well…
 （架院センパイはしゃがむと、|チビをすごい勢いで|抱き上げた）=(Kain bent down and picked Chibi up with great force.)
 架院センパイ！？=Kain!?
 よしよし…=There, there…
-いい子だな。|大人しくしてろよ。=You’re a good boy, aren’t you? Settle down.#gender
-（架院センパイは|優しい表情で、|嫌がるチビをなでた）=(Kain gently petted a less-than-pleased looking Chibi.)
+いい子だな。|大人しくしてろよ。=You’re a good boy, aren’t you?|Settle down.#gender
+（架院センパイは|優しい表情で、|嫌がるチビをなでた）=(Kain gently petted a less-than- pleased looking Chibi.)#added space for improved wordwrap
 きゃん、きゃん！=*Whine*
 もう、びっくりしました。|おっかない顔でチビに近づく|んだもん。=You scared the life out of me! Approaching Chibi with such a grim expression.
 え？|そんな顔してたか？俺。=Huh? Did I?
@@ -11651,15 +11651,15 @@ Sleep well…
 どこに行くの？@AF128=Chibi! Where are you going!?
 （チビはそのまま私たちから|逃げるように走って行って|しまうーー）=(He kept running as if trying to escape from us.)#gender
 もう！架院センパイが怖い顔|するから……=This is all because you were making such a scary face!
-ええ！？俺のせいかよ？|……まあ別にいいけど。|とにかく追いかけるぞ。=Huh!? It’s my fault now?|…Never mind, let’s just go after him.
+ええ！？俺のせいかよ？|……まあ別にいいけど。|とにかく追いかけるぞ。=Huh!? It’s my fault?|…Never mind, let’s just go after him.
 あ！チビがあんな所に！=Ah! Chibi is--
 いたか！？=Up there!?
-（チビを追いかけてきた私と|架院センパイは、見張り台の|上にいるチビを見つけた）=(Rushing after Chibi, we found him stood up on the lookout balcony.)
+（チビを追いかけてきた私と|架院センパイは、見張り台の|上にいるチビを見つけた）=(Rushing after Chibi, we found him stood on the lookout balcony.)
 どうしてそんな高い所に|上ったの？=Why did he go up so high?
-おい、気をつけろよ。<last>。|ここは結構高いからな。=Oi, watch it Cross. That’s pretty high up.
+おい、気をつけろよ。<last>。|ここは結構高いからな。=Oi, watch it Cross.|That’s pretty high up.
 はい。@AF128=I’ll be careful.
 （私はゆっくりとチビの所へと|見張り台を登り始めたーー）=(I slowly started to climb up to the lookout balcony.)
-（チビのいる場所は見張り台の|淵で、少しバランスを崩せば|すぐに落ちてしまいそうだ）=(The place where Chibi stood was right on the edge of the balcony and I was scared I might loose my balance.)
+（チビのいる場所は見張り台の|淵で、少しバランスを崩せば|すぐに落ちてしまいそうだ）=(The place where Chibi stood was right on the edge of the balcony and I was scared I might lose my balance.)
 大丈夫だから、チビ。|こっちにおいで。=It’s okay, Chibi. Come here.
 （チビは興奮したような|警戒の鳴き声を続けている）=(Chibi kept crying out in alarm.)
 どうしたの？チビ。=What’s wrong, Chibi?
@@ -11669,7 +11669,7 @@ Sleep well…
 実はな、あいつ、|脚にバラのトゲが|刺さってるんだ。=It looks like he actually has a rose thorn stuck in his leg.#gender
 あのバラのトゲを|どうにかしないと……=We need to do something about that thorn…
 もしこの高さから落ちたら|ひとたまりもないからな。=If he were to fall from this height, he wouldn’t stand a chance.#gender
-それで気が立ってたんだ……|架院センパイを嫌ってた訳じゃ|ないんですね。=That’s why he was so upset… So that means he doesn’t hate you, right?
+それで気が立ってたんだ……|架院センパイを嫌ってた訳じゃ|ないんですね。=So that’s why he was so upset… That means he doesn’t hate you, right?
 はは。そうだといいけどな。=Haha. I hope that’s the case.
 よしよし、チビ。|そう興奮するな。|今トゲを取ってやるから。=There there, Chibi. Don’t get so worked up. I’ll pull it out for you right now.
 わんわん！わんわん！=Woof! Woof woof woof!
@@ -11680,34 +11680,34 @@ Sleep well…
 （私は不安と恐怖で、|泣きそうな声を出していた）=(I was so scared and worried, my voice was cracking.)
 心配するな、<last>。|ちょっと強行手段だが……|大人しくしてろよ、チビ。=Don’t worry, Cross. I didn’t want it to come to this, but… Stay still, Chibi.
 なにするんですか？=What are you going to do?
-あの脚のトゲだけを炎で|燃やしてみる。=I'm going to try just burn off the thorn that’s stuck in his leg.#gender
+あの脚のトゲだけを炎で|燃やしてみる。=I'm going to try to just burn off the thorn that’s stuck in his leg.#gender
 そんな事できるんですか？=Can you do something like that?
 大丈夫だ。=It’ll be okay.
 （架院センパイの|発生させた炎が、|チビの脚の所できらめいた）=(The flames Kain made sparked between Chibi’s legs.)
 きゃん！？=Raow!?
 （チビは突然の事に驚いて|バランスを崩したーー）=(Frightened, Chibi lost his balance…)#gender
-（チビが見張り台から|落ちるーー）=(and fell off the lookout balcony.)
+（チビが見張り台から|落ちるーー）=(And fell off the lookout balcony.)
 チビッ！！=Chibi!!
-（私は後先を考えないで、|チビの元へと駆け出していた）=(I ran after him without a shred of hesitation.)#gender
+（私は後先を考えないで、|チビの元へと駆け出していた）=(I jumped after him without a shred of hesitation.)#gender
 おい！<last>！=Oi! Cross!!
 （空中に飛び出したチビを、|後から飛び込んだ私が|腕の中にキャッチしたーー）=(I caught him mid-air and tucked him in my arms…)#gender
 （でも、そのまま私の体は|見張り台から落ちていくーー）=(But that didn’t help the fact that we were both still falling from the balcony…)
 <last>！！=Cross!!
-（私の目に映ったのは、|架院センパイが私を抱き抱える|映像だったーー）=(Kain had caught me in his arms.)
+（私の目に映ったのは、|架院センパイが私を抱き抱える|映像だったーー）=(Kain caught me in his arms.)
 ……まったく。|無茶するやつだな。=…Good grief. You’re one reckless girl.
 おい、<last>？大丈夫か？=Hey, Cross? Are you okay?
 ……気を失ってるのか？|……おい、<last>？=…Did she faint?|Hey, Cross?
 ……う～ん。起きない。=…Ngh, I just can’t get her to wake up.
-こいつってよく見ると、|結構かわいいよな……=I never noticed how cute--#tc
+こいつってよく見ると、|結構かわいいよな……=Now that I get a better look, I never realized how cute--#tc
 わ！びっくりした！！=Wah! That scared me!
-う～ん？|あれ、架院センパイ？=Mmmm? H-Huh, Kain?
+う～ん？|あれ、架院センパイ？=Mmmm?|H-Huh, Kain?
 あ、チビ！！|よかった、無事だったんだね！=Ah, Chibi! You’re okay!
 架院センパイ、|ありがとうございます！=Thank you, Kain!
 でも、架院センパイ……|さっき私に何をしようと……=But, what were you just trying to do…?
-…いや、なんでもない！|チビ、無事でよかったな！！|……じゃあな！=…I-It’s nothing! I’m just glad Chibi’s okay…|Later!
+…いや、なんでもない！|チビ、無事でよかったな！！|……じゃあな！=…I-It’s nothing!|I’m just glad Chibi’s okay…|Later!
 （架院センパイは校舎へ向って|行ってしまったーー）=(Kain headed off towards the school building.)
-よかった、架院センパイが|助けてくれて……私、抱きしめ|られちゃった。=So Kain saved us. …I’m kind of embarrassed.
-チビのお陰だね。|どうなるかと思ったけど。=I’m glad you were there Chibi. I was worried about what might happen.
+よかった、架院センパイが|助けてくれて……私、抱きしめ|られちゃった。=So Kain saved us.|…I’m kind of embarrassed.
+チビのお陰だね。|どうなるかと思ったけど。=I’m glad you were there Chibi. Who knows what might have happened otherwise.
 ありがと、チビ！=Thank you, Chibi!
 
 # AD288 Ichijo Chibi 1
@@ -11741,7 +11741,7 @@ Sleep well…
 ほら、タマ。|こうやるんだよ。=Come on, Tama. Like this.
 （一条センパイはチビの肉球を|手に取ると、目をこする仕草を|覚えさせようとしている）=(Ichijo grabbed Chibi’s paws and tried to teach him.)#gender
 こうだよ？|こうやって目をこするんだ。=Like this, okay? This is how you rub your eyes.
-……はあ。=…*Sigh*.
+……はあ。=…*Sigh*
 （私はもう何も言う気にならず|一条センパイのしたいように|させる事にしたーー）=(I lost the will to try and argue back, so I just let Ichijo do whatever he wanted.)
 （チビがどうしたらいいのか|わからない、といった顔で|私を振り返る）=(Chibi looked at me, unsure of what to do.)
 ほら、わかったかい？タマ。|こうやるんだよ？=There, do you get it now, Tama?|This is how it’s done.
@@ -11775,34 +11775,34 @@ Sleep well…
 
 # AEFA4 Shiki Chibi 1
 どうしたの？この犬。=What's going on? Is that a dog?
-（チビは支葵センパイの前で|お座りをして嬉しそうに|しっぽを振っている）=(Chibi is sitting in front of Shiki and wagging his tail excitedly.)
+（チビは支葵センパイの前で|お座りをして嬉しそうに|しっぽを振っている）=(Chibi sat in front of Shiki and wagged his tail excitedly.)
 ふーん、お前、チビって|いうんだ。本当にチビだ。|あ………なんだ？お手。=Hmm, so you're Chibi. You are quite small. Ah, what is it? You want to shake?
-（しゃがみこんだ支葵センパイ|は、チビに向かって手のひらを|差し出した）=(Shiki crouched down and extended his palm out toward Chibi.)
+（しゃがみこんだ支葵センパイ|は、チビに向かって手のひらを|差し出した）=(Shiki crouched down and extended his palm out towards Chibi.)
 （チビは困ったように首を|かしげている）=(Chibi tilted his head in confusion.)
 支葵センパイ。飼い犬じゃない|かもしれないですから、|いきなり芸は無理ですよ。=Shiki, he might not be a pet, so he probably doesn't know any tricks.
 前は誰かに|飼われてたかもしれない。=I'm sure he belonged to someone before.
 じゃあ、ふせ。おかわり。=Now, come on. Give me your paw.
-（支葵センパイは困り顔の|チビに芸を仕込む事に、|なぜか熱中しているーー）=(For some reason, Shiki enthusiastically tries to get the confused Chibi to do a trick.)
+（支葵センパイは困り顔の|チビに芸を仕込む事に、|なぜか熱中しているーー）=(For some reason, Shiki enthusiastically tried to get the confused Chibi to do a trick.)
 支葵センパイ。|私にもやらせて下さい。=Shiki, let me give it a try.
 出来るの？=Can you do it?
 わかりませんけど……|チビ、お手。=We can find out.|Chibi, shake.
 （チビは私の差し出した|手の平に、白くて小さい|前脚を乗せた）=(Chibi put his small white paw on the palm of my hand.)
 あ……ちゃんとした。=Ah, he did it.
-すごい！チビ。|お利口さんだね！=Good boy, Chibi! Such an obedient dog!
-（チビの小さな頭を|いい子いい子してあげる）=(Chibi made a face like the good little boy he knows he is.)
+すごい！チビ。|お利口さんだね！=Good boy, Chibi! You’re so smart!
+（チビの小さな頭を|いい子いい子してあげる）=(Chibi made a face like the good boy he knows he is.)
 何かむかつく。|……お手。=I'm a little offended.|…Shake.
 チビ、お手。=Chibi, shake.
-えらいえらい！=Who's a good boy!? Who's a good boy!?
-支葵センパイも、チビともっと|仲良くなれば、ちゃんとやって|くれるかもしれないですよ。=Shiki, you might be able to get him to do it if you two get to know each other.
+えらいえらい！=Who's a good boy!? You are!
+支葵センパイも、チビともっと|仲良くなれば、ちゃんとやって|くれるかもしれないですよ。=Shiki, you might be able to get him to do it if you two get to know each other better.
 ……別にいい。|俺、猫派だし……=That's quite all right.|I'm more of a cat person.
 （あれ？|支葵センパイ……もしかして|ふてくされてる？）=(Huh? Shiki isn't sulking, is he?)
 じゃあ、またね。=I'll see you later.
 ちょ、ちょっと待って下さい！|支葵センパイ。=W-Wait a minute, Shiki!
 まだ何か用？=Did you still need something?
 あ、あの……。|よかったらアレ出して下さい。|支葵センパイ得意の……=Um, well… If you don't mind, could you do that thing you do…?
-あの、ムチみたいなものが|ぴゅーって出るやつ。=You know, that whip thing that's like "Whoosh!"
+あの、ムチみたいなものが|ぴゅーって出るやつ。=You know, that whip thing that's like “whoosh!"
 なんで？=What for?
-その、チビが喜ぶかも|しれないですから。=Well, 'cause Chibi might like it.
+その、チビが喜ぶかも|しれないですから。=Well, ‘cause Chibi might like it.
 私には出来ない事だから、|よかったらお願いします。=It's not something I can do, so please? Pretty please?
 ……別にいいけど。=As you wish.
 （支葵センパイはおもむろに|自分の指に歯を立てた）=(Shiki slowly sunk his teeth into his finger.)
@@ -11811,21 +11811,21 @@ Sleep well…
 あ……喜んでる？=Ah, is he enjoying it?
 喜んでます。|さすが支葵センパイ！=He is! You're doing great, Shiki!
 犬は、追っかけまわすのが|本能だって……=I guess chasing after things is instinctive for dogs.
-（支葵センパイもチビに|喜んでもらって|まんざらでもないみたい）=(Shiki seemed to enjoy playing with Chibi more than he lets on.)
+（支葵センパイもチビに|喜んでもらって|まんざらでもないみたい）=(Shiki seemed to enjoy playing with Chibi more than he let on.)
 よかったね、チビ。|支葵センパイに|遊んでもらって。=Good boy, Chibi. Thank you for playing with Shiki.
 （チビはしばらくムチを|追いかけまわすと、|その端にかみついたーー）=(Chibi continued chasing the whip for a while and eventually caught the end of it.)
 あ、かみついた。|……俺と引っ張りっこ|するつもり？=Ah, he's pulling on it.|Is he trying to play tug of war?
 頑張れ、チビ！=You can do it, Chibi!
 <unk1>ん……。=<unk1>Hm…
 う～！う～！=Rrr! Rrr!
-支葵センパイも頑張って！=Don't give up, Shiki?
+支葵センパイも頑張って！=Don't give up, Shiki!
 風紀委員。|お前どっちの味方？=Prefect, whose team are you on?
 両方応援してます。|頑張れ頑張れ！=I'm rooting for both of you.|Go! Fight! Win!
-（しばらく支葵センパイと|チビの引っ張りっこが|続いたーー）=(The two have been at it for a long time.)
+（しばらく支葵センパイと|チビの引っ張りっこが|続いたーー）=(The two of them kept playing for a while.)
 （でも、子犬のチビが|ヴァンパイアの支葵センパイに|勝てるはずもなかったーー）=(But Chibi's only a puppy, so I don't think he could win versus a vampire.)
 すごい、こいつ。|まだ離さない。=He's quite impressive. He still hasn't let go.
 頑張って、チビ。|ようし、こうなったら私も……=Come on, Chibi! Here, I'll give you a hand.
-（私はチビに加勢しようと|チビの体を抱えた。|その時ーー）=(I held onto Chibi's body to try to help him.|Then…)
+（私はチビに加勢しようと|チビの体を抱えた。|その時ーー）=(I held onto Chibi's body to try to help him. Then…)
 これならどうだ。=How about this?
 （支葵センパイがぐいっと|ムチを思い切り引っ張った）=(Shiki, with one quick jerk, pulled the whip with all his strength.)
 きゃあっ！！=Yaah!!
@@ -11840,7 +11840,7 @@ Sleep well…
 （宙に舞った私は、|チビと一緒に支葵センパイの|体にしがみついていた）=(I had been clinging onto Shiki with Chibi since we landed.)
 す、すいません！=S-Sorry!
 （私は支葵センパイに謝ると|すぐに手を離したーー）=(I apologized to Shiki and let go right away.)
-（思わず支葵センパイに|抱きつくような|格好になっちゃった……）=(Without thinking, I had started hugging Shiki.)
+（思わず支葵センパイに|抱きつくような|格好になっちゃった……）=(To think I’d been hugging him the whole time…)
 風紀委員、顔赤いよ。=Prefect, your face is all red.
 し、支葵センパイ！|もしかしたら、今なら|お手するかもしれないですよ！=Sh-Shiki! I was thinking you might be able to get him to shake now!
 え…………チビ、お手。=You think?|…Chibi, shake.
@@ -11848,7 +11848,7 @@ Sleep well…
 あ……ちゃんとやった。=Ah! He actually did it.
 えらい！チビ。|ちゃんとできたね！=Wow! Chibi, you really did it!
 支葵センパイ。|チビになつかれたんですよ！=Shiki, Chibi likes you!
-……ふうん。|俺は猫派だけど、|犬もいいかも。=Hmm…|I prefer cats, but I guess dogs are all right.
+……ふうん。|俺は猫派だけど、|犬もいいかも。=Hmm…|I prefer cats, but I guess dogs are|all right.
 そう言ってもらえると|チビも喜びます。ね？チビ。=Chibi and I are happy to hear you say that. Isn't that right, Chibi?
 ……楽しかった。風紀委員。|また連れて来て。=I enjoyed this. Prefect, feel free to bring him again.
 （支葵センパイは満足そうに|少し笑うと、私とチビを置いて|去っていったーー）=(Shiki let out a small chuckle and said goodbye to Chibi and me.)
@@ -11857,13 +11857,13 @@ Sleep well…
 夜刈先生……=Mr. Yagari…
 小娘か……=So it’s you, girl?
 な、何か用ですか？=D-Did you need something?
-（なんとなく警戒する私と|対照的に、チビは夜刈先生に|近づいていくーー）=(Whilst I felt a little wary, Chibi had no problem going right up to Mr. Yagari.)
+（なんとなく警戒する私と|対照的に、チビは夜刈先生に|近づいていくーー）=(While I felt a little wary, Chibi had no problem going straight up to Mr. Yagari.)
 こいつか？|拾った犬というのは……=So this is him? The dog you took in?#gender
 夜刈先生、|どうしてそれを……？=How did you…?
 零に聞いた。=Zero told me.
-理事長にはちゃんと|説明しますから……=I-I do plan to explain everything to the headmaster, I just haven’t had the chance yet--!
+理事長にはちゃんと|説明しますから……=I do plan to explain everything to the headmaster, I just haven’t had the chance yet--!
 ん……？ああ、|校則の心配をしているのか？=Hm…? Oh, you’re worried about school rules?
-そういえば俺は教師だったな。|忘れてたが……報告の義務が|あるんだった。=Come to think of it, I am a teacher. I forgot that I’m obligated to report it.
+そういえば俺は教師だったな。|忘れてたが……報告の義務が|あるんだった。=Come to think of it, I am a teacher.|I forgot that I’m obligated to report it.
 別に、構わないだろ。|犬くらい。俺が心配してるのは|別の事だ。=I don’t really mind you having a dog on campus. It’s not that I’m worried about.
 え？別の事って……=Huh? You’re worried about something?
 いや……=Well…
@@ -11923,10 +11923,10 @@ Sleep well…
 よかったな、<name>。=That’s great, Yuki.
 うん！|チビ、今日はお休みだから、|これから街に出かけよう？=Yeah! It’s my day off today Chibi, so how about we head into town?
 チビと一緒だったら、|１人でも出かけられるな。=If you’re with Chibi, I guess you’ll be fine on your own.
-うん！|行ってきます、理事長！|ありがとうございました！=Right!|I’m heading out now, Headmaster! Thank you!
+うん！|行ってきます、理事長！|ありがとうございました！=Right! I’m heading out now, Headmaster! Thank you!
 あ、<name>……=Ah, Yuki--!
 （理事長は何か言いたそう|だったけど、私は気にせずに|チビを連れて出ていったーー）=(I didn't hear the headmaster call out to me. I left with Chibi before he got a chance to finish his sentence.)
-う～ん……=Nnn…
+う～ん……=Mmm…
 理事長……|どうするんですか？=Headmaster… What should we do?
 ……うん。|ちょっとマズいね、これは。=…Yeah. We’re in a bit of a pickle, aren’t we?
 問題を起こす前に、|一刻も早く離すべきじゃ|ないのか。=Shouldn’t we split them up before this becomes a real problem?
@@ -11948,20 +11948,20 @@ Sleep well…
 （おじいさんは買い物袋から|犬のおやつを取り出すと|チビに与えてくれた）=(The old man took out some dog treats from his shopping bag and gave them to Chibi.)
 おじいさん。|ありがとうございます！=That’s very kind of you!
 まだ子犬のようじゃが、|元気いっぱいじゃな。=He looks like a puppy, but he’s still full of beans isn’t he?
-そうなんです。|脚をケガしてたんですけど、|それもすぐに良くなって。=Yeah. He’d injured his leg, but it seemed to get better in no time.
+そうなんです。|脚をケガしてたんですけど、|それもすぐに良くなって。=Yeah. He injured his leg, but it seemed to get better in no time.
 若い証拠じゃな。|いっぱい可愛がって|やるんじゃよ。=That’s proof that he’s still young. You have to take good care of him.
 犬は愛してくれた人間の事を|決して忘れないからのう。=Dogs never forget the people who love them.
 はい、もちろんです！=I will!
 よし、チビ！|追いかけっこしようか！？=How about we play chase, Chibi?
 ようし、行くよ～！=Here I come~!
 （私はチビと一緒に|公園の芝生を駆け回ったーー）=(I ran around the park with Chibi…)
-（その時の私は、私とチビの|様子をうかがっている視線に|気付かずにいたーー）=(oblivious to the fact that someone was there, watching us.)
+（その時の私は、私とチビの|様子をうかがっている視線に|気付かずにいたーー）=(Oblivious to the fact that someone was there, watching us.)
 今のところ|特に変わった様子はない、か。=Nothing unusual so far, huh…?
 <name>……チビ……！=Yuki… Chibi…!
 （その夜ーー）=(That night…)
 （深夜から明け方にかけて|激しい雨が降ったーー）=(There was heavy rain from midnight through to dawn.)
 （深い眠りについていた私は、|その雨音に気付かずにいた。|そう、何も気づかずにーー）=(Fast asleep, I didn’t even notice the rain. I didn’t notice anything…)
-う～ん。=Mmm.
+う～ん。=Mmm~
 （眠い目をこすって、|私は目を覚ましたーー）=(Rubbing my tired eyes, I sat up in bed.)
 え……あれ？チビ？=Huh? Chibi?
 ……チビ！どうしたの！？|ずぶ濡れじゃない。=…Chibi! What happened to you! You’re wringing wet!
@@ -11969,7 +11969,7 @@ Sleep well…
 理事長のところから抜け出して|きちゃったの？それにしても、|どうしてこんなに濡れてるの？=Did you sneak out? But why are you so wet?
 （私は窓の外を見たーー）=(I looked out the window.)
 （窓から、雨上がりの|濡れた風景が見えたーー）=(I could see the ground, wet with rain.)
-昨夜未明、公園でお年寄りが|大きな獣に襲われる、という|事件が発生しました。=Early dawn last night, an elderly man was attacked by a large beast in a park.
+昨夜未明、公園でお年寄りが|大きな獣に襲われる、という|事件が発生しました。=Early last night, an elderly man was attacked by a large beast in the park.
 <unk1>……！=<unk1>…!
 この男性はよくこの公園に|散歩に来ていたという|お年寄りで……=This man was a frequent visitor to the park, often going there to take walks…
 このじいさん……昨日、|チビを可愛がってくれた……！=That’s the man who gave Chibi some treats yesterday!
@@ -11986,7 +11986,7 @@ Sleep well…
 今、チビはどこにいる？=Where is Chibi now?
 部屋でおとなしくしてるよ。|……零、何かあったの？=He’s in my room, behaving himself this time. …Did something happen?
 いや、なんでもない……=No, it’s nothing…
-（零は私の問いに答えないで|深刻な顔で黙り込んでしまった|ーー）=(Without answering my question, Zero fell silent.)
+（零は私の問いに答えないで|深刻な顔で黙り込んでしまった|ーー）=(Zero fell silent, leaving my question unanswered.)
 珍しいね。|きみが僕を訪ねて|この寮に来るなんて……=It’s rare for you to come to this dorm to see me.
 俺だって用がなければ|こんな所にはこない。=I wouldn’t be here if I didn’t have business to do.
 ……そんなきみが、|僕になんの用だい？=And that ‘business’ has something to do with me?
@@ -11998,12 +11998,12 @@ Sleep well…
 詳しい経緯はわからない。|ただ、そんな生物がいる事は|確かな事だ。=I don’t know the details, only that it’s true.
 僕は義務に従って……|その犬を始末しなければ|ならない。=I must carry out my duty… and exterminate that dog.
 簡単に言うな！|あの犬は……あの犬は……！=Don’t make it sound so simple! That dog… that dog is…!
-僕ももちろんわかっている。|<name>が拾ったという犬だね？=I realized. It’s the dog that Yuki took in, correct?
+僕ももちろんわかっている。|<name>が拾ったという犬だね？=I know. It’s the dog that Yuki took in, correct?
 俺は昨日、|<name>とチビを尾行した。|チビに変わった様子は何も……= I followed Yuki and Chibi yesterday but I didn’t notice anything unusual about him.
-きみも普段は普通の学生として|生活しているだろう？=And you’re just a regular student yourself, are you?
+きみも普段は普通の学生として|生活しているだろう？=And you’re just a normal student yourself, are you?
 <unk1>！！=<unk1>!!
-すまない。でも……|そういう事だよ。=I’m sorry. But that’s the way it is.
-レベル：Ｅに落ちるのは|人も犬も同じ。=Be it human or dog, they will eventually fall to Level E.
+すまない。でも……|そういう事だよ。=I’m sorry, but that’s the way it is.
+レベル：Ｅに落ちるのは|人も犬も同じ。=Be it human or dog, none can escape falling to Level E.
 やがて理性を失い、|手当たり次第に人を襲う|ヴァンパイアになる。=They’ll lose all reason and become a vampire who attacks humans indiscriminately.
 レベル：Ｅ……|俺と、同じ……=Level E… Just like me…
 信じられない気持ちもわかる。|きみは何もしなくていい。|今夜、僕は街へ出る。=I know it might be hard to believe. You don’t have to do anything. I’m going into town myself tonight.
@@ -12015,10 +12015,10 @@ Sleep well…
 ……まだ、今のところは|何も起きていないようだね。=…It doesn’t seem that anything has happened yet, at least for now.
 まさか、きみと２人で街へ|出る事になるなんてね……=I never thought that I’d end up going into town with you.
 それはお互い様ですよ。=The feeling’s mutual.
-出たようだね！？=It’s here!
+出たようだね！？=It’s here.
 ！！|……これは！=!!|This is…!
 グルルルル……=Grrrr…
-ずいぶんと変わり果てて|しまったね。=That’s quite the new look.
+ずいぶんと変わり果てて|しまったね。=That’s quite the transformation.
 人が……襲われてる。=He’s… attacking people.
 もう、遅い。|すでに命が尽きている。=We’re too late. Blood has already been shed.
 これ以上犠牲を出すわけには|いかない。残念だけど|始末させてもらうよ。=We can’t let there be any more casualties. I’m sorry, but I have to finish this here.
@@ -12028,31 +12028,31 @@ Sleep well…
 いいや、まだだ……|左脚にかすり傷を|負わせただけだ。=No… I only managed to graze his leg.
 でも……もう動けないだろう。=But… this should stop his movements.
 グルルルルル……=Graaarr…
-さあ、とどめだ。|きみは規律を乱した。|かわいそうだけど……=This is the end. You’ve disrupted the peace for too long. Pitiful creature…
-せめて僕が楽にしてあげる。=I will at least make it as painless as possible for you.
-お前……チビなのか？=That’s… Chibi?
+さあ、とどめだ。|きみは規律を乱した。|かわいそうだけど……=This is the end. You’ve disrupted|the peace for too long. Pitiful creature…
+せめて僕が楽にしてあげる。=I will at least make this as painless as possible for you.
+お前……チビなのか？=…Chibi?
 本当に、チビなのか？=Are you really Chibi?
 錐生くん。|無駄な事はやめるんだ。=Kiryu, there’s no use.
 チビじゃない。|ここにいるのは凶暴な|レベル：Ｅなんだよ…=That’s not Chibi. It’s just a violent Level E vampire.
-本当に覚えてないのか？チビ！|<name>の事も忘れたのか！？=You really don’t remember, Chibi? Have you forgotten me!?
+本当に覚えてないのか？チビ！|<name>の事も忘れたのか！？=You really don’t remember, Chibi? Have you forgotten her too!?
 ガルルルル……=Grrrrr…
 よせ。|もう殺すしかないんだ。=Stop this. I have to kill him.
 やめろ！=Stop it!
 何の真似だい？=What are you doing?
 殺すな。|あいつは……チビだ。|どんな姿になっても……=Don’t kill him. It’s Chibi. No matter what he looks like, it’s still…
-ふ…、|きみがそんなに愚かだとは|思わなかったよ……=Heh… I didn’t think you were this stupid…
+ふ…、|きみがそんなに愚かだとは|思わなかったよ……=*Sigh…* I didn’t think you were this stupid…
 ガアアアアアア！！=GUAAAR!!!
 仕方ない……=There’s no choice.
-やめろ！！=Stop!
+やめろ！！=Don’t--!
 ガアアアアア！！=GRAAAAR!!
 ……ッ！。|錐生くん、きみは……=…Nh!|Kiryu, you…
 ガアアアアア……！=Graaaa…!
-……チビ。=…Chibi.
+……チビ。=Chibi…
 なんて愚かな……。|あの犬に自分の未来の姿を|重ねたか…=How foolish… Did you see your own fate in that dog’s?
 きみの取った行動は、|<name>をさらに悲しませる事に|なるんだよ。=Your actions will only make Yuki sadder.
 出来る事なら、|今夜始末しておきたかった……=I wanted to put a stop to things tonight, if possible…
-出来るだけ、|<name>に悲しみが|残らないうちに……=before Yuki grew too attached…#tc
-あんた……|<name>のために。=You… If it’s for Yuki…
+出来るだけ、|<name>に悲しみが|残らないうちに……=Before Yuki grew too attached…#tc
+あんた……|<name>のために。=You… For Yuki’s sake…
 
 # A29D0 Aido and Kain
 （その夜、|何も知らない私はベッドの中で|深い眠りについていたーー）=(That night, unaware of what was going on, I went to bed and fell into a blissfully deep sleep.)
@@ -12061,7 +12061,7 @@ Sleep well…
 犬は……|いないみたいだな。=The dog… isn’t here.
 ああ。|やっぱり枢様の言うとおり……=Yeah. It’s just like Lord Kaname said.
 <last>には残酷な事実だが……=It seems so unfair on Cross.
-それでも、仕方ない。|……仕方ない事なんだ。=But there’s nothing we can do… We can’t change the truth.
+それでも、仕方ない。|……仕方ない事なんだ。=But there’s nothing we can do…|We can’t change the truth.
 
 # AB0EC Ichijo and Shiki
 のんきだ、風紀委員……=The prefect sure is carefree.
@@ -12075,8 +12075,8 @@ Sleep well…
 う～ん、……チビ？|どうしたの？=Nngh… Chibi? What’s wrong?
 （チビが枕もとで|私に向かって鳴いている）=(Chibi stood by my pillow, whimpering.)
 どうして|そんな声で鳴いてるの？チビ。=Why do you sound so upset?
-（チビを抱き上げた私は、|チビの左脚ににじむ血に|気がついたーー）=(I picked him up and noticed blood oozing down his left leg.)#gender
-チビ！|脚をケガしてるじゃない！|どうしたの！？=Chibi! Your leg is injured! What happened!?
+（チビを抱き上げた私は、|チビの左脚ににじむ血に|気がついたーー）=(I picked him up and noticed the blood running down his left leg.)#gender
+チビ！|脚をケガしてるじゃない！|どうしたの！？=Chibi! Your leg is injured!|What happened!?
 もしかして、|また部屋を抜け出したの？|ダメじゃない。=You didn’t sneak out of my room again, did you? That’s naughty.
 （私は急いで部屋に置いてある|救急箱を取り出したーー）=(I hurriedly grabbed the first aid kit--)
 もう！|そうやってイタズラばっかり|してるから……=Honestly! It’s because you’re always up to no good like this…
@@ -12085,21 +12085,21 @@ Sleep well…
 チビ……？=Chibi…?
 チビが完全にレベル：Ｅに|なるのは、あとどの位なんだ？=How much longer before Chibi falls to Level E completely?
 正確な所はわからない。|ただ、その時が迫っているのは|確かだよ。=It’s hard to be sure. All I know is that his time is coming.#gender
-今日かもしれない。|もしかしたら今まさに……|とにかく、一刻の猶予もない。=It could be today. Maybe even this very second… Anyway, there isn’t a moment to lose.
+今日かもしれない。|もしかしたら今まさに……|とにかく、一刻の猶予もない。=It could be today. Maybe even this very second… Anyway, there isn’t a minute to lose.
 俺が、始末をつける。=I’ll take care of it.
 ……きみが？|昨夜は僕の邪魔をして|あの犬を守った君が、かい？=You? After you got in my way last night and protected him?#gender
-最後の思い出に、<name>と|夜の見回りをさせてくれ。|その後に俺が……チビを殺す。=Just let us take him on one last patrol. And then after that… I’ll kill Chibi.
-バカな事を。|僕の話を聞いてなかったのか？=Don’t be stupid. Didn’t you hear what I just said?
-あの犬のレベル：Ｅ化は|すぐにでも起こるかも|しれない事なんだ。=That dog could fall to Level E at any minute.
+最後の思い出に、<name>と|夜の見回りをさせてくれ。|その後に俺が……チビを殺す。=Just let us take him on one last patrol. And then after that…|I’ll kill Chibi.
+バカな事を。|僕の話を聞いてなかったのか？=Don’t be stupid. Didn’t you hear what|I just said?
+あの犬のレベル：Ｅ化は|すぐにでも起こるかも|しれない事なんだ。=That dog could fall to Level E at any moment.
 もしも見回りの最中に|レベル：Ｅ化が起きたら|どうするつもりなんだ。=What are you going to do if it happens while you’re out on patrol?
 <name>を傷つける事は|許さない。あの犬はすぐに|始末するべきなんだ。=I’m not going to sit by and let something happen to Yuki. That dog needs to be dealt with.
 そんなに簡単に|終わらせられる事じゃない。=That’s easier said than done.
 今夜の見回りが終わったら、|必ず俺が始末をつける。=I'll take care of him after we’ve been on patrol tonight, I swear.#gender
-<name>には後で説明する。|あいつに恨まれるのは、|俺だけでいい。=I’ll explain it to Yuki later. If she’s going to hold a grudge against anyone, it might as well be me.
+<name>には後で説明する。|あいつに恨まれるのは、|俺だけでいい。=I’ll explain it to Yuki later. If she’s going to hold a grudge against anyone, it should be me.
 錐生くん……=Kiryu…
 チビの気持ちがわかるのは|俺しかいない！|俺がやるべき事なんだ……=I’m the only one who knows what Chibi’s going through. I should be the one to do it.
-……わかったよ。|でも、本当に|きみに出来るのかな？=…All right. Though I do have to question if you’ll really be able to go through it.
-見回り中、|もしも何かあったら|僕らも力を使わせてもらうよ。=If anything goes wrong during your patrol, we’ll help.
+……わかったよ。|でも、本当に|きみに出来るのかな？=…All right. Though I do have to question if you’ll really be able to go through with it.
+見回り中、|もしも何かあったら|僕らも力を使わせてもらうよ。=If anything goes wrong during your patrol, we’ll have to get involved.
 俺がアンタに頭を下げる事など|ありえないと思っていた。|だが…………=I never thought the day would come when I’d end up turning to you for help, but…
 もしも|俺がダメだった場合……。|その時は……頼む。=If I do fail… I’ll be counting on you.
 <name>の為だ。|ここは分かったと|言っておこう、錐生くん。=It’s for Yuki’s sake. At least there’s one thing we see eye-to-eye on, Kiryu.
@@ -12124,7 +12124,7 @@ Sleep well…
 零がそんな顔してるから、|チビが心配してるよ？=If you make that kind of face, even Chibi will worry about you, you know?
 チビ……お前、|俺を慰めてくれるのか？|俺は……=Chibi… You’re trying to cheer me up? But I…
 <name>。チビ。|さあ、見回りに行くぞ。=Yuki, Chibi, let’s go.
-今日は俺も一緒に|見回りをする。=I’m coming with you on your route today.
+今日は俺も一緒に|見回りをする。=I’m coming with you today.
 え？零はいつも中なのに……|それってもしかして……=Huh? But you always take inside.|Don’t tell me…
 チビを連れて来て|っていうのは名目で……|私に告白するつもりじゃ……=You just told me to bring Chibi along… so you could confess to me…
 ない。=As if.
@@ -12137,12 +12137,12 @@ Sleep well…
 待ってよ～、チビ！=Wait for us, Chibi~!
 もう、元気いっぱい|なんだから……=I swear, he’s got too much energy!#gender
 （私はチビを追いかける|足を止めて、後ろから来る零を|振り返ったーー）=(I stopped chasing after Chibi for a minute, and turned to look at Zero.)
-ねえ、零。|なんだかいいね、|こういうの。=Hey, Zero. It’s kind of nice this, isn’t it?
+ねえ、零。|なんだかいいね、|こういうの。=Hey, Zero. This is pretty nice, isn’t it?
 ……え？=Huh?
 零がいて、チビがいて。|なんだか幸せって感じ。=You’re here, and Chibi’s here… This must be what happiness feels like.
 こういうのが、|いつまでも続くといいね。=It’d be nice if things could stay like this forever.
 <unk1>……！！=<unk1>…!!
-私もチビがいれば|見回りも怖くないし、街への|おつかいも出られるし……=If Chibi’s around, I don’t have to feel scared on patrol, and I could go on trips into town…
+私もチビがいれば|見回りも怖くないし、街への|おつかいも出られるし……=If Chibi’s around, I don’t have to feel scared on patrol, and I can go on trips into town…
 全部チビのおかげだね。|感謝しないと。=It's all thanks to Chibi. I’m grateful to him.#gender
 ……そうだな。=…Yeah.
 待ってよ、チビ！=Ah, wait, Chibi!
@@ -12162,28 +12162,28 @@ Sleep well…
 ……どんな事があっても、|絶対離すんじゃないぞ。=No matter what happens, don’t ever let go.
 え？零、今なんて言ったの？=Huh? What are you talking about, Zero?
 ……なんでもない！=…Never mind!
-（私と零はしばらく、|リリィを走らせて|チビと一緒に楽しんだーー）=(We spent some time riding around with Lily and Chibi.)
+（私と零はしばらく、|リリィを走らせて|チビと一緒に楽しんだーー）=(We spent some time riding around on Lily with Chibi.)
 どうもありがとう、リリィ。|楽しかったよ。=Thank you, Lily. It was fun.
 よかったね、チビ。|リリィに遊んでもらって。=Isn’t that nice, Chibi? You got to play with Lily again.
 （チビは名残惜しそうに|リリィの周りを|駆け回っているーー）=(Chibi ran around Lily’s legs like he didn’t want to leave.)#gender
 チビ、もう行くよ。=Come on Chibi, it’s time to go.
 （私はしゃがみこんで|チビを呼んだ）=(I crouched down and called to Chibi.)
 （零はリリィに向かって|お礼を言っているーー）=(Zero was still saying goodbye to Lily, when…)
-（リリィはおもむろに|零の頭を噛んだーー）=(she suddenly bit his head.)
+（リリィはおもむろに|零の頭を噛んだーー）=(She suddenly bit his head.)
 零……大丈夫？=Zero…! Are you okay?
 （リリィが怒ってるように、|何かを抗議するように私には|見えたーー）=(It looked to me like Lily was angry, like she was protesting something…)
 ああ……大丈夫だ。リリィ。|お前の気持ちはわかってるよ。=Yeah… I’m fine. I know what you’re trying to say, Lily.
 ……？=…?
-さあ、<name>。チビ。|もう行こう。|じゃあな、リリィ。=Come on Yuki, Chibi. Let’s go. Bye Lily.
+さあ、<name>。チビ。|もう行こう。|じゃあな、リリィ。=Come on Yuki, Chibi. Let’s go.|Bye Lily.
 （私たちはリリィに別れを告げ|馬屋を後にしたーー）=(We said goodbye to Lily and left the stables.)
 
 # ABF8C Kaname Chibi 2
 （先を行くチビが、|人影に立ち止まったーー）=(I found Chibi staring at a shadow.)
 チビと一緒にいたいのは、|どうやら俺だけじゃない|みたいだな。=Looks like I'm not the only one who wants to spend some time with Chibi.
 （後ろから追いついてきた零は|そう言うと、私から少し離れて|木に寄りかかったーー）=(Zero had caught up with me from behind, but kept his distance and leaned against a tree as he spoke.)
-（私とチビの前に現れたのは|枢センパイだったーー）=(Kaname appeared before us.)
+（私とチビの前に現れたのは|枢センパイだったーー）=(Kaname had appeared before us.)
 チビ、いくよ。=Here goes, Chibi.
-（枢センパイは|どこから取り出しのか、|ボールを持っていた）=(He produced a ball from somewhere or another.)
+（枢センパイは|どこから取り出しのか、|ボールを持っていた）=(He produced a ball out of nowhere.)
 それ。=There!
 （枢センパイが投げたボールは|はるか遠くに飛んでいった）=(Kaname threw the ball off into the distance.)
 （尻尾を振りながら、|チビはボールを嬉しそうに|追っていったーー）=(Tail wagging happily, Chibi ran off to fetch it.)
@@ -12206,11 +12206,11 @@ Sleep well…
 ふふ……チビったら楽しそう。|ありがとうございます。|枢センパイ。=Hehe… Chibi looks like he’s having fun. Thank you, Kaname.#gender
 そういえば、|さっきの話の続きは？=What was it you were trying to tell me before?
 いや、いいんだ。|気にしないでくれ。|チビが喜んでくれてよかった。=No, it’s nothing. Don't worry about it. I'm glad Chibi is in such high spirits.
-そうですか……@ABF8C=Okay…
+そうですか……@ABF8C=Right…
 あ、チビ！すごいね。|ずいぶん遠くに投げたのに……=Ah, Chibi! That’s incredible. I could have sworn I threw it pretty far.
 （私はボールを持ってきた|チビに駆け寄っていったーー）=(I ran up to Chibi who was holding the ball.)
 ……<name>に|本当の事を告げるために|来たのですか？=Did you come here to tell Yuki the truth?
-そのつもりだったけど、|甘いな、僕は……|きみの事は言えないね。=That was the plan, but… I’m too soft. You’ll have to tell her.
+そのつもりだったけど、|甘いな、僕は……|きみの事は言えないね。=That was the idea, but… I’m too soft. I can’t tell her about your plan.
 でも、錐生くん……|わかってるよね？=But, Kiryu… You know what to do, right?
 ああ……言われなくても|わかってます。=Yeah… Even if you don’t remind me.#dupe
 （私と枢センパイは、|しばらくチビと一緒に|ボールで遊んだーー）=(Kaname came over and we played with Chibi for a while.)
@@ -12221,32 +12221,32 @@ Sleep well…
 （最後に枢センパイは、|チビを見てとても悲しい表情を|見せたーー）=(As he left, Kaname looked at Chibi with a sad expression.)
 
 # ABD24 Aido Chibi 2
-（私とチビの前に現れたのは|藍堂センパイだったーー）=(Aido appeared before us.)
+（私とチビの前に現れたのは|藍堂センパイだったーー）=(Aido had appeared before us.)
 チビ、おいで！=Come here, Chibi!
 （藍堂センパイは|しゃがみこむと、チビを迎えて|両手を大きく広げた）=(He crouched down and opened his arms wide to greet Chibi.)
-（この間、藍堂センパイと|追いかけっこをしたのを|覚えているみたいだ）=(I guess Chibi remembers chasing Aido the other day!)
-（チビは嬉しそうに、|藍堂センパイに駆け寄って|いったーー）=(He ran up to Aido so happily.)#gender
+（この間、藍堂センパイと|追いかけっこをしたのを|覚えているみたいだ）=(I guess Chibi remembers chasing Aido the other day.)
+（チビは嬉しそうに、|藍堂センパイに駆け寄って|いったーー）=(He ran up to Aido so happily!)#gender
 よしよし、チビ！|お前は人なつっこくて、|可愛いんだな。=Good boy, Chibi! You’re so friendly and cute, aren’t you?
 （藍堂センパイは|チビを抱き上げると、|優しく可愛がり始めたーー）=(Aido picked him up and gently started to pet him.)
 （藍堂センパイ……！？|この間はチビをあんなに|嫌がってたのに……）=(What…?! He was so scared of Chibi the other day…)
 藍堂センパイ。|今日はどうしてそんなに|チビに積極的なんですか？=Aido… How come you’re being so friendly with him?
 （よく見ると、藍堂センパイの|チビを抱く手は心なしか|震えてるように見えるーー）=(If I look closely, I can see Aido’s hands trembling slightly as he holds Chibi.)
 なんだか無理してませんか？=Are you sure you’re not pushing yourself too hard?
-何のことだ？|こんなに可愛いじゃないか！=What are you talking about? He’s so cute!
+何のことだ？|こんなに可愛いじゃないか！=What are you talking about?|He’s so cute!
 （チビは嬉しそうに、|藍堂センパイの頬を|ペロペロと舐めている）=(Chibi licked Aido’s cheek happily.)
 いったいどうしたんですか？|藍堂センパイ。=What’s up with you today, Aido?
-うん、そうだな。|僕の知っている犬とは違うけど=Yeah, well, he’s not like the dogs I’m used to,
-こういう何の役にも立たない様|な犬でも、お前を笑顔にする事|が出来たんだもんな。=but even this good-for-nothing dog can make you smile, right?
+うん、そうだな。|僕の知っている犬とは違うけど=Yeah, well, he’s not like the dogs I’m used to…
+こういう何の役にも立たない様|な犬でも、お前を笑顔にする事|が出来たんだもんな。=But even this good-for-nothing dog can make you smile, right?
 でも、顔が少し|ひきつってますよ？=I’m not sure if I’d call that a smile… Your expression looks a little strained.
-何でもないさ。|うわっ、|ほっぺたべちょべちょ。=It’s nothing.|Uwa, my face is all slobbery.
-はあ……藍堂センパイ、|なんだか変ですよ？=*Sigh…*|You’re acting weird.
+何でもないさ。|うわっ、|ほっぺたべちょべちょ。=It’s nothing.|Uwah, my face is all slobbery.
+はあ……藍堂センパイ、|なんだか変ですよ？=You’re acting kind of weird.
 （藍堂センパイは|ひとしきりチビを可愛がると、|チビを地面に降ろしたーー）=(Aido gave Chibi another tickle before setting him down.)
 僕の気持ちは|お前にはわからないさ。=You could never understand my feelings.
-はあ……@ABD24=I see…
+はあ……@ABD24=*Sigh…*
 と、とにかく！チビとしっかり|遊んであげるんだな。|<last><name>！=A-Anyway! I’m going to play with him, okay, Yuki Cross?!
 庶民的な者同士で気も合うって|とこだろう。=Just like common people do.
 あ、はい……=R-Right…
-（チビは藍堂センパイの|手を離れると、先に向かって|走り出してしまったーー）=(Once he was released, Chibi set off running all over the place.)#dupe
+（チビは藍堂センパイの|手を離れると、先に向かって|走り出してしまったーー）=(Having been released from Aido’s arms, Chibi set off running all over the place.)#dupe
 あ、待ってよ、チビ！=Ah, wait--! Chibi!
 ……あんた、不器用だな。=…You're so awkward.
 お、お前にだけは|言われたくない！=I don’t want to hear that coming from you!
@@ -12260,13 +12260,13 @@ Sleep well…
 （最後に藍堂センパイは、|チビを見てとても悲しい|表情を見せたーー）=(As he left, Aido looked at Chibi with a sad expression.)
 
 # AC684 Kain Chibi 2
-（私とチビの前に現れたのは|架院センパイだったーー）=(Kain appeared before us.)
+（私とチビの前に現れたのは|架院センパイだったーー）=(Kain had appeared before us.)
 チビ、おいで。=C’mere, Chibi.
 （チビはこの間、|脚のトゲを取ってもらった事を|覚えてるみたいだ）=(Chibi seemed to remember that Kain had helped remove the rose thorn the other day.)#gender
 （架院センパイを見ると、|チビは尻尾を振って嬉しそうに|駆け寄っていったーー）=(He wagged his tail happily and ran up to Kain.)
 よしよし、チビ。|元気だったか？=Good boy, Chibi. How’ve you been?
 （架院センパイはチビを|抱き上げると、小さな体を|可愛がり始めたーー）=(Kain picked Chibi up and started to pet his tiny frame.)
-あれからどうだ？|チビに何か変わった事は|無かったか？=How’s he been since then? Any changes?
+あれからどうだ？|チビに何か変わった事は|無かったか？=How’s he been since then?|Any changes?
 変わった事？=Changes?
 ああ、チビの事だ。=Yeah, in Chibi.
 ええ、架院センパイに|トゲの治療をしてもらった|お陰でこんなに元気です！=Yes, he’s been doing so much better after you removed the thorn from his leg!
@@ -12274,23 +12274,24 @@ Sleep well…
 チビの様子で|何か変わった事はなかったか？=Has anything changed with the way he’s been acting?
 チビの様子……あ！|そういえば！=The way he’s acting… Ah, oh yeah!
 どうした？=What?
-トイレを|ちゃんと覚えました！=He learned to use the toilet!
+トイレを|ちゃんと覚えました！=Now he’s house-trained!
 そ、そうか……=H-Huh, I see…
 そうか、じゃなくて、|ちゃんと褒めてあげて下さい。|大変だったんですから！=Don’t say that, you should give him some praise! It’s been really hard going.
-トイレを教えるには|犬を怒ったらダメなんですよ。=If you want to teach a dog to use the toilet, you can’t start shouting at them.
+トイレを教えるには|犬を怒ったらダメなんですよ。=If you want to teach a dog to go to the toilet outside, you can’t start shouting at them.
 ちゃんとトイレ出来たら|いっぱい褒めてあげる事が|大事なんです。=You just have to give them lots of praise when they manage to do it properly.
 だから架院センパイも|チビを思いっきり褒めて|あげてくださいね。=That’s why you should give Chibi some praise too!
 ああ……偉いぞ、チビ。=Ah… That’s great, Chibi.
 よかったね、チビ。|架院センパイに|褒めてもらって。=Isn’t that nice, Chibi? Even Kain’s praising you!
+はあ……@AC684=*Sigh…*
 架院センパイ？|どうしてため息なんて|つくんですか？=Kain? Why are you sighing?
 ああ、いや……=Ah, no…
 なんだか架院センパイ、|感じ悪いです。=You seem down, somehow…
-いや、すまん……|別にそんなつもりじゃ……=Sorry… I wasn’t trying to be.
+いや、すまん……|別にそんなつもりじゃ……=Sorry… I didn’t mean to be.
 何か言いたい事でも|あるんですか？=Is there something you want to say?
 いや、その……=No, I mean…
 （架院センパイは|チビを地面に降ろしたーー）=(Kain set Chibi down on the ground.)
-いいか、<last>……=Listen, Yuki…
-（チビは架院センパイの|手を離れると、先に向かって|走り出してしまったーー）=(Once he was released, Chibi set off running all over the place.)#dupe
+いいか、<last>……=Listen, Cross…
+（チビは架院センパイの|手を離れると、先に向かって|走り出してしまったーー）=(Having been released from Kain’s arms, Chibi set off running all over the place.)#dupe
 似合わない事するなよ。=Don’t go doing something that isn’t like you.
 錐生……そうだな。|こんなの俺のガラじゃないな。=Kiryu…  You’re right. This isn’t really my scene.
 でも……ありがとう。=…Thanks, though.
@@ -12303,39 +12304,41 @@ Sleep well…
 （最後に架院センパイは、|チビを見てとても悲しい|表情を見せたーー）=(As he left, Kain looked at Chibi with a sad expression.)
 
 # AAA04 Ichijo Chibi 2
-（私とチビの前に現れたのは|一条センパイだったーー）=(Ichijo appeared before us.)
+（私とチビの前に現れたのは|一条センパイだったーー）=(Ichijo had appeared before us.)
 あ、タマだ！|おいでー、タマ。=Ah, it’s Tama!|Come here, Tama!
 （一条センパイは|チビの事をまだネコとして|扱おうとしている）=(He’s still treating Chibi like a cat.)
-（この間、一条センパイに|遊んでもらったのを|覚えているみたいだ）=(I guess Chibi remembers playing with Ichijo too!)
-（チビは嬉しそうに|一条センパイに駆け寄って|いったーー）=(He ran up to Ichijo so happily.)#gender
+（この間、一条センパイに|遊んでもらったのを|覚えているみたいだ）=(I guess Chibi remembers playing with Ichijo too.)
+（チビは嬉しそうに|一条センパイに駆け寄って|いったーー）=(He ran up to Ichijo so happily!)#gender
 よしよし。|タマは相変わらず可愛いね。=Nice kitty! You’re just as cute as ever, Tama.
 （チビは|一条センパイの腕の中で|嬉しそうにじゃれている）=(Chibi happily licked Ichijo as he held him in his arms.)
 もう、一条センパイ……|チビは犬なんですから。=Chibi’s a dog, though…
-そうか、チビだったね。|よしよし、チビ。=I see, so your name’s Chibi. Well aren’t you a good boy, Chibi?
+そうか、チビだったね。|よしよし、チビ。=I see, your name’s Chibi, isn’t it? Well aren’t you a good boy, Chibi?
 よかったね、チビ。|名前を覚えてもらって。=Look at that, Chibi! He used your name!
 <name>ちゃん。|誰も傷つけたくない。|誰にも傷つけられたくない……=Yuki… I don't want to hurt anyone. And I don't want to be hurt by anyone…
-だから、|愛することを拒絶する……|それってどう思う？=So I refuse to love…|How’s that?
+だから、|愛することを拒絶する……|それってどう思う？=So I refuse to love…|What do you think?
 え？どういう意味ですか？@AAA04=Huh? I don’t understand…
 <name>ちゃんは|どうなのかなって思って。=I was wondering what you made of it.
-傷つけられたくないから|誰も愛さないなんて、|なんだかかわいそうです。=I think it’s sad to never to love anyone because you don’t want to be hurt.
+傷つけられたくないから|誰も愛さないなんて、|なんだかかわいそうです。=I think it’s sad to never love anyone because you don’t want to be hurt.
 私は、何があっても愛する事を|選びます……=I want to love no matter what.
 そう……|<name>ちゃんは強い子だね。=I see…|You’re strong, Yuki.
 （一条センパイは|ひとしきりチビを可愛がると、|チビを地面に降ろしたーー）=(Ichijo gave Chibi another tickle before setting him down.)
-（チビは一条センパイの|手を離れると、先に向かって|走り出してしまったーー）=(Once he was released, Chibi set off running all over the place.)#dupe
-<name>ちゃんは強いね、|錐生くん。=Isn’t Yuki strong, Kiryu?
+（チビは一条センパイの|手を離れると、先に向かって|走り出してしまったーー）=(Having been released from Ichijo’s arms, Chibi set off running all over the place.)#dupe
+<name>ちゃんは強いね、|錐生くん。=Isn’t she strong, Kiryu?
 さっきの質問……|あなたはどうなんですか？ =About that… What about you?
 え？僕かい？|それは……ヒミツ。=Huh? Me? That’s… a secret.
 食えない男ですね。|一条センパイ。=You’re a sly one, Ichijo.
-ふふ……そう簡単に|ヴァンパイアの心を明かす|わけにはいかないよ。=Hehehe… I can’t reveal a vampire’s heart so easily.
-錐生くん……|わかってるよね？=You understand don’t you, Kiryu…?
+ふふ……そう簡単に|ヴァンパイアの心を明かす|わけにはいかないよ。=Hehe… I can’t reveal a vampire’s heart so easily.
+錐生くん……|わかってるよね？=You know what needs to be done, don’t you, Kiryu…?
 （私がチビを抱っこして戻ると|一条センパイはもう帰ろうと|していたーー）=(When I returned with Chibi, Ichijo looked like he was just about to leave.)
-じゃあ僕はこれで。|<name>ちゃん。|チビとの時間を大切にね。=This is where I’ll have to split. Yuki, enjoy your time with Chibi.)
+じゃあ僕はこれで。|<name>ちゃん。|チビとの時間を大切にね。=This is where I’ll have to split.|Yuki, enjoy your time with Chibi.
+はい！|またチビと遊んであげて|ください！@AAA04=I will! Please play with Chibi again, some time!
 （最後に一条センパイは、|チビを見てとても悲しい|表情を見せたーー）=(As he left, Ichijo looked at Chibi with a sad expression.)
 
 # AB260
-（私とチビの前に現れたのは|支葵センパイだったーー）=(Shiki appeared before us.)
-（この間、支葵センパイに|遊んでもらった事を覚えている|みたいだ）=(I guess Chibi remembers playing with Shiki!)
-（チビは嬉しそうに|支葵センパイに駆け寄って|いったーー）=(He ran up to Shiki so happily.)#gender
+（私とチビの前に現れたのは|支葵センパイだったーー）=(Shiki had appeared before us.)
+チビ、おいで。@AB260=Here, Chibi.
+（この間、支葵センパイに|遊んでもらった事を覚えている|みたいだ）=(I guess Chibi remembers playing with him.)
+（チビは嬉しそうに|支葵センパイに駆け寄って|いったーー）=(He ran up to Shiki so happily!)#gender
 支葵センパイ。|チビったらお手もおすわりも|出来るようになりましたよ。=Shiki, Chibi knows how to shake and even to sit now.
 ほんとに？|じゃあチビ、お手。=Really?|All right. Chibi, shake.
 （支葵センパイの|差し出した手に、|チビは見事にお手をしたーー）=(Shiki stuck out his hand, and Chibi gave him his paw straight away.)
@@ -12345,38 +12348,38 @@ Sleep well…
 ね？すごいでしょ！=See? Isn't he amazing!?
 お前、すごいね、チビ。=You're really something, Chibi.
 （褒められて嬉しいチビは、|支葵センパイの腕の中へ|飛び込んでいったーー）=(Chibi was so happy to be complimented that he jumped into Shiki's arms.)
-いっぱい褒めてあげて下さい。=He likes it when you give him lots of compliments.
+いっぱい褒めてあげて下さい。=He likes it when you give him lots of praise.
 よしよし。いい子だ。=Yes, yes. You're a good boy.
 （支葵センパイは満足そうに、|チビをなでてあげている）=(Shiki petted Chibi with satisfaction.)
 よかったね、チビ。|支葵センパイに|褒めてもらって。=You like it when Shiki says nice things, don't you, Chibi?
-これならまだ大丈夫そう|だけど……=Everything looks all right like this, but…
+これならまだ大丈夫そう|だけど……=Everything seems to still be all right, but…
 え？何か言いましたか？|支葵センパイ。=Huh? Were you saying something, Shiki?
 別になんでもない。=Nothing. It doesn't matter.
 （慌てた様子の支葵センパイは|ひとしきりチビを可愛がると|チビを地面に降ろしたーー）=(Shiki seemed flustered and dropped the dog he had grown so fond of to the ground.)
 なんでだろう……=Why must it be this way?
 なんでだろうって……|何がですか？=What? Be what way?
-（チビは支葵センパイの|手を離れると、先に向かって|走り出してしまったーー）=(Once he was released, Chibi set off running all over the place.)#dupe
+（チビは支葵センパイの|手を離れると、先に向かって|走り出してしまったーー）=(Having been released from Shiki’s arms, Chibi set off running all over the place.)#dupe
 ……珍しいな。|あんたがそんな風に|何かに興味を示すなんて。=You've surprised me. Showing interest in something like this.
 ……別に。|どうにかなるなら、|そっちの方がいい。=Not particularly. I only want what's best for her.
-その方が、ちっこい方の|風紀委員も泣かないですむ。=Even if that means causing our friend to cry.
+その方が、ちっこい方の|風紀委員も泣かないですむ。=Even if that means causing her to cry.
 でも、風紀委員……|わかってるよね？=Prefect, you do understand, don't you?
 ああ……言われなくても|わかってる。=Yeah… Even if you don’t remind me.#dupe
 （私がチビを抱っこして戻ると|支葵センパイはもう帰ろうと|していたーー）=(When I returned with Chibi, Shiki looked like he was just about to leave.)
 じゃあ俺はもう行くからね。=Well, I'll be going then.
 （最後に支葵センパイは、|チビを見てとても悲しい|表情を見せたーー）=(As he turned to leave, Shiki took one last sad look at Chibi.)
-いっけない！やり直しだ！=No! Do it over!
-失敗しちゃった！=I failed!
-わぁ！|落ち着け、落ち着け。=Ah!|Calm down. Calm down.
+いっけない！やり直しだ！=No! Do it over!#qc
+失敗しちゃった！=I failed!#qc
+わぁ！|落ち着け、落ち着け。=Ah!|Calm down. Calm down.#qc
 
 # AAD6C Yagari Chibi 2
 （後ろから追いついてきた零は|そう言うと、私から少し離れて|木に寄りかかったーー）@AAD6C=(Zero had caught up with me from behind, but kept his distance and leaned against the door as he spoke.)
-（私とチビの前に現れたのは|夜刈先生だったーー）=(Mr. Yagari appeared before us.)
-（この間、夜刈先生に|遊んでもらった事を|覚えているみたいだ）=(I guess Chibi remembers playing with Mr. Yagari.)
-（チビは嬉しそうに夜刈先生に|駆け寄っていった。でもーー）=(He ran up to Shiki so happily, but…)#gender
+（私とチビの前に現れたのは|夜刈先生だったーー）=(Mr. Yagari had appeared before us.)
+（この間、夜刈先生に|遊んでもらった事を|覚えているみたいだ）=(I guess Chibi remembers playing with him.)
+（チビは嬉しそうに夜刈先生に|駆け寄っていった。でもーー）=(He ran up to Mr. Yagari so happily, but…)#gender
 チビ！行っちゃダメ！=Chibi! Stop!
 （夜刈先生はこの間、|私とチビを離れ離れに|しようとしていたーー）=(Last time we met, Mr. Yagari tried to split me and Chibi apart.)
 （今度もきっと、|同じ事を言うに違いない）=(I’m sure he’s only going to say the same thing again.)
-（もしかしたら、チビを|連れ去るつもりかもーー）=(He’s might be planning on taking Chibi away…)
+（もしかしたら、チビを|連れ去るつもりかもーー）=(He might be planning on taking Chibi away…)
 （夜刈先生は黙って|チビを抱き上げたーー）=(Mr. Yagari went to pick Chibi up.)
 お願い、チビを返し……=Please give him back.
 （チビは嬉しそうに|夜刈先生の顔をぺろぺろと|舐め出したーー）=(Unaware of the situation, Chibi started licking Mr. Yagari’s face happily.)
@@ -12390,26 +12393,26 @@ Sleep well…
 ああ……そうだな。|だからこそ俺は……=Yeah, I know. That’s why I…
 ？=?
 （夜刈先生はそう言うと|チビを地面に降ろしたーー）=(As he spoke, Mr. Yagari set Chibi down on the ground.)
-（チビは夜刈先生の手を|離れると、先に向かって|走り出してしまったーー）=(Once he was released, Chibi set off running all over the place.)#dupe
+（チビは夜刈先生の手を|離れると、先に向かって|走り出してしまったーー）=(Having been released from Mr. Yagari’s arms, Chibi set off running all over the place.)#dupe
 師匠……|ハンター協会から|依頼されてるんじゃないのか？=Master… Did you get an order from the Hunter Society?
 チビを殺すようにって……=To kill Chibi…
 ああ、そうだ。出来るものなら|とっくにやってるさ。|あの小娘の目の前でな。=Yeah, that’s right. If I could have, I would have done it long ago. Right in front of the girl.
 ただ、この件はお前が|ケリをつけるんだろ？=But you’re going to settle this one, right?
 ……ああ。=…Yeah.
-俺の出る幕がないと|いいんだが……|零……わかってるだろうな？=I hope that I’m not going to have to step in, but… Zero. You know what to do, right?
-はい……言われなくても|わかってます。=Yeah… Even without you telling me, I know.
+俺の出る幕がないと|いいんだが……|零……わかってるだろうな？=I hope that I’m not going to have to step in, but… Zero. You know what|to do, right?
+はい……言われなくても|わかってます。=Yes… Even without you telling me, I get it.
 （私がチビを抱っこして戻ると|夜刈先生はもう帰ろうとして|いたーー）=(When I returned with Chibi, Mr. Yagari looked like he was just about to leave.)
-じゃあな、小娘。|この時間を大切にするんだぞ。=See you, girl. Make the most of this time.
+じゃあな、小娘。|この時間を大切にするんだぞ。=See you, girl.|Make the most of this time.
 ……わ、わかってます。=…I-I know!
 （最後に夜刈先生は、|チビを見てとても悲しい|表情を見せたーー）=(As he left, Mr. Yagari looked at Chibi with a sad expression.)
 
 # AE4A4
 （私と零は、チビを連れて|しばらく見回りを続けたーー）=(Zero and I continued on our patrol.)
 （先を行くチビを追いかけたり|一緒に並んで歩いたりーー）=(Sometimes chasing after Chibi, sometimes walking side by side…)
-（そうこうしているうちに、|私たちは、裏庭のバラ園に|さしかかったーー）=(we’d ended walking our way to the rose garden.)
+（そうこうしているうちに、|私たちは、裏庭のバラ園に|さしかかったーー）=(We ended up walking to the rose garden.)
 （月明かりが裏庭花壇に咲く|バラを照らしているーー）=(The moon’s light shone brightly, illuminating the flower beds.)
 チビ、覚えてる？|初めて会ったとき、|チビはここにいたんだよ？=Hey Chibi, do you remember? This is where we first met.
-ね？零。|チビはここで脚をケガして|鳴いてたんだよね。=I was with you, Zero, and we found Chibi here, crying out in pain.
+ね？零。|チビはここで脚をケガして|鳴いてたんだよね。=Right, Zero? We found Chibi here, crying out in pain.
 ああ……そうだったな。=Yeah… I remember.
 そういえば、|あのケガも治るのが|すごく早かったよね。=Come to think of it, that injury he had sure healed quick.
 犬って私たち人間より|ケガの治るのが早いのかな？=I guess dogs must heal faster than humans.
@@ -12421,6 +12424,7 @@ Sleep well…
 どうした？<name>。=What’s wrong, Yuki?
 バラのトゲで指を切った|みたい……=I think I cut my finger on a thorn.
 そんな所に手を突っ込む|からだ。=That’s what you get for sticking your hands into a rose bush.
+くぅ～ん。@AE4A4=*Whine*
 心配してくれてるの？チビ。|大丈夫だよ、このくらいなら|すぐに治るから……=Are you worried about me, Chibi? Don't worry, this’ll heal up in no time.
 （チビが心配そうに私の指を|見つめている）=(Chibi staring at my finger anxiously.)
 （その時、チビの鼻が私の|指の血に反応したーー）=(Then, when the scent of my blood reached his nose…)
@@ -12432,11 +12436,12 @@ Sleep well…
 （チビは唸り声とともに|その体を小さく揺らしている）=(Chibi snarled as his small body trembled.)
 （その体の震えが大きくなるに|つれて、チビの体が次第に|大きく変貌していくーー）=(With each shudder, he grew bigger and bigger in size.)
 （あんなに小さかった|チビの体は、凶暴な獣の姿へと|変わっていったーー）=(From being so tiny, Chibi had transformed into a ferocious beast.)
-ガルルルルルァァァ！！！=Rarrrrrhhh!
+ガルルルルルァァァ！！！=Grrrrrrrhhh!
 （歓喜の雄たけびなのか、|苦しみの叫びなのかーー）=(I couldn’t tell if he was howling in excitement, or pain.)
-（獣は月明かりを浴びて、|夜の空にその咆哮を響き|渡らせたーー）=(Bathed in the moon light, Chibi’s roar echoed across the night sky.)
+（獣は月明かりを浴びて、|夜の空にその咆哮を響き|渡らせたーー）=(Bathed in the moonlight, Chibi’s roar echoed across the night sky.)
 （私は大きな牙を持つ獣の前で|その場を一歩も動けずにいた）=(Face to face with this fanged beast, I found myself frozen to the spot.)
 <name>！！下がれ！=Yuki! Get back!!
+きゃっ！@AE4A4=Eek!
 （私は零に突き飛ばされ、|後ろに吹き飛んだーー）=(Zero pushed me away.)
 （私と巨大な獣の間に、|零が立ちふさがるーー）=(He stood between me and the monster.)
 ……零！どういう事！？|チビはどこに行ったの！？=…Zero! What’s going on!? Where did Chibi go?
@@ -12445,10 +12450,11 @@ Sleep well…
 チビ？これが……？=This monster… is Chibi?
 とにかく、お前は下がってろ！|こいつは、俺が！=Anyway, just stay back! I’ll handle this!
 （零がチビと呼ぶ|獣が振り払った爪を、|零がかろうじてかわすーー）=(Zero narrowly managed to avoid the claws that came swinging at him from the beast named ‘Chibi’.)
+零！やめて！！@AE4A4=Zero! Don’t--!
 く……！=Ugh…!
 <name>……！|いいから下がってろ！！=Yuki! Just listen to me and stay back!
 やめて！|こんなの何かの間違いだよ！=Stop it! This is has to be some kind of mistake!
-<name>！こいつはチビなんだ！|俺がケリをつけなきゃいけない|んだ！！=Yuki! I’m telling you, this is Chibi! I’m going to put an end to this, here and now.
+<name>！こいつはチビなんだ！|俺がケリをつけなきゃいけない|んだ！！=I’m telling you, this is Chibi! I’m going to put an end to this, here and now.
 （零が再び銃を構えるーー）=(Zero raised his gun again.)
 （ブラッディローズの照準は|獣の心臓に正確に向けられて|いるーー）=(He aimed the Bloody Rose straight at the beast’s heart.)
 やめて！零！|チビを殺さないで！！=Stop it, Zero! Don’t kill Chibi!
@@ -12462,7 +12468,7 @@ Sleep well…
 ……<name>。逃げろ……=Yuki… Run…
 （零から向き直った獣が、|私を見るーー）=(The beast looked away from Zero and turned to me.)
 （私は震える手で、|ブラッディローズを拾って|構えたーー）=(With trembling hands, I picked up the Bloody Rose and held it high…)
-（獣の頭に狙いを定め、|引き金に指をかけるーー）=(I aimed the barrel at the beast’s head, and put my fingers on the trigger.)
+（獣の頭に狙いを定め、|引き金に指をかけるーー）=(I aimed the barrel at the beast’s head and put my fingers on the trigger.)
 ……ダメだ！<name>。|逃げろ……！=Don’t do it…! Get out of here, Yuki!
 本当に……チビなの？=Are you… really Chibi?
 なんで……どうして……？=Why… How…?
@@ -12476,9 +12482,9 @@ Sleep well…
 （衝撃波に襲われたチビは、|断末魔をあげてその場に|崩れ落ちるーー）=(With a yelp, he slumped to the ground.)
 <name>。大丈夫？=Are you all right, Yuki?
 枢センパイ……。=Kaname…
-（私を救ってくれたのは|枢センパイだった）=(Kaname saved me.)
+（私を救ってくれたのは|枢センパイだった）=(Kaname had saved me.)
 ガアアァァ……=Grrrr…
-（チビの体が無に帰っていく。|私はその様子を呆然と見ていた|ーー）=(As I watched in awe, Chibi’s body crumbled away.)
+（チビの体が無に帰っていく。|私はその様子を呆然と見ていた|ーー）=(As I watched in horror, Chibi’s body crumbled away.)
 （枢センパイは、|ようやく立ち上がった零を|振り返ったーー）=(Kaname shot a glance at Zero, who’d finally managed to stand up.)#dupe
 見損なったよ、錐生くん。あれ|ほど念を押したのに。<name>を|危険な目に遭わせるなんてね。=I'm disappointed, Kiryu. I warned you repeatedly, and yet you still put Yuki’s life in danger.
 ……くっ。=…Ngh.
@@ -12495,84 +12501,84 @@ Sleep well…
 そんな……チビ……=This can’t be…
 （涙があふれてくるーー）=(The tears that had been building up came overflowing at once.)
 （私の知らないところで、|チビにそんな事が起こっていた|なんてーー）=(I can’t believe that I was so clueless, when all this was happening to Chibi.)#dupe
-（でも、なぜチビが殺され|なければいけなかったのか|ーー）=(But why did they have to kill him!?)#dupe
+（でも、なぜチビが殺され|なければいけなかったのか|ーー）=(But why did he have to die!?)#dupe
 （悲しくて、訳がわからなくて|私は混乱したーー）=(I was so sad and confused, I…)
 
 # A7BFC Blame Kaname
 （私は自分の感情の行き場を|失い、どうしようもない思いを|枢センパイにぶつけたーー）=(Overcome with emotion, I directed all of my anger at Kaname.)#next 3 lines dupe
-どうして！|どうしてなんですか！？|枢センパイ！！=Why! Why did this happen!? Answer me, Kaname!!
+どうして！|どうしてなんですか！？|枢センパイ！！=Why!? Why did this happen!?|Answer me, Kaname!!
 （私は枢センパイの胸に|顔をうずめ、激しく|枢センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
 ひどい！|チビを殺すなんて！！=That was too cruel! Killing Chibi like that!
 枢センパイなら、|他に方法がいくらでも|あったはずでしょう！？=You’re a pureblood! Surely there was something else you could have done!?
 <name>、すまない。悪いのは|無力なこの僕だ。きみを|とても悲しませてしまった。=I’m sorry, Yuki. It’s my fault for being so powerless. I let you get so hurt.#dupe
 <name>、玖蘭先輩を|責めることじゃない。本来は|俺がやるべき事だったんだ。=Don’t blame Kuran, Yuki. I should have been the one to take of it.
-そんな……みんなひどい！！|みんなでチビを殺そうと|考えていたなんて！！=What… You’re all so terrible! You were planning to kill Chibi from the start!
+そんな……みんなひどい！！|みんなでチビを殺そうと|考えていたなんて！！=What… You’re all so terrible! You were planning to kill Chibi from the start, weren’t you?!
 （枢センパイは激しく泣く私を|強く抱きしめたーー）=(Kaname held me tight as I sobbed uncontrollably.)
 本当にごめんね、<name>。|チビはもう手遅れだったんだ。=I am truly sorry, Yuki. It was already too late for Chibi.
 残酷かもしれないが、|こうするしかなかったんだよ。=It might have been cruel, but this was the only way.#dupe
 枢センパイの力でも……=But you…
 僕は無力だ……どうする事も|出来なかったよ。=I’m powerless. There was nothing I could have done.#dupe
 じゃあ……私なんか、|本当に何も出来なかった。=I guess… that means there really was nothing I could have done either.
-たとえ|チビの事を知っても、何も……|ごめんね、チビ……=Even if I had known the truth, I… I’m sorry, Chibi…
+たとえ|チビの事を知っても、何も……|ごめんね、チビ……=Even if I had known the truth, I…|I’m sorry, Chibi…
 <name>。|今はただ、きみの悲しみを|受け止める事しかできない。=The only thing I can do now is accept your sorrow.
 思いっきり泣いていいよ。|<name>の悲しみを、|僕にぶつけておくれ。=Cry as hard as you want. Take all of your pain out on me.#dupe
 我慢しなくていいよ。僕が全て|受け止めてあげる。きみの|悲しみが、消えるまで……=You don’t have to hold back. I’ll take it all. Until your sorrow dissipates…
 枢センパイ……|枢センパイ！！=Kaname… Kaname!!
 （チビとの思い出と、|枢センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Kaname’s words, wrenched at my heart.)#next 4 lines dupe
-（私は悲しみをこらえきれず、|枢センパイの胸に顔をうずめた|ーー）=(Unable to hold back my grief, I just buried my face deep into his chest…)#
+（私は悲しみをこらえきれず、|枢センパイの胸に顔をうずめた|ーー）=(Unable to hold back my grief, I tucked my head into his chest…)
 （私は枢センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Kaname’s arms.)
 （枢センパイは、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Kaname just stood there, holding me tight.)
 
 # A7F08 Blame Zero
 （私は自分の感情の行き場を|失い、どうしようもない思いを|零にぶつけたーー）=(Overcome with emotion, I directed all of my anger at Zero.)#next 3 lines dupe
-どうして！|どうしてなの！？零！！=Why! Why did this happen!? Answer me, Zero!!
+どうして！|どうしてなの！？零！！=Why!? Why did this happen!?|Answer me, Zero!!
 （私は零の胸に顔をうずめ、|激しく零を責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
 すまない、<name>。|チビの事はどうしても|言い出せなかった。=I’m sorry, Yuki. I couldn’t bring myself to tell you the truth about Chibi.
 始末すると覚悟をしていた|はずなのに……=I thought I was prepared to do what needed doing, but…
-それでも俺は、チビを手に|かける事が出来なかった……=When the time came, I just couldn’t do it.
+それでも俺は、チビを手に|かける事が出来なかった……=When the time came, I just couldn’t|do it.
 ひどい！|どうして私に何も言って|くれなかったの！？=You’re awful! Why didn’t you say anything to me?
 <name>。俺は……=Yuki, I…
 知ってても私にはどうしようも|なかったかもしれない！|でも……でも！！=Maybe I still wouldn’t have been able to do anything even if I knew, but… I…!
 （零は激しく泣く私を|強く抱きしめたーー）=(Zero held me tight as I sobbed uncontrollably.)
-すまない、<name>。|俺は、お前に傷ついて|ほしくなかったんだ。=I’m sorry, Yuki. I didn’t want you to get hurt.
+すまない、<name>。|俺は、お前に傷ついて|ほしくなかったんだ。=I’m sorry. I didn’t want you to get hurt.
 お前には……|チビとの楽しかった思い出だけ|残してやりたかった……=I… only wanted you to have good memories of Chibi.
 零……。=Zero…
-それが、|逆にお前をこんな形で|悲しませてしまった。=But instead, I let you get so hurt.
-俺は、お前を|ただ守りたかっただけだ。=I only wanted to protect you.
+それが、|逆にお前をこんな形で|悲しませてしまった。=But instead, I let you get hurt.
+俺は、お前を|ただ守りたかっただけだ。=I just wanted to protect you.
 チビとの時間は楽しかった。|本当に楽しかった……|だからこそ辛かった……。=The time we spent with Chibi was fun. It really was so much fun… That’s why it was so hard…
 零……ごめん。=Zero… I’m sorry.
-<name>……。いいんだ。|悪いのは俺だ。=Yuki… It’s okay. It was all my fault.
-ごめんなさい。|零の気持ちも知らないで、|私、酷いこと言って……=I’m sorry. I didn’t even think about your feelings and I said all that horrible stuff to you.
-零、ごめんなさい！！=I’m really sorry, Zero!
-（チビとの思い出と、|零の気持ちが頭の中を|駆け巡るーー）=(My memories of Chibi, and Zero’s feelings ran through my head.)#next 4 lines dupe
-（私は悲しみをこらえきれず、|零の胸に顔をうずめたーー）=(Unable to hold back my grief, I just buried my face deep into his chest…)
+<name>……。いいんだ。|悪いのは俺だ。=It’s okay. It was all my fault.
+ごめんなさい。|零の気持ちも知らないで、|私、酷いこと言って……=I didn’t even think about your feelings and I said all of that horrible stuff to you.
+零、ごめんなさい！！=I’m so sorry, Zero!
+（チビとの思い出と、|零の気持ちが頭の中を|駆け巡るーー）=(My memories of Chibi, and Zero’s feelings whirled around in my head.)#next 4 lines dupe
+（私は悲しみをこらえきれず、|零の胸に顔をうずめたーー）=(Unable to hold back my grief, I tucked my head into his chest…)
 （私は零の腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Zero’s arms.)
 （零は、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Zero just stood there, holding me tight.)
 
 # ABDF0 Kaname Chibi rescue
-チビ、やめるんだ。|<name>を傷つける者は|許さない！=Stop, Chibi. I won’t allow you to hurt Yuki!
+チビ、やめるんだ。|<name>を傷つける者は|許さない！=Stop, Chibi. I won’t allow you to hurt her!
 （私とチビの間に立ったのは、|枢センパイだったーー）=(Kaname stood between me and Chibi.)
 （枢センパイはチビの爪を|いともたやすくはじき返した|ーー）=(He easily repelled Chibi’s claws.)
-（チビは態勢を立て直すと、|枢センパイを見つめた。）=(Chibi recovered his balance and started at Kaname.)
+（チビは態勢を立て直すと、|枢センパイを見つめた。）=(Chibi recovered his balance and stared at Kaname.)
 （その体がぴくりと震える。|本能的なものに、委縮する|ように…）=(His whole body trembled, as if his instincts were telling him to be afraid.)
 ここまでだよ。|さようなら、チビ。=This is the end. Goodbye, Chibi.
-（枢センパイがチビに向かって|殺気を放ったーー）=(Kaname was intent to kill Chibi.)
+（枢センパイがチビに向かって|殺気を放ったーー）=(Kaname was intent on killing Chibi.)
 やめて！枢センパイ！！|何かの間違いです！！=Stop, Kaname! There must be some kind of mistake!
 <name>……。|しばらく目をつぶっていて。|すぐに終わるから……=Yuki… Close your eyes. It'll all be over soon.
 枢センパイ！|お願い！お願いです！|チビを殺さないで！！=Kaname! Please! Please! Don’t kill Chibi!
 （私の叫びにチビが反応する|ーー）=(Hearing me shout…)
 ガルルルルルル……=Grrrr…
 （チビは枢センパイから|私に視線を移したーー）=(Chibi looked away from Kaname and turned his attention to me.)
-こんなのウソです！|チビが……チビがこんな……=This can’t be real! Chibi… Chibi wouldn’t…
+こんなのウソです！|チビが……チビがこんな……=This can’t be real! Chibi…|Chibi would never…
 <name>。もう遅いんだ。|どうかわかって……=It’s too late. Please understand, Yuki.
 （突然、牙をむいたチビが|私に襲いかかったーー）=(Chibi suddenly pounced at me.)
 （私は凶暴にとびかかってくる|チビを呆然と見ていたーー）=(I was frozen stiff, stunned at the sight before me.)
 （銃声が鳴り響き、|ブラッディローズの銃弾が|チビの体を貫くーー）=(The next thing I knew was the sound of a gunshot, as one of the Bloody Rose’s bullets pierced Chibi’s body.)
-（無数の銃弾に体を貫かれた|チビは、断末魔をあげて|その場に崩れ落ちるーー）=(Hit by an endless flurry, Chibi let out an agonizing yelp and slumped to the ground.)
+（無数の銃弾に体を貫かれた|チビは、断末魔をあげて|その場に崩れ落ちるーー）=(Hit by countless more, Chibi let out an agonizing yelp and slumped to the ground.)
 <name>！大丈夫か！？=Yuki! Are you okay!?
 （私を救ってくれたのは、|零だったーー）=(Zero had saved me.)
-（零は、私の前に立つ、|枢センパイを睨みつけたーー）=(He glared at Kaname, who stood in front of me.)
-玖蘭枢！あんたを|見損なったぞ。<name>を|危険な目に遭わせるなんて！=I’m disappointed in you, Kuran! Putting Yuki at risk!
+（零は、私の前に立つ、|枢センパイを睨みつけたーー）=(Zero glared at Kaname, who stood in front of me.)
+玖蘭枢！あんたを|見損なったぞ。<name>を|危険な目に遭わせるなんて！=I’m disappointed in you, Kaname Kuran! Putting Yuki at risk!
 錐生くん……悪かったね。=Kiryu… I’m sorry.
 <name>。もう大丈夫だ。=You’re safe now, Yuki.
 （ブラッディローズの銃弾に|貫かれたチビの体は、瞬く間に|灰になってしまったーー）=(Riddled with bullets, Chibi had turned to ashes in the blink of an eye.)
@@ -12582,19 +12588,19 @@ Sleep well…
 （私の知らないところで、|チビにそんな事が起こって|いたなんてーー）=(I can’t believe that I was so clueless, when all this was happening to Chibi.)#dupe
 
 # A7C5C Blame Kaname
-ひどい！|どんな理由があったって、|殺すなんて！！=You’re terrible! No matter what reasons there might have been, just killing him was--!
-<name>、ごめんね。悪いのは|無力なこの僕だ。きみを|とても悲しませてしまった。=I’m sorry, Yuki. It’s my fault for being so powerless. I let you get so hurt.
+ひどい！|どんな理由があったって、|殺すなんて！！=You’re terrible! No matter what reasons there might have been, killing him was--!
+<name>、ごめんね。悪いのは|無力なこの僕だ。きみを|とても悲しませてしまった。=I’m sorry, Yuki. It’s my fault for being so powerless. I let you get hurt.
 <name>。玖蘭先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Kuran, Yuki. There was nothing anyone could have done…#dupe
 本当にごめんよ、<name>。|チビはもう手遅れだったんだ。=I’m truly sorry, Yuki. It was already too late for Chibi.
 残酷かもしれないけれど、|こうするしかなかったんだよ。=It might have been cruel, but this was the only way.
 僕は無力だった……どうする事|も出来なかったんだ。=I’m powerless. I couldn’t do anything.
 思いっきり泣いていいよ。|<name>の悲しみを、|僕にぶつけてくれ。=Cry as hard as you want. Take all of your pain out on me.#dupe
-（チビとの思い出と、|枢センパイの気持ちが、|頭の中を駆け巡るーー）=(My memories of Chibi, and Kaname’s feelings spun around in my head.)
+（チビとの思い出と、|枢センパイの気持ちが、|頭の中を駆け巡るーー）=(My memories of Chibi, and Kaname’s feelings whirled around in my head.)
 
 # A7288
-すまない、<name>。|チビのことは最初から|気が付いていた。=I’m sorry, Yuki. I knew about Chibi from the start.
-！！|……じゃあ零は、最初から|チビを殺すつもりだったんだ！=That means… You were planning to kill him all this time!?
-どうして！？|あんなに懐いてたチビを、|どうして殺せるの！？=Why!? How could you kill Chibi, who we shared so many memories together with!?
+すまない、<name>。|チビのことは最初から|気が付いていた。=I’m sorry, Yuki. I realized what Chibi was from the start.
+！！|……じゃあ零は、最初から|チビを殺すつもりだったんだ！=That means… You’d planned to kill him the whole time!?
+どうして！？|あんなに懐いてたチビを、|どうして殺せるの！？=Why!? How could you kill Chibi, who we shared so many memories with!?
 あいつの……|チビの気持がわかる気がした…。=I felt like I could understand his feelings.
 ヴァンパイアになって、|一番苦しかったのは……|チビだ。=After he became a vampire, the one who was suffering the most was… Chibi.
 ！！|零……=!!|Zero…
@@ -12602,12 +12608,12 @@ Sleep well…
 だからこそ、|俺がケリをつけなければ|いけなかった……=That’s why I had to be the one to see this through.
 チビが大好きだった……|あいつを憎めるわけがない。=I loved Chibi. I could never hate him.
 でも、<name>にとても|つらい思いをさせてしまった。|本当に……すまない。=But, I caused you so much pain. I’m… really sorry, Yuki.
-<name>……。|いいんだ。悪いのは俺だ。=Yuki… It’s okay. I’m the one to blame.
+<name>……。|いいんだ。悪いのは俺だ。=It’s okay. I’m the one to blame.
 一番つらかったのは零だよね。|……ごめんなさい！！=The one who’s hurting the most is you isn’t it, Zero?! I’m so, so sorry!!
 
 # A8F6C Aido Chibi rescue
 （空から降り注ぐ氷の刄が|チビの体を貫くーー）=(An icicle came shooting out of the sky and hit Chibi.)
-（氷の刄に貫かれたチビは、|断末魔をあげてその場に|崩れ落ちるーー）=(Cut through by the ice, Chibi let out an agonizing yelp and slumped to the ground.)
+（氷の刄に貫かれたチビは、|断末魔をあげてその場に|崩れ落ちるーー）=(Impaled by the ice, Chibi let out an agonizing yelp and slumped to the ground.)
 <last><name>！大丈夫か！？=Yuki Cross! Are you okay!?
 藍堂センパイ……。=Aido…
 （私を救ってくれたのは|藍堂センパイだった）=(Aido had come to my rescue.)
@@ -12615,38 +12621,40 @@ Sleep well…
 しっかりしろ、錐生！|彼女を危険な目に|遭わせるなんて！！=Pull yourself together, Kiryu! You almost let her get hurt!
 ……すまん。=…I’m sorry.
 （チビの体は藍堂センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Aido’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
-<name>。チビは|君に出会う前からすでに|ヴァンパイア犬だったんだよ。=Chibi was already a vampire dog before he met you.#dupe
-レベル：Ｅに落ちる寸前|の…ね。チビを止めるには、|もうこれしか手段はなかった。=He was about to fall to Level E… This was the only way to stop him.
+<name>。チビは|君に出会う前からすでに|ヴァンパイア犬だったんだよ。=Chibi was already a vampire before he met you.#dupe
+レベル：Ｅに落ちる寸前|の…ね。チビを止めるには、|もうこれしか手段はなかった。=He was about to fall to Level E…|This was the only way to stop him.
+<name>……@A8F6C=Yuki Cross…
 僕にはどうしようもなかった。=There was nothing I could have done.
-（でも、なぜチビが|殺されなければ|いけなかったのかーー）=(But why did they have to kill him!?)#dupe
+（でも、なぜチビが|殺されなければ|いけなかったのかーー）=(But why did he have to die!?)#dupe
 
 # A6E20 Blame Aido
 （私は自分の感情の行き場を|失い、どうしようもない思いを|藍堂センパイにぶつけたーー）=(Overcome with emotion, I directed all of my anger at Aido.)#next 3 lines dupe
-どうして！|どうしてなんですか！？|藍堂センパイ！！=Why! Why did this happen!? Answer me, Aido!!
+どうして！|どうしてなんですか！？|藍堂センパイ！！=Why!? Why did this happen!?|Answer me, Aido!!
 （私は藍堂センパイの胸に|顔をうずめ、激しく|藍堂センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
-こればかりは、僕の力でも|どうしようもなかったんだよ。|<name>。=There was nothing in my powers that I could do.
+こればかりは、僕の力でも|どうしようもなかったんだよ。|<name>。=There was nothing in my power that I could do.
 そんな……|あんなに藍堂センパイに|懐いてたのに！！=But… He was so attached to you!#dupe
 チビは、藍堂センパイが|好きだったのに！！|そんなチビを……=Chibi loved you so much! And yet, you…#dupe
 <name>！|藍堂先輩は……=Yuki! Aido isn’t--!
 よせ、錐生。いいんだ。=Stop, Kiryu. It’s okay.
 <name>。藍堂先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Aido, Yuki. There was nothing anyone could have done…#dupe
-そうだな、僕はひどいやつだ。|チビを助けられなかった|ばかりか……=You’re right. I’m a terrible person. I couldn’t even save Chibi…
-ホント、情けないよ。この僕が|悩んでばかりだったんだから|な。自分でも最低だと思うよ。=It’s pathetic. Worrying is about the only thing I could manage… I’m the lowest of the low.
+そうだな、僕はひどいやつだ。|チビを助けられなかった|ばかりか……=You’re right. I’m a terrible person.|I couldn’t even save Chibi…
+ホント、情けないよ。この僕が|悩んでばかりだったんだから|な。自分でも最低だと思うよ。=It’s pathetic. All I could do was worry about it… I’m the lowest of the low.
 好きなように僕を憎んでくれて|いいぞ、<last><name>。|それでお前の気が晴れるなら…= Hate me all you want, Yuki Cross. If that’d make you feel any better…
-（私が見上げると、|藍堂センパイの瞳から涙の|結晶がほんの一瞬光ったーー）=(I looked up and for a quick second, I could see a twinkle of tears in Aido’s eyes.)
+（私が見上げると、|藍堂センパイの瞳から涙の|結晶がほんの一瞬光ったーー）=(Raising my head, I swore I could see a twinkle of tears in Aido’s eyes.)
 チビ……|可愛かったよな……=Chibi was cute, wasn’t he…?
 藍堂センパイ……|私……私！！=Aido… I… I--!!
 （チビとの思い出と、|藍堂センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Aido’s feelings, wrenched at my heart.)#next 4 lines dupe
-（私は悲しみをこらえきれず、|藍堂センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest…)
+（私は悲しみをこらえきれず、|藍堂センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I tucked my head into his chest…)
 （私は藍堂センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Aido’s arms.)
 （藍堂センパイは、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Aido just stood there, holding me tight.)
 
 # A2C30 Don’t blame anyone. -much of this section dupes
 （混乱する頭で、それでも私は|藍堂センパイの気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Aido was feeling.)
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、藍堂センパイだ）=(I didn’t know anything. Aido didn’t want me to.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、藍堂センパイだ）=(The fact I didn’t know anything was because Aido didn’t want me to.)
 （私に辛い思いをさせない様に|藍堂センパイは自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
 （そんな藍堂センパイを、|責められるはずがないーー）=(How could I blame him, after all that…?)
 （私は自分の無力感に|打ちのめされ、チビの消えた|地面にしゃがみこんだーー）=(Feeling utterly powerless, I knelt down by the ground where Chibi had been.)
+<name>……@A2C30=…
 （呆然とうなだれる私を、|零と藍堂センパイは、|ずっと見つめていたーー）=(Zero and Aido just stood there, heads hung low, watching me.)
 
 # A8FE4 Kain Chibi rescue
@@ -12659,13 +12667,14 @@ Sleep well…
 見損なったぞ、錐生！|こいつを危険な目に|遭わせるなんて！！=I misjudged you, Kiryu! I never thought you’d put Cross in harm’s way!
 ……すまなかった。=…I’m sorry.
 （チビの体は架院センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Kain’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
+<name>……@A8FE4=Cross…
 <name>。チビは|お前に出会う前から、すでに|ヴァンパイア犬だったんだよ。=Chibi was already a vampire by the time you met.
 レベル：Ｅに落ちる寸前|の…な。チビを止めるには、|もうこれしか手段はなかった。=He was on the verge of falling to Level E… This was the only way to stop him.
 もう手遅れだった。|玖蘭寮長の力でも英の技術でも|助ける事はできなかった。=It was too late. Even President Kuran’s powers or Hanabusa’s brain couldn’t have saved him.
 
 # A8C2C Blame Kain
 （私は自分の感情の行き場を|失い、どうしようもない思いを|架院センパイにぶつけたーー）=(Overcome with emotion, I directed all of my anger at Kain.)#next 3 lines dupe
-どうして！|どうしてなんですか！？|架院センパイ！！=Why! Why did this happen!? Answer me, Kain!!
+どうして！|どうしてなんですか！？|架院センパイ！！=Why!? Why did this happen!?|Answer me, Kain!!
 （私は架院センパイの胸に|顔をうずめ、激しく|架院センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
 俺には|どうしようもなかった。=There was nothing I could do.
 俺にできる事といえば、|苦しませずにチビを楽にして|やる事だけだった。=The only option I had was to make it quick, so he wouldn’t suffer.
@@ -12674,7 +12683,7 @@ Sleep well…
 <name>！|架院先輩は……=Yuki! Kain isn’t--!
 <name>。架院先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Kain, Yuki. There was nothing anyone could have done…#dupe
 <name>。|一番つらかったのはチビだ。|一番苦しい思いをしたのも。=Chibi was the one who was suffering the most. It must have been hard for him.
-それでもチビは、|<name>と過ごした時間は、|幸せだったと、俺は思う。=But even so, I think that he spent with you, was happy.
+それでもチビは、|<name>と過ごした時間は、|幸せだったと、俺は思う。=But even so, I think that the time he spent with you, was happy.
 チビのために、|俺達がしてやれる事が|１つだけある。=There is only one thing we can do for Chibi.
 忘れない事だ。|チビの事をいつまでも|思ってやることだ。=We’ll remember him. We’ll never stop thinking about him.
 そうすれば、|チビは<name>の中で|いつまでも生き続ける。=And that way, Chibi will live on in our hearts.
@@ -12686,15 +12695,16 @@ Sleep well…
 一緒にチビの事を|思い続けてやろうな。=Let’s always remember him.
 架院センパイ|……私……私！！=Kain… I… I--!
 （チビとの思い出と、|架院センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Kain’s words, wrenched at my heart.)#next 4 lines dupe
-（私は悲しみをこらえきれず、|架院センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest…)
+（私は悲しみをこらえきれず、|架院センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I tucked my head into his chest…)
 （私は架院センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Kain’s arms.)
 （架院センパイは、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Kain just stood there, holding me tight.)
 
 # A2C70 Don’t blame anyone. - dupe
 （混乱する頭で、それでも私は|架院センパイの気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Kain was feeling.)
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、架院センパイだ）=(I didn’t know anything. Kain didn’t want me to.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、架院センパイだ）=(The fact I didn’t know anything was because Kain didn’t want me to.)
 （私に辛い思いをさせない様に|架院センパイは自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
 （そんな架院センパイを、|責められるはずがないーー）=(How could I blame him, after all that…?)
+<name>……@A2C70=…
 （呆然とうなだれる私を、|零と架院センパイは、|ずっと見つめていたーー）=(Zero and Kain just stood there, heads hung low, watching me.)
 
 # A905C
@@ -12711,10 +12721,10 @@ Sleep well…
 
 # A4A60 Blame Ichijo
 （私は自分の感情の行き場を|失い、どうしようもない思いを|一条センパイにぶつけたーー）=(Overcome with emotion, I directed all of my anger at Ichijo.)#next 3 lines dupe
-どうして！|どうしてなんですか！？|一条センパイ！！=Why! Why did this happen!? Answer me, Ichijo!!
+どうして！|どうしてなんですか！？|一条センパイ！！=Why!? Why did this happen!?|Answer me, Ichijo!!
 （私は一条センパイの胸に|顔をうずめ、激しく|一条センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
 僕には|どうしようもなかった。=There was nothing I could have done.
-僕にできる事といえば、|苦しませずにチビを楽にして|やる事だけだった。=The kindest thing to do was to put him down now, so he wouldn’t suffer.
+僕にできる事といえば、|苦しませずにチビを楽にして|やる事だけだった。=The kindest thing to do was to put him down, so he wouldn’t suffer.
 そんな……|あんなに一条センパイに|懐いてたのに！！=But… He was so attached to you!#dupe
 チビは、一条センパイが|好きだったのに！！|そんなチビを……=Chibi loved you so much! And yet, you…#dupe
 <name>！|一条先輩は……=Yuki! Ichijo isn’t--!
@@ -12735,13 +12745,13 @@ Sleep well…
 （私を励ます一条センパイの|いつもの微笑みは、なんだか|泣いているように見えたーー）=(Ichijo’s usual, encouraging smile, seemed pained.)
 一条センパイ|……私……私！！=Ichijo… I… I--!
 （チビとの思い出と、|一条センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Ichijo’s feelings, wrenched at my heart.)#next 4 lines dupe
-（私は悲しみをこらえきれず、|一条センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest…)
+（私は悲しみをこらえきれず、|一条センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I tucked my head into his chest…)
 （私は一条センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Ichijo’s arms.)
-（一条センパイは、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=Ichijo just stood there, holding me tight.)
+（一条センパイは、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Ichijo just stood there, holding me tight.)
 
 # A2C90 Don’t blame anyone. - dupe
 （混乱する頭で、それでも私は|一条センパイの気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Ichijo was feeling.)
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、一条センパイだ）=(I didn’t know anything. Ichijo didn’t want me to.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、一条センパイだ）=(The fact I didn’t know anything was because Ichijo didn’t want me to.)
 （私に辛い思いをさせない様に|一条センパイは自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
 （そんな一条センパイを、|責められるはずがないーー）=(How could I blame him, after all that…?)
 （呆然とうなだれる私を、|零と一条センパイは、|ずっと見つめていたーー）=(Zero and Ichijo just stood there, heads hung low, watching me.)
@@ -12753,16 +12763,18 @@ Sleep well…
 支葵センパイ……。=Shiki…
 （私を救ってくれたのは|支葵センパイだった）=(Shiki had come to my rescue.)
 （支葵センパイは、|ようやく立ち上がった零を|振り返ったーー）=(Shiki shot a glance at Zero, who’d finally managed to stand up.)#dupe
-風紀委員。|<name>を危険な目に遭わせる|なんて、見損なった。=Prefect, you were careless and exposed Yuki to danger.
+風紀委員。|<name>を危険な目に遭わせる|なんて、見損なった。=Prefect, you were careless and exposed her to danger.
 （チビの体は支葵センパイの|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Shiki’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
-<name>。|チビはきみに出会う前から、|ヴァンパイア犬だった。=Yuki, when you met Chibi, he was already a vampire dog.
+<name>……@A90D4=…
+<name>。|チビはきみに出会う前から、|ヴァンパイア犬だった。=When you met Chibi, he was already a vampire dog.
 レベル：Ｅに落ちる寸前の。|チビを止めるには、|これしか手段はなかった。=He was on the verge of becoming a Level E. He had to be stopped, and this was the only way.
 もう手遅れだった。|誰かが葬ってやらないと、|チビがもっと可愛そうになる。=It was too late. If someone doesn't bury him, Chibi will only look even more pitiful.
 
 # A7784
 （私は自分の感情の行き場を|失い、どうしようもない思いを|支葵センパイにぶつけたーー）=(Overcome with emotion, I directed all of my anger at Shiki.)#next 3 lines dupe
-どうして！|どうしてなんですか！？|支葵センパイ！！=Why! Why did this happen!? Answer me, Shiki!!
+どうして！|どうしてなんですか！？|支葵センパイ！！=Why!? Why did this happen!?|Answer me, Shiki!!
 （私は支葵センパイの胸に|顔をうずめ、激しく|支葵センパイを責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
+ひどい！|チビを殺すなんて！！@A7784=Killing Chibi like that… it’s too terrible!
 うん、ひどいことしたと|思う……でも、俺には|他にどうしようもなかった。=Yes, it's a terrible thing… But I had no other choice.
 そんな……|あんなに支葵センパイに|懐いてたのに！！=But… He was so attached to you!#dupe
 チビは、支葵センパイが|好きだったのに！！|そんなチビを……=Chibi loved you so much! And yet, you…#dupe
@@ -12770,38 +12782,42 @@ Sleep well…
 いいよ、風紀委員。=It's fine, Prefect.
 <name>。支葵先輩を|責めることじゃない。|……どうしようもなかった。=Don’t blame Shiki, Yuki. There was nothing anyone could have done…#dupe
 だから、|あんなチビは見たくない。|チビを楽にしてあげたかった。=That's why I don't want to see Chibi like that. I wanted him to go peacefully.
+そんな……。@A7784=That’s…
 でも……俺のやった事は|ひどいことだと思う。=But I think I've done a terrible thing.
 責められても仕方ない。=I deserve all the blame.
 （支葵センパイの頬から、|涙が一筋流れ落ちたーー）=(A single tear ran down Shiki's cheek.)
-<name>、俺、ホントに|チビが好きだったんだと思う。|だから、ゴメン……。=Yuki, I truly believe I liked Chibi, so… I'm sorry.
+<name>、俺、ホントに|チビが好きだったんだと思う。|だから、ゴメン……。=I truly believe I liked Chibi, so… I'm sorry.
 支葵センパイ……私……私！！=Shiki… I… I--!
 （チビとの思い出と、|支葵センパイの気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Shiki’s feelings, wrenched at my heart.)#dupe
-（私は悲しみをこらえきれず、|支葵センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest…)
-支葵センパイ……|思いっきり泣いても|いいですか？=Shiki, is it all right if I cry on your shoulder?
-（私は支葵センパイの腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Shiki’s arms.)
+（私は悲しみをこらえきれず、|支葵センパイの胸に飛び込んだ|ーー）=(Unable to hold back my grief, I tucked my head into his chest…)
+支葵センパイ……|思いっきり泣いても|いいですか？=Shiki, is it alright if I cry on your shoulder?
+（私は支葵センパイの腕の中で|子供の様に泣きじゃくった）=(I cried like a child in Shiki’s arms.)
 （支葵センパイは、そんな私を|いつまでもいつまでも、強く|抱きしめてくれたーー）=(Shiki just stood there, holding me tight.)
 
 # A2CB0 Don’t blame anyone. – dupe
 （混乱する頭で、それでも私は|支葵センパイの気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Shiki was feeling.)
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、支葵センパイだ）=(I didn’t know anything. Shiki didn’t want me to.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、支葵センパイだ）=(The fact I didn’t know anything was because Shiki didn’t want me to.)
 （私に辛い思いをさせない様に|支葵センパイは自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
 （そんな支葵センパイを、|責められるはずがないーー）=(How could I blame him, after all that…?)
+<name>……@A2CB0=…
 （呆然とうなだれる私を、|零と支葵センパイは、|ずっと見つめていたーー）=(Zero and Shiki just stood there, heads hung low, watching me.)
 
 # A914C
 （銃声が鳴り響き、|一発の銃弾が|チビの体を貫くーー）=(The next thing I knew was the sound of a gunshot, as a single bullet pierced Chibi’s body.)
-（銃弾に体を貫かれたチビは、|断末魔をあげてその場に|崩れ落ちるーー）=(Hit the bullet, Chibi let out an agonizing yelp and slumped to the ground.)
+（銃弾に体を貫かれたチビは、|断末魔をあげてその場に|崩れ落ちるーー）=(Hit by the bullet, Chibi let out an agonizing yelp and slumped to the ground.)
+<name>！|大丈夫か！？@A914C=Are you okay, girl?!
 夜刈先生……。=Mr. Yagari…
 （私を救ってくれたのは|夜刈先生だった）=(Mr. Yagari had come to my rescue.)
 （夜刈先生は、|ようやく立ち上がった零を|振り返ったーー）=(Mr. Yagari shot a glance at Zero, who’d finally managed to stand up.)#dupe
 見損なったぞ、零！|どうしてあいつを危険な目に|遭わせた！！=I’m disappointed in you, Zero! Why’d you put her in harm’s way?!
-（チビの体は夜刈先生の銃の|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by Mr. Yagari’s overwhelming power, his body had turned to ashes and was disappearing in the breeze.)#dupe
-<name>。チビは|お前に出会う前から、すでに|ヴァンパイア犬だった。=Chibi was already a vampire dog by the time you found him.
+（チビの体は夜刈先生の銃の|圧倒的な力の前に、灰になって|消え去ってしまったーー）=(Faced by the power of Mr. Yagari’s gun, his body had turned to ashes and was disappearing in the breeze.)#dupe
+<name>……@A914C=…
+<name>。チビは|お前に出会う前から、すでに|ヴァンパイア犬だった。=Chibi was already a vampire by the time you found him.
 もう、手遅れだった。|すまなかった、<name>。|……そして、チビ。=It was too late. I’m sorry, girl. And… Chibi too.
 
 # A9B24
 （私は自分の感情の行き場を|失い、どうしようもない思いを|夜刈先生にぶつけたーー）=(Overcome with emotion, I directed all of my anger at Mr. Yagari.)#next 3 lines dupe
-どうして！|どうしてなんですか！？|夜刈先生！！=Why! Why did this happen!? Answer me, Mr. Yagari!!
+どうして！|どうしてなんですか！？|夜刈先生！！=Why!? Why did this happen!?|Answer me, Mr. Yagari!!
 （私は|夜刈先生の胸に顔をうずめ、|激しく夜刈先生を責めたーー）=(I buried my head into his chest and viciously blamed him for everything.)
 ……俺に出来る事は、|チビを苦しませずに|殺すことだけだ。=…The only thing left that I could do for him was to put him out of his misery.
 そんな……|あんなに夜刈先生に|懐いてたのに！！=But… He was so attached to you!#dupe
@@ -12813,43 +12829,44 @@ Sleep well…
 なんとでも言え。|これが俺の仕事だ。=Say whatever you want. This is my job.
 殺すことが仕事！？|そんなのひどい！=Your job is to kill things!? That’s terrible!
 夜刈先生には、人としての|優しさはないんですか！？=Don’t you have any human compassion, Mr. Yagari!?
-ひどい……か。|確かにな。おれはいつも|罪を犯している。=Terrible, huh…? I guess you’re right. I’ve committed endless sins.
+ひどい……か。|確かにな。おれはいつも|罪を犯している。=Terrible, huh…? I guess you’re right. I’ve committed countless sins.
 いいさ、|好きなだけ憎めばいい。=Go ahead, hate me all you want.
-それでお前の気が晴れるなら、|俺はそれを甘んじて受けよう。=If that’d make you feel better, I’ll accept everything you’ve got.
+それでお前の気が晴れるなら、|俺はそれを甘んじて受けよう。=If that’d make you feel better, I’ll take everything you’ve got.
 俺には優しさなど不要だ。|それがハンターとして、|背負うべき罰だからな。=I don’t need your kindness. This is the cross I have to bear, as a hunter.
 それでもお前が無事なら、|俺はそれでいいんだ。=All that matters to me is that you’re safe.
-お前は、チビとの時間を|大切に過ごしたんだな。|その思い出を忘れるな。=You cherished the time you spend with Chibi, right? Don’t ever forget those memories.
+お前は、チビとの時間を|大切に過ごしたんだな。|その思い出を忘れるな。=You cherished the time you spent with Chibi, right? Don’t ever forget those memories.
 ……夜刈先生！=…Mr. Yagari!
 俺には優しさなど不要だ。|愛される資格のない者は、|人を愛する必要はない。=I told you, I don’t need your kindness. Those who don’t deserve to be loved, don’t need to care about anyone.
 （そういう夜刈先生の目は、|とても悲しそうに見えたーー）=(Mr. Yagari’s eyes looked sad as he spoke.)
 でも、チビと遊ぶ夜刈先生は、|とても優しそうな目をして|いました。=But you were so gentle and kind playing with Chibi.
-夜刈先生は、そうやって|１人で全部背負って、私を|守ってくれたんですね……？=You’re always trying to take everything on by yourself, but you saved me…
+夜刈先生は、そうやって|１人で全部背負って、私を|守ってくれたんですね……？=You were trying to take everything on by yourself, and you saved me…
 夜刈先生……|ごめんなさい！！=Mr. Yagari… I’m sorry!
 （チビとの思い出と、|夜刈先生の気持ちが、|私の胸を締め付けるーー）=(My memories of Chibi, and Mr. Yagari’s feelings, wrenched at my heart.)#dupe
-（私は悲しみをこらえきれず、|夜刈先生の胸に飛び込んだ|ーー）=(Unable to hold back my grief, I made a dive for his chest…)
+（私は悲しみをこらえきれず、|夜刈先生の胸に飛び込んだ|ーー）=(Unable to hold back my grief, I tucked my head into his chest…)
 先生の気持ちも考えずに、|私……|ごめんなさい、ごめんなさい！=Without even considering how you might feel, I just… I’m sorry! I’m so sorry!!
-（私は夜刈先生の腕の中で|子供の様に泣きじゃくった）=(And cried like a child in Mr. Yagari’s arms.)
+（私は夜刈先生の腕の中で|子供の様に泣きじゃくった）=(I cried like a child in Mr. Yagari’s arms.)
 （夜刈先生は、そんな私を|いつまでもいつまでも、|強く抱きしめてくれたーー）=(Mr. Yagari just stood there, holding me tight.)
 
 # A2B90 Don’t blame anyone. – dupe
 （混乱する頭で、それでも私は|夜刈先生の気持ちが|痛いほどわかったーー）=(Even in my confused state of mind, I could still understand the pain Mr. Yagari was feeling.)
-（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、夜刈先生だ）=(I didn’t know anything. Mr. Yagari didn’t want me to.)
+（私は何も知らなかった。|何も知らないままでいさせて|くれたのは、夜刈先生だ）=(The fact I didn’t know anything was because Mr. Yagari didn’t want me to.)
 （私に辛い思いをさせない様に|夜刈先生は自分の手を汚す|決断をしてくれたーー）=(He decided to dirty his hands, so I wouldn’t be hurt.)
 （そんな夜刈先生を、|責められるはずがないーー）=(How could I blame him, after all that…?)
+<name>……@A2B90=…
 （呆然とうなだれる私を、|零と夜刈先生は、|ずっと見つめていたーー）=(Zero and Mr. Yagari just stood there, heads hung low, watching me.)
 
 # A7F6C
 （校舎の向こうから、|次第に明るい日差しが|差し込んでくるーー）=(Sunlight gradually began to pour in from the other side of the school building.)
 （私はチビの消えた場所に|しゃがみこみ、|その場を動けずにいたーー）=(I crouched down at the spot where Chibi had disappeared, not wanting to leave.)
-<name>……かわいそうに。=Poor Yuki…
+<name>……かわいそうに。=Poor thing…
 こんな悲しみが、|いつまで続くんだ……|玖蘭先輩……=How long can this pain last?|Kuran…
 錐生くん。|……僕もそう思うよ。=Kiryu… I had the same thought.
-……みんな。朝が来た。|僕らはもう行こう。=Morning has come, everyone. We should go now.
+……みんな。朝が来た。|僕らはもう行こう。=Morning has come, everyone.|We should go now.
 <name>はもうしばらく、|あそこにいたいだろうから……=Yuki wants to stay here a bit longer…
 （夜はうっすらと明け出し、|朝靄が私の体を包み始める|ーー）=(The night slowly faded away and a morning mist began to envelope my body.)
 （私は思い出したように|その場をゆっくり立ち上がった|ーー）=(I slowly stood up, remembering all that had happened.)
 ……さよなら、チビ。=…Goodbye, Chibi.
-（私はバラ園に向かって……|チビに向かって別れを告げた）=(As I went to leave the rose garden, I made my farewells to Chibi.)
+（私はバラ園に向かって……|チビに向かって別れを告げた）=(As I went to leave the rose garden,|I made my farewells to Chibi.)
 （振り返って歩き出そうとした|その時ーー）=(When I turned to walk away…)
 これ……=This is…
 （私の目の前に、|鮮やかなオレンジ色をした|バラが広がっている）=(In front of me was a bright, orange rose.)
@@ -14403,7 +14420,7 @@ Sleep well…
 …ヤツはヴァンパイアだ。|アイツがそうでなくとも、|とりまきがそうとは限らない。=He’s a vampire. Even if he doesn’t seem like it, that doesn’t make his cohorts any less.
 あいつに限ってそうでないこと|を祈るが、いずれにしても、|用心した方がいい。=I hope that’s not the case with him, but still, you need to be careful.
 大きなお世話です。=I don’t remember asking you.
-はあ……なぁ。=*Sigh*… Look.
+はあ……なぁ。=*Sigh…* Look.
 はい？何ですか？=Yes? What is it?
 意地を張るのもいいが、|もう少し冷静になったほうが|いいんじゃないのか？=It’s good to stick to what you believe in, but don’t you think you should be rational about this?
 お前のことが心配じゃ|なかったら、俺だってこんな|ことは言わねえよ。=I wouldn’t be saying this if I wasn’t worried about you.
@@ -14636,7 +14653,7 @@ Sleep well…
 
 # A5180 Kaname appears after A6894 (Shiki route)
 支葵だなんて、ちょっと|想像してなかったよ。=I never could have imagined that it’s be Shiki.
-ふぅ……|どうしたものだろうね？=Sigh… Now what should I do?
+ふぅ……|どうしたものだろうね？=*Sigh…* Now what should I do?
 いや流石の僕も驚きを|隠し得ないよ……一体、|支葵のどこに引かれたのかな？=I can’t hide my surprise… What is it about Shiki that draws you to him?
 口数の少なさ？凛とした|たたずまい？それは僕には|ないものだったのかな…？=Because he’s a man of few words? His dignified aura? Is it something that I don’t have…?
 そういう事じゃ……=That’s…

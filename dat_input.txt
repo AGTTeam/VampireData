@@ -1351,7 +1351,7 @@ Date over - Zero
 全く無鉄砲な奴だな。|でも、そんなお前がほっとけ|ない僕も無鉄砲なのかな？=You’re too rash. But, maybe I’m also rash for not being able to leave you alone?
 お前の相棒も無責任だよね。|お前も大変だ。=Your partner is really irresponsible. What a handful you are.
 お前にガーディアンは|向いてないよ。|もう錐生にまかせたら？=You’re not cut out to be a Guardian. Why don’t you just leave it to Kiryu?
-また、危ないことを……|この事は、理事長に報告する。|追って沙汰を待つように。=Getting into danger, again… I’m going to report this to the headmaster. Don’t do anything until you hear back from him.
+また、危ないことを……|この事は、理事長に報告する。|追って沙汰を待つように。=Getting into danger, again… Just wait, I’m going to report this to the headmaster.
 
 #Level E minigame - Kain
 大丈夫か？！|俺にまかせろ！=Are you okay? Leave this to me!

@@ -890,7 +890,7 @@ TEXTの表示速度を設定します。=Set the text speed.
   一条　拓麻  = Takuma Ichijo
   支葵　千里  = Senri Shiki
   錐生　零    = Zero Kiryu
-  夜刈　十牙  = Toga Yagari
+  夜刈　十牙  =Toga Yagari
   黒主　優姫  = Yuki Cross
 
 !FILE:AdditionalText
@@ -1411,10 +1411,10 @@ Date over - Zero
 ケガはないか？|無茶ばっかりしやがって。=Are you hurt? That was too reckless.
 どうしていつも危ない橋を|渡るんだ？！|心配させやがって……=Why must you always go out on a limb!? Making me worry…
 あまり無茶をすると理事長が|悲しむぞ。|あんな男でも、お前の父親だ。=If you keep being so reckless, you’ll make the headmaster sad. Despite it all, he’s still your father.
-よくこらえたな。|これからもお互いガーディアン|として頑張ろう。=You put up a good fight.|Let’s keep doing our best as guardians.
+よくこらえたな。|これからもお互いガーディアン|として頑張ろう。=You put up a good fight.|Let’s keep doing our best as Guardians.
 俺が来なかったらどうする|つもりだったんだ？|まぁ、がんばったよ。=What were you going to do if I hadn’t come!? Well, I guess you did you best.
 醜いヴァンパイアは、|俺たちの手で葬るんだ。|いいな？=We’ll bury these unsightly vampires ourselves. Got it?
-それでもガーディアンなのか？|今後はもう俺にまかせろ。=And you’re a guardian? Leave it to me from now on.
+それでもガーディアンなのか？|今後はもう俺にまかせろ。=And you’re a Guardian? Leave it to me from now on.
 お前はもう外出しないほうが|いい。|あまりにも狙われすぎている。=You shouldn’t go out anymore. You get targeted too much.
 #
 #Level E minigame - Yagari

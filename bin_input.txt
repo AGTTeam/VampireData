@@ -8969,7 +8969,7 @@ It’s making my tongue tingle!
 バカみたいに頭がいい？|それって頭いいの？悪いの？=Stupidly smart? Do you mean they’re smart… or not?
 とにかくだ。授業なんか|見てもしょうがないぞ。=Never mind. Just, there’s no point in watching their lessons.
 あ、でもお前は、|憧れの玖蘭センパイが見られれば|それでいいんだったな。=Oh, actually you’d be happy as long as you could see your beloved Kuran, right?
-零ったら、バカにしないでよ。=Don’t treat me like a idiot, Zero!
+零ったら、バカにしないでよ。=Don’t treat me like an idiot, Zero!
 純粋に学生として|どんなことを学んでいるのか、|興味あるんだから。=I’m purely interested in what they’re learning, student to student.
 はぁ？なんだその|面白くもない冗談は？=Huh? What kind of unfunny joke is that?
 う～っ！もうバカにして！|あったまきたっ！ちょっと|自分が成績いいからって！=Ngh, stop making fun of me! You’re so annoying! Just because you have good grades--!
@@ -9115,7 +9115,7 @@ It’s making my tongue tingle!
 君……|代わりに答えてよ……=You can answer for me.
 １、２、３。|……３万人？ま、俺も答えは|知らないんだがな。=1, 2, 3… Maybe 3 million people? I don’t know the real answer either.
 退屈すぎる……|寝る気にもならない。=I’m bored… I don’t feel like sleeping here.
-部屋に帰って寝よ……=I’m going to go back to my room and sleeping.
+部屋に帰って寝よ……=I’m going to go back to my room and sleep.
 
 # A4F08
 なかなか、物騒な授業ですね。|夜刈先生。=This has been a rather chaotic class, Mr. Yagari.
@@ -9568,7 +9568,7 @@ It’s making my tongue tingle!
 それじゃあ、行きます。|秘密を知って……いいですか？=Okay, I’ll come. Is it okay for me to know your secret, though?
 フフ、きっと<name>ちゃん、|すごく気に入ると思うよ。|これから行く所！=Hehe, I’m sure you’ll like where we’re headed, Yuki!
 そうなんですか？|ステキな秘密かな？|わあ、楽しみです……！=Oh? Is it a nice secret, then?|Ooh, I’m excited~!
-じゃ、行こうか。=Shall head off?
+じゃ、行こうか。=Shall we head off?
 
 # A195C choose 遠慮する
 あれっ？残念だなぁ。|どうしてもダメかな。=Oh? That’s a shame. I guess I couldn’t convince you to change your mind?
@@ -9636,7 +9636,7 @@ It’s making my tongue tingle!
 あ～おいしかった。|お腹いっぱい！=Aaah~ That was good. I’m stuffed!
 そう言えばお前、|行きたい所があるんじゃ|なかったのか？=Come to think of it, wasn’t there somewhere you wanted to go too?
 うん。これから骨董市に行こう|と思って。えっと、確か|この道をまっすぐ行って……=Yeah. I was thinking about heading to the antique market. I think it was straight down this way…
-あっ！しまった！|地図、逆さまにしてた、|私……！=Ah, oh no! I’ve been looking at the map the wrong way round--!
+あっ！しまった！|地図、逆さまにしてた、|私……！=Ah, oh no! I’ve been looking at the map the wrong way around--!
 何をやってんだか……。|そのチラシ、貸せ。|連れて行ってやる。=What are you even doing… Give me that flyer. I’ll take you.
 えっ？いいの？|零、付き合ってくれるの？=Huh? Are you sure? You’re going to keep me company?
 まあ、興味はないが、|見物がてら時間つぶしには|なるだろう。=Well, it doesn’t really interest me, but I guess I could just look around to kill time.
@@ -9861,7 +9861,7 @@ It’s making my tongue tingle!
 好きというか……|他人と接する時の|礼儀の一つだよ、香りはね。=It’s not so much that I like it, just that smell is part of good etiquette when you’re dealing with others.
 礼儀、ですか？=Etiquette?
 そう。もちろん等身大の自分も|大事だけれど、他の誰かと|接するときはーー=Yes. Of course, it’s important to be yourself, but when you’re interacting with someone else…
-身なりを整える延長で、|礼儀としての装飾が、|必要だと思うんだ。=I think smelling good is essential part of making yourself presentable.
+身なりを整える延長で、|礼儀としての装飾が、|必要だと思うんだ。=I think smelling good is an essential part of making yourself presentable.
 なるほど……アロマの香りも|一条センパイを包む|空気の装飾、という訳ですね。=I see… The way you smell is also part of how you come across to other people.
 さすが<name>ちゃん、|理解するのが早いね。|あ、すみません、店員さんーー=You are as quick to catch on as ever, Yuki.|Ah, excuse me, Miss--
 僕に、いつものやつを。|<name>ちゃんは？|何か欲しい香りはない？=I’ll have the usual, please. Is there anything you’d like, Yuki?
@@ -9958,7 +9958,7 @@ It’s making my tongue tingle!
 （な、なんなの？いきなり|私の口塞いじゃって……|夜刈先生ってば！）=(W-What--!? Suddenly grabbing me…!)
 ここで『先生』なんて呼ぶな。|周りのハンター共が面白がって|俺をからかうに決まってる！=Don’t call me “Mr” here. If the other hunters catch wind, I’ll never hear the end of it.
 わかりました……|や、夜刈さん、良かったです。|迎えに来てくれて。=I get it… Y-Yagari it is then. Thank you for coming to get me.
-危うく私、|追い出されちゃう所でした。|随分時間かかりましたね……=I was almost about to be thrown out! You seemed to be a long time…
+危うく私、|追い出されちゃう所でした。|随分時間かかりましたね……=I was almost about to be thrown out! You seemed to take a long time…
 協会長の話がやたら長くてな。|さ、行くぞ。こんな所、|長居するような場所じゃねえ。=The Society President wouldn’t stop talking. Come on, let's go. We shouldn’t linger here.
 あ……はい……。=Ah… Right.
 （もう少し、協会のいろんな|所、探索してみたかったけど|さすがに無理か……残念）=(I would have liked to explore their headquarters a little more, but I guess that’s a bad idea… Oh well.)

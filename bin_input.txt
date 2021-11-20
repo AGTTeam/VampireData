@@ -13000,10 +13000,10 @@ vk_se6_010=
 言っておくけど、別に嫉妬して|いる訳じゃないからな。=Just so you know, it’s not like I’m jealous, or anything.
 あまりのベタな展開に注意を|うながしているだけだ。=I’m just letting you know that it’s a real cliche.
 見損なったよ、<last><name>。=I misjudged you, Yuki Cross.
-ちんちくりんのくせして、|僕たちナイト･クラスを|手玉に取るなんてね。=That’s low, having all of the Night Class on like that.
+ちんちくりんのくせして、|僕たちナイト･クラスを|手玉に取るなんてね。=That’s low, leading all of the Night Class on like that.
 別にそういう訳じゃ……|すみませんが失礼します。=That wasn’t what I…|I’m very sorry. I’ll take my leave now.
 おい、待て！<last><name>。|せめて、ナイト･クラスの|誰かにすべきだ！=Hey, wait, Yuki Cross! You should at least pick someone from the Night Class.
-というか、そもそも枢様は、|どうするつもりだ！|ああ、待て！<last><name>。=I mean, what are you going to about Lord Kaname? Ah, hang on--!
+というか、そもそも枢様は、|どうするつもりだ！|ああ、待て！<last><name>。=I mean, what are you going to do about Lord Kaname? Ah, hang on--!
 もういいです……=I’ve heard enough…
 
 # A5894 Kain appears after A83DC (Zero route)
@@ -13058,7 +13058,7 @@ vk_se6_010=
 若さ故…いや、アイツの|優しさがお前を悲しませる事に|なるかもしれない。=His youth… No, his kindness, might end up hurting you.
 どういうことですか……=What are you talking about?
 お前達の様な２人は今までに|沢山見てきた。=I’ve seen a lot of people like you two in my life.
-結末については、あれこれ言わ|ないが優しさだけでは、ただ|悲しみを背負い込むだけだ。=I’m not going lecture you about how it always ends but, just know that kindness will only be a burden.
+結末については、あれこれ言わ|ないが優しさだけでは、ただ|悲しみを背負い込むだけだ。=I’m not going to lecture you about how it always ends but, just know that kindness will only be a burden.
 お前にそれを背負う覚悟は|あるのか？=Are you prepared to carry that weight?
 お前を悲しませるだけの結末|など零も望んでいないはずだ。=I’m sure that Zero doesn’t want an ending that will only make you sad.
 あいつは今ギリギリのところで|足掻いている。お前の人生まで|背負わすのは酷じゃないのか？=He’s barely scraping by as is. Isn’t it cruel for your life to be upheaved by that burden too?
@@ -13568,7 +13568,7 @@ vk_se6_010=
 枢センパイの零とのコラボ|なんて滅多に見られるもの|じゃないし。=It’s not every day I get a chance to see you and Zero working together.
 いつも２人が仲良くして|くれればいいんだけどな……=I wish you could always get along…
 今となっては難しいけど、また|何か共通の目的があればーー=It will be difficult, but if we happen to share a common goal again…
-錐生くんと力を合わせるのも|悪くないかもしれないね。=It might not such be a bad idea to join forces with Kiryu.
+錐生くんと力を合わせるのも|悪くないかもしれないね。=It might not be such a bad idea to join forces with Kiryu.
 デザートを含めて、|料理の出来は悪くなかったし。=The food, dessert included, was not bad.
 （あれ？そういえば、あれは|夢の話じゃなかったっけ？）=(Wait. Now that I think about it, wasn’t that a dream?)
 でも、チビの事は僕に|とっても、辛い事件だった。=But what happened to Chibi was hard for me too.
@@ -13658,7 +13658,7 @@ vk_se6_010=
 共存どころか話し合いの|テーブルにすらつけない。=You wouldn’t be able to sit at the table to discuss it, let alone achieve coexistence.
 えっ、それは…そうですね……|枢センパイ、結局私は何を|やればいいんですか？=Huh? But… I guess you’re right… What should I do, Kaname?
 勉強……だね。=Study, of course.
-知識だけではなく、それを|生かすべくしっかりした知力。|それがきみには必要なんだよ。=It’s not just about knowledge, but having the wisdom how to use it. That’s what you need.
+知識だけではなく、それを|生かすべくしっかりした知力。|それがきみには必要なんだよ。=It’s not just about knowledge, but having the wisdom to use it. That’s what you need.
 誤解しないでほしい。|優姫は今のままで十分|魅力的なんだよ。=Please don’t get me wrong. You are already perfectly charming as you are, Yuki.
 だけど、きみの夢をかなえる|ことを考えると、ちょっと違う|かな。=But, when I think about what it’ll take to make your dream come true, it’s a little different.
 耳が痛くても、ちゃんと聞く|んだよ。<name>。いいかい……=Even if it hurts to hear it, please take it on board. Okay, Yuki?
@@ -13762,7 +13762,7 @@ vk_se6_010=
 お前、<last><name>と……=You and Cross are…
 ち…違うって、そんなんじゃ|ない！ちょっと相談に乗ってた|だけだ。=I-It’s not like that! I was just giving her some advice.
 ん…？お前達……|仲が悪いんじゃなかったのか？=Hm? I thought you two didn’t get along?
-ああそうだ。仲は悪いぞ。でも|どうしても相談に乗ってくれ|って言うから、相談に乗った。=We don’t. We’re not even close, but she kept insisted on asking my opinion, so I gave her some advice.
+ああそうだ。仲は悪いぞ。でも|どうしても相談に乗ってくれ|って言うから、相談に乗った。=We don’t. We’re not even close, but she kept insisting on asking my opinion, so I gave her some advice.
 それだけだ！=That’s all!
 あやしいな……|別に隠さなくても、|いいんじゃないのか？=You’re acting fishy. There’s no reason to hide it, is there?
 お前だって、立派な男なんだ|から、そういう話の１つや２つ|あってもいいだろうし。=You’re a handsome guy so there’s no reason you shouldn’t have one or two flings like that.
@@ -13836,7 +13836,7 @@ vk_se6_010=
 ちゃんと道を間違えないで|来るか確認していただけだ。=I was just checking to make sure you didn’t turn the wrong way.
 フフ……わかりました。=Hehe… I see.
 （さすがに学園内で迷子には|なりませんよ……）=(I’m not sure I’d get lost in the academy, though…)
-それでは、改めまして、|エスコートお願いします。=Well then, let’s start over. Will you please escort me round?
+それでは、改めまして、|エスコートお願いします。=Well then, let’s start over. Will you please escort me around?
 じゃあ、こちらも改めまして…|…僕と踊って頂けますか？=Okay, this time for real… May I have this dance?
 
 # A0E98
@@ -13924,7 +13924,7 @@ vk_se6_010=
 藍堂センパイって、もう見た目|カラフルなだけの毒キノコしか|採らないでーー=You only picked colorful mushrooms.
 調理も何も考えていなかった|ですよね。フフフ……。=I bet you didn’t even think about what you were doing, or what to make with them. Heheh…
 おい。それは何の話だ？|無人島？=What are you talking about?|A deserted island?
-お前、僕は、ヴァンパイア貴族|の中でも、美食家として知られ|てるんだ。=I’ll have you know I’m known as a gourmet within vampire aristocracy.
+お前、僕は、ヴァンパイア貴族|の中でも、美食家として知られ|てるんだ。=I’ll have you know I’m known as a gourmet chef within vampire aristocracy.
 
 # A60E8
 一緒にレストランで食事もした|だろう。良いキノコと悪い|キノコの区別くらいつくぞ！=We even ate at a restaurant, didn’t we? I can tell the difference between a good mushroom and a bad one!
@@ -14101,7 +14101,7 @@ vk_se6_010=
 仕方ないだろ。架院先輩からも|そう見えてると思うぜ。=I’m just telling the truth. Kain probably sees it that way as well.
 う～っ！失礼のカタマリ！！=Wha--! You’re so mean!
 それに、たまに俺のことを|弟扱いしてるだろ？お前。=Plus, you sometimes treat me like I’m your brother, right?
-お前と架院先輩が兄妹に|なったら、俺は３兄弟の末っ子|だろ？！ありえないぞ。=If you Kain become brother and sister, that’d make me the youngest, wouldn’t it? That’d never work.
+お前と架院先輩が兄妹に|なったら、俺は３兄弟の末っ子|だろ？！ありえないぞ。=If you and Kain become brother and sister, that’d make me the youngest, wouldn’t it? That’d never work.
 そんなこと知らないよ！|もう、人のことバカにして！=See if I care! Maybe it’d teach you to stop making fun of me!
 もういいよ！零のバカ！！|私、帰る！@A5080=Zero, you idiot! I’m going!
 
@@ -14303,7 +14303,7 @@ vk_se6_010=
 # A6844 Kain normal end (Work 400+, Intimacy -700)
 （そのとき、私の告白より|先に、架院センパイの言葉が|発せられた）=(Before I could confess, Kain spoke.)
 お前はかわいいヤツだと|思うぜ。それは今も、そして|これからも変わらない。=I think you’re cute. That hasn’t, and won’t ever change.
-お前はどんどんいい女になって|いくんだろう。楽しみだ。=I’m know you’re going to become a great woman. I look forward to it.
+お前はどんどんいい女になって|いくんだろう。楽しみだ。=I know you’re going to become a great woman. I look forward to it.
 そんな……。私、嬉しいです、|でも…。=I’m happy to hear that…
 （そうだ、私の気持ちも|ちゃんと伝えなきゃ……）=(Right, I should tell him properly how|I feel.)
 私、センパイの事が……|その……=I… um…
@@ -14347,7 +14347,7 @@ vk_se6_010=
 
 # A86D0 Chapter 7 Ichijo
 一条センパイ？！|……どうしたんですか？=Ichijo!?|…What’s wrong?
-<name>ちゃん……。|君の事が気になって……=Yuki… I’m wanted to see how you were.
+<name>ちゃん……。|君の事が気になって……=Yuki… I wanted to see how you were.
 すみません……わざわざ。=I’m sorry for making you come all this way.
 大丈夫？こう見えて本当に|心配してるんだよ。=Are you okay? You might not think it, but I’m really worried about you.
 はい……大丈夫です……=Yes… I’m fine.
@@ -14414,7 +14414,7 @@ vk_se6_010=
 
 # A5140 Kaname appears after A71D8 (Ichijo route)
 まさか、一条と……|本気なのかい……<name>。=Don’t tell me, you and Ichijo… Are you serious about him, Yuki…?
-そうだね、彼はやさしくて|面倒見もいい。彼ならきみの夢|もサポートしてくれるかもね。=Right, he is kind and caring. He’d probably be able to support you|with your dream.
+そうだね、彼はやさしくて|面倒見もいい。彼ならきみの夢|もサポートしてくれるかもね。=Well, he is kind and caring. He’d probably be able to support you|with your dream.
 本当に彼は良い奴だよ。=He is truly a good person.
 でも、それとこれとは|別の話だ。=But, this and that are different things.
 彼と、きみのことで争うような|マネは出来ればしたくない。|わかるよね？=I don’t want to get into a fight with him over you. You understand, don’t you?
@@ -14593,7 +14593,7 @@ vk_se6_010=
 その女の子は、とても困難かも|しれない、夢の実現に向かって|歩いている。=This girl is working to make her dream come true, even though the path might be difficult.
 僕はその女の子にどうにかして|自分の気持ちを伝えたいと|思っている。=I want to tell her how I feel about her.
 普段はおしゃべりな僕なのに、|とても大事な事となると、|つい慎重になってしまう。=But even though I’m normally a talkative person, when it comes to important things, I get scared.
-どうしたら、ちゃんと気持ちを|つたえられるかな？=How can get my feelings across?
+どうしたら、ちゃんと気持ちを|つたえられるかな？=How can I get my feelings across?
 難しい問題ですね。|でも、もしかしたら簡単かも。=That’s a difficult question. But, it might just have a simple solution.
 もしかすると、その女の子も|一条センパイと同じ気持ちかも|しれません。=The girl might just feel the same way you do.
 本当に？|それは是非確かめたいなぁ。=Really? I’d love to know for sure.
@@ -14605,7 +14605,7 @@ vk_se6_010=
 いいよ。いくよ。=Okay, I’m ready. Let’s go.
 はい。@A8BB8=Right.
 せーの！=One, two…!
-誰？|大事な時に何で花火なの？=W-Who’s shooting fireworks as this key moment?
+誰？|大事な時に何で花火なの？=W-Who’s shooting fireworks at this key moment?
 あ……そういえば、|極夜の花火が余ってるとか|理事長言ってたっけ……=Ah… I remember the headmaster saying there was a surplus of fireworks from the Polar Night.
 なんでこんな時に……=Why now…?
 でも、僕には君の言葉が|ちゃんと聞こえたよ。=But I heard what you said.
@@ -14733,7 +14733,7 @@ vk_se6_010=
 だいたい、錐生はどうした？|あ、いや…支葵も似たような|タイプか。=I mean, what about Kiryu? Ah, no… I guess they’re kind of the same type.
 ……やっぱりお前、もとから|寡黙な方が好きなのか！？=Does that mean you’ve always liked the quiet types?
 支葵より僕の方が楽しいぞ！=I’m much more fun to be around than Shiki!
-あんな愛想のないやつと|一緒にいて何が楽しいんだ？=What’s fun about being hanging with someone so anti-social?
+あんな愛想のないやつと|一緒にいて何が楽しいんだ？=What’s fun about being around someone so anti-social?
 沈黙が金なら、おしゃべりは|プラチナだ！お前は、プラチナ|より金がいいのか？=If silence is golden, then talking is platinum! Would you rather take gold over platinum?
 え？何の話ですか……=Huh? What are you talking about…?
 何か不愉快だ！僕は帰る！=I don’t like this. I’m going!
@@ -14955,7 +14955,7 @@ vk_se6_010=
 
 # A91C4 Chapter 7 Yagari
 夜刈先生？！|……どうしてここに？=Mr. Yagari?!|…What are you doing here?
-さあ、何でだろうな……|その……お前の事が気に|なって、ということだ……=I’m wondering that myself…|I guess… I was just wanted to see how you were.
+さあ、何でだろうな……|その……お前の事が気に|なって、ということだ……=I’m wondering that myself…|I guess… I just wanted to see how you were.
 あ、ありがとうございます……=T-Thank you.
 心配……|かけちゃいましたね……=I’m sorry for worrying you…
 ……いいさ、気にするな。|それより、ショックだった|だろう……=…It’s fine, don’t worry about it. More importantly, it must have been quite the shock.
@@ -14980,7 +14980,7 @@ vk_se6_010=
 この学園でやるべき事がある|だろう。=You still have a duty at this academy.
 気にいらないが、お前を|守ってくれる連中だっている。=I don’t like it, but there are people who’ll protect you.
 その中で、自分の夢を追い|求めるべきなんじゃないのか？=Shouldn’t you be chasing after your dream with them?
-お前と俺とでは、歩むべき道が|違いすぎる。そうだろう？=The path you and have to take is too different. Don’t you see?
+お前と俺とでは、歩むべき道が|違いすぎる。そうだろう？=The path you and I have to take is too different. Don’t you see?
 でも…………=But…
 お前じゃ、ハンターには|なれない。そう言っている|んだ。理解しろ。=I’m telling you, you can’t become a hunter. You need to understand.
 …………はい。=…I get it.
@@ -15057,7 +15057,7 @@ vk_se6_010=
 俺たち相手に動じずに|授業をしきってしまうくらい|だからな。尊敬もするさ。=He’s even able to take our classes without being fazed. I respect that.
 だが、それとこれとは|話が違う。=But, this is a different story.
 錐生からしてみれば、いくら|自分がふがいないとはいえーー=From Kiryu’s point of view, no matter how much he might feel unworthy…
-師匠に一番大事な子を|取られちまうんだ。|さすがに同情するね。=He’s losing the person most he treasures the most to his master. I can’t help but feel sorry for him.
+師匠に一番大事な子を|取られちまうんだ。|さすがに同情するね。=He’s losing the person he treasures the most to his master. I can’t help but feel sorry for him.
 錐生はあんな感じだが、お前の|ことを大事に思っていた。|気が付かなかったか？=Kiryu is… Kiryu, but he really cares for you. Didn’t you notice?
 いえ…………=No…
 それに、ハンターである、あの|先生につくって事は、俺達を|完全に敵に回すって事だぞ？=Plus, if you follow after that hunter, you’re going to make enemies of all of us.
@@ -15149,7 +15149,7 @@ vk_se6_010=
 眠れない……。=I can’t sleep.
 あの人のことが気になって|眠れないよ。=My mind is too occupied with thoughts of him…
 逢いたい……。=I want to see him…
-もしかすると、まだいるかも…|行こう……そして、この気持ち|を伝えよう。=He might still me there… I’m going to go and tell him how I feel!
+もしかすると、まだいるかも…|行こう……そして、この気持ち|を伝えよう。=He might still be there… I’m going to go and tell him how I feel!
 夜刈先生！=Mr. Yagari!
 どうした？こんな夜中に……|もどってきたのか？=What are you doing back here so late?
 先生もなぜここに？=I could ask you the same.
@@ -15162,7 +15162,7 @@ vk_se6_010=
 それで、お前は|なにしに来たんだ？=So, why are you here?
 私……。|先生に逢いたくて……。|伝えたい事があって……=I… wanted to see you. There’s something I have to tell you.
 …………わかった。|お前も立派なレディって訳か。|で、何を伝えたいんだ？=…I get it. You’ve turned into a real lady, haven’t you? So, what did you want to say?
-……お前と初めて会ったときは|零の奴が大変な事になって|いた。=…When we first met, Zero was in a right state.
+……お前と初めて会ったときは|零の奴が大変な事になって|いた。=…When we first met, Zero was in a troubled state.
 はい。夜刈先生がすごく冷静|で…零を本当に処刑しちゃう|のかと思って………=Yeah… You were very calm… I really thought you were going to kill him.
 ふっ…。冷静だったわけじゃ|ねぇよ。あいつの、あんな姿は|見たくなかったしな……=Heh… I wasn’t calm at all. I never wanted to see him like that.
 そうですか。|そうですよね……。=Right… Of course.
@@ -15249,7 +15249,7 @@ vk_se6_010=
 
 # A6A84 Yagari normal end (scored lowest rank in Level E Minigame <2x, intimacy 700-)
 （待てども待てども……|結局、夜刈先生は現れません|でした……）=(I waited and waited, but he never came…)
-（寮に戻った私は、理事長に|呼び出され一通の手紙を渡され|ました。）=(When I got back to the dorms, the headmaster called me and gave me letter.)
+（寮に戻った私は、理事長に|呼び出され一通の手紙を渡され|ました。）=(When I got back to the dorms, the headmaster called me and gave me a letter.)
 （夜刈先生からの|手紙でした……）=(It was from Mr. Yagari.)
 『<last><name>へ。|正直、夕べの告白は驚いた。=“To Yuki Cross,|To be honest, I was surprised by your confession last night.
 そして、同時に嬉しく思った。=And, at the same time, happy.
@@ -15263,7 +15263,7 @@ vk_se6_010=
 その時、俺はハンターではない|ただの男としてお前の前に現れ|よう。=I will appear in front of you, not as a hunter, but as a man.
 その日が|来ることを願っている。=I hope that day will come.
 追伸：|零の事をよろしくたのむ。|　　　　　　　　夜刈　十牙』=P.S. Please take care of Zero for me.|--Toga Yagari”
-（私は理事長の前ながら、|思いっきり泣きました。）=(I cried without restrain as I stood in front of the headmaster.)
+（私は理事長の前ながら、|思いっきり泣きました。）=(I cried without restraint as I stood in front of the headmaster.)
 （理事長もなぜか、思いっきり|泣いていました。）=(For some reason, he was also crying too.)
 （こうして、私の恋は、|ほろ苦い終わりを迎えました）=(And so, my first love came to a bittersweet end.)
 （まるで、初めて作った|あのチョコの味の様に……）=(Just like the taste of my homemade chocolate…)
@@ -15904,7 +15904,7 @@ vk_se6_010=
 枢に何て言えばいいのかな……=I don’t know what I’m going to tell Kaname.
 
 # A0AB0
-錐生君には、内緒だね。=This is a secret from Kiryu.
+錐生君には、内緒だね。=Keep this a secret from Kiryu.
 
 # A0EDC
 こんな事になるなんて……|なんだかドキドキする。=For things to turn out like this… my heart is racing.

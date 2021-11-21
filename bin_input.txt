@@ -804,8 +804,8 @@ vk_se6_010=
 
 # A1518
 彼との運気も絶好調なあなた。|もう迷いはないはずです。=Your fortune couldn’t be better. There is no need for doubts.
-彼と出会い親密になれた|この運命をかみしめ、=You have become close and your fate is set,
-全てを捧げるつもりで、|彼と共に歩みましょう。=walk by his side with the intention of giving it your all.
+彼と出会い親密になれた|この運命をかみしめ、=You have become close and your fate is set.
+全てを捧げるつもりで、|彼と共に歩みましょう。=Walk by his side with the intention of giving it your all.
 
 # A1B1C
 彼との運気も絶好調です。|何か彼にプレゼントを|しましょう。=Your fortune couldn’t be better. You should give him something as a gift.
@@ -832,21 +832,21 @@ vk_se6_010=
 ラッキーアイテムは、|『フリルシャツ』です。=Your lucky item is a “Frilly Shirt”.
 
 # A1B4C Zero
-彼との運気はまだまだな|ところです。=Your fortune is weak.#not sure how to make this one work with the ‘your fortune is’ phrasing…
-しかし、あなたが多くの人の|手助けをする事によって|運気は確実に上昇します。=However, if you help many people, your luck will increase.
+彼との運気はまだまだな|ところです。=Your fortune wavers.#not sure how to make this one work with the ‘your fortune is’ phrasing…
+しかし、あなたが多くの人の|手助けをする事によって|運気は確実に上昇します。=However, if you help other people, your favorability will increase.
 やさしい彼はあなたが|つまづいても救いの手を|差し伸べてくれるでしょう。=Someone as kind as him is sure to give you a helping hand if you stumble.
-ラッキーアイテムは、|『リボンのついた箱』です。=Your lucky item is a “box tied with ribbon”.
+ラッキーアイテムは、|『リボンのついた箱』です。=Your lucky item is a “Box tied with Ribbon”.
 
 # A19BC
 彼との運気もまだこれから|上がらなければなりません。=You must improve your fortunes with him.
-突然のハプニングでも|彼の意外な一面を受け入れる|事で運気は上昇します。=Your luck will increase by accepting an unexpected side of him, even if it happens suddenly.
+突然のハプニングでも|彼の意外な一面を受け入れる|事で運気は上昇します。=Your chances will increase by accepting an unexpected side of him, even if it happens suddenly.
 大事なポイントは、|最後には彼の事を|信じること。=What’s important is that you still believe in him when it’s over.
-ラッキーアイテムは、|『ウニ』です。=Your lucky item is a “sea urchin”.
+ラッキーアイテムは、|『ウニ』です。=Your lucky item is a “Sea Urchin”.
 
 # A1C0C
-彼の魅力を更に引き立たせる|選択が吉と出るかも|しれません。=Good things may happen if you pick things which will make him even more attractive.
+彼の魅力を更に引き立たせる|選択が吉と出るかも|しれません。=Good things may happen if you pick things which will make him even more charming.
 見えます……|あなたの為に戦う|白馬の騎士……=I can see it… a knight in shining armor riding a white horse…
-ラッキーアイテムは、|『剣』です。=Your lucky item is a “sword”.
+ラッキーアイテムは、|『剣』です。=Your lucky item is a “Sword”.
 
 # A19AC
 更なる高みを望むなら|あなたにも相応の代償を|払うことが必要です。=If you want to achieve even greater heights, you will have to pay a price.#dupe
@@ -859,22 +859,22 @@ vk_se6_010=
 ラッキーアイテムは、|『パワフルなドレス』です。=Your lucky item is a “Bold Dress”.
 
 # A1AAC
-彼との運気も好調なあなた。|さらに運気を強めるため|いままでと違った=Your fortune is promising. You must change tact if you want to increase your luck even more.
+彼との運気も好調なあなた。|さらに運気を強めるため|いままでと違った=Your fortune is promising. You must change tact if you want to strengthen your position even more.
 彼の一面に注目すべきです。|新しい発見もあること|でしょう。=You should pay attention to a different side of him. You may discover something new.
 見えます……|白馬にまたがる|りりしい彼の姿が……=I can see it… He’s riding on a white horse.
 ラッキーアイテムは、|『騎士服』です。=Your lucky item is a “Cavalry Outfit”.
 
 # A1B7C
-彼との運気もまだまだですが|根気よく彼をサポートして|あげると、=Your fortune is weak, but if you patiently support him,
-関係も良くなり運気も|上昇するでしょう。=your relationship will improve and your luck will rise.
+彼との運気もまだまだですが|根気よく彼をサポートして|あげると、=Your fortune is weak, but if you patiently support him…
+関係も良くなり運気も|上昇するでしょう。=Your relationship will improve and your compatibility will rise.
 見えます……|あなたの働きを側で|見守る彼の姿……=I can see it… he is watching over you.
-ラッキーアイテムは、|『塩ラーメン』です。=Your lucky item is “shio ramen”.
+ラッキーアイテムは、|『塩ラーメン』です。=Your lucky item is “Shio Ramen”.
 
 # A193C
-彼との運気をあげるなら|彼のことを理解する様|常に心がけましょう。=If you want to have better fortunes with him, you should endeavor to understand him.
+彼との運気をあげるなら|彼のことを理解する様|常に心がけましょう。=If you want to have a better fortune, you should endeavor to understand him.
 献身的であれば、|あなたの思いはきっと|伝わるはずです。=If you are devoted, your feelings will surely be conveyed.
 見えます……|今まで人に見せたことの|無いような彼の笑顔……=I can see it… A smile that he’s never shown anyone before.
-ラッキーワードは、|『子犬』です。=Your lucky word is “puppy”.
+ラッキーワードは、|『子犬』です。=Your lucky word is “Puppy”.
 
 # A185C Ichijo
 彼に似合った選択が|吉と出るでしょう。=Good things will come if you pick things that suit him.
@@ -885,26 +885,26 @@ vk_se6_010=
 自らのすべてを彼に捧げる|覚悟が思いをとげる|確実な一歩となります。=Steeling your determination to give him your all will allow you to take a step forward.
 
 # A1CBC
-順調に彼との運気は|上がっています。=Your fortunes will steadily increase.
-彼に更なる印象をつける為|思い切って着飾る事も|時には大事です。=In order to make an even bigger impression, it is important to sometimes be bold in your fashion choices.
+順調に彼との運気は|上がっています。=Your fortune is steadily on the rise.
+彼に更なる印象をつける為|思い切って着飾る事も|時には大事です。=In order to make an even bigger impression, it is important to be bold in your fashion choices.
 見えます……|あなたを見て喜々とする|彼の姿が……=I can see it… He looks happy to see you.
 ラッキーアイテムは、|『珍しいドレス』です。=Your lucky item is an “Odd Dress”.
 
 # A156C
 彼との運気も好調なあなた。=Your fortune is promising.
 さらに関係を深めるため|彼の格好良さに注目|すべきです。=In order to deepen your relationship, you should pay attention to his good looks.
-ラッキーアイテムは、|『紋付き羽織袴』です。=Your lucky item is “formal Japanese male fashion”.
+ラッキーアイテムは、|『紋付き羽織袴』です。=Your lucky item is “Formal Japanese Fashion”.
 
 # A1494
 彼との運気が上がるのは|これから。|その為の心がけも必要です。=Your fortunes will see an increase after this, but you must take care.#dupe
-未来を描き、何をやればいいか|一生懸命考える事が|運気上昇のポイント。=The key to increasing your luck is to envision the future and think hard about what you need to do.
-ラッキーアイテムは、|『透き通った丸い物』です。=Your lucky item is a “transparent round object”.
+未来を描き、何をやればいいか|一生懸命考える事が|運気上昇のポイント。=The key to increasing your chances is to envision the future and think hard about what you need to do.
+ラッキーアイテムは、|『透き通った丸い物』です。=Your lucky item is a “Transparent Round Object”.
 
 # A188C Aido
 彼との運気上昇はまだまだ|準備段階です。=Your fortunes are just beginning.
-今はとにかく、彼との楽しい|時間を過ごし運気を共有|しましょう。=All you can do right now is share your fate with him and have a fun time together.
-彼のやさしさに触れることが|運気上昇のカギです。=Appealing to his kindness is the key to increasing your luck.
-ラッキーワードは、|『きもだめし』です。=Your lucky phrase is “test of courage”.
+今はとにかく、彼との楽しい|時間を過ごし運気を共有|しましょう。=All you can do right now is try to make the time you share together fun.
+彼のやさしさに触れることが|運気上昇のカギです。=Appealing to his kindness is the key to strengthening your position.
+ラッキーワードは、|『きもだめし』です。=Your lucky phrase is “Test of Courage”.
 
 # A18BC
 思い切った選択が|吉と出るかもしれません。=Good things may happen if you make a bold choice.
@@ -917,7 +917,7 @@ vk_se6_010=
 
 # A1710
 彼のと運気も好調ですが|油断は禁物。=Your fortune is promising, but you mustn’t let your guard down.
-自分の欲求に走りすぎず|彼の求めるものを|改めて確認しましょう。=Don’t get too carried away with your own desires, but double check that you understand his.
+自分の欲求に走りすぎず|彼の求めるものを|改めて確認しましょう。=Don’t get too carried away with your own desires, but make sure that you understand his.
 ラッキーアイテムは、|『ゴージャスなドレス』|です。=Your lucky item is a “Sweet Dress”.
 
 # A1C5C
@@ -926,15 +926,15 @@ vk_se6_010=
 ラッキーアイテムは、|『楽団服』です。=Your lucky item is a “Band Outfit”.
 
 # A15C0 Kain
-彼に振り向いてもらうには|まだまだ相当の努力が|必要です。=You still need to put in more effort to get him to notice you.
-日々の事をまじめに取り組めば|そんなあなたの姿にきっと彼も|ふりむいてくれでしょう。=If you take things seriously every day, you will be able to make him fall in love with you.
+彼に振り向いてもらうには|まだまだ相当の努力が|必要です。=You need to put in more effort to get him to notice you.
+日々の事をまじめに取り組めば|そんなあなたの姿にきっと彼も|ふりむいてくれでしょう。=If you take things seriously every day, you will be able to make him fall|in love with you.
 ラッキーワードは、|『ナイトゲーム』です。=Your lucky phrase is “Night Game”.
 
 # A1C6C
-彼との運気はまだまだこれから|……だからといって闇雲に|走るのではなく=Your fortune will increase… but that does not mean you should blindly run around in the dark.
+彼との運気はまだまだこれから|……だからといって闇雲に|走るのではなく=Your fortune is improving… but that does not mean you should blindly run around in the dark.
 絶対にやってはいけない事|だけは気をつけましょう。=You must be careful to avoid doing something you would not be forgiven for.
 そうすれば、最終的に|運気が悪い方向に流れる|事を避けられます。=That way, you can avoid having your luck turn sour later.
-バッドワードは、|『無駄遣い』です。=Your unlucky word is “wasteful”.
+バッドワードは、|『無駄遣い』です。=Your unlucky word is “Wasteful”.
 
 # A1ACC
 意外な選択が吉と出るかも|しれません。=Good things may happen if you make a surprising choice.
@@ -946,7 +946,7 @@ vk_se6_010=
 
 # A19CC
 運気は好調。彼もあなたのことを|気に掛けています。=Things are promising. He cares for you too.
-思いを確実にする為、|時には変化を見せることが|大事です。=In order to crystalize those feelings, it is important to sometimes make a change.
+思いを確実にする為、|時には変化を見せることが|大事です。=In order to crystalize those feelings, it is important to sometimes shake things up.
 見えます……|驚きに満ちた彼の顔。|そしてそれは歓喜へと……=I can see it… His face is full of surprise. Then surprise turns to joy…
 ラッキーアイテムは、|『大人っぽいドレス』です。=Your lucky item is a “Glam Dress”.
 
@@ -956,11 +956,11 @@ vk_se6_010=
 
 # A1770
 大事な秘密を隠し通す。|そんなあなたの努力が|運気上昇のポイント。=You must protect an important secret. Your efforts will be the key to your success.
-ラッキーワードは、|『かくれんぼ』です。=Your lucky phrase is “hide and seek”.
+ラッキーワードは、|『かくれんぼ』です。=Your lucky phrase is “Hide and Seek”.
 
 # A191C
-彼との運気もまだまだ|これから。|ですがあせりは禁物です。=Your fortunes are yet to come. You must not rush.
-夢や希望を忘れず、彼に|接すると運気は上昇|するでしょう。=Don’t forget your hopes and dreams, and you will be able to touch his heart and better your chances.
+彼との運気もまだまだ|これから。|ですがあせりは禁物です。=Your fortunes are yet to come.|You must not rush.
+夢や希望を忘れず、彼に|接すると運気は上昇|するでしょう。=Keep hold of your hopes and dreams, and you will be able to touch his heart and better your chances.
 見えます……|彼とおちついて将来を|語るあなたの姿が……=I can see it… He is calmly talking to you about the future…
 ラッキーワードは、|『虹』です。=Your lucky word is “Rainbow”.
 
@@ -978,21 +978,21 @@ vk_se6_010=
 ラッキーアイテムは、|『魅惑のドレス』です。=Your lucky item is an “Alluring Dress”.
 
 # A18CC
-芯が強く雄々しい彼の|姿があなた方の運気を|上昇させます。=His inner fortitude and majestic looks will boost your luck.
-ラッキーワードは、|『海賊』です。=Your lucky word is “pirate”.
+芯が強く雄々しい彼の|姿があなた方の運気を|上昇させます。=His inner fortitude and majestic looks will boost your chances.
+ラッキーワードは、|『海賊』です。=Your lucky word is “Pirate”.
 
 # A1D30
-彼との運気が上がるのは|まだまだこれからです。=You are still a way off increasing your fortunes.
+彼との運気が上がるのは|まだまだこれからです。=You are still a way off from securing your fate.
 積極的に彼の好みを|サポートすることが|吉となります。=Good things will happen if you actively support what he likes.
-あなたの方でも、それを|発信するコンディション|づくりが必要です。=You must create an opportunity to show him so.
+あなたの方でも、それを|発信するコンディション|づくりが必要です。=You must create an opportunity to show him thus.
 見えます……|大勢の中で健やかに|過ごすあなたの姿が……=I can see it… You know how to manage yourself in a crowd…
-ラッキーワードは、|『休息』です。=Your lucky phrase is “break time”.
+ラッキーワードは、|『休息』です。=Your lucky phrase is “Break Time”.
 
 # A1AFC
 彼との運気が上がるのは|これから……|その為の心がけも必要です。=Your fortunes will see an increase after this, but you must take care.#dupe
 彼が好む物をしっかり|意識して接することが|重要になります。=It is important to be aware of what he likes.
 見えます……|彼の好きな事について|話をするあなたの姿が……=I can see it… You are talking to him about the things he likes.
-ラッキーワードは、|『綺麗な女性』です。=Your lucky phrase is “a beautiful woman”.
+ラッキーワードは、|『綺麗な女性』です。=Your lucky phrase is “A Beautiful Woman”.
 
 # A0F68
 守護係の仕事の疲れで|授業中なのについ|ウトウトと夢の中へ……=Exhausted from my work as a Guardian, I accidentally started to doze off in class…
@@ -1047,10 +1047,10 @@ vk_se6_010=
 あまり関心出来ないね、こんな|事。そう、だったら直接、|僕の部屋に来ない？=I don’t care much for something like this. Why not come to my room directly?
 
 # A0B18
-僕の事、もっと知りたい？|いろいろ教えてアゲルよ。=You want to know more about me? I will teach you all kinds of things.
+僕の事、もっと知りたい？|いろいろ教えてアゲルよ。=You want to know more about me?|I will teach you all kinds of things.
 
 # A0BB8 Zero
-お前にそんな趣味があったとは|……|残念だ。=I’m disappointed you have this kind of hobby.
+お前にそんな趣味があったとは|……|残念だ。=I’m disappointed that you have this kind of hobby.
 
 # A0D98
 いつも一緒にいるのに、|まだ見飽きないって……|気分悪い……=We’re always together, and you’re still not tired of seeing my face? That’s creepy…
@@ -1065,7 +1065,7 @@ vk_se6_010=
 君がそんなことするなんて、|ちょっと驚いちゃった。=I’m a bit surprised you’d do something like this.
 
 # A0ED4
-あんまりイイ趣味じゃないかな？|ストレスでも抱えているの……=That’s not really such a good hobby, is it? You’re making me stressed…
+あんまりイイ趣味じゃないかな？|ストレスでも抱えているの……=This isn’t really such a good hobby, is it? You’re making me stressed…
 
 # A0E44
 僕に興味があるんだ～。|ふ～ん。=So you’re interested in me? Hmmm~
@@ -1077,7 +1077,7 @@ vk_se6_010=
 そんな事したらはしたないぞ！=You have no manners!
 
 # A0EEC
-お前にそんな趣味があったなん|て、おどろきだ。|幻滅した……=I’m surprised you have this kind of hobby. I’m disappointed…
+お前にそんな趣味があったなん|て、おどろきだ。|幻滅した……=I didn’t think you’d have this kind of hobby. I’m disappointed…
 
 # A0AAC
 そ、そんなに、|僕に興味があるのか･･･。|ふ～ん。=Y-You’re that interested in me? Hnn~
@@ -1095,7 +1095,7 @@ vk_se6_010=
 しかし……|そんなに、俺に興味があるんだ。|ふ～ん。=You’re really that interested in me? Huh.
 
 # A0C04
-そんなに俺の事が知りたきゃ、|いっぱい教えようか？冗談だ。=If you want to know about me so much, how about I tell you everything? Just kidding.
+そんなに俺の事が知りたきゃ、|いっぱい教えようか？冗談だ。=If you want to know about me so much, how about I tell you everything?|Just kidding.
 
 # A0AE0 Shiki
 きみって、そんな事するんだ？=You do this kind of thing?
@@ -1117,13 +1117,13 @@ vk_se6_010=
 気にしなくていいよ。|次はきっと上手く踊れるさ。=Don’t worry about it. I’m sure that you’ll be able to pull it off next time.
 
 # A0A48
-僕はたのしかったよ。|あまり堅くならないで、|次はリラックスしていこう。=That was fun. I hope you can try to relax more next time and be less rigid.
+僕はたのしかったよ。|あまり堅くならないで、|次はリラックスしていこう。=That was fun. I hope you can relax more next time and be less rigid.
 
 # A09BC
 くすっ…上達したね。|そうやってだんだん大人の女性|になっていくんだ。=Heh… You’ve improved. You’re growing into a fine woman.
 
 # A0AC4
-最高の気分だよ、|マドモアゼル。|君も立派なレディだね。=That was magnificent, mademoiselle. You’ve become a fine lady.
+最高の気分だよ、|マドモアゼル。|君も立派なレディだね。=That was magnificent, Mademoiselle. You’ve become a fine lady.
 
 #Zero Dancing Minigame
 # A0E2C
@@ -1139,7 +1139,7 @@ vk_se6_010=
 なかなか上手いんだな。|お前にこんな魅力があったなん|て……=You're pretty good at this, aren't you? I never knew you had it in you…
 
 # A0DF4
-やっぱり長年のパートナーだ。|改めて見直したよ。最高だ！=I can tell we’ve been partners for years.|You’ve changed my mind about dancing. That was great!
+やっぱり長年のパートナーだ。|改めて見直したよ。最高だ！=I can tell we’ve been partners for years. You’ve changed my mind about dancing. That was great!
 
 #Ichijo Dancing Minigame
 # A0DEC
@@ -1149,7 +1149,7 @@ vk_se6_010=
 もっと練習すると、|もっと楽しくなるよ。|がんばろうね。=The more you practice, the more fun you'll have. Keep it up.
 
 # A0D8C
-今も最高だけど、|もっと一緒に踊りたいなぁ。=That was great, but I wish we could dance together a little more.
+今も最高だけど、|もっと一緒に踊りたいなぁ。=That was great. I wish we could have danced together a little more.
 
 # A0FD8
 上手だね。|踊っていて気持ちよかったよ。|もっと踊りたかったなぁ。=You’re good. It felt really nice to dance together. I wanted to keep going longer.
@@ -1159,7 +1159,7 @@ vk_se6_010=
 
 #Aido Dancing Minigame
 # A0DD0
-大事なパーティーで|恥をかかせて！|一体キミって何なのさ！！=You embarrassed me at an important party! What in the world is up with you?!
+大事なパーティーで|恥をかかせて！|一体キミって何なのさ！！=You embarrassed me at an important party! What in the world is wrong with you?!
 
 # A09E4
 呼吸が今ひとつあわなかったね。|次の機会まで、|練習するべきだ。=That didn’t go so smoothly. You should practice before next time.
@@ -1226,7 +1226,7 @@ vk_se6_010=
 アノ人と一緒に|踊れるなんて夢の様！=It’s like a dream come true to be able to dance with him!
 音符の書かれたアイコンが|枠に収まったタイミングで|右画面をタッチします。=Touch the right screen when the musical note icon fits into the frame.
 長いアイコンが来た場合は、|通過するまで画面にタッチ|し続けているのも忘れずに！=When you see a long note, make sure to keep pressing until its finished!
-リズムに合わせて、アノ人と|の素敵なダンスタイムを|楽しもう！=Let’s follow the rhythm and enjoy a lovely dance with him!
+リズムに合わせて、アノ人と|の素敵なダンスタイムを|楽しもう！=Let’s follow the rhythm and enjoy|a lovely dance with him!
 
 # A31D8　Item sorting minigame (STUDY)
 <unk1>それでは、風紀委員恒例の|持ち物検査を行います！=<unk1>Alright, it’s time for the usual inspection of everyone’s belongings!
@@ -1253,7 +1253,7 @@ vk_se6_010=
 ナイト･クラスのために、|何でこんなことを……=Why do we have to do this for the Night Class…?
 
 # A0D74
-お前……やる気ないだろ？|こっちにも、とばっちりが|来るんだ。頼むぞ。=You’re not really feeling it, are you? We’re both going to end up feeling the backlash. I need you.
+お前……やる気ないだろ？|こっちにも、とばっちりが|来るんだ。頼むぞ。=You’re not really feeling it, are you? We’re both going to end up facing the backlash. I need you.
 
 # A09A8
 よし。=Alright.
@@ -1340,7 +1340,7 @@ vk_se6_010=
 <unk1>もうすぐ、|受付をしめきりまーす！=<unk1>It’s almost over!
 
 # A0E14
-<unk1>時間がない！|もうひとがんばりだよ！=<unk1>There’s no time! I have to push myself--!
+<unk1>時間がない！|もうひとがんばりだよ！=<unk1>There’s no time! Just a little longer--!
 
 # A13E0
 <unk1>時間になりました！=<unk1>That’s time!
@@ -1365,10 +1365,10 @@ vk_se6_010=
 なかなかやるね！見直したよ！=That was pretty good! I’m seeing you in a different light!
 
 # A0D4C
-さすがは風紀委員！|良い仕事するね！=That’s our Prefect! Good job!
+さすがは風紀委員！|良い仕事するね！=That’s our prefect! Good job!
 
 # A0CB4
-こんなに沢山、うれしいな！|ありがとうね！=I got so much… I’m so happy! Thank you!
+こんなに沢山、うれしいな！|ありがとうね！=I got so much… I’m so happy!|Thank you!
 
 # A0C90
 みんなゴメンネ。|また一番にもらっちゃったよ。=Sorry everyone. Looks like I’m number one, yet again.
@@ -1377,10 +1377,10 @@ vk_se6_010=
 やった。枢に自慢しようかな。=Yes! I wonder if I should show off to Kaname…
 
 # A0948 Kaname
-よくがんばったね。|頭をなでてあげるよ。=You worked hard. I should pat you on the head.
+よくがんばったね。|頭をなでてあげるよ。=You worked hard. I want to pat you on the head.
 
 # A0924
-いつもご苦労様、|僕の風紀委員さん。|ああ、錐生君の事じゃないよ。=Thank you for all your hard work, my dear Prefect. Oh, I didn’t mean Kiryu.
+いつもご苦労様、|僕の風紀委員さん。|ああ、錐生君の事じゃないよ。=Thank you for all your hard work, my dear prefect. Oh, I didn’t mean Kiryu.
 
 # A0BF4
 こんなに沢山持ちきれないな。|ああ星煉、頼んだよ。=I can’t hold all these. Ah, Seiren, if you could…
@@ -1395,7 +1395,7 @@ vk_se6_010=
 お前にしては、なかなかやるな。=You did well, for you.
 
 # A0D88
-さすがは風紀委員！|良い仕事だったぞ！=That’s the Prefect’s for you. You did a good job!
+さすがは風紀委員！|良い仕事だったぞ！=That’s the prefects for you. You did a good job!
 
 # A0C74
 こんなに沢山、うれしいな！=I’m happy, I got so many!
@@ -1432,7 +1432,7 @@ vk_se6_010=
 全員確保！|夜歩きさんは絶対|見逃さないからねっ！=I caught them all! No one gets away from me!
 
 # A0A1C
-全員確保！|風紀委員を甘く見ないでねっ！=I caught them all! Don’t underestimate us Prefects!
+全員確保！|風紀委員を甘く見ないでねっ！=I caught them all!|Don’t underestimate us prefects!
 
 # A0DD8
 ５人確保！|おしい！あと１人なのに！=I got five. Argh! There was only one more to go!
@@ -1474,7 +1474,7 @@ vk_se6_010=
 危ない！|気をつけてね=That’s dangerous! Be careful.
 
 # A0980
-イテっ、僕だよ。=Ow, it’s me you know.
+イテっ、僕だよ。=Ow, it’s me you know~
 
 # A08FC
 せっかくの読書が……=Just as I was about to read…
@@ -1486,7 +1486,7 @@ vk_se6_010=
 びっくりした……何事？=That scared me… What’s up?
 
 # A0B08
-アルテミス痛い……=The Artemis hurts…
+アルテミス痛い……=Artemis hurts…
 
 # A0F80
 俺にケンカ売ってるのか？=Are you picking a fight?
@@ -1504,7 +1504,7 @@ vk_se6_010=
 理事長には内緒に……=Don’t tell the headmaster…
 
 # A09B8
-あっ！風紀委員！=Ah! It’s the Prefect!
+あっ！風紀委員！=Ah! It’s the prefect!
 
 # A0BA8
 格好良くなる秘訣を|知りたかった……=I wanted to know the secret to looking good…
@@ -2937,7 +2937,6 @@ vk_se6_010=
 あのさ、<name>ちゃん……=Hey, Yuki…
 （口元に薄い微笑みを浮かべ|藍堂センパイがゆっくりと|私に近付いてくる）=(With a faint smile on his lips, Aido slowly came closer.)
 <name>ちゃん|なんだか君……=Somehow you…
-
 （触れるか触れないか……|藍堂センパイの指先がそっと|私の頬に伸ばされる）=(To touch or not to touch… Aido’s finger slowly reached out to my cheek.)
 （そして、まるでバラの香りを|嗅ぐみたいに……藍堂センパイ|は瞳を閉じた）=(And then, as if he were smelling a rose, Aido closed his eyes.)
 <name>ちゃんの体……|すっごくいい香りがするよ。|禁断の香りだ……=Your body… smells really nice.|A forbidden aroma.
@@ -3207,7 +3206,6 @@ vk_se6_010=
 # A15D8 give Ichijo the homemade chocolate (tbc below)
 い、一条センパイ……！=I-Ichijo!
 （一条センパイの顔を|見上げたーー）=(I looked up at Ichijo’s face.)
-
 
 # A3B70
 （妬けるって言ってくれたのも|リップサービスなのかも|しれないし……）=(He said he was jealous, but maybe that was just lip service.)
@@ -13924,7 +13922,7 @@ vk_se6_010=
 藍堂センパイって、もう見た目|カラフルなだけの毒キノコしか|採らないでーー=You only picked colorful mushrooms.
 調理も何も考えていなかった|ですよね。フフフ……。=I bet you didn’t even think about what you were doing, or what to make with them. Heheh…
 おい。それは何の話だ？|無人島？=What are you talking about?|A deserted island?
-お前、僕は、ヴァンパイア貴族|の中でも、美食家として知られ|てるんだ。=I’ll have you know I’m known as a gourmet chef within vampire aristocracy.
+お前、僕は、ヴァンパイア貴族|の中でも、美食家として知られ|てるんだ。=I’ll have you know I’m known as a gourmet within vampire aristocracy.
 
 # A60E8
 一緒にレストランで食事もした|だろう。良いキノコと悪い|キノコの区別くらいつくぞ！=We even ate at a restaurant, didn’t we? I can tell the difference between a good mushroom and a bad one!
@@ -15293,7 +15291,7 @@ vk_se6_010=
 私は信じている。|先生はきっと生きている。|信じて待とう。いつまでも……=I believe in him. He’s still alive. I will have faith and wait, for as long as it takes…
 
 # A180C low intimacy Zero bloodlust
-自分が嫌になる………|この渇きを抑え続けてみせると|自分に誓っていたのに…=I hate myself… Even though I swore to myself that I’d keep this thirst under control…
+自分が嫌になる………|この渇きを抑え続けてみせると|自分に誓っていたのに…=I hate myself… Even though I swore that I’d keep this thirst under control…
 零……まさか……=Zero… You don’t mean…?
 そうだ俺は今……お前の……|血を欲しい……最低だよな……=That’s right. At this very moment, I… want your blood… I’m the worst.
 
@@ -15302,7 +15300,7 @@ vk_se6_010=
 
 # A144C choose ちょっと待って……
 ……無理を言ってるよな。|……俺。=…That’s asking too much, isn’t it?
-ちょっとは怖いから、|心の準備を…うん、大丈夫……=I’m just a bit nervous, so I need some time to prepare…|Alright, I’m ready…
+ちょっとは怖いから、|心の準備を…うん、大丈夫……=I’m just a bit nervous, so I need some time to prepare…|Alright, I’m ready.
 わかった…目を、つぶって|他の事を考えていろ。=Okay… Close your eyes, and think about something else…
 
 # A0EE0 choose うん
@@ -15339,7 +15337,7 @@ vk_se6_010=
 
 # A1278 choose どうすればいいの？…零
 どうすればいいの……零？=What should I do…!?
-いいんだ……今はあっちに|行ってくれないか……=I’m fine… Just please go away…
+いいんだ……今はあっちに|行ってくれないか……=I’m fine… Just leave me…
 
 # A0D24 choose タブレットを……
 うう、あ……はぁ…はあ……=Nngh, aah… haa… haa…
@@ -15356,7 +15354,7 @@ vk_se6_010=
 だめだ……そんなこと……|自分を許せない……=You can’t… I’d… never forgive myself…
 
 # A12C8 choose こらえて…零
-私がなんとかするから……=I’m going to find a way to fix this…
+私がなんとかするから……=I’m going to find a way to fix this.
 くそ…もう…=Damn it… I can’t--
 
 # A1674 choose 私の血を吸って……
@@ -15456,7 +15454,7 @@ vk_se6_010=
 恥ずかしがらないで……|僕に任せて……=Don’t be shy… Leave it all to me…
 
 # A162C　choose そんなことしたら……ダメです
-そうだね、人じゃなくなって|しまうね。=That’s right. You wouldn’t be human any more.
+そうだね、人じゃなくなって|しまうね。=That’s right. You wouldn’t be human anymore.
 う……=Ngh…
 それでも……|僕と同じにならない？=But… You’d be the same as me.
 
@@ -15475,7 +15473,7 @@ vk_se6_010=
 
 # A1028
 う……あれ？=Nn… Huh?
-枢センパイ……血は……|吸わないのですか？=Kaname… You’re not going to suck my blood?
+枢センパイ……血は……|吸わないのですか？=Kaname… You’re not going to drink my blood?
 
 # A0C88
 ゴメンね。きみの血をもらう訳|にはいかないんだ。=I’m sorry. I’m afraid I can’t take your blood.
@@ -15575,17 +15573,17 @@ vk_se6_010=
 # A1A7C
 大丈夫…。僕たちはきっと|ずっと一緒にいられる…=It’s okay… We’ll be together forever.
 ずっとずっと、このときを|待っていたよ…=I have been waiting for this moment for a long, long time…
-錐生くんを殺したかった。|だってそうだろう？=I wanted to kill Kiryu, you know?
-僕こそが、きみの首筋に牙を…|立てたかったのだから。=I wanted to be the one to first sink my fangs into your neck…
+錐生くんを殺したかった。|だってそうだろう？=I’ve wanted to kill Kiryu, you know?
+僕こそが、きみの首筋に牙を…|立てたかったのだから。=I wanted to be the first to sink my fangs into your neck…
 
 # A0998
-そんなに震えて……くすっ……|安心して、何もしないよ。=You’re shaking so much… Heh… Don’t worry, I won’t do anything.
+そんなに震えて……くすっ……|安心して、何もしないよ。=You’re shaking so much… Heh…|Don’t worry, I won’t do anything.
 
 # A0DA4
 ありがとう……|その気持ちだけ受け取って|おくよ。何もしないよ。=Thank you… Those feelings alone are enough for me. I won’t do anything.
 
 # A0A7C
-いたずらが過ぎたかな？|ゴメンね……大事なきみを|傷つけたりはしないよ。=Did I take the joke too far? I’m sorry… I would never hurt my dear girl.
+いたずらが過ぎたかな？|ゴメンね……大事なきみを|傷つけたりはしないよ。=Did I take the joke too far?|I’m sorry… I would never hurt my dear girl.
 
 # A09AC
 きみは僕に心配ばかりかける|から……イケナイ子への|おしおきだよ。=This is your punishment for worrying me all the time…
@@ -15632,13 +15630,13 @@ vk_se6_010=
 錐生には、ナイショだよ。=Let’s keep this a secret from Kiryu.
 
 # A0B64
-こんな事になるなんて……|不思議な感じだね。=For things to turn out this way… It’s a strange feeling.
+こんな事になるなんて……|不思議な感じだね。=For things to turn out this way…|It’s a strange feeling.
 
 # A0F74 Aido high intimacy bloodlust
 僕、ガマンできない……=I can’t bear it…
 
 # A0920 choose 何がですか？
-お前の……血の味が……|忘れられないんだ……=The taste… of your blood… I can’t forget it.
+お前の……血の味が……|忘れられないんだ……=The taste of your blood… I can’t forget it.
 
 # A1070 choose ガマンしてください
 そんな……@A1070=But…
@@ -15654,7 +15652,7 @@ vk_se6_010=
 
 # A10F0 choose う～ん、まぁ、いいかな……
 ホントに？フッ……=Really? Heh…
-そ、それじゃあ仕方ない。|後悔…するなよ！=W-Well seems I have no choice then. Don’t regret this later!
+そ、それじゃあ仕方ない。|後悔…するなよ！=W-Well it seems I have no choice then. Don’t regret this later!
 
 # A0D7C choose 絶対にいやです
 だめなんだ……|……そうだよ…な。=So it’s no good… I see……
@@ -15666,7 +15664,7 @@ vk_se6_010=
 いいんだね？|じゃあ……=I don’t mind. Well then…
 
 # A0AE4 choose 藍堂センパイにお任せします
-本当にいいんだね。|後悔はさせないよ……=Are you sure? Don’t come to regret it later…
+本当にいいんだね。|後悔はさせないよ……=Are you sure? Don’t come to regret it later.
 
 # A1388
 だめなんだ……|わ、わかったよ…。=So it’s no good… I-I get it……
@@ -15684,7 +15682,7 @@ vk_se6_010=
 いいよね？=Is it okay?
 
 # A13E8 choose 何がですか
-わかってるくせに……|いいだろ？=Even though you already know… You don’t mind, right?
+わかってるくせに……|いいだろ？=Even though you already know…|You don’t mind, right?
 きみの血が欲しい……|この想いを、満たしたいんだ…=I want your blood… To satisfy this longing…
 
 # A1338 choose 私もあげたい
@@ -15774,7 +15772,7 @@ vk_se6_010=
 英には、秘密にしておけるな。=Let’s keep this a secret from Hanabusa.
 
 # A09A0
-こんな事になるなんて……|悪くない気分だ。=To think things would turn out this way… That’s not a bad feeling.
+こんな事になるなんて……|悪くない気分だ。=To think things would turn out this way… It’s not a bad feeling.
 
 # A11F8 Kain high intimacy bloodlust
 悪い…うまそうだと|思ってしまった……=Sorry… I just couldn’t help but notice how good you look.
@@ -15785,7 +15783,7 @@ vk_se6_010=
 その……お前の血が欲しいん|だが……いいか？=I… want your blood… Do you mind?
 
 # A0F64 choose 別にいいですよ
-嬉しいが、本当か？|俺に吸わせてくれるなんて。=I’m happy, but are you sure? You’d let me suck your blood?
+嬉しいが、本当か？|俺に吸わせてくれるなんて。=I’m happy, but are you sure? You’d let me drink your blood?
 
 # A1000 choose いやです
 だめか……|……そうだよな。=So it’s a no…|…That figures.
@@ -15831,7 +15829,7 @@ vk_se6_010=
 わかってるだろう……|じらしてるつもりか？=You must know… Are you trying to tease me?
 
 # A1410　choose 私もあげたい……
-ふっ…さすがだな。=Heh… That’s so you.
+ふっ…さすがだな。=Heh… That’s very you.
 うれしいぜ。俺達、考えている|ことは一緒だな。=I’m happy. We both think alike.
 じゃあ、早速……=So, without any further ado…
 
@@ -15860,13 +15858,13 @@ vk_se6_010=
 俺達、もう戻れないな……=We can never go back…
 
 # A0EE4
-みんなが知ったら、|どうなるかな。=I wonder what would happen if everyone were to find out out about this.
+みんなが知ったら、|どうなるかな。=I wonder what would happen if everyone were to find out about this.
 
 # A0AC8
 錐生に撃たれたっていい。=I don’t care even if Kiryu shoots me.
 
 # A0FC4
-なぁ…足りないって言ったら|怒るか？=Hey… Would you be mad if I told you I want more?
+なぁ…足りないって言ったら|怒るか？=Hey… Would you be mad if I told you|I want more?
 
 # A17DC Ichijo low intimacy bloodlust
 ちょっとお願いがあるんだ。=I have a favor to ask…
@@ -15898,7 +15896,7 @@ vk_se6_010=
 
 # A1560
 そうだよね。ダメだよね。=Right. It’s a bad idea, isn’t it?
-うん、わかった。|迷惑かけちゃったね。=Yeah, I get it. I’ve caused you trouble.
+うん、わかった。|迷惑かけちゃったね。=Yeah, I understand. I’ve caused you trouble.
 
 # A0E18
 枢に何て言えばいいのかな……=I don’t know what I’m going to tell Kaname.
@@ -15933,7 +15931,7 @@ vk_se6_010=
 
 # A12B8 choose 絶対にいやです
 やっぱりダメ…なのかな？|どうしても？=So, I can’t…? No matter what?
-わかったよ。|もし、気が向いたら今度はね。=I understand. If you ever change your mind, maybe another time.
+わかったよ。|もし、気が向いたら今度はね。=I understand. If you ever change your mind, maybe we could try again.
 
 # A09FC choose 自分で決めます
 いいんだね？じゃあ……=That’s fine.|Well then…
@@ -15981,7 +15979,7 @@ vk_se6_010=
 どこからにしようか？=Where should I start?
 
 # A1290 choose 本当にダメ
-ええ？本当にダメなんだ……|ショック……でも、仕方ない|よね。うぅ、諦めるんだ、僕…=Huh? I really can’t? I’m shocked… But I guess it can’t be helped. Ngh… I’ll give up.
+ええ？本当にダメなんだ……|ショック……でも、仕方ない|よね。うぅ、諦めるんだ、僕…=Huh? I really can’t? I’m shocked…|But I guess it can’t be helped.|Ngh… I’ll give up.
 
 # A1190
 そこなんだ。いいの？=There? Are you sure?
@@ -16011,7 +16009,7 @@ vk_se6_010=
 咬んでいい？=Can I bite you?
 
 # A1644
-いいの？|ふーん。いいんだ。=You don’t mind? Hmmm… Are you sure?
+いいの？|ふーん。いいんだ。=You don’t mind? Hm… Are you sure?
 断られると思ってたんだ。|よかった。=I thought you were going to refuse. That’s good.
 
 # A1728
@@ -16136,13 +16134,13 @@ vk_se6_010=
 怒っちゃった……ゴメン。=I made you mad. I'm sorry.
 
 # A0EAC
-また、いいよね？=We've done it once already.
+また、いいよね？=I hope we can do this again.
 
 # A0A78
 バレてもいいや、|すごくおいしいもの。=The danger of getting caught makes it all the more delicious.
 
 # A0B60
-風紀委員の男に撃たれたって|いいかも。=Perhaps being shot by your fellow Prefect wouldn't be so bad.
+風紀委員の男に撃たれたって|いいかも。=Perhaps being shot by your fellow prefect wouldn't be so bad.
 
 # A0968
 一条さんには内緒だよ。=Don't let Ichijo know about this.

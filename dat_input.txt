@@ -878,9 +878,9 @@ TEXTの表示速度を設定します。=Set the text speed.
 デイ･スラスの生徒達から|託されたナイト･クラスへの|プレゼントを目的のセンパイに|正しく渡さないと、後でなんて|言われるか…|タッチペンでプレゼントアイコンを|渡すべきセンパイにスライドさせ|渡します。|= Delivering gifts from the Day Class| is an important job!|| Use the stylus to drag the| presents and give them to the| right person.
 授業中……ウトウト……|夢の出来事？|買っておいた服を|彼が着てくれるなんて！||良い組み合わせでバッチリ|決まれば、アノ人から|お褒めの言葉がもらえるかも。|= Is this a dream?|| You can have him wear something| from your purchased outfits!| If you pick a good combination,| you may even get a compliment!
 今夜も見回りがんばってます…|あれ？こんな所に招待状が…|早速買ったドレスに着替えて、|パーティー会場へ。||アノ人のお気に入りの|ドレスならお褒めの言葉が|もらえるかも。|= Pick and outfit and head to the| party!|| If you choose a dress he likes,| you may even get a compliment!
-陽の寮の消灯点呼で６人の|生徒の不在を確認！|隠れている「デイ･クラス」の|生徒をタッチペンでタッチして|捕まえます。|左画面にいるときは、|スライドバーを右にスライドさせ|夜歩きさんを捕まえましょう。|= Six students are missing!| Catch the sneaky Day Class students| by touching them with the stylus.| When they’re on the left screen,| slide the bar on the right to reach| them.
-見張り台…ここは見晴らしがいい…|あれ？なぜかこんな所に|双眼鏡が…デイ･クラスの子が|忘れていったのかな。|これって…あ、結構よく見える…|私も…ちょっとくらいいいよね？|でも、目が合ったら怒られるかも。|気をつけて見よう。|= You can see a lot from the| lookout balcony. …Wait, are| there binoculars!?| Just a little can’t hurt, right?| But be wary of catching anyone’s| eyes!
-アノ人と一緒に踊れるなんて！|音符の書かれたアイコンが|枠に収まったタイミングで|右画面をタッチします。|長いアイコンが来た場合は、|タッチし続けて|通過するまで画面に触れて|いましょう。|= Dance with him!| Touch the right screen when the| musical note icon fits into the frame.| When you see a long note, keep| pressing until it passes through.
+陽の寮の消灯点呼で６人の|生徒の不在を確認！|隠れている「デイ･クラス」の|生徒をタッチペンでタッチして|捕まえます。|左画面にいるときは、|スライドバーを右にスライドさせ|夜歩きさんを捕まえましょう。|= Six students are missing!|| Catch the sneaky Day Class students| by touching them with the stylus.| When they’re on the left screen,| slide the bar on the right to reach| them.
+見張り台…ここは見晴らしがいい…|あれ？なぜかこんな所に|双眼鏡が…デイ･クラスの子が|忘れていったのかな。|これって…あ、結構よく見える…|私も…ちょっとくらいいいよね？|でも、目が合ったら怒られるかも。|気をつけて見よう。|= You can see a lot from the| lookout balcony. …Wait, are| these binoculars!?|| Just a little can’t hurt, right?| But be wary of catching anyone’s| eyes!
+アノ人と一緒に踊れるなんて！|音符の書かれたアイコンが|枠に収まったタイミングで|右画面をタッチします。|長いアイコンが来た場合は、|タッチし続けて|通過するまで画面に触れて|いましょう。|= Dance with him!|| Touch the right screen when the| musical note icon fits into the frame.| When you see a long note, keep| pressing until it passes through.
 襲い来るレベル:Ｅをアルテミス|（タッチペン）で倒すぞ！||赤いポイントを|タッチするのがコツ。|上手くいかなくてもアノ人の|助けが入るかも？|= Touch the red points and defeat| the incoming Level E!|| If things go badly, maybe he’ll| come to help?
 
 !FILE:CharacterNames
@@ -903,7 +903,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 #Party intro - Aido
 あれっ、|なんでお前がこんなところに？=Oh, what are you doing here?
 別に僕が招待した|訳じゃないぞ！=I didn’t invite you!
-あっ、来てくれたんだ…。|別にうれしい訳じゃない|からな。=Ah, you’re here… W-Whatever. Like I’d be happy.
+あっ、来てくれたんだ…。|別にうれしい訳じゃない|からな。=Ah, you’re here… W-Whatever.|It’s not like I’m happy to see you,|or anything.
 それって……=That’s…
 
 #Party intro - Kain
@@ -936,14 +936,14 @@ TEXTの表示速度を設定します。=Set the text speed.
 なんだか君らしくないね。=It doesn’t really seem like you.
 もう少しシックだと、|僕の好みだよ。=I’d prefer something a little more chic.
 ああ、僕の想像通りだよ。|とても素敵なレディだ。=Oh, it’s just as I imagined. You make a fine lady.
-何て事だ|ドレスから、知性があふれ|出している……素晴らしい。=My, that dress is just overflowing with wit… It’s wonderful.
+何て事だ|ドレスから、知性があふれ|出している……素晴らしい。=My, that dress is just overflowing with intelligence… It’s wonderful.
 美しさは知を生み、知は美しさ|を生み出す。それを体言してく|れるなんて……最高だよ。=Beauty begets wisdom, and wisdom begets beauty. That look just proves it… It’s incredible.
 素敵だ……|是非、エスコートさせて|下さい。マドモアゼル。=Beautiful… Please allow me to escort you, Mademoiselle.
 ずいぶんと頑張ったね。|ご苦労様。=I can see you’ve put in a lot of effort. Good work.
 僕以外の男性に|あまり見て欲しくないな……=I don’t want anyone but me to see you…
 君のイメージを|修正する必要があるのかな？=Was there any need to modify your image?
 背伸びしたいのは|わかるけど……ふぅ……=I know you want to be taller, but… Heh.
-サービス精神旺盛だね。|悪くはないよ。=It’s very hearty. Not bad.#tc
+サービス精神旺盛だね。|悪くはないよ。=It’s very cordial. Not bad.#tc
 意外と似合っているね……|悪くはないよ。=It suits you surprisingly well.|Not bad.
 個性って大事な事だね。|悪くはないよ。=Individuality is important, isn’t it? It’s not bad.
 今日は調子が悪いのかな？=Are you not feeling well today?
@@ -954,7 +954,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 ああ……ごめんね……|あまりに君が眩しいよ。=Ah… I’m sorry. You’re a bit too bright…
 仮装パーティー……|ではなかったね。=It’s… not a costume party, you know?
 華やかさと儚さは表裏一体。|覚えておいて……=Glamor and transiency go hand in hand. You should remember that…
-あまり無茶はよくない。|もっとリラックスして。=You shouldn’t push yourself. Try to relax…
+あまり無茶はよくない。|もっとリラックスして。=You shouldn’t push yourself.|Just relax…
 
 #Dress comments - Aido
 いいドレスだね。|うん、確かにドレスはいいよ。=It’s a nice dress. Yeah, the dress is, at least.
@@ -966,17 +966,17 @@ TEXTの表示速度を設定します。=Set the text speed.
 ずいぶんと堅苦しいね。=It’s a bit Victorian.
 結構無理していない？=Aren’t you trying a bit too hard?
 おー！そのドレスは……|く、頑張ってるな。=Oh, that dress… Heh, you really went all out, didn’t you?
-魅せるね。|あとは本人の成長待ちかな？=It’s charming. I guess the rest will grow in, huh?
+魅せるね。|あとは本人の成長待ちかな？=It’s charming. I guess you’ll grow into it?
 セクシーだね。|ドレスだけは。=Very sexy. The dress, that is.
 仮装パーティーだっけ？|今日は。=Was it a costume party today…?
 あっははは！|そのドレスって……変だよ。=Ahahaha! That dress is so weird.
-面白いね。|お前にはお似合いだよ。=Interesting… It suits you.
+面白いね。|お前にはお似合いだよ。=Interesting… It’s very you.
 個性的だね。|言っておくが褒めてるんじゃ|ないぞ。=…Unique. And for the record, that’s not a compliment.
 オイシイね。|さすがは風紀委員だ。=It’s nice. I expected as much, from a prefect like you.
 へぇ～別人かと思ったよ。|あまりにも普段と違うからさ。=I almost thought you were someone else. It’s very different.
 シックで良い感じ|なんじゃないの。|ドレスだけは。=It’s nice and chic. The dress, that is.
-結構大人っぽいんだね。|見直したよ。=You look very mature. I’ve reevaluated you.
-あれ？|そんなに大人っぽかった？|化けるもんだな。=Huh? Were you always this mature? I guess people can change.
+結構大人っぽいんだね。|見直したよ。=You look very mature.|I’m seeing you in a new light.
+あれ？|そんなに大人っぽかった？|化けるもんだな。=Huh? Were you always this mature?|I guess people can change.
 おおっ～派手だ！|悪くないんじゃない？=Wow, that’s flashy! It’s not so bad.
 なかなか似合うよ。|いや、…冗談抜きで、さ。=It suits you. No… that wasn’t a joke.
 ま、まぁまぁ、僕好みだよ。=W-Well, I like it.
@@ -986,10 +986,10 @@ TEXTの表示速度を設定します。=Set the text speed.
 
 #Dress comments – Kain
 ちっこいくせに|パワーにあふれてるな。=For someone so small, you’re overflowing with power.
-オシャレとしてどうかは|わからないが、俺は好きだぞ。=I don’t know if it’s in fashion, but I like it.
-う～ん、|もうちょっと落ち着いても|いいんじゃないのか？=Mm, I think it might be better to tone it down a bit.
+オシャレとしてどうかは|わからないが、俺は好きだぞ。=I don’t know if it’s in fashion, but I|like it.
+う～ん、|もうちょっと落ち着いても|いいんじゃないのか？=Mm, I think you should let your hair down more.
 何か無理してないか？|お前らしくないぞ。=Aren’t you trying a bit too hard?|It’s not you.
-なんだか小うるさい印象だ。|やさしい感じで頼むぞ。=It’s a bit loud. If you could please…#tc
+なんだか小うるさい印象だ。|やさしい感じで頼むぞ。=It’s a bit loud. Can you tone it down?#tc
 今日は、|ピアノの発表会だっけ？=Was there a piano recital today?
 つんけんした感じはあまり|好きじゃないな。=I don’t really like the snobby look.
 おお、がんばってるな。|いいぞいいぞ。おもしろくて。=Oh, you have worked hard. It’s nice, very nice. Interesting.
@@ -1011,23 +1011,23 @@ TEXTの表示速度を設定します。=Set the text speed.
 
 #Dress comments - Ichijo
 女性の持つ強さが感じられる|ね。=I can feel your womanly strength.
-緊張感のある感じだね。=There’s a bit of tension.
+緊張感のある感じだね。=It seems a bit strained.
 溢れるパワーが感じられる。|僕もあやかろうかな。=I can feel it’s overflowing power. I wonder some of it will rub off on me.
 いい感じだね。|でも落ち着いた感じも|好きだよ。=It’s nice. Though, I also like the toned-down look.#dupe
-そのドレスって……=That dress…
+そのドレスって……=That dress is…
 何かキミらしくないね。=It doesn’t seem very you.
 ずいぶんと堅苦しいね。=It’s quite formal.
 結構無理してない？=Aren’t you overdoing it?
 おー！～そのドレスは……=Ohh~! That dress is…
-魅せるね。|あとは本人の成長待ちかな？=It’s charming. I guess you’ll grow into it?
+魅せるね。|あとは本人の成長待ちかな？=It’s charming. I guess the rest will grow in, huh?
 セクシーだね。|ドレスだけは。=It’s sexy. The dress, I mean.
 いい感じだね。|でも落ち着いた感じも|好きだよ。=It’s nice. Though, I also like the toned-down look.#dupe
 フフフ～そのドレスって……=Hehehe, that dress is…
 面白いね。|キミに似合っているよ。=It’s interesting. It suits you.
 キミらしい、|個性あふれるドレスだね。=It’s a dress with personality, just like you.
 いい感じだね。|でも落ち着いた感じも|好きだよ。=It’s nice. Though, I also like the toned-down look.#dupe
-普段よりオトナの君が見られて|うれしいよ。=I’m happy I got to see you looking more mature than usual.#dupe
-普段よりオトナの君が見られて|うれしいよ。=I’m happy I got to see you looking more mature than usual.#dupe
+普段よりオトナの君が見られて|うれしいよ。=I’m happy I got to see a slightly more mature version of you.#dupe
+普段よりオトナの君が見られて|うれしいよ。=I’m happy I got to see a slightly more mature version of you.#dupe
 うわぁ、ステキだなぁ。|これが本当の君なんだね。=Wow, it’s gorgeous. So this is the real you.
 すごくいい感じだね。|オトナっぽい君はステキだよ。=It’s really nice. You look so lovely when you’re dressed as a lady.
 おおっ～そのドレスは……=Oh~ That dress is…
@@ -1037,8 +1037,8 @@ TEXTの表示速度を設定します。=Set the text speed.
 何だか暑苦しい……=It’s a bit too sweltering…
 
 #Dress comments - Shiki
-センス的には、|古いんじゃないの。=It’s not old-fashioned.
-力強い感じだよね……|そういうのダルイ……=It gives a powerful impression… It makes me tired…
+センス的には、|古いんじゃないの。=It’s a bit old-fashioned.
+力強い感じだよね……|そういうのダルイ……=It gives a powerful impression…|It makes me tired…
 ん……|もっと自然な感じの方がいい。=Mm… I think a more natural look would be better.
 ずいぶんおとなしいね……=It’s quite reserved…
 あんまり、似合ってない。=It doesn’t really suit you.
@@ -1048,7 +1048,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 キラキラしていてキレイだ……|いいよ。=It’s pretty and sparkly… It’s nice.
 美しい……|一緒に仕事したい……かな。=Beautiful… I… want to work with you.
 俺は好きだよ……|そういうの。=I like that kind of thing.
-君は、おかしな人だよね。=You’re strange.
+君は、おかしな人だよね。=You’re funny.
 すごく珍しいものを見た。|生きててよかった。=I’ve seen something rare. I’m glad to be alive.
 面白いけど……|あまり笑えない。=It’s funny, but… I’m not laughing.
 風紀委員、|すごく頑張ってる。=You tried hard, didn’t you, Prefect?
@@ -1080,9 +1080,9 @@ TEXTの表示速度を設定します。=Set the text speed.
 おい……|俺にケンカ売ってるだろ？=Hey… Are you picking a fight with me?
 ああ……|そういう顔もするんだ……=Oh… So you have this side to you too…
 そんなにアネキ風吹かせたい|のか？=You want to look like my older sister that bad?
-まるでお前じゃないみたいだ。|驚いた。=It’s like it’s not even you. I’m surprised.
+まるでお前じゃないみたいだ。|驚いた。=It’s like it’s not even you.|I’m surprised.
 あまり背伸びしてもロクな事|ないぞ。=It’s not good to be too tall.
-まぶしいな……|何か目の毒だ。=It’s so dazzling… That’s the last thing I need to see…
+まぶしいな……|何か目の毒だ。=It’s so dazzling… That’s the last thing I needed to see…
 うわ……|見なかった事にする……=Woah… I’ll pretend I didn’t see that.
 カンベン……|してくれないか……=Please… give me a break…
 お前は、|いったいどこへ行きたいんだ？=Where were you even hoping to go?
@@ -1150,9 +1150,9 @@ Leave party - Zero
 Dress up - Kaname
 僕をこんな風にしてしまえる|のは君だけだよ……=You’re the only one who could make me dress like this…
 これが……僕？|自分でも気づかなかったモノを|見せてくれたね。最高だ。=Is this… me? You’ve shown me something I didn’t know was possible. It’s great.
-これが君の望む僕の姿……こんな|にもドレスアップしてくれて……|うれしいよ……ありがとう。=This is what you like… I’m happy you dressed me up… Thank you.
+これが君の望む僕の姿……こんな|にもドレスアップしてくれて……|うれしいよ……ありがとう。=This is what you like… I’m happy you dressed me up. Thank you.
 僕好みのセンスだと思う。|わかってもらえてるみたいだね。=I think this is my preferred fashion sense. You seem to know it well.
-これこそ僕の求めていたもの。|さすがは君だ。ありがとう。=This is exactly what I was after. You know me well. Thank you.
+これこそ僕の求めていたもの。|さすがは君だ。ありがとう。=This is exactly what I was after.|You know me well. Thank you.
 どう？|君が満足なら僕も嬉しいよ。=How is it? If you’re happy, then I’m happy.
 うん、悪くはないね。|これからも、|おしゃれに頼んだよ。=Yes, it’s not bad. I’ll be counting on you.
 君が気に入っているなら、|それでいい。……悪くはないよ。=If you like it, that’s enough.|…It’s not bad.
@@ -1176,37 +1176,37 @@ Dress up - Aido
 ふふん！|僕ってやっぱり格好良いよね！|気分がいいよ。=Ho-ho! I really am handsome! It feels good.
 これは……|真面目にやってないよね？|頼むよ……=You’re not… serious about this, are you? Please…
 う～ん、暁だったら似合うと|思うけど……|僕のイメージじゃないなぁ。=Hmm, I guess it might suit Akatsuki, but… this isn’t really my image.
-もしかしてこれが、|お前のセンス？|まさか……ウソだよね？=Is this… your sense of fashion? No way… You’re kidding, right?
+もしかしてこれが、|お前のセンス？|まさか……ウソだよね？=Is this… your sense of fashion?|No way… You’re kidding, right?
 これが僕？信じられない！|何てことをしてくれたんだ！！も|う生まれ変わるしかないのか？！=This is me? I can’t believe it! What have you done to me!? Am I going to have to run away and start over…!?
-ただでさえ、魅力的な僕をここ|までおとしめるなんて…|こんな僕とはサヨナラだ！=To think I could look this disgraceful… I want nothing more to do with this me!
-恐ろしい…服装センスのレベ|ル:Ｅとは、この事だ！枢様に嫌|われる！…枢様お許しください！=It’s awful. This is like a Level E-level of fashion sense! Lord Kaname is going to hate me! Please forgive me, Lord Kaname…!
+ただでさえ、魅力的な僕をここ|までおとしめるなんて…|こんな僕とはサヨナラだ！=To think I could look this disgraceful… I want nothing more|to do with this me!
+恐ろしい…服装センスのレベ|ル:Ｅとは、この事だ！枢様に嫌|われる！…枢様お許しください！=It’s awful. This is like Level E fashion sense! Lord Kaname is going to hate me! Please forgive me, Lord Kaname…!
 
 Dress up - Kain
 あまりおしゃれなんて物には興味|がなかったんだが…こういうのも|悪くないな。お前のおかげだぞ。=I’ve never really been into fashion, but… this isn’t so bad. I owe it to you.
-これが俺だって？服一つでこんな|に気持ちが浮き立つなんてな…|夢ならさめないでくれ。=This is me…? I never clothes could make me feel so good… If this is a dream, don’t wake me.
-こんな自分がいたなんて。|俺もアイドル先輩って、|呼ばれちまうんじゃないか。=I can’t believe I could look like this. They might start calling me “Idol” too next.
-今まで意識したことはなかったん|だが、これってもしかして、イケ|てるって言うんじゃないか？？=I’ve never really noticed it before but, could this be what they call “a badass”?
-イイ感じだと、素直に思うよ。|これからは、ワイルド＆ビュー|ティーセンパイって呼んでくれ。=I think it’s pretty neat. From now on, you can call me “Wild and Beautiful”.
+これが俺だって？服一つでこんな|に気持ちが浮き立つなんてな…|夢ならさめないでくれ。=This is me…? I never thought clothes could make me feel so good… If this is a dream, don’t wake me.
+こんな自分がいたなんて。|俺もアイドル先輩って、|呼ばれちまうんじゃないか。=I can’t believe I could look like this. They might start calling me ‘Idol’ too next.
+今まで意識したことはなかったん|だが、これってもしかして、イケ|てるって言うんじゃないか？？=I’ve never really noticed it before but, could this be what they call ‘a badass’?
+イイ感じだと、素直に思うよ。|これからは、ワイルド＆ビュー|ティーセンパイって呼んでくれ。=I think it’s pretty neat. From now on, you can call me ‘Wild and Beautiful’.
 お前って言いセンスしてるよな。|これからも素敵なコーディネイト|たのんだぞ。=So this is your fashion sense. I’ll be counting on you for coordination tips.
 うん、悪くないな。|こういうのをカジュアルって|言うのか？=Yeah, not bad. Is this what they call the ‘casual look’?
-イケてる…イケてない…イケて|る…イケてない……イケてる！|なんだ、そうだったのか！=Is it hot… or not…? It’s hot… it’s not…|…It’s hot! Yeah, that’s it!
+イケてる…イケてない…イケて|る…イケてない……イケてる！|なんだ、そうだったのか！=Is it hot… or not…?|It’s hot… it’s not…|…It’s hot! Yeah, that’s it!
 来年の舞踏祭には、|この格好で出てみようかな。=I might wear this outfit to next year’s ball.
-これがどういう事かは、|いくらファッションにうとい俺|でも…わかるぞ……=Even a fashion-novice like me… can see what’s going on here.
+これがどういう事かは、|いくらファッションにうとい俺|でも…わかるぞ……=Even a fashion-novice like me… can see what’s wrong here.
 お前……|俺で遊んでいるんだろ？|俺は遊ばれるのは嫌いだ。=You… Are you toying with me? I don’t like being played with.
 おい、一言いいか？|俺の青春を返してくれ。=Hey… I want my youth back.
 この俺には、おしゃれなんて|無縁だと思っていた……|でもその通りじゃないか！=I didn’t think fashion was relevant to me, but… doesn’t this just prove it!?
 これが俺だって？|自分でもなさけないぞ……|夢ならさめてくれ……=This is me…? I feel sorry for myself. If this is a dream, wake me up…
-こんな自分がいたなんて。|ワルイド先輩って|呼ばれたりするのかな…はぁ～=I can’t believe I could look like this. No one would call this “Wild”… *Sigh*
+こんな自分がいたなんて。|ワルイド先輩って|呼ばれたりするのかな…はぁ～=I can’t believe I could look like this. No one would call this ‘Wild’… *Sigh*
 
 Dress up - Ichijo
 こんなに素敵な体験ははじめて|だよ。ありがとう、|僕のキューピット。=This is the best experience I’ve ever had! Thank you, my cupid.
-もう、天にも昇る気持ちさ。|こんな自分に会うのははじめて。|最高だよ。=I feel like I’m in heaven! I’ve never seen myself like this before. It’s amazing.
+もう、天にも昇る気持ちさ。|こんな自分に会うのははじめて。|最高だよ。=I feel like I’m in heaven! I’ve never seen myself like this before. It’s amazing!
 ねぇ聞いて。　僕が美しい、|素敵だって、みんなが噂するん|だよ。困っちゃうよねー。=Look. Everyone’s whispering about how handsome and amazing I am. How troublesome~
-素敵な体験をありがとう。|夢の中での僕は、|君好みになれたかな？=Thank you for the wonderful experience. Am I all you dreamed I’d be?
-僕が美しいって？|ちがうよ。|君のがんばりが美しいんだよ。=You think I’m beautiful? You’re wrong. It’s your hard work that’s beautiful.
+素敵な体験をありがとう。|夢の中での僕は、|君好みになれたかな？=Thank you for the wonderful experience. Am I all you dreamed|I’d be?
+僕が美しいって？|ちがうよ。|君のがんばりが美しいんだよ。=You think I’m stunning? You’re wrong. It’s your hard work that’s stunning.
 ナーイストレンド！フフッ。|あまりのおしゃれに支葵も|きっとおどろくよ！=Nice try! Hehe. I bet Shiki will be surprised at how stylish I am!
 うん、なかなかだね。|キミっていいセンスしているよ。=It’s nice. You have a good eye.
-昼間でも、街を出歩きたい|くらい、良い気分だよ。|一緒に行く？=Even though it’s daylight, it feels good to walk through town. Should we go together?
+昼間でも、街を出歩きたい|くらい、良い気分だよ。|一緒に行く？=Even though it’s daylight, it feels good to walk through town. Should|we go together?
 うん、これで大好きな読書も|気分良くできるよ。|ありがと。=Now I can read my favorite book in comfort. Thank you.
 おー！なんてことだ。|あの支葵が爆笑する姿が目に|うかぶよ…=Oh no! I can just see Shiki laughing at me…
 うーん、信じたくないんだけど|もしかして、|僕で遊んでいるのかな？=I don’t want to believe it, but are you just playing with me?
@@ -1223,36 +1223,36 @@ Dress up - Shiki
 俺って格好良いね……|自分で言っちゃうよ=I’m good-looking… I really said it.
 すごくいい。|俺のスタイリストに教えておく。=It’s great. I’ll tell my stylist.
 けっこういい感じ。|悪くない。=It’s comfy. Not bad.
-街には出られるレベルかな……=I guess it’s about ‘going to town’ level.
+街には出られるレベルかな……=I guess it’s about ‘going into town’ level.
 まぁまぁかな。がんばって。=It’s okay. You tried.
 マジメにやってない……|次……ちゃんとしてね。=You’re not trying… You should it properly next time.
 なんだか、眠くなってきた……=I feel sleepy…
 これじゃ、莉磨に怒られる……=Rima will be angry…
-もっと上を目指せたはず……|それなのに……ありえない。=You said you’d try, but… It’s impossible.
+もっと上を目指せたはず……|それなのに……ありえない。=I thought you could improve my look, but… It’s impossible.
 こんな着こなしは、初めて。|仕事でも味わえない……|屈辱……残念。=This is the first time I ever worn something like this, even at work… It’s humiliating… shameful.
 最悪だ。|俺のスタイリスト紹介する。=This is terrible. I’ll have to introduce you to my stylist.
 
 Dress up - Zero
 なんだか、|おしゃれに目覚めたのかも……|これが新しい自分？=I feel like I’ve just woken up to the world of fashion… Could this be a new me?
-これが俺なんだ…|信じられない…|最高の気分だ。=It’s me… I can’t believe it… This feels great.
+これが俺なんだ…|信じられない…|最高の気分だ。=It’s me… I can’t believe it…|This feels great.
 これなら、ナイト･クラスの|連中にも負けない。お前の|コーディネイトのおかげだ。=With this, I won’t lose, even to the Night Class. It’s thanks to your coordination skills!
 へぇーいいもんだな。|うん、いいよ。コレ。=Heh, this is something. Yeah, it’s good.
-あ…お前の気持ちが伝わるよ。|一生懸命、|考えてくれたんだな。=Ah… I can tell. You thought really hard about this, didn’t you?
+あ…お前の気持ちが伝わるよ。|一生懸命、|考えてくれたんだな。=Ah… I can tell you thought really hard about this, didn’t you?
 お前にこんな才能があった|なんて…こっちの道に|進んでもいいんじゃないのか？=I never knew you had this kind of talent… Maybe you should pursue it?
 まぁ…、悪くはないかな。|普通にいい感じだ。=Well… I guess it’s not bad. It’s pretty normal.
 あまり冒険しなかったのか？|らしくないな。=It’s not very adventurous. That’s not like you.
 もっと試してくれても|良かったのに……|お前のためなら何でもするさ。=You could have been more adventurous…|I’d do anything for you.
 おい……|ふざけてるだろ？|俺で遊ぶんじゃない。=Hey… Are you kidding me? Don’t toy with me.
-いったいどういうつもり|なんだ？お前とは当分、話し|たくないのが正直な気持ちだ。=What the hell were you aiming for? I don’t really want to talk to you right now.
+いったいどういうつもり|なんだ？お前とは当分、話し|たくないのが正直な気持ちだ。=What the hell were you aiming for?|I don’t really want to talk to you right now.
 まさか、まじめにやってコレは|ないだろうな？|頼むぞ…=Don’t tell me, you’re actually serious about this? I’m begging you…
-「おしゃれ」なんて言葉、|口にしたくもない！|新しい自分なんていらない！=I want nothing to do with “fashion”! I don’t need a new me!
-これが俺なんだ…|信じられない…|最低の気分だ。=It’s me… I can’t believe it… This feels awful.
+「おしゃれ」なんて言葉、|口にしたくもない！|新しい自分なんていらない！=I want nothing to do with ‘fashion’!|I don’t need a new me!
+これが俺なんだ…|信じられない…|最低の気分だ。=It’s me… I can’t believe it…|This feels awful.
 これなら、ナイト･クラスの|連中にも負けない。|センスの悪さではな！=With this, I won’t lose, even to the Night Class. You have good taste!
 
 Extra date comments - Kaname
 似合ってる？|そう……よかった。=Does it suit me? I see… That’s good.
 新しいね……|「新しい」とは|便利な言葉だ……=It’s novel… ‘Novel’ is a good word…
-とても楽しそうだね。|ならいいんだよ。=You seemed to be having fun. That’s enough for me.
+とても楽しそうだね。|ならいいんだよ。=You seem to be having fun. That’s enough for me.
 
 Extra date comments - Aido
 そうきたか！|なかなかやるじゃないか！=I’m surprised. You’re pretty good.
@@ -1289,13 +1289,13 @@ Date over -Kaname
 Date over - Aido
 お前は夢の中の出来事だと思っ|ているかもしれないけど、良い|思念は伝わるものなんだよ。=You might just think this is all a dream, but your good thoughts have been received.
 うん。悪くなかったね。|次も期待しているよ！=Yeah, it wasn’t bad. I’m looking forward to next time!
-なかなかのセンスだね。|まぁ期待はしてないけど。|=You’ve got good taste. Well, wasn’t holding my breath though.
+なかなかのセンスだね。|まぁ期待はしてないけど。|=You’ve got good taste. Well, I wasn’t holding my breath though.
 こんなバカな夢を見てないで、|ちゃんと勉強する事だな。=Instead of having these stupid dreams, you should be studying.
 夢の中の出来事だとはいえ、|絶対に許さないぞ！=This might just be a dream, but I’ll never forgive you!
 
 Date over - Kain
 お前のおかげで、新しい感覚に|目覚めた気分だ。これからの俺、|大きくかわりそうだな。=Thanks to you, I feel like my eyes have opened to a new world. I’m a changed man.
-夢の中とはいえ、普段出来ない|楽しい体験だった。|また、頼むな。=This might just be a dream, but I experienced something fun that I wouldn’t normally do. Let’s do this again.
+夢の中とはいえ、普段出来ない|楽しい体験だった。|また、頼むな。=This might just be a dream, but I got to do something fun that I wouldn’t normally do. Let’s do this again.
 結構がんばっているんだな。|次もたのむぞ。=You tried really hard. I’ll be counting on you next time too.
 お前のセンスには、正直疑問を|感じる。支葵に相談した方が|いいんじゃないのか？=To be honest, I have doubts about your fashion sense. Maybe you should talk to Shiki?
 何バカな夢を見ているんだ？|お前にはやるべき事があるんだ|ろう。=What kinds of stupid dreams do you have? Isn’t there something better you should be doing?
@@ -1309,10 +1309,10 @@ Date over – Ichijo
 
 Date over - Shiki
 たぶん俺も同じ夢を|見ているよ。……わかる？=I’m probably having the same dream. …Get it?
-楽しかった。|また会おう……|期待している。=That was fun. Let’s do it again…|I’m looking forward to it.
+楽しかった。|また会おう……|期待している。=That was fun. Let’s do it again.|I’m looking forward to it…
 退屈しなかった……|また来て。=I didn’t get bored… We should do this again.
 寝てばかりじゃ、駄目だよ。=It’s no good to just sleep.
-変な夢にはもう出たくない。=I don’t want to be in anymore weird dreams.
+変な夢にはもう出たくない。=I don’t want to be in any more weird dreams.
 
 Date over - Zero
 夢の中の俺は、|こんなにも幸せそうなんだ。|ありがとう…=So I can be this happy in your dreams. Thank you…
@@ -1358,7 +1358,7 @@ Date over - Zero
 下がってろ！|俺がやる！=Stay back! I’ll handle this.
 お前の事は、俺が守る！=I’ll protect you!
 こいつには、|指一本触れさせない！|消えるんだな！=I won’t let you lay a finger on her! Disappear!
-炎に包まれ、暖かく逝きな……|せめてものなぐさみだ=Be engulfed in flames and pass away in warmth… That’s the only comfort I can give.
+炎に包まれ、暖かく逝きな……|せめてものなぐさみだ=Be engulfed in flames and pass away in warmth… That’s the only comfort|I can give.
 俺の力を見くびるんじゃない！|レベル:Ｅ！=Don’t underestimate me, Level E!
 ケガはないか？|無茶ばっかりしやがって……=Are you hurt? Always being so reckless…
 お前の行動で、俺はヤケドして|しまいそうだ。=I feel like your actions are going to backfire on me.
@@ -1373,16 +1373,16 @@ Date over - Zero
 大丈夫？！|僕にまかせて！=Are you okay?! Leave this to me!
 危ない！|キミは下がって！=It’s not safe! Stay back!
 キミの事は、僕が守る！=I’ll protect you!
-彼女には、手出しさせない！|愚者は、消えるんだ！=I won’t let you touch her! Fool’s should just disappear!
+彼女には、手出しさせない！|愚者は、消えるんだ！=I won’t let you touch her!|Fools should just disappear!
 悲しき宿命の者。|最期は見届けてやる。=What a tragic fate. I’ll see you through to the end.
 僕の力を甘く見ない方がいいよ。=You shouldn’t underestimate my power.
-大丈夫？|けがはない？|もう……、びっくりしたよ。=Are you okay? You’re not hurt?|Goodness… You didn’t give me half a shock.
+大丈夫？|けがはない？|もう……、びっくりしたよ。=Are you okay? You’re not hurt?|Goodness… You didn’t give me half|a shock.
 おどろいたよ。|君って大胆。|でも、心臓にわるいよ。=That surprised me. You’re so brave. My heart nearly stopped.
 大丈夫だよね？|君が無事ならそれでいいんだよ。=Are you okay? All I care about is that you’re safe.
 本当にキミの事が心配なんだ。|次からは、僕にまかせて。=I was so worried about you.|From now on, leave it to me.
 これじゃあ、|君から目が離せないかな。=Seems I just can’t take my eyes off you.
 錐生君はどうしちゃったの？|ケンカでもしたのかな？=What happened to Kiryu? Did you get into a fight?
-キミにガーディアンを|任せるの……不安だよ。|心配だから言っているんだよ。=I’m concerned about you being a Guardian. I only say it because I’m worried…
+キミにガーディアンを|任せるの……不安だよ。|心配だから言っているんだよ。=I’m not sure about you being a Guardian. I only say it because I’m worried…
 こんな事が続くと、|きっと枢も悲しむよ……=If this goes on, Kaname will surely be sad…
 #
 ##Level E minigame - Shiki
@@ -1407,20 +1407,20 @@ Date over - Zero
 お前の事は、俺が守る！=I’ll protect you!
 こいつに触れるな！醜い魂が！=Don’t touch her with your filthy hands!
 お前の悲しみは、|俺が消してやる……=I’ll put you out of your misery…
-２度とお目にかかりたくないな。|消えろ！=I never want to see you again. Disappear!
+２度とお目にかかりたくないな。|消えろ！=I hope I never see you again. Disappear!
 ケガはないか？|無茶ばっかりしやがって。=Are you hurt? That was too reckless.
 どうしていつも危ない橋を|渡るんだ？！|心配させやがって……=Why must you always go out on a limb!? Making me worry…
 あまり無茶をすると理事長が|悲しむぞ。|あんな男でも、お前の父親だ。=If you keep being so reckless, you’ll make the headmaster sad. Despite it all, he’s still your father.
-よくこらえたな。|これからもお互いガーディアン|として頑張ろう。=You put up a good fight.|Let’s keep doing our best as Guardians.
+よくこらえたな。|これからもお互いガーディアン|として頑張ろう。=You put up a good fight. Let’s keep doing our best as Guardians.
 俺が来なかったらどうする|つもりだったんだ？|まぁ、がんばったよ。=What were you going to do if I hadn’t come!? Well, I guess you did you best.
 醜いヴァンパイアは、|俺たちの手で葬るんだ。|いいな？=We’ll bury these unsightly vampires ourselves. Got it?
 それでもガーディアンなのか？|今後はもう俺にまかせろ。=And you’re a Guardian? Leave it to me from now on.
-お前はもう外出しないほうが|いい。|あまりにも狙われすぎている。=You shouldn’t go out anymore. You get targeted too much.
+お前はもう外出しないほうが|いい。|あまりにも狙われすぎている。=You shouldn’t go out anymore.|You get targeted too much.
 #
 #Level E minigame - Yagari
 小娘！|大丈夫か！？=Girl! Are you okay?
 ヴァンパイアは…|始末する！=Vampire… This is the end!
-ちっ…数が多い…|ここは俺が引きつける！=Tch… There’s so many…|I’ll draw them away.
+ちっ…数が多い…|ここは俺が引きつける！=Tch, there’s so many…|I’ll draw them away.
 俺を恨みながら逝け。|ヴァンパイア……！=Resent me and die, Vampires!
 お前達が|いかに『弱い』存在か、|教えてやるぜ。=I’ll show you just how weak you are.
 ふっ…|俺の本領発揮だな！=Hmph… This is my calling!

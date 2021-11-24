@@ -1012,7 +1012,7 @@ TEXTの表示速度を設定します。=Set the text speed.
 #Dress comments - Ichijo
 女性の持つ強さが感じられる|ね。=I can feel your womanly strength.
 緊張感のある感じだね。=It seems a bit strained.
-溢れるパワーが感じられる。|僕もあやかろうかな。=I can feel it’s overflowing power. I wonder some of it will rub off on me.
+溢れるパワーが感じられる。|僕もあやかろうかな。=I can feel it’s overflowing power. I wonder if some of it will rub off on me.
 いい感じだね。|でも落ち着いた感じも|好きだよ。=It’s nice. Though, I also like the toned-down look.#dupe
 そのドレスって……=That dress is…
 何かキミらしくないね。=It doesn’t seem very you.
@@ -1225,7 +1225,7 @@ Dress up - Shiki
 けっこういい感じ。|悪くない。=It’s comfy. Not bad.
 街には出られるレベルかな……=I guess it’s about ‘going into town’ level.
 まぁまぁかな。がんばって。=It’s okay. You tried.
-マジメにやってない……|次……ちゃんとしてね。=You’re not trying… You should it properly next time.
+マジメにやってない……|次……ちゃんとしてね。=You’re not trying… You should try it properly next time.
 なんだか、眠くなってきた……=I feel sleepy…
 これじゃ、莉磨に怒られる……=Rima will be angry…
 もっと上を目指せたはず……|それなのに……ありえない。=I thought you could improve my look, but… It’s impossible.

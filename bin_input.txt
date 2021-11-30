@@ -7494,7 +7494,7 @@ vk_se6_010=
 しかも、クライングローズ|なんて小道具で演出しちゃう|なんてさ、すごい手の込み様。=What’s more, using the Crying Rose as a prop, now that’s some real dedication.
 ねぇ、教えてほしいんだけど|次は誰を犠牲にするつもり|なのかな？=So, how about you tell me who the next sacrifice will be?
 もしかすると……|キミの相棒だったりして？|はははは！=Maybe… your partner?|Ahahaha!
-（明言はしないけど、|藍堂センパイは私が犯人だと|決めつけているようだった）=(He hadn’t say it out loud, but Aido seemed convinced that I was the culprit.)
+（明言はしないけど、|藍堂センパイは私が犯人だと|決めつけているようだった）=(He hadn’t said it out loud, but Aido seemed convinced that I was the culprit.)
 （私を見つめて愉快そうに笑う|形の良い唇が憎らしくて|たまらない……）=(I couldn’t stand to watch those perfect lips, laughing at me in amusement…)
 ……私、失礼します。=…Excuse me.
 へぇ～逃げるんだ？|それじゃあ、自分が犯人|だって認めるってこと？=Heh~ Are you running away? So you’re admitting that you’re the one responsible?
@@ -7904,7 +7904,7 @@ vk_se6_010=
 # A2660 choose レポーターを探す
 レポーターを探します。=Let’s look for the reporter.
 （私は枢センパイと二人で|レポーターを探しまわった）=(Kaname and I looked everywhere for the reporter.)
-（街中をかけずり回ったけど|結局彼女の姿は|どこにもなかった……）=(We’d been round every backstreet and alleyway, but she was nowhere to be seen.)
+（街中をかけずり回ったけど|結局彼女の姿は|どこにもなかった……）=(We’d been around every backstreet and alleyway, but she was nowhere to be seen.)
 <name>にクライングローズを|渡した子供を探してみるのは|どうかな？=Maybe we should try looking for the boy who gave you the Crying Rose?
 そうですよね。|あの子さえ見つかれば、きっと|手がかりを得られるはずです。=You’re right. If we can at least find him, I’m sure we’d be able to get some kind of clue.
 
@@ -8262,7 +8262,7 @@ vk_se6_010=
 （デイ･クラスの生徒達は|ナイト･クラスの生徒達と|ダンスを踊りたくてーー）=(For the Day Class students, having a precious chance to dance with the Night Class students…)
 （気合いの入れようも|ハンパない！）=(Their excitement knows no end!)
 （だけど、舞踏祭に参加|するには、大きな|ハードルがあるのだ……）=(That being said, there’s one big obstacle standing in the way…)
-そのためには、学年試験で|最下位にならないように|頑張らないとね、ははは！=On that note, you’d better work hard not to come bottom on the exam, hahaha.
+そのためには、学年試験で|最下位にならないように|頑張らないとね、ははは！=On that note, you’d better work hard not to come last on the exam, hahaha.
 最下位になったクラスは|強制的に舞踏祭の裏方さんに|回されちゃうからな～。=Don’t forget that the class with the lowest score will have to work at the ball.
 うっ……死ぬ気で試験勉強|頑張らないと……。=Nngh… I better study like my life depends on it!
 <name>ガンバだよ～！|それはそうと……|誰からの贈り物だったの？=Fingers crossed, Yuki~!|So who was the gift from anyway?
@@ -8369,7 +8369,7 @@ vk_se6_010=
 ダンス、踊れるじゃん。|零のウソつき。=So you can dance. You liar.
 別に踊ってない。|ただ足を動かしてるだけだ。=This is hardly what I’d call dancing.|I’m just moving my feet.
 （そっと見上げた零の顔は|ほんのり赤く染まっている）=(As he looked down at me gently, Zero’s face was slightly red.)
-（こんなに近くで零の顔を|見つめるなんて……|心臓に悪いかも……）=(Seeing his face so up close… I’m not sure if my heart can takeit…)
+（こんなに近くで零の顔を|見つめるなんて……|心臓に悪いかも……）=(Seeing his face so up close… I’m not sure if my heart can take it…)
 （それに、今夜の零は|いつになく優しくて……|ついつい甘えたくなる）=(Plus, tonight Zero is being so much kinder than usual… I feel like I want him to spoil me.)
 ねぇねぇ、もう一つだけ|お願い聞いてくれる？=Hey, could I ask for one more favor?
 ……場所、変えない？=…Can we go for a change of scenery?
@@ -8628,7 +8628,7 @@ vk_se6_010=
 そのドレスは一応、|お詫びの印だ。だから|遠慮なく受け取ってくれ。=That dress is a token of my apology, so don’t fret and just keep it.
 そんな……|私は全然|気にしてないですから！=I-It’s okay! I’ve already forgotten all about it.
 ったく、|お前には適わない、か。=Honestly… I’m no match for you.
-お前を思う玖蘭寮長の気持ちが|わかる気がするぜ。=I think can I understand President Kuran’s feelings for you.
+お前を思う玖蘭寮長の気持ちが|わかる気がするぜ。=I think I can understand President Kuran’s feelings for you.
 
 # A3A58
 ……でも、俺は玖蘭寮長ほど|甘いつもりはない。=But, I've no intention of being as lenient with you as President Kuran is.
@@ -8800,7 +8800,7 @@ vk_se6_010=
 ははは。<name>ちゃん、|小さな子供みたい。=Hahaha, Yuki, you’re like a little kid.
 子供扱いしないでくださいっ。|はっくしゅん！=Please don’t treat me like a child!|*Achoo!*
 あらら、本当に大丈夫？|やっぱり戻ろうよ。=Oh dear, are you sure you’re alright? I think we should head back.
-<name>ちゃんに|風邪なんてひかせたら、|枢に合わせる顔ないし。=If you were to catch a cold, I’d wouldn’t be able to face Kaname.
+<name>ちゃんに|風邪なんてひかせたら、|枢に合わせる顔ないし。=If you were to catch a cold, I wouldn’t be able to face Kaname.
 夜のお散歩はおあずけ。|また、今度ね|<name>ちゃん。=We’ll have to postpone our nighttime stroll. Until next time, Yuki.
 （本当はもう少し|一条センパイと二人きりで|いたかったな……）=(I wish I could have been alone with Ichijo for just a little longer…)
 

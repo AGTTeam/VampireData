@@ -15286,7 +15286,7 @@ vk_se6_010=
 （新しい日の始まりを|知らせる朝日が昇る中、|戦いは終わった……）=(As the morning sun rose, signaling the start of a brand new day, the battle ended.)
 （異変を察知してくれた零や|枢センパイたちが駆けつけて|くれたけど……）=(Zero and the others rushed to my aid, sensing that something was wrong, but…)
 （消え去ったレベル：Ｅと共に|あの人の姿も消えていた。）=(Both the Level E, and Mr. Yagari had vanished.)
-（もう少し私が強ければ……|もう少し私に力があれば……）=(If only I was stronger… If I only more power…!)
+（もう少し私が強ければ……|もう少し私に力があれば……）=(If only I was stronger… If I only had more power…!)
 （どこにいってしまったの？|あの人は）=(Where did he go?)
 私は信じている。|先生はきっと生きている。|信じて待とう。いつまでも……=I believe in him. He’s still alive. I will have faith and wait, for as long as it takes…
 

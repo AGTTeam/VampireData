@@ -72,17 +72,17 @@ ON/OFF
 前田 佳代子=Kayoko Maeda
 鈴木 淳=Jun Suzuki
 アシスタント　プロデューサ=Assistant Producer
-茂木 美玲=Mirei Mogi #can't find, works for D3
+茂木 美玲=Mirei Mogi
 ディレくター=Directors
 和久田　貴浩　（アフェクト）=Takahiro Wakuta (Affect)
-村山 達郎　（アフェクト）=Tatsuro Murayama (Affect) #possibly found?
+村山 達郎　（アフェクト）=Tatsuro Murayama (Affect)
 
 061_00
 プログラム=Programming
 正岡 博和　（アフェクト）=Hirokazu Masaoka (Affect)
 草川 優樹 （アフェクト）=Yuki Kusakawa (Affect)
 栗原 真登 （アフェクト）=Masato Kurihara (Affect) #can't find
-大貫　悟 （アフェクト）=大貫悟 #can't find
+大貴 悟  （アフェクト）= #can't find
 
 062_00
 グラフィック=Graphics
@@ -90,7 +90,7 @@ ON/OFF
 福島 由喜　（アフェクト）=Yuki Fukushima (Affect)
 野平 里奈　（アフェクト）=Rina Nohira (Affect)
 大楠 紀子 （株式会社フェローズ）=Noriko Ookusu (Fellows Co.)#can't find
-緒形 祐 （株式会社フェローズ）=Yu Ogata (WINDS Co., Ltd.)#can't find
+緒形 祐 （株式会社フェローズ）=Yu Ogata (WINDS Co., Ltd.)
 安部 知栄子 （株式会社フェローズ）=Chieko Anbe (WINDS Co., Ltd.)
 安田 真子 （株式会社フェローズ）=Masako Yasuda (WINDS Co., Ltd.)
 竹内 朝子 （株式会社フェローズ）=Asako Takeuchi (WINDS Co., Ltd.)
@@ -169,7 +169,7 @@ ON/OFF
 渡部 洋子=Yoko Watanabe
 横井 太地=Taiji Yokoi
 棚瀬 信次=Shinji Tanase
-立花 宏且=Hiroshi Tachibana #can't find
+立花 宏且=Hiroshi Tachibana
 渡辺 浩一=Koichi Watanabe
 堀 恵木=Keiki Hori
 小嶋 正樹=Masaki Ojima

@@ -8,3 +8,4 @@ dictionary.asm
 *.xdelta
 bmpcache.txt
 temp*.bin
+.DS_Store

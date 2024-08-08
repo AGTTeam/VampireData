@@ -1,2 +1,4 @@
-# VampireData
-Translation data for Vampire Knight on the NDS.
+# Vampire Data
+This repository contains all the strings and assets for the game's patch.  
+If you're looking for the English patch, click [here](https://github.com/AGTTeam/VampireData/releases).  
+If you're looking for the game's tool, click [here](https://github.com/AGTTeam/VampireTranslation).  

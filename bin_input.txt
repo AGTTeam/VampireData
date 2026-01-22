@@ -2352,7 +2352,7 @@ vk_se6_010=
 私には無縁かも……=It’s not really something I can get involved in…
 何？何か言った？=Hm? Did you say something?
 うぅんっ、何でもない。|こっちの話だから、はははは。=No, it was nothing. Just talking to myself, hahaha.
-ていうか、聖ショコラトル･|デーなんて風紀委員には存在|しないも同然。=I was just thinking, maybe it’s natural that prefects don’t get|a St. Xocolatl Day.
+ていうか、聖ショコラトル･|デーなんて風紀委員には存在|しないも同然。=I was just thinking, maybe it’s natural that prefects don’t get|a St. Xocolatl's Day.
 せっかくの|聖ショコラトル･デーなのに？|誰にも渡さないの？=Even though it’s finally here? You’re not going to give anyone a gift?
 渡さない……=I can’t.
 僕にも～？=Not even me~?
@@ -3764,7 +3764,7 @@ vk_se6_010=
 <unk1>早い時間から|枢センパイと会えたから……=<unk1>It meant I got to see you, even during the day…
 嬉しいよ。|<name>がそんな風に|言ってくれるなんて。=Hearing that from you makes me really happy, Yuki.
 <unk1>（言っちゃった……|何か、恥ずかしいな）=<unk1>(I said something kind of embarrassing…)
-<unk1>（うわっ！|零、すっごい目で|こっち睨んでる……！）=<unk1>(Eep! Zero is really giving me a dirty look!)
+<unk1>（うわっ！|零、すっごい目で|こっち睨んでる……！）=<unk1>(Eep! Zero is giving me a dirty look!)
 
 # A28B0 Choose 楽しくなかったです
 <unk1>あんまり……|楽しくなかったです。=<unk1>I didn’t really have a good time.
@@ -3867,7 +3867,9 @@ vk_se6_010=
 藍堂センパイか……|何だか私、嫌われてる|みたいなんですけど……=Aido? It seems like he dislikes me for some reason…
 英に？|でも、あんたの血は|気に入ったって言ってたぜ。=Hanabusa does? Though, he did say he likes your blood.
 （それって、喜んでいいの？|複雑だなあ……）=(Am I supposed to take that as a compliment? It’s a bit…)
-そう言えば、架院センパイと|藍堂センパイっていとこ同士|なんですよね？=That reminds me, the two of you are cousins, aren’t you?
+
+# Jumps back in here if not
+そう言えば、架院センパイと|藍堂センパイっていとこ同士|なんですよね？=That reminds me, you and Aido are cousins, aren’t you?
 ああ。それがどうした？=Yeah. What about it?
 いとこなのに、性格は|あんまり似てませんね。|それに……=Even though you’re related, you’re not very much alike.
 特殊能力も正反対なんですね。|炎と氷、なんて。=Plus, your special powers are the exact opposite. Fire and ice…

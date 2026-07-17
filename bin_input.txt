@@ -187,7 +187,7 @@
 <ch1>やっぱり……自分で決めます<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>“Actually… I’ll pick.”<00><0C><0A><ch2>“Actually… I’ve changed my mind.”<00><0D>
 <ch1>何がですか？<00><00><0A><ch2>ガマンしてください<00><01>=<ch1>“What are you talking about?”<00><00><0A><ch2>“Please get a hold of yourself.”<00><01>
 <ch1>別にいいですよ<00><03><0A><ch2>いやです<00><04>=<ch1>“Go ahead.”<00><03><0A><ch2>“You can’t.”<00><04>
-<ch1>う～ん、まぁ、いいかな……<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay…”<00><07><0A><ch2>“It's no good.”<00><08>
+<ch1>う～ん、まぁ、いいかな……<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay…”<00><07><0A><ch2>“It’s no good.”<00><08>
 <ch1>う～ん、まぁ、いいかな……<00><07>=<ch1>“Well, I guess that it’s okay…”<00><07>
 <ch1>自分できめます<00><09><0A><ch2>藍堂センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
 <ch1>自分できめます<00><09>=<ch1>“I’ll pick…”<00><09>
@@ -204,16 +204,16 @@
 <ch1>はい……<00><0C><0A><ch2>やっぱり……いやです<00><0D>=<ch1>“Right…”<00><0C><0A><ch2>“I… I can’t go through with this.”<00><0D>
 <ch1>何がですか？<00><7F><0A><ch2>ガマンしてください<00><01>=<ch1>“What are you talking about?”<00><7F><0A><ch2>“Please, pull yourself together.”<00><01>
 <ch1>別にいいですよ<00><7F><0A><ch2>いやです<00><04>=<ch1>“Go ahead.”<00><7F><0A><ch2>“You can’t.”<00><04>
-<ch1>う～ん、まぁ、いいかな……<00><06><0A><ch2>絶対にいやです<00><07>=<ch1>“Well, I guess it’s okay.”<00><06><0A><ch2>“It's no good.”<00><07>
+<ch1>う～ん、まぁ、いいかな……<00><06><0A><ch2>絶対にいやです<00><07>=<ch1>“Well, I guess it’s okay.”<00><06><0A><ch2>“It’s no good.”<00><07>
 <ch1>う～ん、まぁ、いいかな……<00><06>=<ch1>“Well, I guess that it’s okay.”<00><06>
 <ch1>あわてないで<00><03><0A><ch2>ダメ<00><04>=<ch1>“Don’t be in such a hurry.”<00><03><0A><ch2>“You can’t.”<00><04>
 <ch1>やっぱりダメです<00><09><0A><ch2>ここです<00><0A>=<ch1>“I don’t think I can go through with|this.”<00><09><0A><ch2> “Here.”<00><0A>
 <ch1>別にいいですよ<00><7F><0A><ch2>そんなのいやです<00><01>=<ch1>“I don’t mind.”<00><7F><0A><ch2>“I’d rather you didn’t.”<00><01>
-<ch1>う～ん、じゃあいいです<00><03><0A><ch2>絶対にいやです<00><04>=<ch1>“Well, I guess it’s okay.”<00><03><0A><ch2>“It's no good.”<00><04>
+<ch1>う～ん、じゃあいいです<00><03><0A><ch2>絶対にいやです<00><04>=<ch1>“Well, I guess it’s okay.”<00><03><0A><ch2>“It’s no good.”<00><04>
 <ch1>う～ん、じゃあいいです<00><03>=<ch1>“Well, I guess that it’s okay.”<00><03>
 <ch1>そんなの決められません<00><06><0A><ch2>一条センパイにお任せします<00><07>=<ch1>“I can’t answer that.”<00><06><0A><ch2>“I’ll leave it to you.”<00><07>
 <ch1>はい……<00><09><0A><ch2>やっぱり……いやです<00><0A>=<ch1>“I’m sure…”<00><09><0A><ch2>“I… I can’t go through with it.”<00><0A>
-<ch1>う～ん、まぁ、いいかな<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay.”<00><07><0A><ch2>“It's no good.”<00><08>
+<ch1>う～ん、まぁ、いいかな<00><07><0A><ch2>絶対にいやです<00><08>=<ch1>“Well, I guess it’s okay.”<00><07><0A><ch2>“It’s no good.”<00><08>
 <ch1>う～ん、まぁ、いいかな<00><07>=<ch1>“Well, I guess that it’s okay…”<00><07>
 <ch1>自分で決めます<00><09><0A><ch2>一条センパイにお任せします<00><0A>=<ch1>“Let me pick.”<00><09><0A><ch2>“I’ll leave it to you.”<00><0A>
 <ch1>慌てないでください<00><03><0A><ch2>ダメ<00><04>=<ch1>“Please don’t be so hasty.”<00><03><0A><ch2>“You can’t.”<00><04>
@@ -1104,14 +1104,14 @@ vk_se6_010=
 きみって結構、|マニアックなんだね。=You’re… quite the maniac.
 
 # A0ED8
-そんなに、俺に興味が|あるんだ～。|ふ～ん。=You've taken quite the interest in me, haven't you?
+そんなに、俺に興味が|あるんだ～。|ふ～ん。=You’ve taken quite the interest in me, haven’t you?
 
 # A0BF8
 俺の事知りたい？……いいよ。=You want to know about me? …Alright.
 
 #Kaname Dancing Minigame
 # A0F34
-がっかりしないで。|練習すれば|きっと上手くなれるよ。=Don't be discouraged. With a little practice, I’m sure you’ll be able to improve.
+がっかりしないで。|練習すれば|きっと上手くなれるよ。=Don’t be discouraged. With a little practice, I’m sure you’ll be able to improve.
 
 # A09E8
 気にしなくていいよ。|次はきっと上手く踊れるさ。=Don’t worry about it. I’m sure that you’ll be able to pull it off next time.
@@ -1136,7 +1136,7 @@ vk_se6_010=
 俺が練習不足なのか？|お前じゃないのか？=I’m out of practice? Are you sure that’s not just you?
 
 # A0CF4
-なかなか上手いんだな。|お前にこんな魅力があったなん|て……=You're pretty good at this, aren't you? I never knew you had it in you…
+なかなか上手いんだな。|お前にこんな魅力があったなん|て……=You’re pretty good at this, aren’t you? I never knew you had it in you…
 
 # A0DF4
 やっぱり長年のパートナーだ。|改めて見直したよ。最高だ！=I can tell we’ve been partners for years. You’ve changed my mind about dancing. That was great!
@@ -1146,7 +1146,7 @@ vk_se6_010=
 君ならいつかパーティーの主役|になれるさ！|がんばろう！=One day, you’re going to be the life of the party! Work hard!
 
 # A0CB8
-もっと練習すると、|もっと楽しくなるよ。|がんばろうね。=The more you practice, the more fun you'll have. Keep it up.
+もっと練習すると、|もっと楽しくなるよ。|がんばろうね。=The more you practice, the more fun you’ll have. Keep it up.
 
 # A0D8C
 今も最高だけど、|もっと一緒に踊りたいなぁ。=That was great. I wish we could have danced together a little more.
@@ -2526,7 +2526,7 @@ vk_se6_010=
 ……本気で言ってるのか？|本気で僕にチョコレートを|渡そうって言うのか？=You’re serious? Did you really just say that you wanted to give me chocolate?
 はい……本気です……=Yes… I’m serious.
 （よっぽど意外だったのか|藍堂センパイは目を白黒させて|しばらく私をじっと見つめた）=(It must have come as quite a shock because Aido stared at me wide-eyed for a moment.)
-あの……|やっぱり迷惑……ですよね？|すいませんでしたっ！=Um… I guess… I must just be bothering you after all. Please excuse me--!
+あの……|やっぱり迷惑……ですよね？|すいませんでしたっ！=Um… I guess… I must be bothering you after all. Please excuse me--!
 ちょっと待て！いいさ、|受け取ってやる。ふぅん、|お前が僕にチョコをね…。=Wait! Alright, hand it over.|Hmm, so your chocolate was for me.
 ほ、本当ですか？=Y-You’ll take it?
 僕に本気でチョコを|受け取ってほしいんだろ？=You want me to have that chocolate, right?
@@ -3719,7 +3719,7 @@ vk_se6_010=
 
 # ABAC8 First part is after talking to Shiki, then continues to the common route
 <unk1>（零……すごい顔で|支葵センパイのこと睨んでる。|怖いよ……）=<unk1>(Zero… He’s glaring at Shiki so intensely… It’s frightening.)
-<unk1>（さっきのだって、|本当にただの冗談なのに|こんなに怒るなんて……）@ABAC8=<unk1>(I’m sure Shiki really was just joking earlier, but he’s so angry…
+<unk1>（さっきのだって、|本当にただの冗談なのに|こんなに怒るなんて……）@ABAC8=<unk1>(I’m sure Shiki really was just joking earlier, but he’s so angry…)
 何、イライラしてんの？=What are you so mad for?
 くっ……！@ABAC8=Gh…
 やつあたりなら、|やめてくれない？迷惑。=If you’re just taking it out on me, could you stop? It’s troublesome.
@@ -3970,7 +3970,7 @@ vk_se6_010=
 （わっ、な、何？|支葵センパイ、今わざと|自分の指、咬んだ……！）=(Wh-what? Shiki bit his finger on purpose just now!)
 （指先から血が出てる。|痛くないのかな？）=(Blood is pouring from his finger tip. Doesn’t that hurt?)
 わっ……！う、植木が……！=Woah…! T-The plants…!
-（すごい……！ほんの一瞬で|植木の葉っぱが粉々に|なっちゃった……！）=(Incredible…! In an instant, the leaves of plants were chopped into tiny pieces, like confetti…!)
+（すごい……！ほんの一瞬で|植木の葉っぱが粉々に|なっちゃった……！）=(Incredible…! In an instant, the leaves of the plants were chopped into tiny pieces, like confetti…!)
 風紀委員も|前髪ちょっと伸びてる。|ジャマだったら切ろうか。=Prefect, your fringe has grown a bit long. Should I cut it so it’s not in the way?
 い、いえ、大丈夫です！|自分でやります！=N-No, it’s fine! I’ll do it myself!
 （やっぱりあの、|授業中に女の子の|髪が切れたのってーー）=(So back then it was just as I thought, when that girl’s hair was cut during class…)
@@ -4333,7 +4333,7 @@ vk_se6_010=
 ったく、しょうがないな。|本当、おせっかいだな。|お前は。=Sheesh, you’ve backed me into a corner. You really are nosey.
 
 # A24BC choose 素直じゃないよね
-素直じゃないよね。|こういうイベント|とかでもさーー=You never honest with yourself. Like this event…
+素直じゃないよね。|こういうイベント|とかでもさーー=You’re never honest with yourself. Like this event…
 ぱあーっと楽しんじゃえば|いいのに。ノリノリで。|例えば藍堂センパイみたいに。=You should be having loads of fun, and living it up! Take Ichijo for example.
 本当に楽しいって思えれば、|俺だって多分はしゃぐんじゃ|ないのか？アイツみたいにな。=If it really was that fun, then maybe even I would be prancing around, right? Like that guy.
 でも今は、自分の中で|心動くものがない。|それだけだ。=But right now, my heart is closed off. That’s all there is to it.
@@ -8451,7 +8451,7 @@ vk_se6_010=
 どうしたの、<name>？|お願いだから、泣かないで。=What’s wrong, Yuki?|Please don’t cry.
 だって、枢センパイが|あんまり嬉しいこと|言ってくれるから……=S-Sorry. It’s just that what you said made me so happy, and…
 いけないね、僕は。|<name>を泣かせてしまう|なんて……=That’s not very gentlemanly of me, making you cry…
-そんな……とんでもないっ。|今夜の私はちょっと変ですね。|いつもより涙腺が緩いみたい。=That’s not it at all. I think there must just be something wrong with me tonight. I feel extra sentimental.
+そんな……とんでもないっ。|今夜の私はちょっと変ですね。|いつもより涙腺が緩いみたい。=That’s not it at all. I think there must be something wrong with me tonight. I feel extra sentimental.
 今夜は特別な夜にしよう。|<name>、|僕と踊ってくれるかな？=Let's make tonight a special night. Yuki, will you dance with me?
 えっ……でも……=But, I--
 いいだろう？|僕の手に掴まって。=You’ve no objections, correct?|Take my hand.
@@ -13190,7 +13190,7 @@ vk_se6_010=
 夢……チビの事もあって、|確かにショックだったよ……=My dream… What happened to Chibi was such a shock…
 私の夢って何なんだろう……|って今でも迷ってる。=I… don’t even know what my dream is anymore…
 人間とヴァンパイアの共存。|口当たりの良いことをさんざん|言っておいてーー=Human and vampire coexistence… After I went on about this and that…
-いざ、現実の出来事が起こって|しまうと、ただ、ただ泣くこと|しかできない……=When faced with the reality, all I could do with cry…
+いざ、現実の出来事が起こって|しまうと、ただ、ただ泣くこと|しかできない……=When faced with the reality, all I could do was cry…
 私には、何も出来ない……=What could I even hope to do…?
 それで充分じゃないのか？=Isn’t that enough?
 そうやって、悲しみや苦しみに|ぶち当たりつつもーー=When you’re faced with pain and suffering…
